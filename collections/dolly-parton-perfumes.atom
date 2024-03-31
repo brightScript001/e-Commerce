@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumania.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumania.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumania.com/collections/dolly-parton-perfumes.atom"/>
+  <title>Perfumania</title>
+  <updated>2023-04-20T10:17:28-04:00</updated>
+  <author>
+    <name>Perfumania</name>
+  </author>
+  <entry>
+    <id>https://perfumania.com/products/6815066259589</id>
+    <published>2023-04-20T10:17:28-04:00</published>
+    <updated>2023-04-20T10:17:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/smoky-mountain-eau-de-parfum-set-for-women-by-dolly-parton"/>
+    <title>Smoky Mountain Eau de Parfum Set for Women by Dolly Parton</title>
+    <s:type></s:type>
+    <s:vendor>Dolly Parton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/dollysmoky.jpg?v=1682000391"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dolly Parton<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            76.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Laughter, love, friends and family…</p>
+<p data-mce-fragment="1"><br data-mce-fragment="1"> All the wonderful stories from Dolly’s front porch – straight from the Smoky Mountains to our hearts. Dolly’s joy and positivity inspires us to chase a firefly, dance in the mountain mist and enjoy every sunset. Share your dreams, have some fun - create your stories!</p>
+<p data-mce-fragment="1"><br data-mce-fragment="1"> Smoky Mountain is a woody, floral scent featuring notes of Tiger Orchid, Warm Tonka and Cashmere Woods.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Dolly Parton</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>proprietary</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6815066259589</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">76.95</s:price>
+      <s:sku>1000013138</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6682538934405</id>
+    <published>2022-05-12T12:56:09-04:00</published>
+    <updated>2022-05-12T12:56:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/scent-from-above-eau-de-parfum-spray-for-women-by-dolly-parton"/>
+    <title>Scent From Above Eau de Parfum Set for Women by Dolly Parton</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Dolly Parton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Dolly_Everything.jpg?v=1652459971"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dolly Parton<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            64.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Butterflies, hearts, and hope.​ True inspiration from rags to rhinestones.​ Dolly Parton spreads love and hope around the world.​ ​Now, she introduces her signature fragrance,​ where flower blossoms, rhinestone hearts, and playful butterflies​ transport us to a place where everything is possible.​ ​Open your heart to Dolly’s new fragrance. This two-piece set includes a 3.4 oz Eau de Parfum Spray and a 10 ml Eau de Parfum rollerball.</p>
+<p data-mce-fragment="1" data-ccp-props='{"335551550":2,"335551620":2,"335559683":0,"335559685":0,"335559731":0,"335559737":0,"335562764":2,"335562765":1,"335562766":4,"335562767":0,"335562768":4,"335562769":0}'> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Dolly Parton</s:tag>
+    <s:tag>GENDER_ women</s:tag>
+    <s:tag>proprietary</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6682538934405</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">64.95</s:price>
+      <s:sku>1000012890</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6682549125253</id>
+    <published>2022-05-12T12:54:59-04:00</published>
+    <updated>2022-05-12T12:54:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/scent-from-above-body-cream-for-women-by-dolly-parton"/>
+    <title>Scent From Above Body Cream for Women by Dolly Parton</title>
+    <s:type>Body Cream</s:type>
+    <s:vendor>Dolly Parton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Dolly_Cream_Box.jpg?v=1652374483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dolly Parton<br>
+        <strong>Type: </strong>Body Cream<br>
+        <strong>Price: </strong>
+            28.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Butterflies, hearts and hope.​ True inspiration from rags to rhinestones.​ Dolly Parton spreads love and hope around the world.​ ​Now she introduces her signature fragrance​ where flower blossoms, rhinestone hearts and playful butterflies​ transport us to a place where everything is possible.​ ​Open your heart to Dolly’s new fragrance…</p>
+<p data-ccp-props='{"335551550":2,"335551620":2,"335559683":0,"335559685":0,"335559731":0,"335559737":0,"335562764":2,"335562765":1,"335562766":4,"335562767":0,"335562768":4,"335562769":0}' data-mce-fragment="1"><span data-mce-fragment="1">Top Notes: ​ </span><span data-scheme-color="@7F7F7F,0,18:50000" data-usefontface="true" data-contrast="none" data-mce-fragment="1">MANDARIN, BLACK CURRANT, CRISP </span><span data-scheme-color="@7F7F7F,0,18:50000" data-usefontface="true" data-contrast="none" data-mce-fragment="1">PEAR, FRESH PEONY BLOSSOM</span></p>
+<p data-ccp-props='{"335551550":2,"335551620":2,"335559683":0,"335559685":0,"335559731":0,"335559737":0,"335562764":2,"335562765":1,"335562766":4,"335562767":0,"335562768":4,"335562769":0}' data-mce-fragment="1"><span data-scheme-color="@7F7F7F,0,18:50000" data-usefontface="true" data-contrast="none" data-mce-fragment="1">Mid Notes:</span><span data-mce-fragment="1">​ </span><span data-scheme-color="@7F7F7F,0,18:50000" data-usefontface="true" data-contrast="none" data-mce-fragment="1">JASMINE BOUQUET, LILY OF THE </span><span data-scheme-color="@7F7F7F,0,18:50000" data-usefontface="true" data-contrast="none" data-mce-fragment="1">VALLEY, VANILLA ORCHID</span><span data-mce-fragment="1">​</span></p>
+<p data-ccp-props='{"335551550":2,"335551620":2,"335559683":0,"335559685":0,"335559731":0,"335559737":0,"335562764":2,"335562765":1,"335562766":4,"335562767":0,"335562768":4,"335562769":0}' data-mce-fragment="1"><span data-scheme-color="@7F7F7F,0,18:50000" data-usefontface="true" data-contrast="none" data-mce-fragment="1" mce-data-marked="1">Base Notes:</span><span data-mce-fragment="1">​ </span><span data-scheme-color="@7F7F7F,0,18:50000" data-usefontface="true" data-contrast="none" data-mce-fragment="1">SANDALWOOD FIR ABSOLUTE, </span><span data-scheme-color="@7F7F7F,0,18:50000" data-usefontface="true" data-contrast="none" data-mce-fragment="1">MUSKS, TONKA BEAN, AMBER </span><span data-scheme-color="@7F7F7F,0,18:50000" data-usefontface="true" data-contrast="none" data-mce-fragment="1">WOODS, PATCHOULI</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Dolly Parton</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>TYPE_Body Cream</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6682549125253</id>
+      <title>8.4 oz.</title>
+      <s:price currency="USD">28.95</s:price>
+      <s:sku>1000012891</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

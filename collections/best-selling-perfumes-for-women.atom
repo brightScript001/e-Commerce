@@ -1,0 +1,1068 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumania.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumania.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumania.com/collections/best-selling-perfumes-for-women.atom"/>
+  <title>Perfumania</title>
+  <updated>2024-03-26T08:36:55-04:00</updated>
+  <author>
+    <name>Perfumania</name>
+  </author>
+  <entry>
+    <id>https://perfumania.com/products/6939711504517</id>
+    <published>2024-03-26T08:36:55-04:00</published>
+    <updated>2024-03-26T08:36:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/voce-viva-eau-de-parfum-spray-for-women-by-valentino"/>
+    <title>Voce Viva Eau de Parfum Spray for Women by Valentino</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Valentino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/voceviva.jpg?v=1711456530"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Valentino<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            129.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BRAND_Valentino</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>type Eau de parfum spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6939711504517</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">129.95</s:price>
+      <s:sku>1000012618</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6935383933061</id>
+    <published>2024-03-21T15:32:53-04:00</published>
+    <updated>2024-03-21T15:32:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/her-london-dream-eau-de-parfum-spray-for-women-by-burberry"/>
+    <title>Her London Dream Eau de Parfum Spray for Women by Burberry</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/london.jpg?v=1711477483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            102.95 - 129.95
+            <a href="https://perfumania.com/products/her-london-dream-eau-de-parfum-spray-for-women-by-burberry">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BRAND_Burberry</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6935383933061</id>
+      <title>1.6 oz.</title>
+      <s:price currency="USD">102.95</s:price>
+      <s:sku>1000011586</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/6935383933061</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">129.95</s:price>
+      <s:sku>1000011587</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6935323967621</id>
+    <published>2024-03-21T12:08:24-04:00</published>
+    <updated>2024-03-21T12:08:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/my-way-intense-eau-de-parfum-for-women-by-giorgio-armani"/>
+    <title>My Way Intense Eau de Parfum Spray for Women by Giorgio Armani</title>
+    <s:type>Eau De Parfum Intense Spray</s:type>
+    <s:vendor>Giorgio Armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/mywayintense.jpg?v=1711037164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio Armani<br>
+        <strong>Type: </strong>Eau De Parfum Intense Spray<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Giorgio Armani</s:tag>
+    <s:tag>Gender_women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau De Parfum Intense Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6935323967621</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000013251</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6935287332997</id>
+    <published>2024-03-21T11:21:03-04:00</published>
+    <updated>2024-03-21T11:21:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/ur-the-queen-dynasty-eau-de-parfum-spray-for-women"/>
+    <title>Ur The Queen Dynasty Eau de Parfum Spray for Women</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Ur The Queen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/urthequeendynasty.png?v=1711034349"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ur The Queen<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Exclusive Selection</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6935287332997</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000013093</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6934261956741</id>
+    <published>2024-03-19T09:29:37-04:00</published>
+    <updated>2024-03-19T09:29:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/q-eau-de-parfum-spray-for-women-by-dolce-gabbana"/>
+    <title>Q Eau de Parfum Spray for Women by Dolce &amp; Gabbana</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Dolce and Gabbana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/QD_G.jpg?v=1710854875"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dolce and Gabbana<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            104.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BRAND_Dolce and Gabbana</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6934261956741</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">104.95</s:price>
+      <s:sku>1000013381</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6934255927429</id>
+    <published>2024-03-19T08:58:27-04:00</published>
+    <updated>2024-03-19T08:58:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/love-eau-de-parfum-spray-for-women-by-coach"/>
+    <title>Love Eau de Parfum Spray for Women by Coach</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Coach</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/coachlove.webp?v=1710853004"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coach<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            81.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Coach</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>Product_Bundle_Collection</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6934255927429</id>
+      <title>3.0 oz.</title>
+      <s:price currency="USD">81.95</s:price>
+      <s:sku>1000013541</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5172606140549</id>
+    <published>2024-03-18T16:47:38-04:00</published>
+    <updated>2024-03-18T16:47:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/leau-by-jimmy-choo-for-women-eau-de-toilette-spray"/>
+    <title>L&apos;eau Eau de Toilette Spray for Women by Jimmy Choo</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Jimmy Choo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0093580larger.jpg?v=1600285632"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jimmy Choo<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            84.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Jimmy Choo</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau De Toilette Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5172606140549</id>
+      <title>3  oz.</title>
+      <s:price currency="USD">84.95</s:price>
+      <s:sku>1000012811</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6934167355525</id>
+    <published>2024-03-18T14:57:40-04:00</published>
+    <updated>2024-03-18T14:57:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/donna-eau-de-parfum-spray-for-women-by-valentino"/>
+    <title>Donna Eau de Parfum Spray for Women by Valentino</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Valentino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/donna.webp?v=1710788251"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Valentino<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            129.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BRAND_Valentino</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>type Eau de parfum spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6934167355525</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">129.95</s:price>
+      <s:sku>1000011621</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6934163816581</id>
+    <published>2024-03-18T14:32:30-04:00</published>
+    <updated>2024-03-18T14:32:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/good-fortune-eau-de-parfum-for-women-by-viktor-rolf"/>
+    <title>Good Fortune Eau de Parfum Spray for Women by Viktor &amp; Rolf</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Viktor and Rolf</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/goodfortune.jpg?v=1710786619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Viktor and Rolf<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            118.95 - 149.95
+            <a href="https://perfumania.com/products/good-fortune-eau-de-parfum-for-women-by-viktor-rolf">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BRAND_Viktor and Rolf</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6934163816581</id>
+      <title>1.6  oz.</title>
+      <s:price currency="USD">118.95</s:price>
+      <s:sku>1000013149</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/6934163816581</id>
+      <title>3 oz.</title>
+      <s:price currency="USD">149.95</s:price>
+      <s:sku>1000013171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6934134653061</id>
+    <published>2024-03-18T11:57:10-04:00</published>
+    <updated>2024-03-18T11:57:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/intense-eau-de-parfum-for-women-by-tiffany-co"/>
+    <title>Intense Eau de Parfum for Women by Tiffany &amp; Co</title>
+    <s:type>Eau De Parfum Intense Spray</s:type>
+    <s:vendor>Tiffany &amp; Co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/cointense.jpg?v=1710777341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tiffany &amp; Co<br>
+        <strong>Type: </strong>Eau De Parfum Intense Spray<br>
+        <strong>Price: </strong>
+            136.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BRAND_Tiffany &amp; Co</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau De Parfum Intense Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6934134653061</id>
+      <title>2.5 oz.</title>
+      <s:price currency="USD">136.95</s:price>
+      <s:sku>1000008620</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6934130163845</id>
+    <published>2024-03-18T11:24:01-04:00</published>
+    <updated>2024-03-18T11:24:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/lovely-sheer-eau-de-parfum-for-women-by-sarah-jessica-parker"/>
+    <title>Lovely Sheer Eau de Parfum for Women by Sarah Jessica Parker</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Sarah Jessica Parker</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/lovelysheer.webp?v=1710775271"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sarah Jessica Parker<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>BRAND_Sarah Jessica Parker</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6934130163845</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>1000013696</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6934114173061</id>
+    <published>2024-03-18T10:19:06-04:00</published>
+    <updated>2024-03-18T10:19:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/miami-glow-eau-de-toilette-for-women-by-jennifer-lopez"/>
+    <title>Miami Glow Eau de Toilette for Women by Jennifer Lopez</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Jennifer Lopez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/miamiglow.webp?v=1710770722"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jennifer Lopez<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>BRAND_Jennifer Lopez</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>jlo SearchTag</s:tag>
+    <s:tag>TYPE_Eau De Toilette Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6934114173061</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>145045</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6934108602501</id>
+    <published>2024-03-18T09:03:02-04:00</published>
+    <updated>2024-03-18T09:03:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/good-girl-blush-eau-de-parfum-for-women-by-caroline-herrera-1"/>
+    <title>Good Girl Blush Eau de Parfum for Women by Caroline Herrera</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/blush2.7.jpg?v=1710766892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            106.95 - 131.95
+            <a href="https://perfumania.com/products/good-girl-blush-eau-de-parfum-for-women-by-caroline-herrera-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BRAND_Carolina Herrera</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6934108602501</id>
+      <title>2.7 oz.</title>
+      <s:price currency="USD">131.95</s:price>
+      <s:sku>1000013647</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/6934108602501</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">106.95</s:price>
+      <s:sku>1000013646</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6933082898565</id>
+    <published>2024-03-15T16:43:58-04:00</published>
+    <updated>2024-03-15T16:43:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/good-girl-supreme-eau-de-parfum-for-women-by-carolina-herrera"/>
+    <title>Good Girl Supreme Eau de Parfum for Women by Carolina Herrera</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/supreme1.0.webp?v=1710535283"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            74.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>BRAND_Carolina Herrera</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>type Eau de parfum spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6933082898565</id>
+      <title>1.0 oz.</title>
+      <s:price currency="USD">74.95</s:price>
+      <s:sku>1000012973</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6933069594757</id>
+    <published>2024-03-15T16:02:24-04:00</published>
+    <updated>2024-03-15T16:02:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/bloom-intense-eau-de-parfum-spray-for-women-by-gucci"/>
+    <title>Bloom Intense Eau de Parfum Spray for Women by Gucci</title>
+    <s:type>Eau De Parfum Intense Spray</s:type>
+    <s:vendor>Gucci</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/guccibloomint.jpg?v=1710532822"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gucci<br>
+        <strong>Type: </strong>Eau De Parfum Intense Spray<br>
+        <strong>Price: </strong>
+            169.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRAND_Gucci</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>Over $150</s:tag>
+    <s:tag>TYPE_Eau De Parfum Intense Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6933069594757</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">169.95</s:price>
+      <s:sku>1000013715</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6933060223109</id>
+    <published>2024-03-15T15:09:25-04:00</published>
+    <updated>2024-03-15T15:09:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/mod-vanilla-eau-de-parfum-spray-for-women-by-ariana-grande"/>
+    <title>Mod Vanilla Eau de Parfum Spray for Women by Ariana Grande</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Ariana Grande</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/modvanilla.webp?v=1710529661"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ariana Grande<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            64.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>BRAND_Ariana Grande</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6933060223109</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">64.95</s:price>
+      <s:sku>1000013619</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6933056979077</id>
+    <published>2024-03-15T14:51:38-04:00</published>
+    <updated>2024-03-15T14:51:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/mod-blush-eau-de-parfum-for-women-by-ariana-grande"/>
+    <title>Mod Blush Eau de Parfum for Women by Ariana Grande</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Ariana Grande</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/modblush.webp?v=1710528614"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ariana Grande<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            64.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>BRAND_Ariana Grande</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6933056979077</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">64.95</s:price>
+      <s:sku>1000013623</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6932517978245</id>
+    <published>2024-03-14T15:47:56-04:00</published>
+    <updated>2024-03-14T15:47:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/r-e-m-for-women-by-ariana-grande-eau-de-parfum-spray"/>
+    <title>R.E.M. Eau De Parfum Spray for Women By Ariana Grande</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Ariana Grande</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/REMarigrande.webp?v=1710445919"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ariana Grande<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            53.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>BRAND_Ariana Grande</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6932517978245</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">53.95</s:price>
+      <s:sku>1000011189</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6931766411397</id>
+    <published>2024-03-13T15:25:59-04:00</published>
+    <updated>2024-03-13T15:25:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/wish-eau-de-parfum-spray-for-women-by-dylan-jeffries"/>
+    <title>Wish Eau De Parfum Spray for Women by Dylan Jeffries</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Dylan Jeffries</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/7CGROUP-DJFEMMEWISH-ETUIS_FLACONSET.jpg?v=1710357966"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dylan Jeffries<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>brand_Dylan Jeffries</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6931766411397</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000013567</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6931761135749</id>
+    <published>2024-03-13T15:00:16-04:00</published>
+    <updated>2024-03-13T15:00:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/temptation-eau-de-parfum-spray-for-women-by-dylan-jeffries"/>
+    <title>Temptation Eau De Parfum Spray for Women by Dylan Jeffries</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Dylan Jeffries</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/7CGROUP-DJHOMMETEMPTATION-FLACON_ETUISSET.jpg?v=1710356423"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dylan Jeffries<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>brand_Dylan Jeffries</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6931761135749</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000013569</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6931756449925</id>
+    <published>2024-03-13T14:40:49-04:00</published>
+    <updated>2024-03-13T14:40:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/flame-eau-de-parfum-spray-for-women-by-dylan-jeffries"/>
+    <title>Flame Eau De Parfum Spray for Women by Dylan Jeffries</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Dylan Jeffries</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/7CGROUP-DJHOMMEFLAME-ETUIS_FLACONHD.jpg?v=1710355265"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dylan Jeffries<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>brand_Dylan Jeffries</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6931756449925</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000013568</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6931698417797</id>
+    <published>2024-03-13T11:28:57-04:00</published>
+    <updated>2024-03-13T11:28:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/camille-rochelle-privee-white-haze-eau-de-parfum-spray-for-men"/>
+    <title>Privee White Haze Eau De Parfum Spray for Women by Camille Rochelle</title>
+    <s:type>Eau de Parfum Spray</s:type>
+    <s:vendor>Camille Rochelle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/CR_White_Haze.jpg?v=1710858965"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Camille Rochelle<br>
+        <strong>Type: </strong>Eau de Parfum Spray<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Camille Rochelle</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>proprietary</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6931698417797</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000013242</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6930940067973</id>
+    <published>2024-03-11T16:53:37-04:00</published>
+    <updated>2024-03-11T16:53:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/fame-eau-de-parfum-spray-for-women-by-paco-rabanne"/>
+    <title>Fame Eau De Parfum Spray for Women by Paco Rabanne</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Paco Rabanne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/fame.webp?v=1710190415"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paco Rabanne<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            87.95 - 109.95
+            <a href="https://perfumania.com/products/fame-eau-de-parfum-spray-for-women-by-paco-rabanne">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Paco Rabanne</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6930940067973</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">87.95</s:price>
+      <s:sku>1000013285</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/6930940067973</id>
+      <title>2.7 oz.</title>
+      <s:price currency="USD">109.95</s:price>
+      <s:sku>1000013286</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6930943049861</id>
+    <published>2024-03-11T16:24:45-04:00</published>
+    <updated>2024-03-11T16:24:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/black-orchid-parfum-spray-for-women-by-tom-ford"/>
+    <title>Black Orchid Parfum Spray For Women By Tom Ford</title>
+    <s:type>Parfum Spray</s:type>
+    <s:vendor>Tom Ford</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/blackorchidparfum.webp?v=1710187905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tom Ford<br>
+        <strong>Type: </strong>Parfum Spray<br>
+        <strong>Price: </strong>
+            229.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRAND_Tom Ford</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>Over $150</s:tag>
+    <s:tag>TYPE_Parfum spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6930943049861</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">229.95</s:price>
+      <s:sku>1000011446</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6930935545989</id>
+    <published>2024-03-11T15:11:51-04:00</published>
+    <updated>2024-03-11T15:11:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/fenty-beauty-eau-de-parfum-spray-for-women-by-rihanna"/>
+    <title>Fenty Beauty Eau De Parfum Spray for Women by Rihanna</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Rihanna</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/fenty.webp?v=1710184233"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rihanna<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            115.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Rihanna</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6930935545989</id>
+      <title>2.5 oz.</title>
+      <s:price currency="USD">115.95</s:price>
+      <s:sku>1000013816</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

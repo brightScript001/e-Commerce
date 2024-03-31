@@ -1,0 +1,1204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumania.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumania.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumania.com/collections/gucci-perfumes-and-colognes.atom"/>
+  <title>Perfumania</title>
+  <updated>2024-03-15T16:02:24-04:00</updated>
+  <author>
+    <name>Perfumania</name>
+  </author>
+  <entry>
+    <id>https://perfumania.com/products/6933069594757</id>
+    <published>2024-03-15T16:02:24-04:00</published>
+    <updated>2024-03-15T16:02:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/bloom-intense-eau-de-parfum-spray-for-women-by-gucci"/>
+    <title>Bloom Intense Eau de Parfum Spray for Women by Gucci</title>
+    <s:type>Eau De Parfum Intense Spray</s:type>
+    <s:vendor>Gucci</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/guccibloomint.jpg?v=1710532822"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gucci<br>
+        <strong>Type: </strong>Eau De Parfum Intense Spray<br>
+        <strong>Price: </strong>
+            169.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRAND_Gucci</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>Over $150</s:tag>
+    <s:tag>TYPE_Eau De Parfum Intense Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6933069594757</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">169.95</s:price>
+      <s:sku>1000013715</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6592425230469</id>
+    <published>2021-08-06T11:31:49-04:00</published>
+    <updated>2021-08-06T11:31:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/memoire-dune-odeur-by-gucci-for-unisex-eau-de-parfum-spray"/>
+    <title>Memoire DUne Odeur by Gucci for Unisex - Eau de Parfum Spray</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Gucci</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0095156larger.jpg?v=1628263910"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gucci<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            115.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Gucci. This floral fragrance has a blend of jasmine, sandalwood, musk, cedar, vanilla, almond, and chamomile notes. It is recommended for casual wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>8.6</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Gucci</s:tag>
+    <s:tag>Gender_Unisex</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6592425230469</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">115.95</s:price>
+      <s:sku>1000012366</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6579958481029</id>
+    <published>2021-06-17T08:52:50-04:00</published>
+    <updated>2021-06-17T08:52:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/gucci-guilty-absolute-by-gucci-for-men-3-pc-gift-set"/>
+    <title>Gucci Guilty Absolute by Gucci for Men - 3 Pc Gift Set</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Gucci</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0114189larger.jpg?v=1623934372"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gucci<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            62.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Gucci. This woody fragrance has a blend of vanilla, raspberry, and rose notes. It is recommended by daily use. Gucci Guilty Absolute by Gucci for Men - 3 Pc Gift Set 1.6oz EDP Spray, 1.6 After Shave Balm, 1.6 oz Shower Gel</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>Bogo-ignore</s:tag>
+    <s:tag>BRAND_Gucci</s:tag>
+    <s:tag>gender_men</s:tag>
+    <s:tag>gift-set</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Gift Set</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6579958481029</id>
+      <title>1.6 oz.</title>
+      <s:price currency="USD">62.95</s:price>
+      <s:sku>1000011794</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466945949829</id>
+    <published>2021-04-23T08:44:47-04:00</published>
+    <updated>2021-04-23T08:44:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/gucci-guilty-cologne-for-men-eau-de-toilette"/>
+    <title>Gucci Guilty For Men By Gucci Eau De Toilette Spray</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Gucci</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Gucci-Gucci-Guilty-Men-Eau-de-Toilette-Spray-EDT-Spray-5-Best-Price-Fragrance-Perfume-FragranceOutlet.com-DETAILS.jpg?v=1581002409"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gucci<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            95.95 - 161.95
+            <a href="https://perfumania.com/products/gucci-guilty-cologne-for-men-eau-de-toilette">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Seductive, intense, and exciting, Gucci Guilty cologne for men emerged as the signature scent of the last decade, combining sensuality and masculinity to become a compelling scent. Whether it be for a night out or during the day, Gucci Guilty makes its wearer undeniably sensual.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Gucci</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>Over $150</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466945949829</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">95.95</s:price>
+      <s:sku>202366263</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466945949829</id>
+      <title>3.0 oz.</title>
+      <s:price currency="USD">115.95</s:price>
+      <s:sku>202366267</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466945949829</id>
+      <title>3.0 oz. Tester</title>
+      <s:price currency="USD">106.95</s:price>
+      <s:sku>1000000585</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466945949829</id>
+      <title>5.0 oz.</title>
+      <s:price currency="USD">161.95</s:price>
+      <s:sku>1000001910</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466946572421</id>
+    <published>2021-04-23T08:44:44-04:00</published>
+    <updated>2021-04-23T08:44:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/gucci-guilty-womens-eau-de-toilette-spray"/>
+    <title>Gucci Guilty For Women By Gucci Eau De Toilette Spray</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Gucci</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/guilty.jpg?v=1674505599"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gucci<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            81.95 - 133.95
+            <a href="https://perfumania.com/products/gucci-guilty-womens-eau-de-toilette-spray">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Citrus notes like mandarin give the scent freshness, and combined with sweet and lush fruity notes from peaches and red berries, the scent is evocative of a woman in her prime. The scent wears away like a complex narrative, the initial sweetness giving way to overpowering innocence created by the scent of lilac, tapering down to an earthy, seductive patchouli at the base.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Gucci</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466946572421</id>
+      <title>1.0 oz.</title>
+      <s:price currency="USD">81.95</s:price>
+      <s:sku>101366262</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466946572421</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">101.95</s:price>
+      <s:sku>101366263</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466946572421</id>
+      <title>2.5 oz.</title>
+      <s:price currency="USD">104.95</s:price>
+      <s:sku>101366265</s:sku>
+      <s:grams>399</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466946572421</id>
+      <title>3.0 oz.</title>
+      <s:price currency="USD">133.95</s:price>
+      <s:sku>1000011635</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466946703493</id>
+    <published>2021-04-23T08:44:43-04:00</published>
+    <updated>2021-04-23T08:44:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/gucci-gucci-by-gucci-mens-eau-de-toilette-spray"/>
+    <title>Gucci By Gucci For Men By Gucci Eau De Toilette Spray</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Gucci</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Gucci-Gucci-By-Gucci-Mens-Eau-de-Toilette-Spray-3-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1579723150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gucci<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            70.95 - 89.95
+            <a href="https://perfumania.com/products/gucci-gucci-by-gucci-mens-eau-de-toilette-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A signature masculine scent, the scent is refreshingly modern with amber, bergamot and violet. The scent is also softened and sweetened by a hint of jasmine, lending it an air of sophistication. Elements such as tobacco leaves and elemi add bold tonalities to this scent.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Gucci</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466946703493</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">70.95</s:price>
+      <s:sku>202366163</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466946703493</id>
+      <title>3.0 oz.</title>
+      <s:price currency="USD">89.95</s:price>
+      <s:sku>202366167</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466946670725</id>
+    <published>2021-04-23T08:44:43-04:00</published>
+    <updated>2021-04-23T08:44:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/gucci-flora-womens-eau-de-toilette-spray"/>
+    <title>Flora Eau de Toilette Spray for Women by Gucci</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Gucci</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/618kQ0DKaNS._SX466.jpg?v=1659449879"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gucci<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            81.95 - 101.95
+            <a href="https://perfumania.com/products/gucci-flora-womens-eau-de-toilette-spray">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Flora, as the name suggests, combines strong florals and citrus notes to create a powerful, yet fresh and young scent perfectly suited to the young women of today. The Osmanthus notes in the perfume entice while base sandalwood notes ground the scent. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Gucci</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466946670725</id>
+      <title>1.6 oz.</title>
+      <s:price currency="USD">81.95</s:price>
+      <s:sku>101368063</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466946670725</id>
+      <title>2.5 oz.</title>
+      <s:price currency="USD">101.95</s:price>
+      <s:sku>101368065</s:sku>
+      <s:grams>399</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466946670725</id>
+      <title>2.5 oz. Tester</title>
+      <s:price currency="USD">91.99</s:price>
+      <s:sku>1000001643</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466968526981</id>
+    <published>2021-04-22T12:53:24-04:00</published>
+    <updated>2021-04-22T12:53:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/gucci-bamboo-womens-eau-de-parfum-spray"/>
+    <title>Gucci Bamboo For Women By Gucci Eau De Parfum Spray</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Gucci</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Gucci-Gucci-Bamboo-Womens-Eau-de-Parfume-Spray-2.5-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Detail.jpg?v=1580915053"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gucci<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            108.99 - 119.95
+            <a href="https://perfumania.com/products/gucci-bamboo-womens-eau-de-parfum-spray">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Bamboo fragrance was launched by the Gucci fashion house in 2015. The fragrance is the epitome of luxury and grace, captured in a bottle. The fragrance begins with refined bergamot citrus notes to move into an elegant heart accord of ylang ylang and lily. The base sets in with seductive and earthy woody notes, revealing a different side to the versatile fragrance.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BRAND_Gucci</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466968526981</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">112.95</s:price>
+      <s:sku>1000001367</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466968526981</id>
+      <title>2.5 oz.</title>
+      <s:price currency="USD">119.95</s:price>
+      <s:sku>1000001368</s:sku>
+      <s:grams>399</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466968526981</id>
+      <title>2.5 oz. Tester</title>
+      <s:price currency="USD">108.99</s:price>
+      <s:sku>1000001644</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466998771845</id>
+    <published>2021-04-22T12:51:07-04:00</published>
+    <updated>2021-04-22T12:51:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/flora-eau-de-parfum-spray-for-women-by-gucci"/>
+    <title>Flora Eau de Parfum Spray for Women by Gucci</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Gucci</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/W-9589larger.jpg?v=1650915445"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gucci<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            76.95 - 144.95
+            <a href="https://perfumania.com/products/flora-eau-de-parfum-spray-for-women-by-gucci">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The latest edition of Flora by Gucci eau de parfum was launched in early 2010 by fashion label Gucci. This embodies deep, intense, seductive fragrances of peony and osmanthus. This scent is sure to keep you captivated while enchanting all those around you.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Gucci</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466998771845</id>
+      <title>1.0 oz.</title>
+      <s:price currency="USD">76.95</s:price>
+      <s:sku>1000008742</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466998771845</id>
+      <title>1.6 oz.</title>
+      <s:price currency="USD">128.95</s:price>
+      <s:sku>101368163</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466998771845</id>
+      <title>2.5 oz.</title>
+      <s:price currency="USD">144.95</s:price>
+      <s:sku>1000004804</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467034849413</id>
+    <published>2021-04-22T12:47:09-04:00</published>
+    <updated>2021-04-22T12:47:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/guilty-absolute-eau-de-parfum-spray-for-men-by-gucci"/>
+    <title>Guilty Absolute Eau de Parfum Spray for Men by Gucci</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Gucci</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Gucci-Gucci-Guilty-Absolute-Men-Eau-de-Parfum-Spray-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Main_230.jpg?v=1654541317"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gucci<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            152.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gucci Guilty Absolute, a new member of the Gucci Guilty fragrance line for men, was launched in early 2017. A creative collaboration between Gucci's director Alessandro Michele and famous perfumer Alberto Morillas, it has become widely loved. The fragrance is woody with a whiff of class and sophistication, to specifically target men. leather, patchouli, cypress and vetiver.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRAND_Gucci</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>Over $150</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467034849413</id>
+      <title>3.0 oz.</title>
+      <s:price currency="USD">152.95</s:price>
+      <s:sku>1000002424</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467043991685</id>
+    <published>2021-04-22T12:45:54-04:00</published>
+    <updated>2021-04-22T12:45:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/gucci-bloom-eau-de-parfum-spray-for-women-by-gucci"/>
+    <title>Gucci Bloom For Women By Gucci Eau De Parfum Spray</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Gucci</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Gucci-Gucci_Bloom-Women-Eau_de_Parfum-1.6-Best-Price-Fragrance-Parfume-FragranceOutlet.com-SECOND.jpg?v=1696622093"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gucci<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            96.95 - 162.95
+            <a href="https://perfumania.com/products/gucci-bloom-eau-de-parfum-spray-for-women-by-gucci">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gucci Bloom for Gucci's range of perfumes for women was launched in August 2017. The floral blend was designed by Alberto Morillas and is noted for its uniquely feminine feel. As the name suggests wearing this perfumes makes you feel like you are surrounded by flowers in full bloom. Gucci as a brand has always been known for its careful attention to detail and this ethic has been carried forward to its range of perfumes as well. Scents that work together well have been carefully combined to produce this delightful summery perfume.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Gucci</s:tag>
+    <s:tag>floral-notes</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>Over $150</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467043991685</id>
+      <title>1.0 oz.</title>
+      <s:price currency="USD">96.95</s:price>
+      <s:sku>1000004524</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467043991685</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">128.95</s:price>
+      <s:sku>1000002855</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467043991685</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">162.95</s:price>
+      <s:sku>1000002682</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467072041093</id>
+    <published>2021-04-22T12:43:30-04:00</published>
+    <updated>2021-04-22T12:43:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/gucci-bamboo-by-gucci-for-women-eau-de-toilette-edt-s"/>
+    <title>Gucci Bamboo by Gucci for Women - Eau de Toilette</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Gucci</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/W-8857larger.jpg?v=1579127969"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gucci<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            92.95 - 101.95
+            <a href="https://perfumania.com/products/gucci-bamboo-by-gucci-for-women-eau-de-toilette-edt-s">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Gucci in the year 2016. This floral fragrance has a blend of sandalwood, sahitian vanilla, amber, casablanca lily, orange blossom, and ylang-ylang.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Gucci</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467072041093</id>
+      <title>1.6 oz.</title>
+      <s:price currency="USD">92.95</s:price>
+      <s:sku>1000004702</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467072041093</id>
+      <title>2.5 oz.</title>
+      <s:price currency="USD">101.95</s:price>
+      <s:sku>1000004334</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467083280517</id>
+    <published>2021-04-22T12:42:18-04:00</published>
+    <updated>2021-04-22T12:42:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/gucci-guilty-pour-femme-by-gucci-for-women-eau-de-parfum-spray"/>
+    <title>Gucci Guilty Pour Femme Eau de Parfum spray for Women by Gucci</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Gucci</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0090516larger.jpg?v=1579128243"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gucci<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            128.95 - 162.95
+            <a href="https://perfumania.com/products/gucci-guilty-pour-femme-by-gucci-for-women-eau-de-parfum-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Gucci. This chipper fruity fragrance has a blend of pink pepper, bergamot, patchouli, blackberry, and woody notes. It is recommended for daily use.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BRAND_Gucci</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>Over $150</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467083280517</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">128.95</s:price>
+      <s:sku>1000006775</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467083280517</id>
+      <title>3.0 oz.</title>
+      <s:price currency="USD">162.95</s:price>
+      <s:sku>1000004749</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467131220101</id>
+    <published>2021-04-22T12:38:38-04:00</published>
+    <updated>2021-04-22T12:38:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/gucci-guilty-absolute-by-gucci-for-women-eau-de-parfum-spray"/>
+    <title>Gucci Guilty Absolute Pour Femme for Women by Gucci Eau De Parfum Spray</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Gucci</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/W-9669larger.jpg?v=1580829885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gucci<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            98.95 - 149.95
+            <a href="https://perfumania.com/products/gucci-guilty-absolute-by-gucci-for-women-eau-de-parfum-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Gucci in the year 2017. This oriental woody fragrance has a blend of leather, patchouli, goldenwood, vetiver, and cypress notes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Gucci</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:tag>woody-notes</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467131220101</id>
+      <title>1.6 oz.</title>
+      <s:price currency="USD">98.95</s:price>
+      <s:sku>1000005604</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467131220101</id>
+      <title>3 oz.</title>
+      <s:price currency="USD">149.95</s:price>
+      <s:sku>1000005605</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467131318405</id>
+    <published>2021-04-22T12:38:37-04:00</published>
+    <updated>2021-04-22T12:38:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/gucci-guilty-intense-by-gucci-for-women-eau-de-parfum-spray"/>
+    <title>GUCCI GUILTY INTENSE BY GUCCI FOR WOMEN -  Eau De Parfum SPRAY</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Gucci</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/W-6162larger.jpg?v=1579129133"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gucci<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            95.95 - 102.95
+            <a href="https://perfumania.com/products/gucci-guilty-intense-by-gucci-for-women-eau-de-parfum-spray">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Guilty Intense is a warm yet striking oriental floral, which opens to a natural rush that is mandarin - imbued with a modish transparency, shimmering alongside an audacious fist of pink pepper.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Gucci</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467131318405</id>
+      <title>1 oz.</title>
+      <s:price currency="USD">95.95</s:price>
+      <s:sku>1000012444</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467131318405</id>
+      <title>1.6 oz.</title>
+      <s:price currency="USD">95.95</s:price>
+      <s:sku>1000005607</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467131318405</id>
+      <title>2.5 oz.</title>
+      <s:price currency="USD">102.95</s:price>
+      <s:sku>1000012445</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467131285637</id>
+    <published>2021-04-22T12:38:37-04:00</published>
+    <updated>2021-04-22T12:38:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/gucci-guilty-eau-by-gucci-for-women-eau-de-toilette-spray"/>
+    <title>Gucci Guilty Eau For Women By Gucci Eau De Toilette Spray</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Gucci</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/W-8354larger.jpg?v=1580852959"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gucci<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            98.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Gucci Guilty Eau For Women was released by Gucci in 2015.This fruity floral fragrance features notes of litchi, wild strawberry and musk.<br><br><span style="font-weight: bold;">Notes:</span> watery notes, litchi, lily, wild strawberry, musk.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Gucci</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467131285637</id>
+      <title>2.5 oz.</title>
+      <s:price currency="USD">98.95</s:price>
+      <s:sku>1000005606</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467131547781</id>
+    <published>2021-04-22T12:38:36-04:00</published>
+    <updated>2021-04-22T12:38:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/gucci-premiere-by-gucci-for-women-eau-de-toilette-spray"/>
+    <title>GUCCI PREMIERE BY GUCCI FOR WOMEN -  Eau De Toilette SPRAY</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Gucci</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/W-7669larger.jpg?v=1579129137"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gucci<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            103.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Gucci in the year 2012. This floral woody fragrance has a blend of base of musk, bergamot, blackberry, white flowers, orange blossom, woody notes, patchouli, and sandalwood .</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BRAND_Gucci</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467131547781</id>
+      <title>2.5 oz.</title>
+      <s:price currency="USD">103.95</s:price>
+      <s:sku>1000005611</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467181191301</id>
+    <published>2021-04-22T09:37:46-04:00</published>
+    <updated>2021-04-22T09:37:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/bamboo-by-gucci-for-women-eau-de-parfum-spray"/>
+    <title>Bamboo by Gucci for Women -  Eau de Parfum Spray</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Gucci</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/W-8821larger.jpg?v=1579130278"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gucci<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            83.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Gucci. This floral fragrance has a blend of tahitian, vanilla, bergamot, ylang ylang, amber, lily, orange, and sandalwood notes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Gucci</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467181191301</id>
+      <title>1 oz.</title>
+      <s:price currency="USD">83.95</s:price>
+      <s:sku>1000004976</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5236838236293</id>
+    <published>2021-04-22T09:25:56-04:00</published>
+    <updated>2021-04-22T09:25:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/gucci-guilty-pour-homme-by-gucci-for-men-eau-de-parfum-spray"/>
+    <title>Gucci Guilty Pour Homme by Gucci for Men - Eau De Parfum Spray</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Gucci</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0113132larger.jpg?v=1610729884"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gucci<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            115.95 - 146.95
+            <a href="https://perfumania.com/products/gucci-guilty-pour-homme-by-gucci-for-men-eau-de-parfum-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of gucci.This Woody Aromatic Spicy fragrance has a blend of Rose and Chili Pepper, red pepper, vinegar and salt, Orange Blossom Absolute, Neroli and French Lavender, Patchouli and Cedarwood.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>1.15</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Gucci</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5236838236293</id>
+      <title>3  oz.</title>
+      <s:price currency="USD">146.95</s:price>
+      <s:sku>1000011413</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/5236838236293</id>
+      <title>1.6 oz.</title>
+      <s:price currency="USD">115.95</s:price>
+      <s:sku>1000011613</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467225788549</id>
+    <published>2021-04-13T19:18:46-04:00</published>
+    <updated>2021-04-13T19:18:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/guilty-cologne-eau-de-toilette-spray-for-men-by-gucci"/>
+    <title>Guilty Cologne Eau de Toilette Spray for Men by Gucci</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Gucci</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Gucci-Guilty-Cologne-Men-Eau-de-Toilette-3-Best-Price-Fragrance-Parfume-FragranceOutlet.com.jpg?v=1579131341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gucci<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            54.95 - 96.95
+            <a href="https://perfumania.com/products/guilty-cologne-eau-de-toilette-spray-for-men-by-gucci">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Guilty Cologne Eau de Toilette Spray for Men by Gucci is a seductive and masculine fragrance that exudes confidence and allure.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Gucci</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467225788549</id>
+      <title>1.6 oz.</title>
+      <s:price currency="USD">54.95</s:price>
+      <s:sku>1000009832</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467225788549</id>
+      <title>3.0 oz.</title>
+      <s:price currency="USD">96.95</s:price>
+      <s:sku>1000004803</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466946310277</id>
+    <published>2021-04-06T19:10:02-04:00</published>
+    <updated>2021-04-06T19:10:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/gucci-rush-womens-eau-de-toilette-spray"/>
+    <title>Rush For Women By Gucci Eau De Toilette Spray</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Gucci</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Gucci-Rush-Womens-Eau-de-Toilette-Spray-2.5-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1580148436"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gucci<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            81.95 - 121.95
+            <a href="https://perfumania.com/products/gucci-rush-womens-eau-de-toilette-spray">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gucci rush evokes the heady, unceasing intensity of the 1980s, from its evocative scent to its clever retro packaging a red cassette cover. Combining floral top notes with sweet base notes like vanilla, the scent, as its name suggests, is stimulating to the senses.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Gucci</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466946310277</id>
+      <title>1.0 oz.</title>
+      <s:price currency="USD">81.95</s:price>
+      <s:sku>101334152</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466946310277</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">92.95</s:price>
+      <s:sku>101334153</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466946310277</id>
+      <title>2.5 oz.</title>
+      <s:price currency="USD">121.95</s:price>
+      <s:sku>101334155</s:sku>
+      <s:grams>399</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466946310277</id>
+      <title>2.5 oz. Tester</title>
+      <s:price currency="USD">87.99</s:price>
+      <s:sku>1000001032</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466945917061</id>
+    <published>2021-03-11T19:11:51-05:00</published>
+    <updated>2021-03-11T19:11:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/gucci-guilty-black-womens-eau-de-toilette-spray"/>
+    <title>Gucci Guilty Black For Women By Gucci Eau De Toilette Spray</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Gucci</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Gucci-Guilty-Black-Womens-Eau-de-Toilette-Spray-2.5-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1580935224"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gucci<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            62.95 - 98.95
+            <a href="https://perfumania.com/products/gucci-guilty-black-womens-eau-de-toilette-spray">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Guilty Black lovers bring out the most scandalous sides of each other: alone they are magnificent, together irrepressible. Fearless in their passion, they are brazen, shameless, unpredictable ready for each and every explosive encounter. Their attraction is instinctive: they go where they scent danger and each other. <br><br>Too much is never enough for our young hedonists, who drive each other to stray ever darker. Life is thrilling and meant to be lived to the fullest. Again and again, they give in to pleasure and the excitement of breaking the rules. <br><br>Gucci Guilty Black is a sensual oriental floral, inviting you to indulge in your burning desires.<br><br><span style="font-weight: bold;">Notes:</span> Pink Pepper, Red Fruits, Violet, Patchouli and Amber.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Gucci</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>oriental-notes</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466945917061</id>
+      <title>1.0 oz.</title>
+      <s:price currency="USD">62.95</s:price>
+      <s:sku>1000012446</s:sku>
+      <s:grams>399</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466945917061</id>
+      <title>1.6 oz.</title>
+      <s:price currency="USD">76.95</s:price>
+      <s:sku>1000000560</s:sku>
+      <s:grams>399</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466945917061</id>
+      <title>2.5 oz.</title>
+      <s:price currency="USD">98.95</s:price>
+      <s:sku>1000000494</s:sku>
+      <s:grams>399</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466945917061</id>
+      <title>2.5 oz. Tester</title>
+      <s:price currency="USD">91.99</s:price>
+      <s:sku>1000001031</s:sku>
+      <s:grams>399</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466945785989</id>
+    <published>2020-10-20T08:22:48-04:00</published>
+    <updated>2020-10-20T08:22:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/gucci-guilty-black-cologne-mens-edt"/>
+    <title>Gucci Guilty Black For Men By Gucci Eau De Toilette Spray</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Gucci</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Gucci-Guilty-Black-Mens-Eau-de-Toilette-Spray-3-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1633551445"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gucci<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            82.99 - 115.95
+            <a href="https://perfumania.com/products/gucci-guilty-black-cologne-mens-edt">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bold. Seductive. Exciting. Adventurous. Gucci Guilty cologne for men is a green scent that is both seductive and distinguished, making it a must-have for all men. A companion to Gucci Guilty Black for women, this scent has combines notes of green coriander and patchoilu to create a bracingly refreshing and alluring scent.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Gucci</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466945785989</id>
+      <title>1.6 oz.</title>
+      <s:price currency="USD">95.95</s:price>
+      <s:sku>1000001616</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466945785989</id>
+      <title>3.0 oz.</title>
+      <s:price currency="USD">115.95</s:price>
+      <s:sku>1000000439</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466945785989</id>
+      <title>3.0 oz. Tester</title>
+      <s:price currency="USD">82.99</s:price>
+      <s:sku>1000001316</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

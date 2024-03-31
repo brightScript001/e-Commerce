@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumania.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumania.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumania.com/collections/mercedes-benz-colognes-and-perfumes.atom"/>
+  <title>Perfumania</title>
+  <updated>2023-10-19T09:50:08-04:00</updated>
+  <author>
+    <name>Perfumania</name>
+  </author>
+  <entry>
+    <id>https://perfumania.com/products/6861570179205</id>
+    <published>2023-10-19T09:50:08-04:00</published>
+    <updated>2023-10-19T09:50:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/fanciful-edition-eau-de-parfum-spray-for-women-by-mercedes-benz"/>
+    <title>Fanciful Edition Eau de Parfum Spray for Women by Mercedes-Benz</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Mercedes-Benz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/MB_Fanciful_Edition.jpg?v=1697718005"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mercedes-Benz<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Top notes: Green Mandarin and Lemon; Middle notes: Freesia, Jasmine and Rose; Base notes: Incense, Frangipani, White Musk and Amberwood.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Mercedes-Benz</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6861570179205</id>
+      <title>3.0 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000013304</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6627454943365</id>
+    <published>2021-11-19T14:43:04-05:00</published>
+    <updated>2021-11-19T14:43:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/mercedes-benz-woman-in-red-eau-de-parfum-spray-for-women"/>
+    <title>Mercedes Benz Woman In Red Eau de Parfum Spray for Women</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Mercedes-Benz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/MercedesBenzWomanInRedEaudeParfumSprayforWomen.jpg?v=1637350877"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mercedes-Benz<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Top Notes: Mandarin orange, Pear, Cherry blossom, Pistachio Middle Notes: Jasmine, Gardenia Base: Tonka bean, Benzoin, Patchouli, Sandalwood</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Mercedes-Benz</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>proprietary</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6627454943365</id>
+      <title>3.0 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000012516</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6592989855877</id>
+    <published>2021-08-09T14:26:56-04:00</published>
+    <updated>2021-08-09T14:26:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/pop-edition-eau-de-parfum-spray-for-women-by-mercedes-benz"/>
+    <title>Pop Edition Eau de Parfum Spray for Women by Mercedes-Benz</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Mercedes-Benz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/1000009361.jpg?v=1628533609"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mercedes-Benz<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Top notes are Bergamot, Mandarin Orange, Peach and Kiwi; middle notes are Jasmine, Gardenia and Frangipani; base notes are Sandalwood, Vanilla and Whipped Cream.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Mercedes-Benz</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>proprietary</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6592989855877</id>
+      <title>3.0 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000009361</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6576719069317</id>
+    <published>2021-06-07T15:18:25-04:00</published>
+    <updated>2021-06-07T15:18:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/mercedes-benz-man-bright-eau-de-toilette-spray-for-men-by-mercedes-benz"/>
+    <title>Mercedes-Benz Man Bright Eau de Parfum Spray for Men by Mercedes-Benz</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Mercedes-Benz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Mercedes-BenzManBrightEaudeToiletteSprayforMenbyMercedes-Benz.jpg?v=1623093461"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mercedes-Benz<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Mercedes-Benz Man Bright Eau de Parfum Spray for Men by Mercedes-Benz is a vibrant and invigorating fragrance that exudes confidence and energy.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Mercedes-Benz</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>proprietary</s:tag>
+    <s:tag>TYPE_Eau De Toilette Spary</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6576719069317</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000011468</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467007291525</id>
+    <published>2021-04-22T12:50:08-04:00</published>
+    <updated>2021-04-22T12:50:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/rose-eau-de-toilette-spray-for-women-by-mercedes-benz"/>
+    <title>Rose Eau de Toilette Spray for Women by Mercedes-Benz</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Mercedes-Benz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Mercedes-Mercedes-Benz-Rose-Women-Eau-de-Toilette-Spray-EDT-Spray-2-Best-Price-Fragrance-Parfume-FragranceOutlet.com-DETAILS.jpg?v=1631823239"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mercedes-Benz<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            31.95 - 37.10
+            <a href="https://perfumania.com/products/rose-eau-de-toilette-spray-for-women-by-mercedes-benz">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched in 2015, Rose from Mercedes Benz is a popular feminine fragrance that boasts of primarily floral and citrus scents. The top notes for the feminine fragrance consist mainly of lemon and black currant. At the heart is a floral mix of creamy rosewood and elemi shades, which are further complimented by woody notes at the bottom such as white musk, amber, cedar, and rosewood. The flacon is made with pink glass and retains much of the original packaging.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>BRAND_Mercedes-Benz</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467007291525</id>
+      <title>1 oz.</title>
+      <s:price currency="USD">31.95</s:price>
+      <s:sku>1000012454</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467007291525</id>
+      <title>2.0 oz.</title>
+      <s:price currency="USD">37.10</s:price>
+      <s:sku>1000002000</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467007127685</id>
+    <published>2021-04-22T12:50:08-04:00</published>
+    <updated>2021-04-22T12:50:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/le-parfum-eau-de-parfum-spray-for-women-by-mercedes-benz"/>
+    <title>Le Parfum Eau de Parfum Spray for Men by Mercedes-Benz</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Mercedes-Benz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Mercedes-Benz-Le-Parfum-Mens-Eau-de-Parfum-Spray-EDP-Spray-4-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Main_42134.jpg?v=1579126114"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mercedes-Benz<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched in 2015, the Le Parfum fragrance for men by Automaker Mercedes Benz celebrates the very essence German automotive perfection. Bottled in an exquisite flacon with iridescent colors, the fragrance boasts of a woody and chypre-like scent. This overall woody fragrance consists of notes borrowed from cascalone, bergamot, elegant violet leaves, saffron, vetiver, amber, patchouli, pink pepper. Le Parfum is aimed at men who have a preference for quality. It's a perfect choice as office wear or for a weekend night at the club.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BRAND_Mercedes-Benz</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467007127685</id>
+      <title>4.0 oz.</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>1000001823</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467029934213</id>
+    <published>2021-04-22T12:47:34-04:00</published>
+    <updated>2021-04-22T12:47:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/man-eau-de-toilette-spray-for-men-by-mercedes-benz"/>
+    <title>Man Eau de Toilette Spray for Men by Mercedes-Benz</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Mercedes-Benz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Mercedes-Benz-Mercedes-Benz-Man-Men-Eau-de-Toilette-Spray-1.7-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Main.jpg?v=1579126780"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mercedes-Benz<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            65.00 - 69.95
+            <a href="https://perfumania.com/products/man-eau-de-toilette-spray-for-men-by-mercedes-benz">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Just like its automobiles, Mercedes has managed to create the perfect fragrance. This stunning EDT is fresh and comforting. Olivier Cresp, the nose behind the fragrance, has ensures that it reflects the brand perfectly. An ideal cologne for petrolheads and Mercedes Benz fans. The fragrance is best used during the day.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Mercedes-Benz</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467029934213</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>1000002263</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467029934213</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>1000001824</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467031048325</id>
+    <published>2021-04-22T12:47:29-04:00</published>
+    <updated>2021-04-22T12:47:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/mercedes-benz-man-gift-set-for-men-by-mercedes-benz"/>
+    <title>Mercedes-Benz Man Gift Set for Men by Mercedes-Benz</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Mercedes-Benz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Mercedes-Benz-Mercedes-Benz-Man-Men-Gift-Set-2.6-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Main.jpg?v=1579126813"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mercedes-Benz<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            79.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mercedes Benz Man is an attractive fragrance created by perfumer Olivier Cresp. It's a fragrance devised for the man of style and sensibility. The Mercedes Man is decisive and strong willed. He is not fazed by life's little problems. This is a man who keeps going against all odds. The top notes for the fragrance are composed of Pear and Musk Mallow, while the center is woody-floral blend containing Cedar and Geranium. At the base, the fragrance takes on an earthy character with Palisander Rosewood and Oakmoss.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Mercedes-Benz</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>TYPE_Gift Set</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467031048325</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">79.95</s:price>
+      <s:sku>1000002275</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467007160453</id>
+    <published>2021-03-31T16:02:36-04:00</published>
+    <updated>2021-03-31T16:02:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/intense-eau-de-toilette-spray-for-men-by-mercedes-benz"/>
+    <title>Intense Eau de Toilette Spray for Men by Mercedes-Benz</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Mercedes-Benz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Mercedes-Benz-Intense-Mens-Eau-de-Toilette-Spray-EDT-Spray-4-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Main.jpg?v=1579126120"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mercedes-Benz<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            40.82 - 44.52
+            <a href="https://perfumania.com/products/intense-eau-de-toilette-spray-for-men-by-mercedes-benz">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched in 2013, Intense for Men by Mercedes Benz is masculine fragrance that enjoys a strong and dark scent. It contains fresh amber that is enriched further with the sensual scents of dried wood. The fragrance opens with dominant citrus and floral notes that have been sourced from Lemon, Violet Leaves, Italian Mandarin, and Calabrian Bergmaot. At the heart, spicy notes come forth with scents of Bourbon Pepper, Cascalone Molecules, Nutmeg, Violet, and Galbanum. The end is a warm mix of Cetalox, Indonesian Patchouli, Limbanol, Vetiver, American Cedar, and Ambrox.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>BRAND_Mercedes-Benz</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467007160453</id>
+      <title>2.0 oz.</title>
+      <s:price currency="USD">40.82</s:price>
+      <s:sku>1000002001</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467007160453</id>
+      <title>4.0 oz.</title>
+      <s:price currency="USD">44.52</s:price>
+      <s:sku>1000001822</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5215336956037</id>
+    <published>2021-01-04T12:47:40-05:00</published>
+    <updated>2021-01-04T12:47:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/the-move-express-yourself-eau-de-toilette-spray-for-men-by-mercedes-benz"/>
+    <title>The Move Express Yourself Eau de Toilette Spray for Men by Mercedes-Benz</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Mercedes-Benz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/expressyourself.png?v=1606925522"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mercedes-Benz<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+Unleash your self-expression with The Move Express Yourself Eau de Toilette Spray for Men by Mercedes-Benz. This invigorating fragrance captures the essence of masculinity, empowering you to make your own statement with its captivating and confident blend of notes.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Mercedes-Benz</s:tag>
+    <s:tag>fresh-notes</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>proprietary</s:tag>
+    <s:tag>TYPE_Eau De Toilette Spary</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5215336956037</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000009215</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467150094469</id>
+    <published>2020-02-27T19:15:47-05:00</published>
+    <updated>2020-02-27T19:15:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/mercedes-benz-select-by-mercedes-benz-for-men-eau-de-toilette-spray"/>
+    <title>MERCEDES-BENZ SELECT BY MERCEDES-BENZ FOR MEN -  Eau De Toilette SPRAY</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Mercedes-Benz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0089773larger.jpg?v=1579129560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mercedes-Benz<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            42.67
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Mercedes-Benz in the year of 2018. This woody chypre fragrance has a blend of bergamot, black currant, mint, apple, ambroxan, musk and patchouli.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>BRAND_Mercedes-Benz</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467150094469</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">42.67</s:price>
+      <s:sku>1000006022</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466962530437</id>
+    <published>2019-04-03T15:59:36-04:00</published>
+    <updated>2019-04-03T15:59:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/mercedes-benz-mercedes-benz-mens-eau-de-toilette-spray"/>
+    <title>Mercedes Benz Eau de Toilette Spray for Men by Mercedes-Benz</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Mercedes-Benz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Mercedes-Benz-Mercedes-Benz-Mens-Eau-de-Toilette-Spray-4.0-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Main.jpg?v=1579124597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mercedes-Benz<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            38.95 - 42.67
+            <a href="https://perfumania.com/products/mercedes-benz-mercedes-benz-mens-eau-de-toilette-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the Mercedes Benz design house in 2012, the Mercedes Benz fragrance is a Olivier Cresp creation. The perfume is a heady blend of exhilarating citrus aromas, spicy blends and deep woody notes. Each spritz of the fragrance proudly wears manly notes that last hours after. Just what you need to power-start your workday or work your charm on a date.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>BRAND_Mercedes-Benz</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466962530437</id>
+      <title>2.5 oz.</title>
+      <s:price currency="USD">38.95</s:price>
+      <s:sku>1000000230</s:sku>
+      <s:grams>399</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466962530437</id>
+      <title>4.0 oz.</title>
+      <s:price currency="USD">42.67</s:price>
+      <s:sku>1000001051</s:sku>
+      <s:grams>726</s:grams>
+    </s:variant>
+  </entry>
+</feed>

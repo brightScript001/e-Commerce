@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumania.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumania.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumania.com/collections/niche-fragrance.atom"/>
+  <title>Perfumania</title>
+  <updated>2020-07-10T14:19:10-04:00</updated>
+  <author>
+    <name>Perfumania</name>
+  </author>
+  <entry>
+    <id>https://perfumania.com/products/5118890541189</id>
+    <published>2020-07-10T14:19:10-04:00</published>
+    <updated>2020-07-10T14:19:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/ab-spirit-millionaire-signature-eau-de-parfum-spray-for-women"/>
+    <title>Ab Spirit Millionaire Signature Eau de Parfum Spray for Women</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Niche Fragrance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/AB-SPIRIT-MILLIONAIRE-SIGNATURE-W-EDP-S-3.3-details.jpg?v=1594310809"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Niche Fragrance<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><b>Top Notes:</b> Bergamot, Mandarin, White Peach | <b>Middle Notes: </b>Rose, Sambac Jasmine, Ylang Ylang | <b>Base Notes: </b>Sandalwood, Musk, Patchouli, Vanilla</span></p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>7.7</s:tag>
+    <s:tag>75-100</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Exclusive Selection</s:tag>
+    <s:tag>brand_exclusive_collection</s:tag>
+    <s:tag>eau-de-parfum-edp-s</s:tag>
+    <s:tag>gender_women</s:tag>
+    <s:tag>niche-fragrance</s:tag>
+    <s:tag>proprietary</s:tag>
+    <s:tag>the-exclusive-collection</s:tag>
+    <s:tag>TYPE_Eau de Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5118890541189</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000008598</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5118890475653</id>
+    <published>2020-07-10T14:19:10-04:00</published>
+    <updated>2020-07-10T14:19:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/ab-spirit-millionaire-signature-eau-de-toilette-spray-for-men"/>
+    <title>Ab Spirit Millionaire Signature Eau de Toilette Spray for Men</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Niche Fragrance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/AB-SPIRIT-MILLIONAIRE-SIGNATURE-M-EDT-S-3.3-details.jpg?v=1594310806"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Niche Fragrance<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span><b>Top Notes: </b>Bergamot, Black Pepper, Blackcurrant, Cypress | <b>Middle Notes:</b> Lily of the Valley, Patchouli, Apple, Cedarwood | <b>Base Notes:</b> Amber, Musk, Leather, Moss</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>7.7</s:tag>
+    <s:tag>75-100</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Exclusive Selection</s:tag>
+    <s:tag>brand_exclusive_collection</s:tag>
+    <s:tag>eau-de-toilette-edt-s</s:tag>
+    <s:tag>gender_men</s:tag>
+    <s:tag>niche-fragrance</s:tag>
+    <s:tag>Premiere</s:tag>
+    <s:tag>proprietary</s:tag>
+    <s:tag>the-exclusive-collection</s:tag>
+    <s:tag>TYPE_Eau de Toilette Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5118890475653</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000008599</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumania.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumania.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumania.com/collections/burberry-perfumes-and-colognes.atom"/>
+  <title>Perfumania</title>
+  <updated>2024-03-21T15:32:53-04:00</updated>
+  <author>
+    <name>Perfumania</name>
+  </author>
+  <entry>
+    <id>https://perfumania.com/products/6935383933061</id>
+    <published>2024-03-21T15:32:53-04:00</published>
+    <updated>2024-03-21T15:32:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/her-london-dream-eau-de-parfum-spray-for-women-by-burberry"/>
+    <title>Her London Dream Eau de Parfum Spray for Women by Burberry</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/london.jpg?v=1711477483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            102.95 - 129.95
+            <a href="https://perfumania.com/products/her-london-dream-eau-de-parfum-spray-for-women-by-burberry">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BRAND_Burberry</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6935383933061</id>
+      <title>1.6 oz.</title>
+      <s:price currency="USD">102.95</s:price>
+      <s:sku>1000011586</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/6935383933061</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">129.95</s:price>
+      <s:sku>1000011587</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6927995666565</id>
+    <published>2024-03-06T17:03:52-05:00</published>
+    <updated>2024-03-06T17:03:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/burberry-her-eau-de-toilette-spray-for-women-by-burberry"/>
+    <title>Her Eau de Toilette Spray for Women by Burberry</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/burberryheredt2.webp?v=1709762572"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            87.95 - 109.95
+            <a href="https://perfumania.com/products/burberry-her-eau-de-toilette-spray-for-women-by-burberry">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Burberry</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau De Toilette Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6927995666565</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">87.95</s:price>
+      <s:sku>1000013751</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/6927995666565</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">109.95</s:price>
+      <s:sku>1000013520</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6840005820549</id>
+    <published>2023-08-15T11:38:30-04:00</published>
+    <updated>2023-08-15T11:38:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/burberry-her-blossom-perfume-for-women-eau-de-toilette-spray"/>
+    <title>Her Blossom Eau de Toilette Spray for Women by Burberry</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/burberry-her-blossom-eau-de-toilette-30ml.jpg?v=1692113716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            84.95 - 109.95
+            <a href="https://perfumania.com/products/burberry-her-blossom-perfume-for-women-eau-de-toilette-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Released in 2019 as a sequel to the original Burberry Her Eau de Parfum, Burberry Her Blossom is a fruity floral fragrance designed for women. This scent is described as a "<em>fresh and playful"</em> representation of a spring day in London. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Burberry</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau De Toilette Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6840005820549</id>
+      <title>1.6 oz.</title>
+      <s:price currency="USD">84.95</s:price>
+      <s:sku>1000008346</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/6840005820549</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">109.95</s:price>
+      <s:sku>1000008347</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6579957858437</id>
+    <published>2021-06-17T08:52:19-04:00</published>
+    <updated>2021-06-17T08:52:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/burberry-brit-rhythm-by-burberry-for-men-2-pc-gift-set"/>
+    <title>Burberry Brit Rhythm by Burberry for Men - 2 Pc Gift Set</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0097596larger.jpg?v=1623934341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            42.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Burberry in the year 2013. This leather fragrance has a blend of basil, verbena, cardamom, juniper berries, styrax, cedar and tonka bean. Burberry Brit Rhythm by Burberry for Men - 2 Pc Gift Set 3oz EDT Spray, 1oz EDT Spray</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>Bogo-ignore</s:tag>
+    <s:tag>BRAND_Burberry</s:tag>
+    <s:tag>gender_men</s:tag>
+    <s:tag>gift-set</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Gift Set</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6579957858437</id>
+      <title>3 oz.</title>
+      <s:price currency="USD">42.95</s:price>
+      <s:sku>1000011778</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466933432453</id>
+    <published>2021-04-23T08:45:08-04:00</published>
+    <updated>2021-04-23T08:45:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/burberry-the-beat-mens-eau-de-toilette-spray"/>
+    <title>The Beat Eau de Toilette Spray for Men by Burberry</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Burberry-The-Beat-Mens-Eau-de-Toilette-Spray-3.4-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1598988111"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            29.99 - 38.99
+            <a href="https://perfumania.com/products/burberry-the-beat-mens-eau-de-toilette-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched in 2008 by the design house of Burberry, Beat for Men is often touted as the best perfume for businessmen, thanks to its crisp, minimalist and powerful tones. Created by perfumers Olivier Polge and Domitille Bertier, who are known for their effervescent scents, The Beat starts off with a fresh, peppery scent that dries down to sensuous leathery notes towards the end. The scent is modern and masculine, without being too loud, making it perfect for daily office-wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>BRAND_Burberry</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466933432453</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>212071163</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466933432453</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">38.99</s:price>
+      <s:sku>212071167</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466978357381</id>
+    <published>2021-04-22T12:53:03-04:00</published>
+    <updated>2021-04-22T12:53:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/burberry-the-beat-women-eau-de-parfum-spray"/>
+    <title>The Beat For Women By Burberry Eau De Parfum Spray</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Burberry-The-Beat-Women-Eau-de-Parfume-Spray-1.7-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1579723731"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            9.99 - 48.95
+            <a href="https://perfumania.com/products/burberry-the-beat-women-eau-de-parfum-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched in 2008 by the design house of Burberry, The Beat for Women is inspired by the music of the English rock band Kasabian. Creators Olivier Polge, Dominique Ropion and Beatrice Piquet have designed it around four Kasabian albums in particular Razorlight, Dirty Pretty Things, The Fratellis and the Arctic Monkeys, which explains why the perfume creates a modern and cheerful mood. More versatile and popular than its male counterpart, The Beat for Women is vivacious without being too loud and bubbly. Perfect for every young lady who is soft, cheerful and modern.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>BRAND_Burberry</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:tag>UNDER $25</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466978357381</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>111071063</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466978357381</id>
+      <title>2.5 oz.</title>
+      <s:price currency="USD">48.95</s:price>
+      <s:sku>111071065</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467020464261</id>
+    <published>2021-04-22T12:48:48-04:00</published>
+    <updated>2021-04-22T12:48:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/my-burberry-black-eau-de-parfum-spray-for-women-by-burberry"/>
+    <title>My Burberry Black Eau de Parfum Spray for Women by Burberry</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Burberry-My-Burberry-Black-Women-Eau-de-Parfum-Spray-EDP-Spray-3-Best-Price-Fragrance-parfum-FragranceOutlet.com-DETAILS.jpg?v=1711636927"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            96.95 - 120.95
+            <a href="https://perfumania.com/products/my-burberry-black-eau-de-parfum-spray-for-women-by-burberry">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>My Burberry Black is reminiscent of an independent, contemporary woman. The perfume offers a subtle mixture of sweet and spicy notes and is sure to catch anyone's attention. It's loud notes are attractive and this scent it perfect for any occasion. It has surprisingly low amount of notes listed, especially considering the impact it makes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Burberry</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467020464261</id>
+      <title>1.6 oz.</title>
+      <s:price currency="USD">96.95</s:price>
+      <s:sku>1000008523</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467020464261</id>
+      <title>3.0 oz.</title>
+      <s:price currency="USD">120.95</s:price>
+      <s:sku>1000002102</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467062702213</id>
+    <published>2021-04-22T12:44:10-04:00</published>
+    <updated>2021-04-22T12:44:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/burberry-her-perfume-for-women-eau-de-parfum"/>
+    <title>Her Eau de Parfum Spray for Women by Burberry</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/Burberry_Her.jpg?v=1695675300"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            102.95 - 129.95
+            <a href="https://perfumania.com/products/burberry-her-perfume-for-women-eau-de-parfum">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Burberry Burberry Her Perfume has been designed to capture the feeling as well as spirit of the excellent city of London. No matter where you are in the world, a dash of Burberry Burberry Her will make your heart feel like you're in London again. Francis Kurkdjian has made a remark about Burberry Burberry Her saying that you can immediately recognize when a person is wearing the scent.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BRAND_Burberry</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467062702213</id>
+      <title>1.6 oz.</title>
+      <s:price currency="USD">102.95</s:price>
+      <s:sku>1000004562</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467062702213</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">129.95</s:price>
+      <s:sku>1000004388</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467096060037</id>
+    <published>2021-04-22T12:41:04-04:00</published>
+    <updated>2021-04-22T12:41:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/body-tender-by-burberry-for-women-eau-de-toilette-spray"/>
+    <title>Burberry Body Tender For Women By Burberry Eau De Toilette Spray</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/W-9580larger.jpg?v=1580850648"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Burberry in the year 2013. This chypre fruity fragrance has a blend of wormwood, rose, apple, lemon, tea, musk, peach, cashmere wood, jasmine, sandalwood, amber, and vanilla.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRAND_Burberry</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:tag>UNDER $25</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467096060037</id>
+      <title>1.1 oz.</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>1000005053</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467063226501</id>
+    <published>2021-03-20T07:46:57-04:00</published>
+    <updated>2021-03-20T07:46:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/mr-burberry-indigo-eau-de-toilette-spray-for-men-by-burberry"/>
+    <title>Mr Burberry Indigo Eau de Toilette Spray for Men by Burberry</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Burberry-Mr-Burberry-Indigo-Men-Eau-de-Toilette-5-Best-Price-Fragrance-Parfume-FragranceOutlet.com-DETAILS.jpg?v=1579127765"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            69.95 - 117.99
+            <a href="https://perfumania.com/products/mr-burberry-indigo-eau-de-toilette-spray-for-men-by-burberry">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched in 2018, Mr. Burberry Indigo was inspired by the fresh sea breeze you can only find on the English coast. The illustrious Francis Kurkjian was the creator of this renowned piece. It's perfect for those summer days when you can't seem to decide what to wear.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>BRAND_Burberry</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau De Toilette Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467063226501</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>1000004377</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467063226501</id>
+      <title>5.0 oz.</title>
+      <s:price currency="USD">117.99</s:price>
+      <s:sku>1000004378</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467154124933</id>
+    <published>2021-03-16T19:00:50-04:00</published>
+    <updated>2021-03-16T19:00:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/my-burberry-by-burberry-for-women-eau-de-toilette-spray"/>
+    <title>My Burberry For Women By Burberry Eau De Toilette Spray</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/W-8655larger.jpg?v=1580910564"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            67.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">My Burberry for women was launched by Burberry in 2014. Inspired by a London garden after the rain, this floral scent features notes of freesia, bergamot and Centifolia Rose!<br><br><span style="font-weight: bold;">Notes: </span>sweet peas, bergamot, geranium, freesia flowers, golden quince, patchouli, Damascus and Centifolia rose.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>BRAND_Burberry</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467154124933</id>
+      <title>1.6 oz.</title>
+      <s:price currency="USD">67.95</s:price>
+      <s:sku>1000006094</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466978226309</id>
+    <published>2021-03-16T19:00:09-04:00</published>
+    <updated>2021-03-16T19:00:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/burberry-touch-women-eau-de-parfum-spray"/>
+    <title>Burberry Touch For Women By Burberry Eau De Parfum Spray</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Burberry-Touch-Women-Eau-de-Parfume-Spray-3.4-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1580148150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            29.99 - 76.95
+            <a href="https://perfumania.com/products/burberry-touch-women-eau-de-parfum-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched in 2010 by design house of Burberry, Touch for Women is a truly unique feminine scent that will make you stand out from crowd effortlessly. sparkling perfume is a delicious blend of fruits and flowers, without being too ‰ÛÒgirly‰۝. It packs a hint of freshness, which adds substance to overall aroma. Touch opens with a sharp, green scent that dries down to a light, ever-so-slightly sweet smell, which settles on your skin delicately and becomes one with it. Perfect for regular use by fun, sporting, take-charge women.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Burberry</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>oriental-notes</s:tag>
+    <s:tag>Product_Bundle_Collection</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466978226309</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>111072053</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466978226309</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">76.95</s:price>
+      <s:sku>111072057</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466978750597</id>
+    <published>2021-03-04T19:31:48-05:00</published>
+    <updated>2021-03-04T19:31:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/burberry-body-women-eau-de-parfum-spray"/>
+    <title>Burberry Body For Women By Burberry Eau De Parfum Spray</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Burberry-Body-Women-Eau-de-Parfume-Spray-2.8-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1580939756"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            49.95 - 79.95
+            <a href="https://perfumania.com/products/burberry-body-women-eau-de-parfum-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Body is a relatively new Eau de Parfume for women created and released by Burberry in 2011. It has a luxurious fragrance with woody and fruity undertones and a hint of vanilla to make you smell absolutely delicious. It is a very sensual and subtle fragrance that lingers effortlessly in memory and embodies beauty of a woman̻s curvy body.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Burberry</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466978750597</id>
+      <title>2.0 oz.</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>111072253</s:sku>
+      <s:grams>399</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466978750597</id>
+      <title>2.8 oz.</title>
+      <s:price currency="USD">79.95</s:price>
+      <s:sku>111072256</s:sku>
+      <s:grams>399</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466932416645</id>
+    <published>2021-02-22T23:02:33-05:00</published>
+    <updated>2021-02-22T23:02:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/burberry-brit-women-eau-de-toilette-spray"/>
+    <title>Brit Eau de Toilette Spray for Women by Burberry</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/BurberryBritEDTforher.jpg?v=1593632769"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            59.95 - 76.95
+            <a href="https://perfumania.com/products/burberry-brit-women-eau-de-toilette-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the house of Burberry in 2003, Brit has acquired the status of a timeless classic in the ensuing decade. And not without good reason. A charming representation of dynamism and sexiness, Brit by Burberry exudes the softness of femininity, blended soulfully with the fun and friskiness of the bold, self-assured modern woman. Ideal for everyday wear, it opens with crisp, tangy scents that dry down to soft floral fragrances.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Burberry</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau De Toilette Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466932416645</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>111070153</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466932416645</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">76.95</s:price>
+      <s:sku>111070157</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467154092165</id>
+    <published>2021-02-19T11:11:49-05:00</published>
+    <updated>2021-02-19T11:11:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/my-burberry-by-burberry-for-women-eau-de-parfum-spray"/>
+    <title>MY BURBERRY BY BURBERRY FOR WOMEN -  Eau De Parfum SPRAY</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/W-7790larger.jpg?v=1579129630"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            37.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Burberry in the year 2014. This floral fragrance has a blend of sweet pea, bergamot, mandarin orange, geranium, golden quince, freesia, patchouli, damask, and centifolia roses notes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>BRAND_Burberry</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467154092165</id>
+      <title>1 oz.</title>
+      <s:price currency="USD">37.10</s:price>
+      <s:sku>1000006093</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467013779589</id>
+    <published>2021-02-03T19:17:46-05:00</published>
+    <updated>2021-02-03T19:17:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/mr-burberry-eau-de-toilette-spray-for-men-by-burberry"/>
+    <title>Mr. Burberry Eau de Toilette Spray for Men by Burberry</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Burberry-Mr-Burberry-Men-Eau-de-Toilette-Spray-EDT-Spray-3.3-Best-Price-Fragrance-Parfume-FragranceOutlet.com-DETAILS.jpg?v=1580912231"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            47.45 - 90.95
+            <a href="https://perfumania.com/products/mr-burberry-eau-de-toilette-spray-for-men-by-burberry">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The nose behind the fragrance is Francis Kurkdjian. Mr. Burberry 2016 is a completely remodeled, contemporary fragrance for men. The composition of the scent is woody-herbal and the ingredients get their inspiration from the British perfumery tradition. Josh Whitehouse is the face of the new campaign.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Burberry</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau De Toilette Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467013779589</id>
+      <title>1.6 oz.</title>
+      <s:price currency="USD">47.45</s:price>
+      <s:sku>1000002016</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467013779589</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">85.95</s:price>
+      <s:sku>1000001876</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467013779589</id>
+      <title>5.0 oz.</title>
+      <s:price currency="USD">90.95</s:price>
+      <s:sku>1000002080</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467153731717</id>
+    <published>2021-01-26T19:20:04-05:00</published>
+    <updated>2021-01-26T19:20:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/mr-burberry-by-burberry-for-men-eau-de-parfum-spray"/>
+    <title>MR. BURBERRY BY BURBERRY FOR MEN -  Eau De Parfum SPRAY</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/20344726_fpx.webp?v=1689687180"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            62.95 - 102.95
+            <a href="https://perfumania.com/products/mr-burberry-by-burberry-for-men-eau-de-parfum-spray">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by design house of Burberry in year 2016. This woody aromatic fragrance has a blend of grapefruit, cardamom, tarragon, birch leaf, nutmeg oil, cedar, sandalwood, vetiver, and guaiac wood notes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Burberry</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467153731717</id>
+      <title>1.6 oz.</title>
+      <s:price currency="USD">62.95</s:price>
+      <s:sku>1000006083</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467153731717</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">85.95</s:price>
+      <s:sku>1000006084</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467153731717</id>
+      <title>5.0 oz.</title>
+      <s:price currency="USD">102.95</s:price>
+      <s:sku>1000006793</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466978685061</id>
+    <published>2021-01-08T19:12:15-05:00</published>
+    <updated>2021-01-08T19:12:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/burberry-brit-women-eau-de-parfum-spray"/>
+    <title>Brit Eau de Parfum Spray for Women by Burberry</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Burberry-Brit-Women-Eau-de-Parfum-1.6-Best-Price-Fragrance-Parfume-FragranceOutlet.com-DETAILS.jpg?v=1591879601"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            65.95 - 81.95
+            <a href="https://perfumania.com/products/burberry-brit-women-eau-de-parfum-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Brit Eau de Parfume is a delicate fragrance created by Burberry for women. It is a fresh and fruity fragrance with undertones of dark wood and a touch of delicious vanilla. It is traditional yet modern, with a hint of English dignity recognizable in the subtle yet intensely sharp notes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Burberry</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466978685061</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">65.95</s:price>
+      <s:sku>111070053</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466978685061</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">81.95</s:price>
+      <s:sku>111070057</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466932252805</id>
+    <published>2020-08-19T20:11:37-04:00</published>
+    <updated>2020-08-19T20:11:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/burberry-brit-sheer-women-eau-de-toilette-spray"/>
+    <title>Burberry Brit Sheer For Women By Burberry Eau De Toilette Spray</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/W-4403larger.jpg?v=1658946851"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            29.83 - 76.95
+            <a href="https://perfumania.com/products/burberry-brit-sheer-women-eau-de-toilette-spray">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Brit Sheer is an Eau de Toilette for women by Burberry that embodies the cheerfulness and demure elegance of the English. It is a very fruity fragrance with floral and woody undertones and a hint of white musk. It is a very new fragrance, launched by the brand in early 2015. It leaves a refreshing, vibrant and happy feeling on the skin.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Burberry</s:tag>
+    <s:tag>fresh-notes</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466932252805</id>
+      <title>1.0 oz.</title>
+      <s:price currency="USD">29.83</s:price>
+      <s:sku>111070162</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466932252805</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>111070163</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466932252805</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">76.95</s:price>
+      <s:sku>111070167</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466933563525</id>
+    <published>2020-05-19T19:47:57-04:00</published>
+    <updated>2020-05-19T19:47:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/burberry-touch-for-men-eau-de-toilette"/>
+    <title>Burberry Touch For Men By Burberry Eau De Toilette Spray</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Burberry-Touch-Mens-Eau-de-Toilette-Spray-3.3-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1580147843"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            41.95 - 69.95
+            <a href="https://perfumania.com/products/burberry-touch-for-men-eau-de-toilette">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Launched in 2000 by the design house of Burberry. The Burberry Touch for Men symbolizes confidence, depth, and sensuality in a light, inoffensive aroma. The perfume appeals through its delightful blend of aquatic, fresh spicy, and woody scents. The soft hints of violet and white musk intermingle perfectly to produce delicate, almost romantic undertones that invite slowly but powerfully. Perfect for regular use and as a gift for the deep, mysterious, and sexy man in your life.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>bndlvarid-31838679138437</s:tag>
+    <s:tag>BRAND_Burberry</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>Product_Bundle_Collection</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:tag>UNDER $25</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466933563525</id>
+      <title>1.0 oz.</title>
+      <s:price currency="USD">41.95</s:price>
+      <s:sku>212072152</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466933563525</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">54.95</s:price>
+      <s:sku>212072153</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466933563525</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>212072157</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467154059397</id>
+    <published>2019-05-29T16:32:34-04:00</published>
+    <updated>2019-05-29T16:32:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/my-burberry-blush-by-burberry-for-women-eau-de-parfum-spray"/>
+    <title>My Burberry Blush Eau de Parfum Spray for Women by Burberry</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0089257larger.jpg?v=1580847563"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            41.75 - 120.95
+            <a href="https://perfumania.com/products/my-burberry-blush-by-burberry-for-women-eau-de-parfum-spray">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Burberry. This fragrance has a blend of blackberry, orange blossom, peony, vetiver, and musk notes. It is recommended for casual wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Burberry</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467154059397</id>
+      <title>1 oz.</title>
+      <s:price currency="USD">41.75</s:price>
+      <s:sku>1000006092</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467154059397</id>
+      <title>1.6 oz.</title>
+      <s:price currency="USD">82.95</s:price>
+      <s:sku>1000008547</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467154059397</id>
+      <title>3.0 oz.</title>
+      <s:price currency="USD">120.95</s:price>
+      <s:sku>1000008658</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466932220037</id>
+    <published>2017-03-15T08:38:07-04:00</published>
+    <updated>2017-03-15T08:38:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/burberry-brit-for-men-eau-de-toilette"/>
+    <title>Brit Eau de Toilette Spray for Men by Burberry</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/M-1838larger.jpg?v=1649948781"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            23.85 - 89.95
+            <a href="https://perfumania.com/products/burberry-brit-for-men-eau-de-toilette">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Burberry Brit is a nonchalant Eau de Toilette for men. Right from the packaging, to the notes and the feel of the fragrance, it embodies the tradition and laidback spirit of the English. It is subtle, but with strong spicy and woody undertones for just the right amount of class and elegance.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Burberry</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>oriental-notes</s:tag>
+    <s:tag>TYPE_Eau De Toilette Spray</s:tag>
+    <s:tag>UNDER $25</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466932220037</id>
+      <title>1.0 oz.</title>
+      <s:price currency="USD">23.85</s:price>
+      <s:sku>212070252</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466932220037</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>212070253</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466932220037</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>212070257</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466932220037</id>
+      <title>3.4 oz. Tester</title>
+      <s:price currency="USD">58.95</s:price>
+      <s:sku>414070257</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466932220037</id>
+      <title>6.7 oz.</title>
+      <s:price currency="USD">89.95</s:price>
+      <s:sku>1000009167</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466933301381</id>
+    <published>2017-03-15T08:38:05-04:00</published>
+    <updated>2017-03-15T08:38:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/burberry-london-mens-eau-de-toilette-spray"/>
+    <title>Burberry London For Men By Burberry Eau De Toilette Spray</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/M-2709larger.jpg?v=1667483650"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            28.31 - 69.95
+            <a href="https://perfumania.com/products/burberry-london-mens-eau-de-toilette-spray">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>BRAND_Burberry</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:tag>woody-notes</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466933301381</id>
+      <title>1.0 oz.</title>
+      <s:price currency="USD">28.31</s:price>
+      <s:sku>212071052</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466933301381</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>212071053</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466933301381</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>212071057</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466932613253</id>
+    <published>2017-03-15T08:38:05-04:00</published>
+    <updated>2017-03-15T08:38:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/burberry-for-men-cologne-eau-de-toilette-spray"/>
+    <title>Burberry Eau de Toilette Spray for Men by Burberry</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/burberry_0dca57da-adc6-41b6-8c53-7e11f9f03a3a.jpg?v=1700251673"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            22.88 - 69.95
+            <a href="https://perfumania.com/products/burberry-for-men-cologne-eau-de-toilette-spray">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched in 1995, Burberry for Men cologne is a fine casual cologne that is perfect for daily wear and for all occasions. Clean, crisp and masculine, it blends floral, fruity, spicy and woody scents masterfully, to deliver a classic fragrance that you can wear with pride. The light, fruity opening of Green Apple, Peach and other top notes is accented by fresh, floral tones of Jasmine, Lavender, Moss and Cedar. The drydown is warm and invigorating, and stays with you for hours.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>BRAND_Burberry</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau De Toilette Spray</s:tag>
+    <s:tag>UNDER $25</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466932613253</id>
+      <title>1.0 oz.</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>212071152</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466932613253</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">46.95</s:price>
+      <s:sku>212071153</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466932613253</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>212071157</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466933858437</id>
+    <published>2017-03-15T08:38:02-04:00</published>
+    <updated>2017-03-15T08:38:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/burberry-weekend-mens-eau-de-toilette-spray"/>
+    <title>Weekend Burberry For Men By Burberry Eau De Toilette Spray</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/burbweekend.jpg?v=1697229194"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            26.90 - 69.95
+            <a href="https://perfumania.com/products/burberry-weekend-mens-eau-de-toilette-spray">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by Burberry in 1998, Weekend for Men is a representation of informality, comfort and relaxation associated with end of workweek. fruity top notes explode crisply, and are followed by relaxed fragrances of sandalwood, ivy leaves and oakmoss. perfume then dries down to a surprisingly sweet fragrance, thanks to honey, amber and musk. Together, they create an amalgamation of bursting fragrance and softer notes, which engulf you in a warm, fun and comfortable embrace.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>BRAND_Burberry</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466933858437</id>
+      <title>1.0 oz.</title>
+      <s:price currency="USD">26.90</s:price>
+      <s:sku>212071251</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466933858437</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>212071253</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466933858437</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>212071258</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

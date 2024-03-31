@@ -1,0 +1,955 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumania.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumania.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumania.com/collections/bundle-deals.atom"/>
+  <title>Perfumania</title>
+  <updated>2023-09-18T15:14:16-04:00</updated>
+  <author>
+    <name>Perfumania</name>
+  </author>
+  <entry>
+    <id>https://perfumania.com/products/6849558478981</id>
+    <published>2023-09-18T15:14:16-04:00</published>
+    <updated>2023-09-18T15:14:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/bundle-for-men-cognac-haze-by-camille-rochelle-and-the-one-by-d-g"/>
+    <title>Bundle for Men: Cognac Haze by Camille Rochelle and The One by D&amp;G</title>
+    <s:type></s:type>
+    <s:vendor>Bundle &amp; Save</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/perf_theone_cognacHaze.jpg?v=1695064450"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bundle &amp; Save<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            124.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Explore this great deal! We have bundled together two of our best-selling fragrances for men. This bundle duo provides you with bigger savings than ever before! This offer can only be found online at perfumania.com! While supplies last. This bundle includes Cognac Haze EDP 3.4 oz. Spray by Camille Rochelle &amp; The One EDT 3.3 oz. Spray by D&amp;G.
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BundleDeal</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6849558478981</id>
+      <title>Default Title</title>
+      <s:price currency="USD">124.95</s:price>
+      <s:sku>1000013667</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6840627331205</id>
+    <published>2023-08-24T09:44:06-04:00</published>
+    <updated>2023-08-24T09:44:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/bundle-deal-his-hers-eternity-by-calvin-klein-for-men-and-women"/>
+    <title>Bundle Deal His &amp; Hers: Eternity by Calvin Klein for Men and Women</title>
+    <s:type></s:type>
+    <s:vendor>Bundle &amp; Save</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/Eternity_Bundle_Perf.jpg?v=1692285060"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bundle &amp; Save<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            119.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Explore this great deal! We have bundled together two of our best-selling fragrances for men. This bundle duo provides you with bigger savings than ever before! While supplies last. This bundle includes Calvin Klein Eternity 3.4 oz EDP for Women and Calvin Klein Eternity 3.4 oz EDT for Men.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BundleDeal</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6840627331205</id>
+      <title>Default Title</title>
+      <s:price currency="USD">119.95</s:price>
+      <s:sku>1000013601</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6840626905221</id>
+    <published>2023-08-24T09:44:06-04:00</published>
+    <updated>2023-08-24T09:44:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/bundle-deal-his-hers-cool-water-by-davidoff-for-men-and-women"/>
+    <title>Bundle Deal His &amp; Hers: Cool Water by Davidoff for Men and Women</title>
+    <s:type></s:type>
+    <s:vendor>Bundle &amp; Save</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/Cool_water_Perf.jpg?v=1692284975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bundle &amp; Save<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Explore this great deal! We have bundled together two of our best-selling fragrances for men. This bundle duo provides you with bigger savings than ever before! While supplies last. This bundle includes Davidoff Cool Water 4.2 oz EDT for Men and Davidoff Cool Water 3.4 oz EDT for Women.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BundleDeal</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6840626905221</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000013602</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6840625496197</id>
+    <published>2023-08-24T09:44:05-04:00</published>
+    <updated>2023-08-24T09:44:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/bundle-deal-his-hers-jimmy-choo-by-jimmy-choo-for-men-and-women"/>
+    <title>Bundle Deal His &amp; Hers: Jimmy Choo by Jimmy Choo for Men and Women</title>
+    <s:type></s:type>
+    <s:vendor>Bundle &amp; Save</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/JimmyChoo_Perf.jpg?v=1692284879"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bundle &amp; Save<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            119.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Explore this great deal! We have bundled together two of our best-selling fragrances for men. This bundle duo provides you with bigger savings than ever before! While supplies last. This bundle includes Jimmy Choo EDT for Men and Jimmy Choo 3.4 oz EDP for Women.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BundleDeal</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6840625496197</id>
+      <title>Default Title</title>
+      <s:price currency="USD">119.95</s:price>
+      <s:sku>1000013603</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6840154292357</id>
+    <published>2023-08-24T09:44:04-04:00</published>
+    <updated>2023-08-24T09:44:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/bundle-deal-for-men-lhomme-by-yves-saint-laurent-and-armani-code-by-giorgio-armani"/>
+    <title>Bundle Deal For Men: L&apos;Homme by Yves Saint Laurent and Armani Code by Giorgio Armani</title>
+    <s:type></s:type>
+    <s:vendor>Bundle &amp; Save</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/Bundlelhomme_code_Perf.jpg?v=1692213732"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bundle &amp; Save<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            169.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Explore this great deal! We have bundled together two of our best-selling fragrances for men. This bundle duo provides you with bigger savings than ever before! This offer can only be found online at perfumania.com! While supplies last. This bundle includes YSL L'Homme EDT 3.3 oz. Spray &amp; Giorgio Armani Code EDT 4.2 oz. Spray</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BundleDeal</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>Over $150</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6840154292357</id>
+      <title>Default Title</title>
+      <s:price currency="USD">169.95</s:price>
+      <s:sku>1000013600</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6840153604229</id>
+    <published>2023-08-24T09:44:04-04:00</published>
+    <updated>2023-08-24T09:44:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/bundle-deal-for-men-burberry-touch-by-burberry-and-burberry-by-burberry"/>
+    <title>Bundle Deal For Men: Burberry Touch by Burberry and Burberry by Burberry</title>
+    <s:type></s:type>
+    <s:vendor>Bundle &amp; Save</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/Bundle_Burberry_Touch_Perf.jpg?v=1692213589"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bundle &amp; Save<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Explore this great deal! We have bundled together two of our best-selling fragrances for men. This bundle duo provides you with bigger savings than ever before! This offer can only be found online at perfumania.com! While supplies last. This bundle includes Burberry Touch EDT 3.4 oz. Spray &amp; Burberry EDT 3.4 oz. Spray</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BundleDeal</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6840153604229</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000013599</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6840149901445</id>
+    <published>2023-08-24T09:44:03-04:00</published>
+    <updated>2023-08-24T09:44:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/bundle-deal-for-men-vintage-by-kenneth-cole-and-voyage-by-nautica"/>
+    <title>Bundle Deal For Men: Vintage by Kenneth Cole and Voyage by Nautica</title>
+    <s:type></s:type>
+    <s:vendor>Bundle &amp; Save</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/Bundle-vintageblack_voyage_Perf.jpg?v=1692212882"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bundle &amp; Save<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            59.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Explore this great deal! We have bundled together two of our best-selling fragrances for men. This bundle duo provides you with bigger savings than ever before! This offer can only be found online at perfumania.com! While supplies last. This bundle includes Kenneth Cole Vintage Black EDT 3.4 oz. Spray &amp; Nautica Voyage EDT 3.4 oz. Spray</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>BundleDeal</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6840149901445</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>1000013598</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6840132436101</id>
+    <published>2023-08-24T09:44:02-04:00</published>
+    <updated>2023-08-24T09:44:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/bundle-deal-for-women-euphoria-by-calvin-klein-and-ooh-la-rouge-by-christian-siriano"/>
+    <title>Bundle Deal For Women: Euphoria by Calvin Klein and Ooh La Rouge by Christian Siriano</title>
+    <s:type></s:type>
+    <s:vendor>Bundle &amp; Save</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/Bundle-euphoria_ohlarouge_Perf.jpg?v=1692970310"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bundle &amp; Save<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            119.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Explore this great deal! We have bundled together two of our best-selling fragrances for women. This bundle duo provides you with bigger savings than ever before! This offer can only be found online at perfumania.com! While supplies last. This bundle includes EuphoriaEDP 3.4 oz. Spray and Ooh La Rouge EDP 3.4 oz. Spray</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BundleDeal</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6840132436101</id>
+      <title>Default Title</title>
+      <s:price currency="USD">119.95</s:price>
+      <s:sku>1000013596</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6754404302981</id>
+    <published>2023-03-28T15:49:48-04:00</published>
+    <updated>2023-03-28T15:49:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/bundle-deal-for-men-invictus-by-paco-rabanne-and-1-million-by-paco-rabanne"/>
+    <title>Bundle For Men: Invictus by Paco Rabanne and 1 Million by Paco Rabanne</title>
+    <s:type></s:type>
+    <s:vendor>Bundle &amp; Save</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Perf_Paco_Rabanne_Bundle.jpg?v=1680032979"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bundle &amp; Save<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            149.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Explore this great deal! We have bundled together two of our best-selling fragrances for men. This bundle duo provides you with bigger savings than ever before! This offer can only be found online at perfumania.com! While supplies last. This bundle includes </span><span>Invictus </span><span>3.3 oz EDT for Men by </span><span>Paco Rabanne </span><span>and </span><span>One Million</span><span> 3.4 oz EDT by Paco Rabanne</span><span>.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BundleDeal</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6754404302981</id>
+      <title>Default Title</title>
+      <s:price currency="USD">149.95</s:price>
+      <s:sku>1000013184</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6806128951429</id>
+    <published>2023-03-16T10:59:15-04:00</published>
+    <updated>2023-03-16T10:59:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/bundle-deal-for-women-cloud-by-ariana-grande-and-sweet-like-candy-by-ariana-grande"/>
+    <title>Bundle for Women: Cloud by Ariana Grande and Sweet Like Candy by Ariana Grande</title>
+    <s:type></s:type>
+    <s:vendor>Bundle &amp; Save</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Perf_AG_cloud_Candyy_Bundle.jpg?v=1678976275"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bundle &amp; Save<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            104.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Explore this great deal! We have bundled together two of our best-selling fragrances for women. This bundle duo provides you with bigger savings than ever before! This offer can only be found online at perfumania.com! While supplies last. This bundle includes Cloud for Women 3.4 oz EDP by Ariana Grande and Sweet Like Candy for Women 3.4 oz EDP by Ariana Grande.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BundleDeal</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6806128951429</id>
+      <title>Default Title</title>
+      <s:price currency="USD">104.95</s:price>
+      <s:sku>1000013333</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6806127050885</id>
+    <published>2023-03-16T09:51:37-04:00</published>
+    <updated>2023-03-16T09:51:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/bundle-deal-for-men-acqua-di-gio-profondo-by-giorgio-armani-and-gucci-guilty-by-gucci"/>
+    <title>Bundle for Men: Acqua Di Gio Profondo by Giorgio Armani and Gucci Guilty by Gucci</title>
+    <s:type></s:type>
+    <s:vendor>Bundle &amp; Save</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Perf_ADG_Porfondo_Gucci_Guily_Bundle.jpg?v=1678974688"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bundle &amp; Save<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            188.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Explore this great deal! We have bundled together two of our best-selling fragrances for men. This bundle duo provides you with bigger savings than ever before! This offer can only be found online at perfumania.com! While supplies last. This bundle includes  Acqua Di Gio Profundo for Men 2.5 oz EDP by Giorgio Armani and Gucci Guilty for Men 3.0 oz  EDT by Gucci.
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BundleDeal</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>Over $150</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6806127050885</id>
+      <title>Default Title</title>
+      <s:price currency="USD">188.95</s:price>
+      <s:sku>1000013331</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6806126755973</id>
+    <published>2023-03-16T09:48:38-04:00</published>
+    <updated>2023-03-16T09:48:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/bundle-deal-for-men-k-by-dolce-gabbana-and-gucci-guilty-by-gucci"/>
+    <title>Bundle for Men: K by Dolce &amp; Gabbana and Gucci Guilty by Gucci</title>
+    <s:type></s:type>
+    <s:vendor>Bundle &amp; Save</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Perf_DNG_K_Gucci_Guilty_Bundle.jpg?v=1678974490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bundle &amp; Save<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            149.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Explore this great deal! We have bundled together two of our best-selling fragrances for men. This bundle duo provides you with bigger savings than ever before! This offer can only be found online at perfumania.com! While supplies last. This bundle includes K for Men 3.4 oz EDT by Dolce &amp; Gabbana and Gucci Guilty for Men 3.0 oz EDT by Gucci.
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BundleDeal</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6806126755973</id>
+      <title>Default Title</title>
+      <s:price currency="USD">149.95</s:price>
+      <s:sku>1000013330</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6806126657669</id>
+    <published>2023-03-16T09:44:46-04:00</published>
+    <updated>2023-03-16T09:44:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/bundle-deal-for-men-polo-red-by-ralph-lauren-and-polo-blue-by-ralph-lauren"/>
+    <title>Bundle for Men: Polo Red by Ralph Lauren and Polo Blue by Ralph Lauren</title>
+    <s:type></s:type>
+    <s:vendor>Bundle &amp; Save</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Perf_PoloRed_PoloBlue_Bundle.jpg?v=1678974061"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bundle &amp; Save<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            124.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Explore this great deal! We have bundled together two of our best-selling fragrances for men. This bundle duo provides you with bigger savings than ever before! This offer can only be found online at perfumania.com! While supplies last. This bundle includes Polo Red for Men 4.2 oz EDT by Ralph Lauren and Polo Blue for Men 4.2 oz EDT by Ralph Lauren.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BundleDeal</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6806126657669</id>
+      <title>Default Title</title>
+      <s:price currency="USD">124.95</s:price>
+      <s:sku>1000013329</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6754403614853</id>
+    <published>2023-02-06T13:11:56-05:00</published>
+    <updated>2023-02-06T13:11:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/bundle-deal-his-hers-eros-by-versace-for-men-and-women"/>
+    <title>Bundle Deal His &amp; Hers: Eros by Versace for Men and Women</title>
+    <s:type></s:type>
+    <s:vendor>Bundle &amp; Save</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/versace_bundle.jpg?v=1675707110"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bundle &amp; Save<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            144.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Explore this great deal! We have bundled together two of our best-selling fragrances for men. This bundle duo provides you with bigger savings than ever before! This offer can only be found online at perfumania.com! While supplies last. This bundle includes Eros for Women 3.4 oz EDP by Versace and Eros for Men 3.4 oz EDT  by Versace.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BundleDeal</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6754403614853</id>
+      <title>Default Title</title>
+      <s:price currency="USD">144.95</s:price>
+      <s:sku>1000013186</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6754362294405</id>
+    <published>2022-11-18T09:36:16-05:00</published>
+    <updated>2022-11-18T09:36:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/bundle-deal-his-hers-light-blue-by-dolce-gabbana-for-men-and-women"/>
+    <title>Bundle Deal His &amp; Hers: Light Blue by Dolce &amp; Gabbana for Men and Women</title>
+    <s:type></s:type>
+    <s:vendor>Bundle &amp; Save</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/6320d0b3-9635-4d99-af15-0a02a772609b.jpg?v=1668782170"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bundle &amp; Save<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            129.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Explore this great deal! We have bundled together two of our best-selling fragrances for men. This bundle duo provides you with bigger savings than ever before! This offer can only be found online at perfumania.com! While supplies last. This bundle includes Light Blue EDT 3.3 oz for Women and Light Blue EDT 4.2 oz. for Men</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BundleDeal</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6754362294405</id>
+      <title>Default Title</title>
+      <s:price currency="USD">129.95</s:price>
+      <s:sku>1000013187</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6754403975301</id>
+    <published>2022-11-18T09:35:44-05:00</published>
+    <updated>2022-11-18T09:35:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/bundle-deal-his-hers-leau-dissey-by-issey-miyake-for-men-and-women"/>
+    <title>Bundle Deal His &amp; Hers: L&apos;eau Dissey by Issey Miyake for Men and Women</title>
+    <s:type></s:type>
+    <s:vendor>Bundle &amp; Save</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/c74f7219-ca65-4213-9898-7f0201563251.jpg?v=1668782137"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bundle &amp; Save<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            114.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Explore this great deal! We have bundled together two of our best-selling fragrances for men. This bundle duo provides you with bigger savings than ever before! This offer can only be found online at perfumania.com! While supplies last. This bundle includes L'eau Dissey EDT 3.3 oz for Women and L'eau Dissey EDT 4.2 oz for Men by Issey Miyake.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BundleDeal</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6754403975301</id>
+      <title>Default Title</title>
+      <s:price currency="USD">114.95</s:price>
+      <s:sku>1000013189</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6754404139141</id>
+    <published>2022-11-18T09:35:15-05:00</published>
+    <updated>2022-11-18T09:35:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/bundle-deal-for-men-chrome-by-azzaro-and-versace-pour-homme-by-versace"/>
+    <title>Bundle for Men: Chrome by Azzaro and Versace Pour Homme by Versace</title>
+    <s:type></s:type>
+    <s:vendor>Bundle &amp; Save</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/78a7b7d1-9b4b-4ae7-b4dd-837730cee012.jpg?v=1668782106"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bundle &amp; Save<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Explore this great deal! We have bundled together two of our best-selling fragrances for men. This bundle duo provides you with bigger savings than ever before! This offer can only be found online at perfumania.com! While supplies last. This bundle includes Chrome 3.3 oz EDT for Men by Azzaro and Versace Pour Homme 3.4 oz EDT by Versace.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BundleDeal</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6754404139141</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000013183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6754404466821</id>
+    <published>2022-11-18T09:34:46-05:00</published>
+    <updated>2022-11-18T09:34:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/bundle-deal-for-women-daisy-by-marc-jacobs-and-opium-black-by-yves-saint-laurent"/>
+    <title>Bundle for Women: Daisy by Marc Jacobs and Black Opium by Yves Saint Laurent</title>
+    <s:type></s:type>
+    <s:vendor>Bundle &amp; Save</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/9501053c-3aea-4910-bf11-065237360e4b.jpg?v=1668782078"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bundle &amp; Save<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            199.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Explore this great deal! We have bundled together two of our best-selling fragrances for men. This bundle duo provides you with bigger savings than ever before! This offer can only be found online at perfumania.com! While supplies last. This bundle includes Daisy 3.4 oz EDT Women by Marc Jacobs and Opium Black for Women 3.0 oz EDP by Yves Saint Laurent.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BundleDeal</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>Over $150</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6754404466821</id>
+      <title>Default Title</title>
+      <s:price currency="USD">199.95</s:price>
+      <s:sku>1000013185</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6754403876997</id>
+    <published>2022-11-18T09:31:47-05:00</published>
+    <updated>2022-11-18T09:31:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/bundle-deal-his-hers-burberry-brit-by-burberry-for-men-and-women"/>
+    <title>Bundle Deal His &amp; Hers: Burberry Brit by Burberry for Men and Women</title>
+    <s:type></s:type>
+    <s:vendor>Bundle &amp; Save</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/e3da28f3-4365-4651-8537-e716401ce671.jpg?v=1668781892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bundle &amp; Save<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            89.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Explore this great deal! We have bundled together two of our best-selling fragrances for men. This bundle duo provides you with bigger savings than ever before! This offer can only be found online at perfumania.com! While supplies last. This bundle includes Burberry Brit 3.4 oz EDT for Women and Burberry Brit 3.3 oz EDT for Men by Burberry.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BundleDeal</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6754403876997</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.95</s:price>
+      <s:sku>1000013188</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6742039822469</id>
+    <published>2022-10-18T09:54:14-04:00</published>
+    <updated>2022-10-18T09:54:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/bundle-deal-for-women-eternity-eau-de-parfum-and-body-lotion"/>
+    <title>Bundle for Women: Eternity Eau de Parfum and Body Lotion by Calvin Klein</title>
+    <s:type></s:type>
+    <s:vendor>Bundle &amp; Save</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/eternity-lotion.jpg?v=1668798597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bundle &amp; Save<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            110.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Explore this great deal! We have bundled together two of our best-selling items for women. This bundle duo provides you with bigger savings than ever before! This offer can only be found online at perfumania.com! While supplies last. This bundle includes Calvin Klein Eternity EDP 3.4 oz. Spray and Eternity Body Lotion 6.7 oz. 
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BundleDeal</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6742039822469</id>
+      <title>Default Title</title>
+      <s:price currency="USD">110.95</s:price>
+      <s:sku>1000013102</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6742039724165</id>
+    <published>2022-10-18T09:52:36-04:00</published>
+    <updated>2022-10-18T09:52:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/bundle-deal-for-men-acqua-di-gio-and-express-yourself"/>
+    <title>Bundle for Men: Acqua di Gio by Armani and Express Yourself by Mercedes-Benz</title>
+    <s:type></s:type>
+    <s:vendor>Bundle &amp; Save</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/gio-benz.jpg?v=1668798434"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bundle &amp; Save<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            124.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Explore this great deal! We have bundled together two of our best-selling fragrances for men. This bundle duo provides you with bigger savings than ever before! This offer can only be found online at perfumania.com! While supplies last. This bundle includes Armani Acqua di Gio EDT 3.4 oz. Spray &amp; Mercedez-Benz Express Yourself EDT 3.4 oz. Spray
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BundleDeal</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6742039724165</id>
+      <title>Default Title</title>
+      <s:price currency="USD">124.95</s:price>
+      <s:sku>1000013101</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6742034907269</id>
+    <published>2022-10-18T09:48:17-04:00</published>
+    <updated>2022-10-18T09:48:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/bundle-deal-for-women-la-vie-est-belle-and-gia-lucca-mademoiselle"/>
+    <title>Bundle for Women: La Vie Est Belle by Lancome and Mademoiselle by Gia Lucca</title>
+    <s:type></s:type>
+    <s:vendor>Bundle &amp; Save</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/gia-lancome.jpg?v=1668798416"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bundle &amp; Save<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            149.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Explore this great deal! We have bundled together two of our best-selling fragrances for women. This bundle duo provides you with bigger savings than ever before! This offer can only be found online at perfumania.com! While supplies last. This bundle includes Lancome La Vie Est Belle EDP 3.4 oz. Spray &amp; Gia Lucca Mademoiselle EDP 3.4 oz. Spray
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BundleDeal</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6742034907269</id>
+      <title>Default Title</title>
+      <s:price currency="USD">149.95</s:price>
+      <s:sku>1000013100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6742034677893</id>
+    <published>2022-10-18T09:46:46-04:00</published>
+    <updated>2022-10-18T09:46:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/bundle-deal-for-men-acqua-di-gio-and-eros"/>
+    <title>Bundle for Men: Acqua di Gio by Armani and Eros by Versace</title>
+    <s:type></s:type>
+    <s:vendor>Bundle &amp; Save</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/gio-versace.jpg?v=1668798389"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bundle &amp; Save<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            149.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Explore this great deal! We have bundled together two of our best-selling fragrances for men. This bundle duo provides you with bigger savings than ever before! This offer can only be found online at perfumania.com! While supplies last. This bundle includes Armani Acqua di Gio EDT 3.4 oz. Spray &amp; Versace Eros EDT 3.4 oz. Spray
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BundleDeal</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6742034677893</id>
+      <title>Default Title</title>
+      <s:price currency="USD">149.95</s:price>
+      <s:sku>1000013099</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6742034448517</id>
+    <published>2022-10-18T09:43:47-04:00</published>
+    <updated>2022-10-18T09:43:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/bundle-deal-for-women-bright-crystal-and-light-blue"/>
+    <title>Bundle for Women: Bright Crystal by Versace and Light Blue by D&amp;G</title>
+    <s:type></s:type>
+    <s:vendor>Bundle &amp; Save</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/versace-dolce.jpg?v=1668798629"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bundle &amp; Save<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            149.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Explore this great deal! We have bundled together two of our best-selling fragrances for women. This bundle duo provides you with bigger savings than ever before! This offer can only be found online at perfumania.com! While supplies last. This bundle includes Versace Bright Crystal EDT 3.0 oz. Spray and D&amp;G Light Blue EDT 3.3 oz. Spray</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BundleDeal</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6742034448517</id>
+      <title>Default Title</title>
+      <s:price currency="USD">149.95</s:price>
+      <s:sku>1000013098</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

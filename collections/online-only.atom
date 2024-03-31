@@ -1,0 +1,1062 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumania.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumania.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumania.com/collections/online-only.atom"/>
+  <title>Perfumania</title>
+  <updated>2024-03-18T16:47:38-04:00</updated>
+  <author>
+    <name>Perfumania</name>
+  </author>
+  <entry>
+    <id>https://perfumania.com/products/5172606140549</id>
+    <published>2024-03-18T16:47:38-04:00</published>
+    <updated>2024-03-18T16:47:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/leau-by-jimmy-choo-for-women-eau-de-toilette-spray"/>
+    <title>L&apos;eau Eau de Toilette Spray for Women by Jimmy Choo</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Jimmy Choo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0093580larger.jpg?v=1600285632"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jimmy Choo<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            84.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Jimmy Choo</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau De Toilette Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5172606140549</id>
+      <title>3  oz.</title>
+      <s:price currency="USD">84.95</s:price>
+      <s:sku>1000012811</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6926252769413</id>
+    <published>2024-03-04T15:06:57-05:00</published>
+    <updated>2024-03-04T15:06:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/copy-of-club-de-nuit-urban-man-by-armaf-for-men-edp-spray"/>
+    <title>Club de Nuit Intense Eau de Toilette Spray for Men</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Armaf</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/Exclusive-Selection-Club-De-Nuit-Intense-Man-Men-Eau-de-Toilette-Spray-3.4-Best-Price-Fragrance-Parfume-DETAILS.jpg?v=1709582810"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Armaf<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            79.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Club De Nuit Intense from Armaf is a concoction of woody and spicy notes. Launched in 2015, this fragrance is ideal as clubwear and night wear. The combination and spicy and woody scents makes it perfect for cold night. The strong scents seduce your senses with warmth and comfort.</p>
+<h5>SCENT</h5>
+<ul>
+<li>Top Notes are Bergamot, Black Currant, Lemon, Apple, Pineapple</li>
+<li>Middle Notes are Birch, Jasmine, Rose</li>
+<li>Base Notes are Musk, Patchouli, Ambergris,Vanilla</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>7.1</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Armaf</s:tag>
+    <s:tag>Gender_men</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6926252769413</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">79.95</s:price>
+      <s:sku>1000002352</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467226869893</id>
+    <published>2024-01-04T16:20:39-05:00</published>
+    <updated>2024-01-04T16:20:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/baccarat-rouge-540-extrait-de-parfum-spray-for-men-and-women-by-maison-francis-kurkdjian"/>
+    <title>Baccarat Rouge 540 Extrait de Parfum Spray for Men and Women by Maison Francis Kurkdjian</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Maison Francis Kurkdjian</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Baccarat_Rouge_540_Maison_Francis_Kurkdjian.jpg?v=1579131373"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Maison Francis Kurkdjian<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            399.95 - 414.95
+            <a href="https://perfumania.com/products/baccarat-rouge-540-extrait-de-parfum-spray-for-men-and-women-by-maison-francis-kurkdjian">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Baccarat Rouge 540 Extrait de Parfum Spray by Maison Francis Kurkdjian is a captivating fragrance suitable for both men and women, known for its luxurious blend of floral, woody, and amber notes that create an unforgettable and enchanting aura, leaving a trail of elegance and sophistication.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRAND_Maison Francis Kurkdjian</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>Over $150</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467226869893</id>
+      <title>2.4 oz.</title>
+      <s:price currency="USD">414.95</s:price>
+      <s:sku>1000008754</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467226869893</id>
+      <title>2.4 oz. UBX</title>
+      <s:price currency="USD">399.95</s:price>
+      <s:sku>1000013692</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6849558478981</id>
+    <published>2023-09-18T15:14:16-04:00</published>
+    <updated>2023-09-18T15:14:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/bundle-for-men-cognac-haze-by-camille-rochelle-and-the-one-by-d-g"/>
+    <title>Bundle for Men: Cognac Haze by Camille Rochelle and The One by D&amp;G</title>
+    <s:type></s:type>
+    <s:vendor>Bundle &amp; Save</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/perf_theone_cognacHaze.jpg?v=1695064450"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bundle &amp; Save<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            124.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Explore this great deal! We have bundled together two of our best-selling fragrances for men. This bundle duo provides you with bigger savings than ever before! This offer can only be found online at perfumania.com! While supplies last. This bundle includes Cognac Haze EDP 3.4 oz. Spray by Camille Rochelle &amp; The One EDT 3.3 oz. Spray by D&amp;G.
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BundleDeal</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6849558478981</id>
+      <title>Default Title</title>
+      <s:price currency="USD">124.95</s:price>
+      <s:sku>1000013667</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6840627331205</id>
+    <published>2023-08-24T09:44:06-04:00</published>
+    <updated>2023-08-24T09:44:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/bundle-deal-his-hers-eternity-by-calvin-klein-for-men-and-women"/>
+    <title>Bundle Deal His &amp; Hers: Eternity by Calvin Klein for Men and Women</title>
+    <s:type></s:type>
+    <s:vendor>Bundle &amp; Save</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/Eternity_Bundle_Perf.jpg?v=1692285060"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bundle &amp; Save<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            119.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Explore this great deal! We have bundled together two of our best-selling fragrances for men. This bundle duo provides you with bigger savings than ever before! While supplies last. This bundle includes Calvin Klein Eternity 3.4 oz EDP for Women and Calvin Klein Eternity 3.4 oz EDT for Men.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BundleDeal</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6840627331205</id>
+      <title>Default Title</title>
+      <s:price currency="USD">119.95</s:price>
+      <s:sku>1000013601</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6840626905221</id>
+    <published>2023-08-24T09:44:06-04:00</published>
+    <updated>2023-08-24T09:44:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/bundle-deal-his-hers-cool-water-by-davidoff-for-men-and-women"/>
+    <title>Bundle Deal His &amp; Hers: Cool Water by Davidoff for Men and Women</title>
+    <s:type></s:type>
+    <s:vendor>Bundle &amp; Save</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/Cool_water_Perf.jpg?v=1692284975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bundle &amp; Save<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Explore this great deal! We have bundled together two of our best-selling fragrances for men. This bundle duo provides you with bigger savings than ever before! While supplies last. This bundle includes Davidoff Cool Water 4.2 oz EDT for Men and Davidoff Cool Water 3.4 oz EDT for Women.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BundleDeal</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6840626905221</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000013602</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6840625496197</id>
+    <published>2023-08-24T09:44:05-04:00</published>
+    <updated>2023-08-24T09:44:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/bundle-deal-his-hers-jimmy-choo-by-jimmy-choo-for-men-and-women"/>
+    <title>Bundle Deal His &amp; Hers: Jimmy Choo by Jimmy Choo for Men and Women</title>
+    <s:type></s:type>
+    <s:vendor>Bundle &amp; Save</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/JimmyChoo_Perf.jpg?v=1692284879"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bundle &amp; Save<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            119.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Explore this great deal! We have bundled together two of our best-selling fragrances for men. This bundle duo provides you with bigger savings than ever before! While supplies last. This bundle includes Jimmy Choo EDT for Men and Jimmy Choo 3.4 oz EDP for Women.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BundleDeal</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6840625496197</id>
+      <title>Default Title</title>
+      <s:price currency="USD">119.95</s:price>
+      <s:sku>1000013603</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6840154292357</id>
+    <published>2023-08-24T09:44:04-04:00</published>
+    <updated>2023-08-24T09:44:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/bundle-deal-for-men-lhomme-by-yves-saint-laurent-and-armani-code-by-giorgio-armani"/>
+    <title>Bundle Deal For Men: L&apos;Homme by Yves Saint Laurent and Armani Code by Giorgio Armani</title>
+    <s:type></s:type>
+    <s:vendor>Bundle &amp; Save</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/Bundlelhomme_code_Perf.jpg?v=1692213732"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bundle &amp; Save<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            169.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Explore this great deal! We have bundled together two of our best-selling fragrances for men. This bundle duo provides you with bigger savings than ever before! This offer can only be found online at perfumania.com! While supplies last. This bundle includes YSL L'Homme EDT 3.3 oz. Spray &amp; Giorgio Armani Code EDT 4.2 oz. Spray</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BundleDeal</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>Over $150</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6840154292357</id>
+      <title>Default Title</title>
+      <s:price currency="USD">169.95</s:price>
+      <s:sku>1000013600</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6840153604229</id>
+    <published>2023-08-24T09:44:04-04:00</published>
+    <updated>2023-08-24T09:44:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/bundle-deal-for-men-burberry-touch-by-burberry-and-burberry-by-burberry"/>
+    <title>Bundle Deal For Men: Burberry Touch by Burberry and Burberry by Burberry</title>
+    <s:type></s:type>
+    <s:vendor>Bundle &amp; Save</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/Bundle_Burberry_Touch_Perf.jpg?v=1692213589"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bundle &amp; Save<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Explore this great deal! We have bundled together two of our best-selling fragrances for men. This bundle duo provides you with bigger savings than ever before! This offer can only be found online at perfumania.com! While supplies last. This bundle includes Burberry Touch EDT 3.4 oz. Spray &amp; Burberry EDT 3.4 oz. Spray</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BundleDeal</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6840153604229</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000013599</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6840149901445</id>
+    <published>2023-08-24T09:44:03-04:00</published>
+    <updated>2023-08-24T09:44:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/bundle-deal-for-men-vintage-by-kenneth-cole-and-voyage-by-nautica"/>
+    <title>Bundle Deal For Men: Vintage by Kenneth Cole and Voyage by Nautica</title>
+    <s:type></s:type>
+    <s:vendor>Bundle &amp; Save</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/Bundle-vintageblack_voyage_Perf.jpg?v=1692212882"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bundle &amp; Save<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            59.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Explore this great deal! We have bundled together two of our best-selling fragrances for men. This bundle duo provides you with bigger savings than ever before! This offer can only be found online at perfumania.com! While supplies last. This bundle includes Kenneth Cole Vintage Black EDT 3.4 oz. Spray &amp; Nautica Voyage EDT 3.4 oz. Spray</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>BundleDeal</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6840149901445</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>1000013598</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6840132436101</id>
+    <published>2023-08-24T09:44:02-04:00</published>
+    <updated>2023-08-24T09:44:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/bundle-deal-for-women-euphoria-by-calvin-klein-and-ooh-la-rouge-by-christian-siriano"/>
+    <title>Bundle Deal For Women: Euphoria by Calvin Klein and Ooh La Rouge by Christian Siriano</title>
+    <s:type></s:type>
+    <s:vendor>Bundle &amp; Save</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/Bundle-euphoria_ohlarouge_Perf.jpg?v=1692970310"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bundle &amp; Save<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            119.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Explore this great deal! We have bundled together two of our best-selling fragrances for women. This bundle duo provides you with bigger savings than ever before! This offer can only be found online at perfumania.com! While supplies last. This bundle includes EuphoriaEDP 3.4 oz. Spray and Ooh La Rouge EDP 3.4 oz. Spray</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BundleDeal</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6840132436101</id>
+      <title>Default Title</title>
+      <s:price currency="USD">119.95</s:price>
+      <s:sku>1000013596</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6840005099653</id>
+    <published>2023-08-15T11:22:25-04:00</published>
+    <updated>2023-08-15T11:22:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/luna-rossa-ocean-for-men-eau-de-toilette-spray-by-paco-rabanne"/>
+    <title>Luna Rossa Ocean For Men Eau De Toilette Spray by Prada</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Prada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/pradaocean.webp?v=1694100509"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Prada<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            79.95 - 101.95
+            <a href="https://perfumania.com/products/luna-rossa-ocean-for-men-eau-de-toilette-spray-by-paco-rabanne">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Top notes: Bergamot,Pink pepper, Artemisia; Missle notes: Lavender, Iris, Sage, Suede, Saffron; Base notes: Musk, Haitian Vetiver, Patchouli, Caramel</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>9.9</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Prada</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau De Toilette Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6840005099653</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">101.95</s:price>
+      <s:sku>1000013095</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/6840005099653</id>
+      <title>1.6 oz.</title>
+      <s:price currency="USD">79.95</s:price>
+      <s:sku>1000013359</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6824063107205</id>
+    <published>2023-05-24T10:15:08-04:00</published>
+    <updated>2023-05-24T10:15:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/trussardi-riflesso-gift-set-for-men"/>
+    <title>Trussardi Riflesso Gift Set for Men</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Trussardi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0103324larger.jpg?v=1684937709"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Trussardi<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Trussardi in the year 2017. This oriental woody fragrance has a blend of bergamot, pink grapefruit, green apple, geranium, violet leaves, lavender, leather, vetiver, and tonka bean.2 Pc Gift Set 3.4oz EDT , 1oz EDT</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>Brand_Trussardi</s:tag>
+    <s:tag>gender_Men</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Gift Set</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6824063107205</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>1000013471</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6824063074437</id>
+    <published>2023-05-24T10:15:06-04:00</published>
+    <updated>2023-05-24T10:15:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/top-gun-chervon-gift-set-for-men"/>
+    <title>Top Gun Chevron Gift Set for Men</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Top Gun</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0128979larger.jpg?v=1684937707"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Top Gun<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            32.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Top Gun Chevron fragrance opens big and and bold with a minty and aquatic scent. Sexy, young and playful for todays modern man. 3 Pc Gift Set 3.4oz EDT , 3.4oz After Shave Balm, 3.4oz Shower Gel</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>Brand_Top Gun</s:tag>
+    <s:tag>gender_Men</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Gift Set</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6824063074437</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.95</s:price>
+      <s:sku>1000013474</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6824062976133</id>
+    <published>2023-05-24T10:15:04-04:00</published>
+    <updated>2023-05-24T10:15:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/so-de-la-renta-gift-set-for-women"/>
+    <title>So De La Renta Gift Set for Women</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Oscar De La Renta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0133693larger.jpg?v=1684937705"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oscar De La Renta<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            54.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Oscar e La Renta. This feminine fragrance has a blend of clementine, kiwi, gardenia, freesia, mango, watermelon, cardamom, peony, pimento, tuberose, jasmine, sambac, lotus, narcissus, plum, musk and vanilla.2 Pc Gift Set 3.4oz EDT , 4.2oz Fragrance Mist</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>Brand_Oscar De La Renta</s:tag>
+    <s:tag>gender_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Gift Set</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6824062976133</id>
+      <title>Default Title</title>
+      <s:price currency="USD">54.95</s:price>
+      <s:sku>1000013438</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6824062779525</id>
+    <published>2023-05-24T10:14:52-04:00</published>
+    <updated>2023-05-24T10:14:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/perry-ellis-18-gift-set-for-women"/>
+    <title>Perry Ellis 18 Gift Set for Women</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Perry Ellis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0123496larger.jpg?v=1684937693"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Perry Ellis<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            64.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Perry Ellis in the year 2006. This floral fruity fragrance has a blend of pear, orchid, rasberry, mojito, water lily, sandalwood, and vanilla notes.4 Pc Gift Set 3.4oz EDP, 3oz Body Lot, 4oz Body Mist, 3oz Bath and Show Gel</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>Brand_Perry Ellis</s:tag>
+    <s:tag>gender_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Gift Set</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6824062779525</id>
+      <title>Default Title</title>
+      <s:price currency="USD">64.95</s:price>
+      <s:sku>1000013480</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6824062648453</id>
+    <published>2023-05-24T10:14:43-04:00</published>
+    <updated>2023-05-24T10:14:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/lomani-gift-set-for-men"/>
+    <title>Lomani Gift Set for Men</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Lomani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/M-GS-2526larger.jpg?v=1684937684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lomani<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Lomani in the year 1987. This masculine fragrance has a blend of crisp citrus, spice, and woodsy notes. It is recommended for casual wear.2 Pc Gift Set 3.3oz EDT , 6.6oz Deodorant</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>Brand_Lomani</s:tag>
+    <s:tag>gender_Men</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Gift Set</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6824062648453</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>1000013448</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6824062484613</id>
+    <published>2023-05-24T10:14:32-04:00</published>
+    <updated>2023-05-24T10:14:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/hello-gift-set-for-men"/>
+    <title>Hello Gift Set for Men</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Lionel Richie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0127459larger.jpg?v=1684937673"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lionel Richie<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            32.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Lionel Richie. This amber floral fragrance has a blend of bergamot, bitter orange, mint, lavender, violet leaves, cashmeran, vetiver, patchouli, and ambroux notes.2 Pc Gift Set 1.7oz EDT , 6.7oz Body</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>Brand_Lionel Richie</s:tag>
+    <s:tag>gender_Men</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Gift Set</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6824062484613</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.95</s:price>
+      <s:sku>1000013450</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6824062320773</id>
+    <published>2023-05-24T10:14:21-04:00</published>
+    <updated>2023-05-24T10:14:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/guess-dare-gift-set-for-men"/>
+    <title>Guess Dare Gift Set for Men</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Guess</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0094484larger.jpg?v=1684937662"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Guess<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            65.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Guess in the year 2013. This floral fragrance has a blend of hot pepper, grapefruit, elemi, cedar, vetiver, geranium, patchouli, labdanum, and black vanilla.3 Pc Gift Set 3.4oz EDT , 6.0oz Deodorant Body , 6.7oz Shower Gel</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>Brand_Guess</s:tag>
+    <s:tag>gender_Men</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Gift Set</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6824062320773</id>
+      <title>Default Title</title>
+      <s:price currency="USD">65.95</s:price>
+      <s:sku>1000013435</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6824062222469</id>
+    <published>2023-05-24T10:14:14-04:00</published>
+    <updated>2023-05-24T10:14:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/driven-blue-gift-set-for-men"/>
+    <title>Driven Blue Gift Set for Men</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Alfred Dunhill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0128184larger.jpg?v=1684937655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alfred Dunhill<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            52.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Dunhill, Desire Blue by Alfred Dunhill Cologne. Inspired by a mans self awareness, Desire Blue draws attention and admiration. 3 Pc Gift Set 3.4oz EDT , 3oz Shower Gel, 0.15ml Travel</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>Brand_Alfred Dunhill</s:tag>
+    <s:tag>gender_Men</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Gift Set</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6824062222469</id>
+      <title>Default Title</title>
+      <s:price currency="USD">52.95</s:price>
+      <s:sku>1000013440</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6824062091397</id>
+    <published>2023-05-24T10:14:05-04:00</published>
+    <updated>2023-05-24T10:14:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/cuba-trio-1-by-cuba-for-men"/>
+    <title>Cuba Trio 1 by Cuba for Men</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Cuba</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0120750larger.jpg?v=1684937646"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cuba<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            26.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Cuba. This woody aromatic fragrance has a blend of bergamot, lavender, vetiver, woods, and jasmine. It is recommended for casual wear.3 Pc Gift Set 1.17oz Cuba Gold EDT , 1.17oz Cuba Royal EDT , 1.17oz Cuba VIP EDT</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>Brand_Cuba</s:tag>
+    <s:tag>gender_Men</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Gift Set</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6824062091397</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.95</s:price>
+      <s:sku>1000013454</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6824062058629</id>
+    <published>2023-05-24T10:14:03-04:00</published>
+    <updated>2023-05-24T10:14:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/cuba-quad-i-gift-set-for-women"/>
+    <title>Cuba Quad I Gift Set for Women</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Cuba</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0120735larger.jpg?v=1684937644"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cuba<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            26.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Cuba. This floral fragrance has a blend of mandarian orange, cranberry, violet, peony, orchid, freesia, vanilla, white amber, and white woods. 4 Pc Gft Set 1.17oz Hrtbrk EDP, 1.17oz La Vida EDP, 1.17oz Vctry EDP, 1.17oz VIP EDP</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>Brand_Cuba</s:tag>
+    <s:tag>gender_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Gift Set</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6824062058629</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.95</s:price>
+      <s:sku>1000013482</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6824061960325</id>
+    <published>2023-05-24T10:14:01-04:00</published>
+    <updated>2023-05-24T10:14:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/cuba-prestige-legacy-gift-set-for-men"/>
+    <title>Cuba Prestige Legacy Gift Set for Men</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Cuba</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0125090larger.jpg?v=1684937642"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cuba<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Cuba. This oriental fragrance has a blend of vetiver, musk, carnation, labdanum, hyacinth, sandalwood, amber, tea, and lilac. 2 Pc Gift Set 3oz EDT , 1.17oz EDT</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>Brand_Cuba</s:tag>
+    <s:tag>gender_Men</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Gift Set</s:tag>
+    <s:tag>UNDER $25</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6824061960325</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>1000013451</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6824061894789</id>
+    <published>2023-05-24T10:13:58-04:00</published>
+    <updated>2023-05-24T10:13:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/cuba-must-have-tiger-gift-set-for-women"/>
+    <title>Cuba Must Have Tiger Gift Set for Women</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Cuba</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0120739larger.jpg?v=1684937640"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cuba<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            26.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Cuba. This floral fragrance has a blend of mandarian orange, cranberry, violet, peony, orchid, freesia, vanilla, white amber, and white woods. 5 Pc Gift Set 3.3oz EDP, 1.17oz EDP, 0.5oz EDP, 6.6oz Body, 6.6oz Body Spl</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>Brand_Cuba</s:tag>
+    <s:tag>gender_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Gift Set</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6824061894789</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.95</s:price>
+      <s:sku>1000013476</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6824061796485</id>
+    <published>2023-05-24T10:13:56-04:00</published>
+    <updated>2023-05-24T10:13:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/cuba-must-have-heartbreaker-gift-set-for-women"/>
+    <title>Cuba Must Have Heartbreaker Gift Set for Women</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Cuba</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0120738larger.jpg?v=1684937637"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cuba<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            26.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Cuba. This floral fragrance has a blend of mandarian orange, cranberry, violet, peony, orchid, freesia, vanilla, white amber, and white woods.5 Pc Gift Set 3.4oz EDP, 1.17oz EDP, 0.5oz EDP, 6.7oz Body, 6.7oz Body Spl</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>Brand_Cuba</s:tag>
+    <s:tag>gender_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Gift Set</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6824061796485</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.95</s:price>
+      <s:sku>1000013475</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

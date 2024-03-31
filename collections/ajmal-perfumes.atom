@@ -1,0 +1,1086 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumania.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumania.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumania.com/collections/ajmal-perfumes.atom"/>
+  <title>Perfumania</title>
+  <updated>2023-10-23T11:33:09-04:00</updated>
+  <author>
+    <name>Perfumania</name>
+  </author>
+  <entry>
+    <id>https://perfumania.com/products/6860655132805</id>
+    <published>2023-10-23T11:33:09-04:00</published>
+    <updated>2023-10-23T11:33:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/iii-eau-de-parfum-spray-for-men-by-ajmal"/>
+    <title>III Eau De Parfum Spray for Men by Ajmal</title>
+    <s:type>Eau de Parfum - EDP/S</s:type>
+    <s:vendor>Ajmal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/Ajamal_III_42956831-2877-4b04-b3ce-0c94f66c6f06.jpg?v=1698075182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ajmal<br>
+        <strong>Type: </strong>Eau de Parfum - EDP/S<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>10.5</s:tag>
+    <s:tag>BRAND_Ajmal</s:tag>
+    <s:tag>gender_men</s:tag>
+    <s:tag>proprietary</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6860655132805</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000011495</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6855646511237</id>
+    <published>2023-10-03T16:04:41-04:00</published>
+    <updated>2023-10-03T16:04:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/iii-eau-de-parfum-spray-for-women-by-ajmal"/>
+    <title>Blanche Collection III Eau De Parfum Spray for Women by Ajmal</title>
+    <s:type>Eau de Parfum - EDP/S</s:type>
+    <s:vendor>Ajmal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/AJAMAL_III.jpg?v=1697639525"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ajmal<br>
+        <strong>Type: </strong>Eau de Parfum - EDP/S<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>10.5</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Ajmal</s:tag>
+    <s:tag>gender_women</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6855646511237</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000012897</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6855419723909</id>
+    <published>2023-10-03T11:12:28-04:00</published>
+    <updated>2023-10-03T11:12:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/iv-eau-de-parfum-spray-for-men-by-ajmal"/>
+    <title>IV Eau De Parfum Spray for Men by Ajmal</title>
+    <s:type>Eau de Parfum - EDP/S</s:type>
+    <s:vendor>Ajmal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/AJAMAL_IV_2b6c98c8-a76c-4363-9f50-5aea09082ca1.jpg?v=1696365537"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ajmal<br>
+        <strong>Type: </strong>Eau de Parfum - EDP/S<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>10.5</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Ajmal</s:tag>
+    <s:tag>gender_men</s:tag>
+    <s:tag>proprietary</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6855419723909</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000012050</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6846992482437</id>
+    <published>2023-09-01T15:23:39-04:00</published>
+    <updated>2023-09-01T15:23:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/v-eau-de-parfum-spray-for-men-by-ajmal"/>
+    <title>V Eau De Parfum Spray for Men by Ajmal</title>
+    <s:type>Eau de Parfum - EDP/S</s:type>
+    <s:vendor>Ajmal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/Ajamal_V.jpg?v=1695151872"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ajmal<br>
+        <strong>Type: </strong>Eau de Parfum - EDP/S<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>10.5</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Ajmal</s:tag>
+    <s:tag>gender_men</s:tag>
+    <s:tag>proprietary</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6846992482437</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000012051</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6839947919493</id>
+    <published>2023-08-14T16:54:17-04:00</published>
+    <updated>2023-08-14T16:54:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/blanche-iv-eau-de-parfum-spray-for-women-by-ajmal"/>
+    <title>Blanche IV Eau De Parfum Spray for Women by Ajmal</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Ajmal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/AJAMAL_IV.jpg?v=1692293948"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ajmal<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Ajmal</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>proprietary</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6839947919493</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000012898</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6612152582277</id>
+    <published>2021-10-06T09:23:14-04:00</published>
+    <updated>2021-10-06T09:23:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/amber-poivre-by-ajmal-for-unisex-eau-de-parfum-spray"/>
+    <title>Amber Poivre by Ajmal for Unisex - Eau de Parfum Spray</title>
+    <s:type>Eau de Parfum - EDP/S</s:type>
+    <s:vendor>Ajmal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0108042larger.jpg?v=1633526598"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ajmal<br>
+        <strong>Type: </strong>Eau de Parfum - EDP/S<br>
+        <strong>Price: </strong>
+            89.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Ajmal in the year 2019. This oriental spicy fragrance has a blend of bergamot, lemon, cardamom, black pepper, rose, jasmine, saffron, cedarwood, iris, amber, and musk notes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>10.5</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Ajmal</s:tag>
+    <s:tag>gender_unisex</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6612152582277</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">89.95</s:price>
+      <s:sku>1000011066</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6612152549509</id>
+    <published>2021-10-06T09:23:12-04:00</published>
+    <updated>2021-10-06T09:23:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/amber-santal-by-ajmal-for-women-eau-de-parfum-spray"/>
+    <title>Amber Santal by Ajmal for Women - Eau de Parfum Spray</title>
+    <s:type>Eau de Parfum - EDP/S</s:type>
+    <s:vendor>Ajmal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0108041larger.jpg?v=1633526594"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ajmal<br>
+        <strong>Type: </strong>Eau de Parfum - EDP/S<br>
+        <strong>Price: </strong>
+            96.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Ajmal in the year 2019. This oriental woody fragrance has a blend of pepper, cypress, nutmeg, sandalwood, incense,patchouli, cedar, amber and sandalwood.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>10.5</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Ajmal</s:tag>
+    <s:tag>gender_women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6612152549509</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">96.95</s:price>
+      <s:sku>1000011090</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6612152516741</id>
+    <published>2021-10-06T09:23:09-04:00</published>
+    <updated>2021-10-06T09:23:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/viva-viola-by-ajmal-for-women-eau-de-parfum-spray"/>
+    <title>Viva Viola by Ajmal for Women - Eau de Parfum Spray</title>
+    <s:type>Eau de Parfum - EDP/S</s:type>
+    <s:vendor>Ajmal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0108040larger.jpg?v=1633526592"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ajmal<br>
+        <strong>Type: </strong>Eau de Parfum - EDP/S<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Ajmal in the year 2018. This oriental vanilla fragrance has a blend of black current, raspberry, pear, rose, white flowers, cedarwood, patchouli, and musk notes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>10.5</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Ajmal</s:tag>
+    <s:tag>gender_women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6612152516741</id>
+      <title>2.5 oz.</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>1000011083</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6612152483973</id>
+    <published>2021-10-06T09:23:07-04:00</published>
+    <updated>2021-10-06T09:23:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/serenity-in-me-by-ajmal-for-women-eau-de-parfum-spray"/>
+    <title>Serenity In Me by Ajmal for Women - Eau de Parfum Spray</title>
+    <s:type>Eau de Parfum - EDP/S</s:type>
+    <s:vendor>Ajmal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0108039larger.jpg?v=1633526589"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ajmal<br>
+        <strong>Type: </strong>Eau de Parfum - EDP/S<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Ajmal. This fragrance has a blend of cardamom, lemon, cinnamon, myrrh, vetiver, ambergris,agarwood oud, rose,amber, white musk and patchouli.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>10.5</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Ajmal</s:tag>
+    <s:tag>gender_women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6612152483973</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>1000011081</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6612152418437</id>
+    <published>2021-10-06T09:23:04-04:00</published>
+    <updated>2021-10-06T09:23:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/aqua-by-ajmal-for-men-eau-de-parfum-spray"/>
+    <title>Aqua by Ajmal for Men - Eau de Parfum Spray</title>
+    <s:type>Eau de Parfum - EDP/S</s:type>
+    <s:vendor>Ajmal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0108037larger.jpg?v=1633526587"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ajmal<br>
+        <strong>Type: </strong>Eau de Parfum - EDP/S<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Ajmal. This masculine fragrance has a blend of bergamot, geranium, lavender, pepper, patchouli, vetiver, and ambergris. It is recommended for casual wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>10.5</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Ajmal</s:tag>
+    <s:tag>gender_men</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6612152418437</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>1000011062</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6584031477893</id>
+    <published>2021-07-06T16:26:50-04:00</published>
+    <updated>2021-07-06T16:26:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/aurum-winter-by-ajmal-for-women-edp-spray"/>
+    <title>Aurum Winter by Ajmal for Women -  EDP Spray</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Ajmal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0111537larger.jpg?v=1625603212"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ajmal<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            30.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Ajmal in the year 2019. The oriental floral fragrance has a blend of fruits, amber, musk, moss, citruses and floral notes. It is recommnded for casual wear. It has long lasting fragrance.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>7.1</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Ajmal</s:tag>
+    <s:tag>Gender_women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6584031477893</id>
+      <title>2.5 oz.</title>
+      <s:price currency="USD">30.95</s:price>
+      <s:sku>1000012017</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6584030625925</id>
+    <published>2021-07-06T16:25:57-04:00</published>
+    <updated>2021-07-06T16:25:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/black-onyx-by-ajmal-for-unisex-edp-spray"/>
+    <title>Black Onyx by Ajmal for Unisex -  EDP Spray</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Ajmal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0108038larger.jpg?v=1625603158"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ajmal<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            28.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Ajmal. This oriental floral fragrance has a blend of cardamom, lemon, cinnamon, myrrh, agarwood oud, rose, amber, white musk, and patchouli.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>7.1</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Ajmal</s:tag>
+    <s:tag>Gender_men</s:tag>
+    <s:tag>Gender_women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6584030625925</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">28.95</s:price>
+      <s:sku>1000011977</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5236835942533</id>
+    <published>2021-02-19T11:12:10-05:00</published>
+    <updated>2021-02-19T11:12:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/oath-by-ajmal-for-men-eau-de-parfum-spray"/>
+    <title>Oath by Ajmal for Men - Eau De Parfum Spray</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Ajmal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0111538larger.jpg?v=1610729777"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ajmal<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            25.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Ajmal. This fragrance has a blend of musk, tuberose, patchouli, orange blossom, vanilla, bergamot, freesia, lily of the valley and apricot. It is recommended for casual wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>1.15</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Ajmal</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5236835942533</id>
+      <title>3.4  oz.</title>
+      <s:price currency="USD">25.95</s:price>
+      <s:sku>1000011316</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5236835844229</id>
+    <published>2021-02-19T11:12:09-05:00</published>
+    <updated>2021-02-19T11:12:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/aurum-summer-by-ajmal-for-women-eau-de-parfum-spray"/>
+    <title>Aurum Summer by Ajmal for Women - Eau De Parfum Spray</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Ajmal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0112861larger.jpg?v=1610729772"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ajmal<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            26.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Ajmal in the year 2020. This Floral Fruity fragrance has a blend of Bergamot, mandarin orange, apple, pear, red fruits, rose, peony, jasmine, orange blossom, osmanthus, musk, sandalwood, cedar, moss and vanilla.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>1.15</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Ajmal</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5236835844229</id>
+      <title>2.5  oz.</title>
+      <s:price currency="USD">26.95</s:price>
+      <s:sku>1000011307</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5172608499845</id>
+    <published>2021-02-19T11:12:00-05:00</published>
+    <updated>2021-02-19T11:12:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/shadow-noir-by-ajmal-for-women-eau-de-parfum-spray"/>
+    <title>Shadow Noir by Ajmal for Women -  Eau de Parfum Spray</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Ajmal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0094923larger.jpg?v=1600285745"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ajmal<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Ajmal. This floral fragrance has a blend of rosewood, lavender, nectarine, patchouli, orchid, white musk and white amber.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>9.9</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Ajmal</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5172608499845</id>
+      <title>2.5  oz.</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>1000009956</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5172604305541</id>
+    <published>2021-02-19T11:11:56-05:00</published>
+    <updated>2021-02-19T11:11:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/rose-wood-by-ajmal-for-unisex-eau-de-parfum-spray"/>
+    <title>Rose Wood by Ajmal for Unisex -  Eau de Parfum Spray</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Ajmal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0092226larger.jpg?v=1600285533"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ajmal<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            103.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Ajmal in the year 2015. This oriental fragrance has a blend of floral notes, spicy notes, rose, musk, agarwood, woody notes, and powery notes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>9.9</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Ajmal</s:tag>
+    <s:tag>GENDER_Unisex</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5172604305541</id>
+      <title>3.4  oz.</title>
+      <s:price currency="USD">103.95</s:price>
+      <s:sku>1000009943</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5236836008069</id>
+    <published>2021-01-15T11:56:18-05:00</published>
+    <updated>2021-01-15T11:56:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/raindrops-by-ajmal-for-women-eau-de-parfum-spray"/>
+    <title>Raindrops by Ajmal for Women - Eau De Parfum Spray</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Ajmal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0112858larger.jpg?v=1610729780"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ajmal<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            16.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Ajmal in the year 2006. This Floral Fruity fragrance has a blend of Floral notes, woodsy notes, fruity notes and ambergris.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1.15</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Ajmal</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:tag>UNDER $25</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5236836008069</id>
+      <title>1.7  oz.</title>
+      <s:price currency="USD">16.95</s:price>
+      <s:sku>1000011218</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5236835975301</id>
+    <published>2021-01-15T11:56:17-05:00</published>
+    <updated>2021-01-15T11:56:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/oath-by-ajmal-for-women-eau-de-parfum-spray"/>
+    <title>Oath by Ajmal for Women - Eau De Parfum Spray</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Ajmal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0111559larger.jpg?v=1610729778"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ajmal<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            25.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Ajmal. This fragrance has a blend of musk, tuberose, patchouli, orange blossom, vanilla, bergamot, freesia, lily of the valley and apricot. It is recommended for casual wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>1.15</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Ajmal</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5236835975301</id>
+      <title>3.4  oz.</title>
+      <s:price currency="USD">25.95</s:price>
+      <s:sku>1000011317</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5236835876997</id>
+    <published>2021-01-15T11:56:13-05:00</published>
+    <updated>2021-01-15T11:56:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/cashmere-musc-by-ajmal-for-unisex-eau-de-parfum-spray"/>
+    <title>Cashmere Musc by Ajmal for Unisex - Eau De Parfum Spray</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Ajmal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0112865larger.jpg?v=1610729774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ajmal<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            94.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Ajmal in the year 2019. This Woody Floral Musk Saffron, musk, jasmine, lily-of-the-valley, ylang-ylang, musk, patchouli, cedar, cashmeran and musk.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>1.15</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Ajmal</s:tag>
+    <s:tag>GENDER_Unisex</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5236835876997</id>
+      <title>3.4  oz.</title>
+      <s:price currency="USD">94.95</s:price>
+      <s:sku>1000011429</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5236835778693</id>
+    <published>2021-01-15T11:56:10-05:00</published>
+    <updated>2021-01-15T11:56:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/amber-wood-noir-by-ajmal-for-unisex-eau-de-parfum-spray"/>
+    <title>Amber Wood Noir by Ajmal for Unisex - Eau De Parfum Spray</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Ajmal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0110470larger.jpg?v=1610729771"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ajmal<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            94.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Ajmal in the year of 2020. This woody floral musk fragrance has a blend of Citruses, aromatic spices, floral notes, woodsy notes, woodsy notes, amber and musk.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>1.15</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Ajmal</s:tag>
+    <s:tag>GENDER_Unisex</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5236835778693</id>
+      <title>3.4  oz.</title>
+      <s:price currency="USD">94.95</s:price>
+      <s:sku>1000011428</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5172608598149</id>
+    <published>2020-12-18T19:34:09-05:00</published>
+    <updated>2020-12-18T19:34:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/aristocrat-by-ajmal-for-women-eau-de-parfum-spray"/>
+    <title>Aristocrat by Ajmal for Women -  Eau de Parfum Spray</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Ajmal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0094926larger.jpg?v=1600285750"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ajmal<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            33.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Ajmal in the year 2018. This woody floral musk fragrance has a blend of tagetes, orange, bergamot, jasmine, saffron, sugar, amber, oakmoss and musk.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>9.9</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Ajmal</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5172608598149</id>
+      <title>2.5  oz.</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>1000009486</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5172608532613</id>
+    <published>2020-10-14T00:13:16-04:00</published>
+    <updated>2020-10-14T00:13:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/wisal-by-ajmal-for-women-eau-de-parfum-spray"/>
+    <title>Wisal by Ajmal for Women -  Eau de Parfum Spray</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Ajmal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0094924larger.jpg?v=1600285746"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ajmal<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            26.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Ajmal in the year 2010. This floral fragrance has a blend of floral notes, rose, patchouli, sandalwood, spices and musk.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>9.9</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Ajmal</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5172608532613</id>
+      <title>1.7  oz.</title>
+      <s:price currency="USD">26.95</s:price>
+      <s:sku>1000009935</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5172604338309</id>
+    <published>2020-09-26T00:23:17-04:00</published>
+    <updated>2020-09-26T00:23:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/silver-shade-by-ajmal-for-unisex-eau-de-parfum-spray"/>
+    <title>Silver Shade by Ajmal for Unisex -  Eau de Parfum Spray</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Ajmal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0092227larger.jpg?v=1600285535"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ajmal<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Ajmal in the year 2012. This aromatic fruity fragrance has a blend of violet leaf, plum, black currant, lime, bergamot, lemon, rose, jasmine, iris, cedar, sandalwood, tonka bean, white musk, and civet.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9.9</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Ajmal</s:tag>
+    <s:tag>GENDER_Unisex</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:tag>UNDER $25</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5172604338309</id>
+      <title>3.4  oz.</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>1000009936</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5172608565381</id>
+    <published>2020-09-16T15:49:07-04:00</published>
+    <updated>2020-09-16T15:49:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/aristocrat-by-ajmal-for-men-eau-de-parfum-spray"/>
+    <title>Aristocrat by Ajmal for Men -  Eau de Parfum Spray</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Ajmal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0094925larger.jpg?v=1600285748"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ajmal<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            33.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Ajmal in the year 2017. This woody floral musk fragrance has a blend of bergamot, watermelon, lime, lily, jasmine, musk, patchouli, cedar, amber and agarwood (oud).</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>9.9</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Ajmal</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5172608565381</id>
+      <title>2.5  oz.</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>1000009950</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5172608434309</id>
+    <published>2020-09-16T15:49:00-04:00</published>
+    <updated>2020-09-16T15:49:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/shine-by-ajmal-for-women-eau-de-parfum-spray"/>
+    <title>Shine by Ajmal for Women -  Eau de Parfum Spray</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Ajmal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0094912larger.jpg?v=1600285741"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ajmal<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Ajmal in the year 2017. This floral fruity fragrance has a blend of pomegranate, strawberry, peony, lily-of-the-valley, powdery notes and woody notes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9.9</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Ajmal</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:tag>UNDER $25</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5172608434309</id>
+      <title>2.5  oz.</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>1000009949</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

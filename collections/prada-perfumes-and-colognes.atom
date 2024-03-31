@@ -1,0 +1,1190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumania.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumania.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumania.com/collections/prada-perfumes-and-colognes.atom"/>
+  <title>Perfumania</title>
+  <updated>2024-03-25T16:19:49-04:00</updated>
+  <author>
+    <name>Perfumania</name>
+  </author>
+  <entry>
+    <id>https://perfumania.com/products/6938992509061</id>
+    <published>2024-03-25T16:19:49-04:00</published>
+    <updated>2024-03-25T16:19:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/paradoxe-eau-de-parfum-spray-for-women-by-prada"/>
+    <title>Paradoxe Eau de Parfum Spray for Women by Prada</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Prada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/paradoxe.jpg?v=1711397982"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Prada<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            126.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BRAND_Prada</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6938992509061</id>
+      <title>3 oz.</title>
+      <s:price currency="USD">126.95</s:price>
+      <s:sku>1000013671</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6861592887429</id>
+    <published>2023-10-23T11:51:44-04:00</published>
+    <updated>2023-10-23T11:51:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/luna-rossa-ocean-for-men-eau-de-parfum-spray-by-prada"/>
+    <title>Luna Rossa Ocean For Men Eau De Parfum Spray by Prada</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Prada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/Prada_Ocean.jpg?v=1697654134"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Prada<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            89.95 - 108.95
+            <a href="https://perfumania.com/products/luna-rossa-ocean-for-men-eau-de-parfum-spray-by-prada">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Top Note: Grapefruit; Middle Notes: Woody Notes and Frankincense; Base Notes: Vanilla and Amber Xtreme</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Prada</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6861592887429</id>
+      <title>1.6 oz.</title>
+      <s:price currency="USD">89.95</s:price>
+      <s:sku>1000013643</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/6861592887429</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">108.95</s:price>
+      <s:sku>1000013772</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6840005099653</id>
+    <published>2023-08-15T11:22:25-04:00</published>
+    <updated>2023-08-15T11:22:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/luna-rossa-ocean-for-men-eau-de-toilette-spray-by-paco-rabanne"/>
+    <title>Luna Rossa Ocean For Men Eau De Toilette Spray by Prada</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Prada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/pradaocean.webp?v=1694100509"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Prada<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            79.95 - 101.95
+            <a href="https://perfumania.com/products/luna-rossa-ocean-for-men-eau-de-toilette-spray-by-paco-rabanne">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Top notes: Bergamot,Pink pepper, Artemisia; Missle notes: Lavender, Iris, Sage, Suede, Saffron; Base notes: Musk, Haitian Vetiver, Patchouli, Caramel</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>9.9</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Prada</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau De Toilette Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6840005099653</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">101.95</s:price>
+      <s:sku>1000013095</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/6840005099653</id>
+      <title>1.6 oz.</title>
+      <s:price currency="USD">79.95</s:price>
+      <s:sku>1000013359</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6603952095365</id>
+    <published>2021-09-08T12:18:25-04:00</published>
+    <updated>2021-09-08T12:18:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/prada-candy-night-by-prada-for-women-edp-spray"/>
+    <title>Prada Candy Night by Prada for Women - EDP Spray</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Prada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0116423larger.jpg?v=1631117907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Prada<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            89.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Prada in the year 2019. This oriental vanilla fragrance has a blend of orange essence, cacao, chocolate, caramel, vanilla, and white musk.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>9.8</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Prada</s:tag>
+    <s:tag>GENDER_ women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_ Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6603952095365</id>
+      <title>2.7 oz.</title>
+      <s:price currency="USD">89.95</s:price>
+      <s:sku>1000012474</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466989432965</id>
+    <published>2021-04-22T12:52:05-04:00</published>
+    <updated>2021-04-22T12:52:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/prada-amber-eau-de-parfum-spray-for-women-by-prada"/>
+    <title>Prada Amber Eau de Parfum Spray for Women by Prada</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Prada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Prada-Prada-Womens-Eau-de-Parfum-EDP-S-1-oz.-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1579125516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Prada<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            54.95 - 79.95
+            <a href="https://perfumania.com/products/prada-amber-eau-de-parfum-spray-for-women-by-prada">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Prada's Eau de Parfum of the same name is a modern fragrance based on a classical scent. This oriental perfume that opens with the zest of citrus, imbibes the aromas of intense amber, Indian sandalwood, French labdanum resin, Siam benzoin and Indonesian patchouli. This is rounded off with the gentle floral heart and a base of warm sweet vanilla and earthy patchouli.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Prada</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466989432965</id>
+      <title>1.0 oz.</title>
+      <s:price currency="USD">54.95</s:price>
+      <s:sku>101741052</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466989432965</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">79.95</s:price>
+      <s:sku>101741053</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467160907909</id>
+    <published>2021-04-22T09:39:45-04:00</published>
+    <updated>2021-04-22T09:39:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/prada-candy-sugar-pop-by-prada-for-women-eau-de-parfum-spray"/>
+    <title>PRADA CANDY SUGAR POP BY PRADA FOR WOMEN -  Eau De Parfum SPRAY</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Prada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0088496larger.jpg?v=1579129800"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Prada<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            115.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design hose of Prada. This floral fragrance has a blend of bergamot, apple, peach, caramel, vaniLla, and citrus notes. It is recommended for casual wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BRAND_Prada</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467160907909</id>
+      <title>2.7 oz.</title>
+      <s:price currency="USD">115.90</s:price>
+      <s:sku>1000006271</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467182862469</id>
+    <published>2021-04-22T09:37:35-04:00</published>
+    <updated>2021-04-22T09:37:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/prada-candy-kiss-by-prada-for-women-eau-de-parfum-spray"/>
+    <title>Prada Candy Kiss For Women By Prada Eau De Parfum Spray</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Prada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/W-9503larger.jpg?v=1580847310"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Prada<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            79.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PRADA CANDY KISS is a womenâ€™s perfume launched by the designer house of PRADA in 2016. This seductive fragrance blends notes of musk with warm hints of orange blossom and vanilla.<br><br><span style="font-weight:bold;">Notes:</span> Bergamot, Orange Blossom, Lily of the Valley, Musk, Vanilla
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Prada</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467182862469</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">79.95</s:price>
+      <s:sku>1000006270</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4563676070021</id>
+    <published>2021-04-22T09:29:30-04:00</published>
+    <updated>2021-04-22T09:29:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/luna-rossa-black-by-prada-for-men-edp-spray"/>
+    <title>Luna Rossa Black Eau de Parfum spray for Men by Prada</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Prada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0088494larger.jpg?v=1581453983"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Prada<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            88.95 - 108.95
+            <a href="https://perfumania.com/products/luna-rossa-black-by-prada-for-men-edp-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Prada</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4563676070021</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">108.95</s:price>
+      <s:sku>1000008677</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4563676070021</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">88.95</s:price>
+      <s:sku>1000011184</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5236839612549</id>
+    <published>2021-03-19T07:48:04-04:00</published>
+    <updated>2021-03-19T07:48:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/lhomme-prada-by-prada-for-men-eau-de-toilette-spray"/>
+    <title>LHomme Prada by Prada for Men - Eau De Toilette Spray</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Prada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0092211larger.jpg?v=1610729949"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Prada<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            76.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Prada. This woody chypre fragrance has a blend of iris, neroli, amber, vilolet, geranium, cedar, patchouli, black pepper, cardamom, sandalwood, mate, and carrot seeds.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>1.15</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Prada</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau De Toilette Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5236839612549</id>
+      <title>1.7  oz.</title>
+      <s:price currency="USD">76.95</s:price>
+      <s:sku>1000006710</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467020562565</id>
+    <published>2021-03-16T19:00:14-04:00</published>
+    <updated>2021-03-16T19:00:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/luna-rossa-sport-eau-de-toilette-spray-for-men-by-prada"/>
+    <title>Luna Rossa Sport Eau de Toilette Spray for Men by Prada</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Prada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Prada-Luna-Rossa-Sport-Men-Eau-de-Toilette-Spray-3.4-Best-Price-Fragrance-Parfume-FragranceOutlet.com-DETAILS.jpg?v=1579126498"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Prada<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            79.95 - 95.95
+            <a href="https://perfumania.com/products/luna-rossa-sport-eau-de-toilette-spray-for-men-by-prada">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Daniela (Roche) Andrier, a renowned perfumer shows off her talents yet again with Prada's Luna Ross Sport Perfume for Men. The scent of this perfume combines sporty confidence with a clean refined smell. Citrusy flavors are mixed with more calming notes like Lavender and Vanilla. Energizingly sporty yet dreamy, this scent is perfect to get cozy in the winter.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Prada</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467020562565</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">79.95</s:price>
+      <s:sku>1000002014</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467020562565</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">95.95</s:price>
+      <s:sku>1000002908</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467225755781</id>
+    <published>2021-03-10T23:20:52-05:00</published>
+    <updated>2021-03-10T23:20:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/la-femme-eau-de-parfum-spray-for-women-by-prada"/>
+    <title>Prada La Femme For Women By Prada Eau De Parfum Spray</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Prada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Prada-La-Femme-Women-Eau-de-Parfum-3.4-Best-Price-Fragrance-Parfume-FragranceOutlet.com.jpg?v=1580840058"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Prada<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            73.95 - 109.95
+            <a href="https://perfumania.com/products/la-femme-eau-de-parfum-spray-for-women-by-prada">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Prada La Femme is a solar and highly sensual floral fragrance, which evokes the dewy carnality associated with this faraway flower. Paying tribute to an unexpected flower, this fragrance opens with Frangipani and then radiates radiates ylang-ylang spicy tones, mellowed by beeswax and vanilla. It is enhanced by bewitching tuberose absolute and a surprisingly feminine vetiver, bringing inimitable character.<br><br>Top Note: Frangipani<br>Heart Note: Ylang-Ylang<br>Base Notes: Beeswax, Vanilla, Tuberose, Vetiver
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>BRAND_Prada</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467225755781</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">73.95</s:price>
+      <s:sku>1000008676</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467225755781</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">109.95</s:price>
+      <s:sku>1000008613</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5236839579781</id>
+    <published>2021-02-19T11:12:17-05:00</published>
+    <updated>2021-02-19T11:12:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/lhomme-intense-by-prada-for-men-eau-de-parfum-spray"/>
+    <title>LHomme Intense by Prada for Men - Eau De Parfum Spray</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Prada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0113350larger.jpg?v=1610729947"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Prada<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            49.95 - 79.95
+            <a href="https://perfumania.com/products/lhomme-intense-by-prada-for-men-eau-de-parfum-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Prada in the year 2017. This oriental woody fragrance has a blend of iris, patchouil, amber, leather, tonka bean and sandalwood.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>1.15</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Prada</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5236839579781</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>1000012581</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/5236839579781</id>
+      <title>5.1  oz.</title>
+      <s:price currency="USD">79.95</s:price>
+      <s:sku>1000011418</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5236839645317</id>
+    <published>2021-02-15T15:38:44-05:00</published>
+    <updated>2021-02-15T15:38:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/prada-milano-infusion-de-fleur-doranger-by-prada-for-women-eau-de-parfum-spray"/>
+    <title>Prada Milano Infusion De Fleur DOranger by Prada for Women - Eau De Parfum Spray</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Prada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/W-4921larger_6262b65d-a0e7-4867-abac-178833782b3b.jpg?v=1636468690"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Prada<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            78.95 - 95.95
+            <a href="https://perfumania.com/products/prada-milano-infusion-de-fleur-doranger-by-prada-for-women-eau-de-parfum-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Infusion De Fleur Doranger Perfume by Prada. Prada presents the first in its limited edition series called ephemeral infusion collection fragrances for women. This floral scent is beautiful year round, and perfect for the office. It is composed with</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>1.15</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Prada</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5236839645317</id>
+      <title>3.4  oz.</title>
+      <s:price currency="USD">78.95</s:price>
+      <s:sku>1000011417</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/5236839645317</id>
+      <title>6.75  oz.</title>
+      <s:price currency="USD">95.95</s:price>
+      <s:sku>1000011434</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5236839514245</id>
+    <published>2021-01-15T11:59:04-05:00</published>
+    <updated>2021-01-15T11:59:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/infusion-diris-cedre-by-prada-for-women-eau-de-parfum-spray"/>
+    <title>Infusion Diris Cedre by Prada for Women - Eau De Parfum Spray</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Prada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0109209larger.jpg?v=1610729945"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Prada<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            88.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Prada in the year 2007. This floral woody musk fragrance has a blend of insence, benzoin, tunision neroli, cedar and iris. It is recommanded for casual wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>1.15</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Prada</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5236839514245</id>
+      <title>6.8  oz.</title>
+      <s:price currency="USD">88.95</s:price>
+      <s:sku>1000011422</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5236839481477</id>
+    <published>2021-01-15T11:59:01-05:00</published>
+    <updated>2021-01-15T11:59:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/infusion-de-rose-by-prada-for-women-eau-de-parfum-spray"/>
+    <title>Infusion De Rose by Prada for Women - Eau De Parfum Spray</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Prada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0109289larger.jpg?v=1610729943"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Prada<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            98.95 - 129.95
+            <a href="https://perfumania.com/products/infusion-de-rose-by-prada-for-women-eau-de-parfum-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Prada in the year 2015. This sensual, romantic fragrance has a blend of Turkish and Bulgarian roses, neroli, fresh mandarin and bitter galbanum, rose.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>1.15</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Prada</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5236839481477</id>
+      <title>3.4  oz.</title>
+      <s:price currency="USD">98.95</s:price>
+      <s:sku>1000011411</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/5236839481477</id>
+      <title>6.8  oz.</title>
+      <s:price currency="USD">129.95</s:price>
+      <s:sku>1000011430</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467007520901</id>
+    <published>2021-01-11T22:58:32-05:00</published>
+    <updated>2021-01-11T22:58:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/candy-florale-eau-de-toilette-spray-for-women-by-prada"/>
+    <title>Prada Candy Florale For Women By Prada Eau De Toilette Spray</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Prada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Prada-Candy-Florale-Womens-Eau-de-Toilette-Spray-EDT-Spray-2.7-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1580841965"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Prada<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            74.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched in the April of 2014, Prada Candy Florale is a feminine fragrance from the House of Prada. It is also the third fragrance to be launched as part of the Prada Candy Collection. The original Candy was first launched in 2011 and was followed up with the Candy L'Eau in 2013. The nose behind the entire collection is perfumer, Daniel (Roche) Andrier. Prada Candy Florale is primarily a floral scent that is fresh and reinvigorating. It is said to be inspired by the notes of candy and flowers usually found in Italian ice cream shops. The composition is a romantic one consisting of top notes of Limoncello Sorbet, heart notes of Peony, and base notes of Honey, Caramel, Musk, and Benzoin.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>BRAND_Prada</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467007520901</id>
+      <title>2.7 oz.</title>
+      <s:price currency="USD">74.95</s:price>
+      <s:sku>1000000792</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467056312453</id>
+    <published>2020-10-23T00:41:29-04:00</published>
+    <updated>2020-10-23T00:41:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/prada-luna-rossa-carbon-eau-de-toilette-for-men"/>
+    <title>Luna Rossa Carbon Eau de Toilette Spray for Men by Prada</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Prada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Prada-Luna-Rossa-Carbon-Men-Eau-de-Toilette-1_7-Best-Price-Fragrance-Parfume-FragranceOutlet_com-main_jpeg.jpg?v=1579127584"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Prada<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            79.95 - 114.95
+            <a href="https://perfumania.com/products/prada-luna-rossa-carbon-eau-de-toilette-for-men">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Prada makes fragrances for the refined gentlemen. Their offerings are subtle and intentionally understated, just like the men who use them. These are the very same men who control the scene from behind the curtains. <br>Prada Luna Rossa Carbon lives up to that image perfectly. The fragrance is classified as an Aromatic Fougere for men and is one of Prada’s newer offerings. Launched in 2017, the perfume can be described as possessing fresh, metallic, and herbal qualities.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Prada</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau De Toilette Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467056312453</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">79.95</s:price>
+      <s:sku>1000004257</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467056312453</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">95.95</s:price>
+      <s:sku>1000004331</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467056312453</id>
+      <title>5.1 oz.</title>
+      <s:price currency="USD">114.95</s:price>
+      <s:sku>1000008527</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467160842373</id>
+    <published>2020-10-15T23:57:52-04:00</published>
+    <updated>2020-10-15T23:57:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/prada-candy-gloss-by-prada-for-women-eau-de-toilette-spray"/>
+    <title>PRADA CANDY GLOSS BY PRADA FOR WOMEN -  Eau De Toilette SPRAY</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Prada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0089291larger.jpg?v=1579129799"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Prada<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            72.35 - 79.95
+            <a href="https://perfumania.com/products/prada-candy-gloss-by-prada-for-women-eau-de-toilette-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Prada in the year of 2017. This floral fruity fragrance has a blend of sour cherry, cassis, orange blossom, rose, peach, benzoin, heliotrope, musk, vanilla and almond.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Prada</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467160842373</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">72.35</s:price>
+      <s:sku>1000006269</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467160842373</id>
+      <title>2.7 oz.</title>
+      <s:price currency="USD">79.95</s:price>
+      <s:sku>205533</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5181523329157</id>
+    <published>2020-10-07T11:30:47-04:00</published>
+    <updated>2020-10-07T11:30:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/lhomme-prada-leau-by-prada-for-men-eau-de-toilette-spray"/>
+    <title>LHomme Prada Leau by Prada for Men -  Eau De Toilette Spray</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Prada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0088492larger_cf83c4f7-5c10-4342-8b91-fa6f0131a1c8.jpg?v=1617654596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Prada<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            66.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Launched by the design house of Prada in the year 2017. This woody chypre fragrance has a blend of iris, neroli, powdery, ginger, amber, sandalwood and cedar notes.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>10.7</s:tag>
+    <s:tag>BRAND_Prada</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau De Toilette Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5181523329157</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">66.95</s:price>
+      <s:sku>1000006785</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4563665289349</id>
+    <published>2020-09-17T20:32:37-04:00</published>
+    <updated>2020-09-17T20:32:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/prada-milano-infusion-diris-by-prada-for-women-edp-spray"/>
+    <title>Prada Milano Infusion Diris by Prada for Women - EDP Spray</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Prada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/W-5133larger.jpg?v=1581453783"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Prada<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            113.17 - 125.95
+            <a href="https://perfumania.com/products/prada-milano-infusion-diris-by-prada-for-women-edp-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Prada Infusion dIris was introduces in 2007 as oriental-woodsy fragrance. The name of this fragrance was inspired by the old method of producing iris extract which took six months of soaking until the sweetly fresh iris notes were extracted.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Prada</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>PWW Items</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4563665289349</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">113.17</s:price>
+      <s:sku>1000009043</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4563665289349</id>
+      <title>6.75 oz.</title>
+      <s:price currency="USD">125.95</s:price>
+      <s:sku>1000011425</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5172612038789</id>
+    <published>2020-09-16T15:51:52-04:00</published>
+    <updated>2020-09-16T15:51:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/luna-rossa-eau-sport-by-prada-for-men-eau-de-toilette-spray"/>
+    <title>Luna Rossa Eau Sport by Prada for Men -  Eau de Toilette Spray</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Prada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0098860larger.jpg?v=1600285913"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Prada<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            66.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Prada in the year 2015. This citrus aromatic fragrance has a blend of bergamot, citron, lavender, ginger, ambergis, and cedar.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>9.9</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Prada</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau De Toilette Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5172612038789</id>
+      <title>4.2  oz.</title>
+      <s:price currency="USD">66.95</s:price>
+      <s:sku>1000010060</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5172603617413</id>
+    <published>2020-09-16T15:44:52-04:00</published>
+    <updated>2020-09-16T15:44:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/la-femme-prada-intense-by-prada-for-women-eau-de-parfum-spray"/>
+    <title>La Femme Prada Intense by Prada for Women -  Eau de Parfum Spray</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Prada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0091351larger.jpg?v=1600285494"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Prada<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            66.95 - 88.95
+            <a href="https://perfumania.com/products/la-femme-prada-intense-by-prada-for-women-eau-de-parfum-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Prada. This oriental floral fragrance has a blend of carrot seeds, bergamot, spices, ylang-ylang, tuberose, iris, beeswax, vetiver, and vanilla notes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>9.9</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Prada</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5172603617413</id>
+      <title>1.7  oz.</title>
+      <s:price currency="USD">66.95</s:price>
+      <s:sku>1000010061</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/5172603617413</id>
+      <title>3.4  oz.</title>
+      <s:price currency="USD">88.95</s:price>
+      <s:sku>1000010062</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467141869701</id>
+    <published>2020-07-27T19:07:56-04:00</published>
+    <updated>2020-07-27T19:07:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/la-femme-prada-leau-by-prada-for-women-eau-de-toilette-spray"/>
+    <title>LA FEMME PRADA LEAU BY PRADA FOR WOMEN -  Eau De Toilette SPRAY</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Prada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0088489larger.jpg?v=1579129358"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Prada<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            69.95 - 99.95
+            <a href="https://perfumania.com/products/la-femme-prada-leau-by-prada-for-women-eau-de-toilette-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Michael Kors in the year 2011. This floral aquatic fragrance has a blend of</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Prada</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467141869701</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>1000010063</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467141869701</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000005823</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467227197573</id>
+    <published>2020-06-30T22:45:50-04:00</published>
+    <updated>2020-06-30T22:45:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/prada-amber-pour-homme-by-prada-for-men-edt-spray"/>
+    <title>Prada Amber For Men By Prada Eau De Toilette Spray</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Prada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/M-2486larger.jpg?v=1579877942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Prada<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            62.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PRADA AMBER was launched by the designer house of Prada in 2006. This scent possesses a blend of Bergamot Oil from Italy, Mandarin Oil from Italy, Cardamom Oil from Guatemala, Labdanum Resin from France, Patchouli Leaves from Indonesia, Tonka Bean, Vanilla, Geranium from Africa, Vetiver, Neroli Oil from Tunisia, Nirvanolide, Orange Blossom, Myrrh, Saffron from Spain, Sandalwood from India, Suede.</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>BRAND_Prada</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>oriental-notes</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467227197573</id>
+      <title>1.7 oz</title>
+      <s:price currency="USD">62.15</s:price>
+      <s:sku>202741053</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467041140869</id>
+    <published>2020-06-30T22:45:44-04:00</published>
+    <updated>2020-06-30T22:45:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/prada-amber-eau-de-parfum-spray-for-women-by-prada-1"/>
+    <title>Prada Amber Eau de Parfum Spray for Women by Prada</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Prada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/Prada-Prada-Womens-Eau-de-Parfum-EDP-S-1-oz.-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details_a74dbeac-60eb-4137-afdc-151b35abe90a.jpg?v=1698412922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Prada<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            120.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+Experience the timeless elegance of Prada Amber Eau de Parfum Spray for Women by Prada. This captivating fragrance exudes sophistication with its rich and luxurious blend of notes, leaving a lasting impression of femininity and allure.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BRAND_Prada</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467041140869</id>
+      <title>2.7 oz.</title>
+      <s:price currency="USD">120.95</s:price>
+      <s:sku>1000001561</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

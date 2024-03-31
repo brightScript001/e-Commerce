@@ -1,0 +1,1061 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumania.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumania.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumania.com/collections/kenneth-cole-colognes-and-perfumes.atom"/>
+  <title>Perfumania</title>
+  <updated>2021-06-17T08:51:55-04:00</updated>
+  <author>
+    <name>Perfumania</name>
+  </author>
+  <entry>
+    <id>https://perfumania.com/products/6579957334149</id>
+    <published>2021-06-17T08:51:55-04:00</published>
+    <updated>2021-06-17T08:51:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/mankind-hero-by-kenneth-cole-for-men-2-pc-gift-set"/>
+    <title>Mankind Hero by Kenneth Cole for Men - 2 Pc Gift Set</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Kenneth Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0115941larger.jpg?v=1623934316"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kenneth Cole<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            45.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Kenneth Cole in the year 2016. This oriental fougere fragrance has a blend of Italian lemon, coriander seeds, lavender, clary sage, vanilla, coumarin, amber woods, white moss, and musks. Mankind Hero by Kenneth Cole for Men - 2 Pc Gift Set 6.7oz EDT Spray, 0.5oz EDT Spray</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>Bogo-ignore</s:tag>
+    <s:tag>BRAND_Kenneth Cole</s:tag>
+    <s:tag>gender_men</s:tag>
+    <s:tag>gift-set</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Gift Set</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6579957334149</id>
+      <title>6.7 oz.</title>
+      <s:price currency="USD">45.95</s:price>
+      <s:sku>1000011760</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6579957268613</id>
+    <published>2021-06-17T08:51:53-04:00</published>
+    <updated>2021-06-17T08:51:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/mankind-by-kenneth-cole-for-men-2-pc-gift-set"/>
+    <title>Mankind by Kenneth Cole for Men - 2 Pc Gift Set</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Kenneth Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0115940larger.jpg?v=1623934314"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kenneth Cole<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            45.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Kenneth Cole in the year 2013. This woody aromatic fragrance has a blend of cardamom, tarragon leaf, ginger, pineapple, cedar, vetiver, cinnamon, sandalwood, oak moss, tonka bean, and musk notes. Mankind by Kenneth Cole for Men - 2 Pc Gift Set 6.7oz EDT Spray, 0.5oz EDT Spray</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>Bogo-ignore</s:tag>
+    <s:tag>BRAND_Kenneth Cole</s:tag>
+    <s:tag>gender_men</s:tag>
+    <s:tag>gift-set</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Gift Set</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6579957268613</id>
+      <title>6.7 oz.</title>
+      <s:price currency="USD">45.95</s:price>
+      <s:sku>1000011759</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466939822213</id>
+    <published>2021-04-23T08:44:58-04:00</published>
+    <updated>2021-04-23T08:44:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/kenneth-cole-reaction-cologne-mens-eau-de-toilette"/>
+    <title>Kenneth Cole Reaction Eau de Toilette Spray for Men by Kenneth Cole</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Kenneth Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Kennet-Cole-Kenneth-Cole-Reaction-Mens-Eau-de-Toilette-Spray-3.4-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1579123746"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kenneth Cole<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            29.11 - 69.95
+            <a href="https://perfumania.com/products/kenneth-cole-reaction-cologne-mens-eau-de-toilette">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched in 2004, Reaction is an utterly masculine, unexpected and dynamic scent that has many-a geniuses behind it. Launched by the design house of Kenneth Cole, it was created by celebrated perfumer Frank Voelkl, and packaged by the award-winning pairing of Chad Lavigne and Kenneth Cole. The innovative blend of citrus, aquatic, and woody scents creates a unique fragrance that stands out from the rest and gets you noticed immediately. Perfect for daily, casual use, Reaction is a masculine fragrance you just can't go wrong with!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Kenneth Cole</s:tag>
+    <s:tag>fresh-notes</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466939822213</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>212511157</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466939822213</id>
+      <title>3.4 oz. Tester</title>
+      <s:price currency="USD">29.11</s:price>
+      <s:sku>414511157</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467084198021</id>
+    <published>2021-04-22T12:42:14-04:00</published>
+    <updated>2021-04-22T12:42:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/kenneth-cole-reaction-by-kenneth-cole-for-women-eau-de-parfum-spray"/>
+    <title>Kenneth Cole Reaction by Kenneth Cole for Women -  Eau De Parfum Spray</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Kenneth Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/W-3186larger.jpg?v=1579128266"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kenneth Cole<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            59.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Introduced in the year 2005, by the design house of Kenneth Cole. Reaction has ablend of grapefruit, mandarin, orchid, sweet pea, lily of the valley, musk, votive mist, cottonwood and white amber.It is recommeneded for anytime wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Kenneth Cole</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467084198021</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>111511057</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467084296325</id>
+    <published>2021-04-22T12:42:13-04:00</published>
+    <updated>2021-04-22T12:42:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/kenneth-cole-white-by-kenneth-cole-for-women-eau-de-parfum-spray"/>
+    <title>Kenneth Cole White For Women By Kenneth Cole Eau De Parfum Spray</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Kenneth Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/W-1123larger.jpg?v=1580920727"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kenneth Cole<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kenneth Cole White perfume by Kenneth Cole. A refreshing, crisp scent from kenneth cole, kenneth cole white was introduced in 2003.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Kenneth Cole</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467084296325</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>111512257</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467140919429</id>
+    <published>2021-04-22T12:37:42-04:00</published>
+    <updated>2021-04-22T12:37:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/kenneth-cole-blue-by-kenneth-cole-for-men-eau-de-toilette-spray"/>
+    <title>KENNETH COLE BLUE BY KENNETH COLE FOR MEN -  Eau De Toilette SPRAY</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Kenneth Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/M-4843larger.jpg?v=1579129332"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kenneth Cole<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by design house of Kenneth Cole in year 2015.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Kenneth Cole</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467140919429</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>1000005800</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5176519327877</id>
+    <published>2021-04-22T09:26:33-04:00</published>
+    <updated>2021-04-22T09:26:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/kenneth-cole-black-by-kenneth-cole-for-women-eau-de-parfum-spray"/>
+    <title>Kenneth Cole Black by Kenneth Cole for Women -  Eau De Parfum Spray</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Kenneth Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/T0000286larger.jpg?v=1601389473"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kenneth Cole<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by design house of Kenneth Cole in year 2015.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>9.29</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Kenneth Cole</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5176519327877</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>111090057</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6556471984261</id>
+    <published>2021-04-12T11:31:48-04:00</published>
+    <updated>2021-04-12T11:31:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/rsvp-by-kenneth-cole-for-men-eau-de-toilette-spray"/>
+    <title>RSVP by Kenneth Cole for Men -  Eau De Toilette Spray</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Kenneth Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/ken-cole-rsvp.jpg?v=1642093425"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kenneth Cole<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            54.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Kenneth Cole in the year 2007. This woody floral musk fragrance has a blend of lavender, pepper, grapefruit, iris, orchid, cedar, sandalwood, patchouli, vetiver, cashmere wood.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>4.12</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Kenneth Cole</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau De Toilette Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6556471984261</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">54.95</s:price>
+      <s:sku>212512257</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4563675938949</id>
+    <published>2021-03-22T14:52:34-04:00</published>
+    <updated>2021-03-22T14:52:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/kenneth-cole-signature-by-kenneth-cole-for-men-edt-spray"/>
+    <title>Kenneth Cole Signature by Kenneth Cole for Men - EDT Spray</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Kenneth Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/M-1954larger.jpg?v=1581453981"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kenneth Cole<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            24.95 - 39.95
+            <a href="https://perfumania.com/products/kenneth-cole-signature-by-kenneth-cole-for-men-edt-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Kenneth Cole in the year 2005. This aromatic fragrance has a blend of grapefruit, violet, cardamon, orris root, espresso bean, guaiac wood, smoky amber, and papyrus. It is recommended for special occasion.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Kenneth Cole</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>PWW Items</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:tag>UNDER $25</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4563675938949</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>212513153</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4563675938949</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>212513157</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467084329093</id>
+    <published>2021-03-21T23:01:43-04:00</published>
+    <updated>2021-03-21T23:01:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/kenneth-cole-by-kenneth-cole-for-women-eau-de-parfum-spray"/>
+    <title>Kenneth Cole by Kenneth Cole for Women -  Eau De Parfum Spray</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Kenneth Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/W-1121larger.jpg?v=1579128267"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kenneth Cole<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Introduced in the year 2002, by the design house of Kenneth Cole. Kenneth Cole is a oriental fragrance with a blend of cassis, plum, jasmine, lemongrass, white rose, mandarin and cardamon.It is recommended for all occasions.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Kenneth Cole</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467084329093</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>1000009182</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467084329093</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>111512057</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466960957573</id>
+    <published>2021-01-13T22:40:46-05:00</published>
+    <updated>2021-01-13T22:40:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/kenneth-cole-mankind-mens-eau-de-toilette-spray"/>
+    <title>Mankind Eau de Toilette Spray for Men by Kenneth Cole</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Kenneth Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Kenneth-Cole-Mankind-Mens-Eau-de-Toilette-Spray-3.4-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Detail.jpg?v=1625165197"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kenneth Cole<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            49.95 - 69.95
+            <a href="https://perfumania.com/products/kenneth-cole-mankind-mens-eau-de-toilette-spray">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mankind by Kenneth Cole for Men is an aromatic woody perfume with earth accords. Both name and scents that build perfume give out idea behind perfume: evolution of mankind, for man who is going forward and is very clear about where he is going and how he is going to get there. fragrance opens with pineapple, ginger, tarragon, and cardamom. heart of perfume consists of cinnamon, vetiver, and cedar. base notes consist of sandalwood, tonka beans, musk, and oakmoss.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Kenneth Cole</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466960957573</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>200242</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466960957573</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>1000001093</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466960957573</id>
+      <title>6.7 oz.</title>
+      <s:price currency="USD">64.95</s:price>
+      <s:sku>1000012415</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5094848233605</id>
+    <published>2021-01-06T23:28:12-05:00</published>
+    <updated>2021-01-06T23:28:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/kenneth-cole-by-kenneth-cole-for-men"/>
+    <title>Kenneth Cole by Kenneth Cole for Men</title>
+    <s:type>Eau de Toilette Spray</s:type>
+    <s:vendor>Kenneth Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/KennethColebyKennethColeforMen.jpg?v=1591802021"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kenneth Cole<br>
+        <strong>Type: </strong>Eau de Toilette Spray<br>
+        <strong>Price: </strong>
+            39.95 - 69.95
+            <a href="https://perfumania.com/products/kenneth-cole-by-kenneth-cole-for-men">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Kenneth Cole in the year of 2018. This aromatic spicy fragrance has a blend of mineral notes, sea salt, citruses, jasmine, ginger, woodsy notes, and white amber.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>6.9</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Kenneth Cole</s:tag>
+    <s:tag>gender_men</s:tag>
+    <s:tag>kenneth-cole</s:tag>
+    <s:tag>TYPE_Eau de Toilette Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5094848233605</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>204843</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/5094848233605</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>204164</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467224379525</id>
+    <published>2020-12-28T15:02:08-05:00</published>
+    <updated>2020-12-28T15:02:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/mankind-hero-eau-de-toilette-spray-for-men-by-kenneth-cole"/>
+    <title>Mankind Hero For Men By Kenneth Cole Eau De Toilette Spray</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Kenneth Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Kenneth-Cole-Mankind-Hero-Men-Eau-de-Toilette-3.4-Best-Price-Fragrance-Parfume-FragranceOutlet.com-main.jpg?v=1580910693"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kenneth Cole<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A fresh new fragrance that celebrates the evolution of the modern hero: the committed partner, father, the better man, the great protector. He is a man who embraces simplicity, inspires self-belief in others, and keeps his friends close and his family closer. This is the evolution of MANKIND HERO.<br><br>Discover your inner HERO with the power of fresh mountain air accord and rich woods infused with black vanilla. This courageous new fragrance by Kenneth Cole is the perfect balance of strength and warmth.<br><br><span style="font-weight: bold;">Notes:</span> fresh mountain accord, italian lemon, coriander seeds, plum wood, lavendar, clary sage, vanilla infusion, coumarin, amber woods, white moss, musks.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Kenneth Cole</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467224379525</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>1000008377</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5176519458949</id>
+    <published>2020-12-03T19:10:22-05:00</published>
+    <updated>2020-12-03T19:10:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/mankind-ultimate-by-kenneth-cole-for-men-eau-de-toilette-spray"/>
+    <title>Mankind Ultimate by Kenneth Cole for Men -  Eau De Toilette Spray</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Kenneth Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/T0000279larger.jpg?v=1601389477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kenneth Cole<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            54.95 - 69.95
+            <a href="https://perfumania.com/products/mankind-ultimate-by-kenneth-cole-for-men-eau-de-toilette-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Kenneth Cole in the year 2015.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>9.29</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Kenneth Cole</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>TYPE_Eau De Toilette Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5176519458949</id>
+      <title>6.7 oz.</title>
+      <s:price currency="USD">54.95</s:price>
+      <s:sku>1000011942</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/5176519458949</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>201179</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5214225498245</id>
+    <published>2020-11-18T07:43:05-05:00</published>
+    <updated>2020-11-18T07:43:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/kenneth-cole-copper-black-eau-de-toilette-spray-for-men-by-kenneth-cole"/>
+    <title>Kenneth Cole Copper Black Eau de Toilette Spray for Men by Kenneth Cole</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Kenneth Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/copperblack.jpg?v=1606925349"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kenneth Cole<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            39.95 - 69.95
+            <a href="https://perfumania.com/products/kenneth-cole-copper-black-eau-de-toilette-spray-for-men-by-kenneth-cole">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Kenneth Cole Copper Black Eau de Toilette Spray for Men by Kenneth Cole is a captivating fragrance that blends sophistication and boldness. This fragrance exudes confidence and style, making it a perfect choice for men seeking a powerful and distinct fragrance experience.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Kenneth Cole</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5214225498245</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>1000011117</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/5214225498245</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>1000011118</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5214222647429</id>
+    <published>2020-11-18T07:43:04-05:00</published>
+    <updated>2020-11-18T07:43:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/mankind-legacy-eau-de-toilette-spray-for-men-by-kenneth-cole"/>
+    <title>Mankind Legacy Eau de Toilette Spray for Men by Kenneth Cole</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Kenneth Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/mankindlegacy.jpg?v=1606925383"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kenneth Cole<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            58.95 - 89.95
+            <a href="https://perfumania.com/products/mankind-legacy-eau-de-toilette-spray-for-men-by-kenneth-cole">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Mankind Legacy Eau de Toilette Spray for Men by Kenneth Cole is a timeless fragrance that embodies strength and sophistication. With its aromatic blend of notes, it leaves a lasting impression and celebrates the legacy of the modern man.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Kenneth Cole</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5214222647429</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">58.95</s:price>
+      <s:sku>1000011120</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/5214222647429</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>1000011121</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/5214222647429</id>
+      <title>6.7 oz.</title>
+      <s:price currency="USD">89.95</s:price>
+      <s:sku>1000011940</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467076694149</id>
+    <published>2020-10-02T16:12:12-04:00</published>
+    <updated>2020-10-02T16:12:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/kenneth-cole-vintage-black-by-kenneth-cole-for-men-eau-de-toilette-edt-s"/>
+    <title>Kenneth Cole Vintage Black by Kenneth Cole for Men - Eau de Toilette</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Kenneth Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/M-3168larger.jpg?v=1579128054"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kenneth Cole<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            19.99 - 69.95
+            <a href="https://perfumania.com/products/kenneth-cole-vintage-black-by-kenneth-cole-for-men-eau-de-toilette-edt-s">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Kenneth Cole in the year 2009. This woody aromatic fragrance has blend of green lime, dewy greenery, pink grapefruit, white pepper, lavender, dry oak wood, sandalwood and tequila notes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Kenneth Cole</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:tag>UNDER $25</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467076694149</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>198265</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467076694149</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>212090257</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5176519557253</id>
+    <published>2020-09-29T10:24:40-04:00</published>
+    <updated>2020-09-29T10:24:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/intensity-by-kenneth-cole-for-unisex-eau-de-toilette-spray"/>
+    <title>Intensity by Kenneth Cole for Unisex -  Eau De Toilette Spray</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Kenneth Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/T0000289larger.jpg?v=1601389482"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kenneth Cole<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Kenneth Cole in the year 2018. This oriental spicy fragrance has a blend of cardamom, pink pepper, white leather, golden saffron, nutmeg, tobacco leaf, tonka, coffee absolute, and precious woods.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>9.29</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Kenneth Cole</s:tag>
+    <s:tag>GENDER_Unisex</s:tag>
+    <s:tag>TYPE_Eau De Toilette Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5176519557253</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>205218</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5176519524485</id>
+    <published>2020-09-29T10:24:39-04:00</published>
+    <updated>2020-09-29T10:24:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/energy-by-kenneth-cole-for-unisex-eau-de-toilette-spray"/>
+    <title>Energy by Kenneth Cole for Unisex -  Eau De Toilette Spray</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Kenneth Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/T0000288larger.jpg?v=1601389480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kenneth Cole<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Kenneth Cole in the year 2018. This floral woody musk fragrance has a blend of neroli, orange blossom, magnolia, summer night blooming jasmine, tuberose absolute, sandalwood, vetiver, and musk.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>9.29</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Kenneth Cole</s:tag>
+    <s:tag>GENDER_Unisex</s:tag>
+    <s:tag>TYPE_Eau De Toilette Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5176519524485</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>205216</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5176519491717</id>
+    <published>2020-09-29T10:24:37-04:00</published>
+    <updated>2020-09-29T10:24:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/serenity-by-kenneth-cole-for-unisex-eau-de-toilette-spray"/>
+    <title>Serenity by Kenneth Cole for Unisex -  Eau De Toilette Spray</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Kenneth Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/T0000280larger.jpg?v=1601389478"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kenneth Cole<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Kenneth Cole in the year 2018. This oriental woody fragrance has a blend of white pepper, whiskey accord, peach nectar, sandalwood, cashmere, tonka, labdanum, and vanilla.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>9.29</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Kenneth Cole</s:tag>
+    <s:tag>GENDER_Unisex</s:tag>
+    <s:tag>TYPE_Eau De Toilette Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5176519491717</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>205220</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466939560069</id>
+    <published>2020-09-14T19:17:16-04:00</published>
+    <updated>2020-09-14T19:17:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/kennet-cole-kenneth-cole-black-mens-eau-de-toilette-spray"/>
+    <title>Kenneth Cole Black Eau de Toilette Spray for Men by Kenneth Cole</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Kenneth Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Kennet-Cole-Kenneth-Cole-Black-Mens-Eau-de-Toilette-Spray-3.4-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1619632958"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kenneth Cole<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            44.95 - 69.95
+            <a href="https://perfumania.com/products/kennet-cole-kenneth-cole-black-mens-eau-de-toilette-spray">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched in 2003 by the design house of Kenneth Cole, Black is a celebration of the allure of the timeless color, black. Deep, dark and outright sexy, the perfume is a targeted charmer with an undeniable pull. It blends scents from exotic spices, invigorating herbs, and carnal woods, in one masculine fragrance that is not just sexy, but also pleasant, elegant and sophisticated. Perfect for casual use and date nights, Black is an absolute classic!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Kenneth Cole</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466939560069</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">44.95</s:price>
+      <s:sku>212090154</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466939560069</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>212090156</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466939560069</id>
+      <title>3.4 oz. Tester</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>414090156</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5094848528517</id>
+    <published>2020-08-06T13:29:13-04:00</published>
+    <updated>2020-08-06T13:29:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/black-bold-by-kenneth-cole-for-men"/>
+    <title>Black Bold by Kenneth Cole for Men</title>
+    <s:type>Eau de Parfum Spray</s:type>
+    <s:vendor>Kenneth Cole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/BlackBoldbyKennethColeforMen.jpg?v=1591802029"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kenneth Cole<br>
+        <strong>Type: </strong>Eau de Parfum Spray<br>
+        <strong>Price: </strong>
+            19.95 - 69.95
+            <a href="https://perfumania.com/products/black-bold-by-kenneth-cole-for-men">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Kenneth Cole in the year 2016. This woody aromatic fragrance has a blend of cedar, lotus, suede, ginger, woody notes, incense, water mint, violet leaf, and nutmeg.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>6.9</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Kenneth Cole</s:tag>
+    <s:tag>gender_men</s:tag>
+    <s:tag>kenneth-cole</s:tag>
+    <s:tag>TYPE_Eau de Parfum Spray</s:tag>
+    <s:tag>UNDER $25</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5094848528517</id>
+      <title>1.0 oz.</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>203118</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/5094848528517</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>202921</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/5094848528517</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>202920</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

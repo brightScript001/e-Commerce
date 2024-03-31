@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumania.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumania.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumania.com/collections/marc-jacobs-perfumes-and-colognes.atom"/>
+  <title>Perfumania</title>
+  <updated>2022-05-17T16:07:39-04:00</updated>
+  <author>
+    <name>Perfumania</name>
+  </author>
+  <entry>
+    <id>https://perfumania.com/products/6683306754181</id>
+    <published>2022-05-17T16:07:39-04:00</published>
+    <updated>2022-05-17T16:07:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/perfect-eau-de-parfum-spray-for-women-by-marc-jacobs"/>
+    <title>Perfect Eau De Parfum Spray For Women By Marc Jacobs</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Marc Jacobs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/PerfectEaudeParfumSprayforWomenbyMarcJacobs.jpg?v=1652818061"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Marc Jacobs<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            96.95 - 124.95
+            <a href="https://perfumania.com/products/perfect-eau-de-parfum-spray-for-women-by-marc-jacobs">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Perfect Eau de Parfum Spray for Women by Marc Jacobs is a captivating fragrance that celebrates individuality and self-expression. With its vibrant and joyful blend of floral and fruity notes, it embodies the spirit of optimism and confidence, making it the perfect scent for the modern woman who embraces her unique beauty and lives life to the fullest.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Marc Jacobs</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6683306754181</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">96.95</s:price>
+      <s:sku>1000009350</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/6683306754181</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">124.95</s:price>
+      <s:sku>1000009351</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466974883973</id>
+    <published>2021-04-22T12:53:11-04:00</published>
+    <updated>2021-04-22T12:53:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/marc-jacobs-dot-womens-eau-de-parfum-spray"/>
+    <title>Dot Eau de Parfum Spray for Women by Marc Jacobs</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Marc Jacobs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Marc-Jacobs-Dot-Womens-Eau-de-Parfume-Spray-3.4-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1709587427"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Marc Jacobs<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            89.95 - 92.95
+            <a href="https://perfumania.com/products/marc-jacobs-dot-womens-eau-de-parfum-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fresh, fruity and whimsical, Marc JacobsÌ»s Dot is a quirky scent that is suitable for women of all ages. Present in a bottle festooned with polka dots, the fragrance itself is reminiscent of a bygone, retro era. Along with a dose of nostalgia, the notes of dragon fruit and coconut make the scent very unusual, and memorable.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Marc Jacobs</s:tag>
+    <s:tag>fresh-notes</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466974883973</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">89.95</s:price>
+      <s:sku>111197353</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466974883973</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">92.95</s:price>
+      <s:sku>111197357</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466974949509</id>
+    <published>2021-04-22T12:53:10-04:00</published>
+    <updated>2021-04-22T12:53:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/marc-jacobs-honey-womens-eau-de-parfum-spray"/>
+    <title>Honey Eau de Parfum Spray for Women by Marc Jacobs</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Marc Jacobs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Marc-Jacobs-Honey-Womens-Eau-de-Parfume-Spray-3.4-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Main.jpg?v=1579125041"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Marc Jacobs<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            39.99 - 79.95
+            <a href="https://perfumania.com/products/marc-jacobs-honey-womens-eau-de-parfum-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Whimsical, flirtatious and innocent, Honey by Marc Jacobs is the perfect summertime scent with hints of flowers like honeysuckle and fruits like pear. Citrus notes from mandarins add freshness to the scent, a base of honey and vanilla adds sweetness. The perfect scent for a warm summer night by the beach, or a midnight ramble in the garden, Honey by Marc Jacobs is fresh, young, and feminine.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Marc Jacobs</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466974949509</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>1000000668</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466974949509</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">79.95</s:price>
+      <s:sku>1000000669</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466981470341</id>
+    <published>2021-04-22T12:52:56-04:00</published>
+    <updated>2021-04-22T12:52:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/marc-jacobs-daisy-gift-set-eau-de-toilette-body-lotion-rollerball-for-women"/>
+    <title>Daisy Gift Set Eau de Toilette, Body Lotion, Rollerball for Women by Marc Jacobs</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Marc Jacobs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Marc-Jacobs-Daisy-Gift-Set-Womens-EDP-Spray-3.4-Best-Price-Fragrance-Parfum-FragranceOutlet.com-Main-Complete-New.jpg?v=1579125255"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Marc Jacobs<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            101.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Daisy fragrance was released by the Marc Jacobs fashion house. The fragrance wraps itself around you with sweet herbaceous violet leaves and wild strawberries, and intoxicating floral heart bouquet of jasmine and violet. The vanilla and musk are like a cozy comforting blanket on a winter's day, although these fragrances are very much wearable through all seasons round the year!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BRAND_Marc Jacobs</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Gift Set</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466981470341</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">101.95</s:price>
+      <s:sku>1000001431</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467057295493</id>
+    <published>2021-04-22T12:44:37-04:00</published>
+    <updated>2021-04-22T12:44:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/daisy-love-eau-de-toilette-spray-for-women-by-marc-jacobs"/>
+    <title>Daisy Love for Women by Marc Jacobs Eau de Toilette Spray</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Marc Jacobs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Jacobs-Daisy-Love-Women-Eau-de-Toilette-3.4-Best-Price-Fragrance-Parfume-FragranceOutlet.com-details.jpg?v=1580831867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Marc Jacobs<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            79.95 - 106.95
+            <a href="https://perfumania.com/products/daisy-love-eau-de-toilette-spray-for-women-by-marc-jacobs">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Daily Love is a fragrance from Marc Jacobs that joins the Daisy line-up, which came into being in 2007. Daisy Love is a captivating fragrance that was formulated by Alberto Morillas, who is responsible for much of the Daisy line-up. 
+  <br>The fragrance can be described as fruity and floral with a woody base. The top notes consist of Cloudberry, which explains the fresh berry-like scent. The middle is dominated by the Daisy Tree Note while the base is a unique blend of Cashmere Musk and Driftwood Accord.
+  <br>The fragrance is available in bottles of 30 ml, 50 ml, and 100 ml.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Marc Jacobs</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467057295493</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">79.95</s:price>
+      <s:sku>1000004443</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467057295493</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">106.95</s:price>
+      <s:sku>1000004341</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467066437765</id>
+    <published>2021-04-22T12:43:48-04:00</published>
+    <updated>2021-04-22T12:43:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/daisy-by-marc-jacobs-for-women-2-pc-gift-set-3-4oz-edt-spray-2-5oz-luminous-body-lotion"/>
+    <title>Daisy by Marc Jacobs for Women - 2 Pc Gift Set 3.4oz EDT Spray, 2.5oz Luminous Body Lotion</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Marc Jacobs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/W-GS-3804larger.jpg?v=1579127847"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Marc Jacobs<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            112.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Marc Jacobs in the year 2007. This floral woody fragrance has a blend of strawberry, violet, pink grapefruit, gardenia, jasmine, white woods, vanilla, and musk notes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BRAND_Marc Jacobs</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Gift Set</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467066437765</id>
+      <title>2 oz.</title>
+      <s:price currency="USD">112.95</s:price>
+      <s:sku>1000001863</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467224313989</id>
+    <published>2021-04-22T09:33:30-04:00</published>
+    <updated>2021-04-22T09:33:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/daisy-love-eau-so-sweet-eau-de-toilette-spray-for-women-by-marc-jacobs"/>
+    <title>Daisy Love Eau So Sweet Eau de Toilette Spray for Women by Marc Jacobs</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Marc Jacobs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Marc-Jacobs-Daisy-Love-Eau-So-Sweet-Women-Eau-de-Toilette-3.3-Best-Price-Fragrance-Parfume-FragranceOutlet.com-main.jpg?v=1579131288"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Marc Jacobs<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            106.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+Daisy Love Eau So Sweet Eau de Toilette Spray for Women by Marc Jacobs is a sweet and captivating fragrance that celebrates femininity and joy, with its blend of fruity and floral notes creating an irresistible and delightful scent that embodies youthful and carefree spirit.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BRAND_Marc Jacobs</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467224313989</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">106.95</s:price>
+      <s:sku>1000006729</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466948046981</id>
+    <published>2021-04-13T15:18:32-04:00</published>
+    <updated>2021-04-13T15:18:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/marc-jacobs-daisy-dream-womens-eau-de-toilette-spray"/>
+    <title>Daisy Dream For Women By Marc Jacobs Eau De Toilette Spray</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Marc Jacobs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Marc-Jacobs-Daisy-Dream-Womens-Eau-de-Toilette-Spray-3.4-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1580924524"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Marc Jacobs<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            59.95 - 106.95
+            <a href="https://perfumania.com/products/marc-jacobs-daisy-dream-womens-eau-de-toilette-spray">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Designed by perfumer Alberto Morillas in conjunction with Ann Gottleib and Marc Jacobs, Daisy Dream is a blue scent, made from a quirky combination of florals and woods that makes this scent ethereal and almost otherworldly. Spritz yourself with Daisy Dream and let it take you to a different world.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Marc Jacobs</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466948046981</id>
+      <title>1.0 oz.</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>1000004329</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466948046981</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">79.95</s:price>
+      <s:sku>1000000936</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466948046981</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">106.95</s:price>
+      <s:sku>1000000937</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5172596965509</id>
+    <published>2021-04-09T18:42:10-04:00</published>
+    <updated>2021-04-09T18:42:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/marc-jacobs-by-marc-jacobs-for-men-eau-de-toilette-spray"/>
+    <title>Marc Jacobs by Marc Jacobs for Men -  Eau de Toilette Spray</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Marc Jacobs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/M-1608larger.jpg?v=1600285183"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Marc Jacobs<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            78.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Introduced in the year 2001 by the design house of Marc Jacobs. MARC JACOBS is classified as a flowery fragrance. This masculine scent posesses a blend of: spices and patchouli, a light, mossy blend. It is recommended for daytime wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>9.9</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Marc Jacobs</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau De Toilette Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5172596965509</id>
+      <title>4.2  oz.</title>
+      <s:price currency="USD">78.95</s:price>
+      <s:sku>1000009586</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466948210821</id>
+    <published>2020-05-19T19:48:01-04:00</published>
+    <updated>2020-05-19T19:48:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/marc-jacobs-daisy-eau-so-fresh-womens-eau-de-toilette-spray"/>
+    <title>Daisy Eau So Fresh For Women By Marc Jacobs Eau De Toilette Spray</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Marc Jacobs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Marc-Jacobs-Daisy-Eau-So-Fresh-Womens-Eau-de-Toilette-Spray-4.2-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1598634863"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Marc Jacobs<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            94.95 - 115.95
+            <a href="https://perfumania.com/products/marc-jacobs-daisy-eau-so-fresh-womens-eau-de-toilette-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>With more fresh notes than Daisy by Marc Jacobs released in 20017, Daisy Eau So Fresh is for the woman of action. With the bittersweet tang of grapefruit melding with the sweetness of jasmine and litchi, Daisy Eau So Fresh is the perfect scent for all day wear. The cedar wood base adds a lingering atmospheric quality that truly makes the scent memorable.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Marc Jacobs</s:tag>
+    <s:tag>fresh-notes</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466948210821</id>
+      <title>2.5 oz.</title>
+      <s:price currency="USD">94.95</s:price>
+      <s:sku>111197265</s:sku>
+      <s:grams>726</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466948210821</id>
+      <title>4.2 oz.</title>
+      <s:price currency="USD">115.95</s:price>
+      <s:sku>111197268</s:sku>
+      <s:grams>726</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466948112517</id>
+    <published>2017-03-15T08:36:59-04:00</published>
+    <updated>2017-03-15T08:36:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/marc-jacobs-daisy-perfume-womens-eau-de-toilette"/>
+    <title>Daisy For Women By Marc Jacobs Eau De Toilette Spray</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Marc Jacobs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Marc-Jacobs-Daisy-Womens-Eau-de-Toilette-EDT-S-6.7-oz.-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1618837821"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Marc Jacobs<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            76.99 - 128.95
+            <a href="https://perfumania.com/products/marc-jacobs-daisy-perfume-womens-eau-de-toilette">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Meant for the sophisticated, elegant, strong, bold and beautiful woman, Marc Jacobs Daisy perfume is a delightful concoction of fruity and floral notes. Under the sweeter fruit and floral notes, the perfume is constructed with woods, a strong base to hold the bouquet of the scent together.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Marc Jacobs</s:tag>
+    <s:tag>floral-notes</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466948112517</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">79.95</s:price>
+      <s:sku>111197153</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466948112517</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">106.95</s:price>
+      <s:sku>111197157</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466948112517</id>
+      <title>3.4 oz. Tester</title>
+      <s:price currency="USD">76.99</s:price>
+      <s:sku>414197157</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466948112517</id>
+      <title>6.7 oz.</title>
+      <s:price currency="USD">128.95</s:price>
+      <s:sku>1000001492</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+</feed>

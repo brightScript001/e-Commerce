@@ -1,0 +1,1228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumania.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumania.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumania.com/collections/yves-saint-laurent-ysl-colognes-and-perfumes.atom"/>
+  <title>Perfumania</title>
+  <updated>2024-03-19T15:33:41-04:00</updated>
+  <author>
+    <name>Perfumania</name>
+  </author>
+  <entry>
+    <id>https://perfumania.com/products/6934361473157</id>
+    <published>2024-03-19T15:33:41-04:00</published>
+    <updated>2024-03-19T15:33:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/libre-intense-eau-de-parfum-spray-for-women-by-yves-saint-laurent"/>
+    <title>Libre Intense Eau de Parfum Spray for Women by Yves Saint Laurent</title>
+    <s:type>Eau De Parfum Intense Spray</s:type>
+    <s:vendor>Yves Saint Laurent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/libreintense.webp?v=1710876708"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yves Saint Laurent<br>
+        <strong>Type: </strong>Eau De Parfum Intense Spray<br>
+        <strong>Price: </strong>
+            129.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BRAND_Yves Saint Laurent</s:tag>
+    <s:tag>gender_women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:tag>TYPE_Eau De Parfum Intense Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6934361473157</id>
+      <title>3 oz.</title>
+      <s:price currency="USD">129.95</s:price>
+      <s:sku>1000011523</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6927980986501</id>
+    <published>2024-03-06T16:13:03-05:00</published>
+    <updated>2024-03-06T16:13:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/lhomme-le-parfum-eau-de-parfum-spray-by-yves-saint-laurent"/>
+    <title>L&apos;Homme Le Parfum Eau De Parfum Spray by Yves Saint Laurent</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Yves Saint Laurent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/lhommeleparfum2.jpg?v=1709759001"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yves Saint Laurent<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            123.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BRAND_Yves Saint Laurent</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:tag>ysl SearchTag</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6927980986501</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">123.95</s:price>
+      <s:sku>1000013065</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6927685582981</id>
+    <published>2024-03-05T16:16:30-05:00</published>
+    <updated>2024-03-05T16:16:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/la-nuit-de-lhomme-for-men-by-yves-saint-laurent-eau-de-parfum-spray"/>
+    <title>La Nuit De L&apos;Homme Le Parfum Spray For Men By Yves Saint Laurent</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Yves Saint Laurent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/M-3567larger.jpg?v=1709674633"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yves Saint Laurent<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            103.95 - 125.95
+            <a href="https://perfumania.com/products/la-nuit-de-lhomme-for-men-by-yves-saint-laurent-eau-de-parfum-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Top notes: Cardamom and Grapefruit; Middle notes: Leather, Lavender and Clary Sage; Base notes: Tonka Bean, Sandalwood, Patchouli and Vetiver.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BRAND_Yves Saint Laurent</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:tag>ysl SearchTag</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6927685582981</id>
+      <title>2.0 oz.</title>
+      <s:price currency="USD">103.95</s:price>
+      <s:sku>1000008743</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/6927685582981</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">125.95</s:price>
+      <s:sku>212907068</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6927658582149</id>
+    <published>2024-03-05T15:07:01-05:00</published>
+    <updated>2024-03-05T15:07:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/myself-eau-de-parfum-spray-for-men-by-yves-saint-laurent"/>
+    <title>MYSLF Eau de Parfum Spray for men by Yves Saint Laurent</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Yves Saint Laurent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/mslfedpmen.jpg?v=1709758111"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yves Saint Laurent<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            102.95 - 123.95
+            <a href="https://perfumania.com/products/myself-eau-de-parfum-spray-for-men-by-yves-saint-laurent">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BRAND_Yves Saint Laurent</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:tag>ysl SearchTag</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6927658582149</id>
+      <title>2.0 oz.</title>
+      <s:price currency="USD">102.95</s:price>
+      <s:sku>1000013799</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/6927658582149</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">123.95</s:price>
+      <s:sku>1000013800</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6752546324613</id>
+    <published>2022-11-08T15:12:32-05:00</published>
+    <updated>2022-11-08T15:12:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/laurent-libre-by-yves-saint-laurent-for-women-2-pc-gift-set"/>
+    <title>Laurent Libre by Yves Saint Laurent for Women - 2 Pc Gift Set</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Yves Saint Laurent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0126047larger.jpg?v=1667938353"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yves Saint Laurent<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            116.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Yves Saint Laurent in the year 2019. This oriental fougere has a blend of mandarin orange, lavender, black currant, petitgrain, jasmine, lavender, orange blossom, madagascar vanilla, cedar, ambergris, and musk.Laurent Libre by Yves Saint Laurent for Women - 2 Pc Gift Set 1.6oz EDP Spray, 0.25oz EDP Splash (Mini)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BRAND_ Yves Saint Laurent</s:tag>
+    <s:tag>gender_women</s:tag>
+    <s:tag>TYPE_ Eau De Parfum</s:tag>
+    <s:tag>TYPE_Gift Set</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6752546324613</id>
+      <title>1.6 oz.</title>
+      <s:price currency="USD">116.95</s:price>
+      <s:sku>1000012901</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6752546291845</id>
+    <published>2022-11-08T15:12:29-05:00</published>
+    <updated>2022-11-08T15:12:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/black-opium-by-yves-saint-laurent-for-women-2-pc-gift-set"/>
+    <title>Black Opium by Yves Saint Laurent for Women - 2 Pc Gift Set</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Yves Saint Laurent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0097336larger.jpg?v=1667938356"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yves Saint Laurent<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            115.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Yves Saint Laurent in the year 2014. This oriental vanilla fragrance has a blend of coffee, pink pepper, orange blossom, jasmine, vanilla, patchouli and cedar.Black Opium by Yves Saint Laurent for Women - 2 Pc Gift Set 1.6oz EDP Spray, 1.6oz Body Lotion</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BRAND_ Yves Saint Laurent</s:tag>
+    <s:tag>gender_women</s:tag>
+    <s:tag>TYPE_ Eau De Parfum</s:tag>
+    <s:tag>TYPE_Gift Set</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6752546291845</id>
+      <title>1.6 oz.</title>
+      <s:price currency="USD">115.95</s:price>
+      <s:sku>1000008694</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6689453736069</id>
+    <published>2022-06-16T14:48:41-04:00</published>
+    <updated>2022-06-16T14:48:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/y-eau-de-parfum-spray-for-men-by-yves-saint-laurent"/>
+    <title>Y Eau de Parfum Spray for Men by Yves Saint Laurent</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Yves Saint Laurent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/YEaudeParfumSprayforMenbyYvesSaintLaurent.jpg?v=1655405304"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yves Saint Laurent<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            102.95 - 123.95
+            <a href="https://perfumania.com/products/y-eau-de-parfum-spray-for-men-by-yves-saint-laurent">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Authentic and earthy, Y Eau De Toilette by Yves Saint Laurent is an ode to youth of Generation Y. Energetic and charming, the unique fragrances of this perfume offers a wonderful balance between the wild and the staid. Perfect for both the office and the trail. About the Brand: Yves Saint Laurent is a well-know France-headquartered luxury and high-fashion company, that specializes in haut couture, fragrances and jewelry.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BRAND_Yves Saint Laurent</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:tag>ysl SearchTag</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6689453736069</id>
+      <title>2.0 oz.</title>
+      <s:price currency="USD">102.95</s:price>
+      <s:sku>1000008721</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/6689453736069</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">123.95</s:price>
+      <s:sku>1000004805</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6621629481093</id>
+    <published>2021-10-28T15:30:01-04:00</published>
+    <updated>2021-10-28T15:30:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/y-by-yves-saint-laurent-for-men-2-pc-gift-set"/>
+    <title>Y by Yves Saint Laurent for Men - 2 Pc Gift Set</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Yves Saint Laurent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0084117larger.jpg?v=1635449402"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yves Saint Laurent<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            93.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Yves Saint Laurent in the year of 2017. This woody aromatic fragrance has a blend of white aldehydes, bergamot, ginger, sage, geranium absolute, violet leaf, ambergris, incense, fir balsam, cedar and musk. Y by Yves Saint Laurent for Men - 2 Pc Gift Set 3.3oz EDT Spray, 0.33oz EDT Rollerball</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>Brand_Yves Saint Laurent</s:tag>
+    <s:tag>gender_ men</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Gift Set</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6621629481093</id>
+      <title>Default Title</title>
+      <s:price currency="USD">93.95</s:price>
+      <s:sku>1000012636</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6612151861381</id>
+    <published>2021-10-06T09:22:21-04:00</published>
+    <updated>2021-10-06T09:22:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/libre-by-yves-saint-laurent-for-women-eau-de-parfum-spray"/>
+    <title>Libre by Yves Saint Laurent for Women - Eau de Parfum Spray</title>
+    <s:type>Eau de Parfum - EDP/S</s:type>
+    <s:vendor>Yves Saint Laurent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0099353larger.jpg?v=1633526544"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yves Saint Laurent<br>
+        <strong>Type: </strong>Eau de Parfum - EDP/S<br>
+        <strong>Price: </strong>
+            79.95 - 129.95
+            <a href="https://perfumania.com/products/libre-by-yves-saint-laurent-for-women-eau-de-parfum-spray">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Yves Saint Laurent in the year 2019. This oriental fougere fragrance has a blend of mandarian orange, lavender, jasmine, orange blossom, vanilla, cedar and musk.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>10.5</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Yves Saint Laurent</s:tag>
+    <s:tag>gender_women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6612151861381</id>
+      <title>1.0 oz.</title>
+      <s:price currency="USD">79.95</s:price>
+      <s:sku>1000013377</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/6612151861381</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">108.95</s:price>
+      <s:sku>1000009285</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/6612151861381</id>
+      <title>3 oz.</title>
+      <s:price currency="USD">129.95</s:price>
+      <s:sku>1000008812</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6612151238789</id>
+    <published>2021-10-06T09:21:35-04:00</published>
+    <updated>2021-10-06T09:21:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/parisienne-by-yves-saint-laurent-for-women-eau-de-parfum-spray"/>
+    <title>Parisienne by Yves Saint Laurent for Women - Eau de Parfum Spray</title>
+    <s:type>Eau de Parfum - EDP/S</s:type>
+    <s:vendor>Yves Saint Laurent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/W-4773larger.jpg?v=1633526496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yves Saint Laurent<br>
+        <strong>Type: </strong>Eau de Parfum - EDP/S<br>
+        <strong>Price: </strong>
+            93.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Yves Saint Laurent. This floral woody fragrance has a blend of rose, violet, peony, musk, and sandalwood notes. It is recommended for casual use.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>10.5</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Yves Saint Laurent</s:tag>
+    <s:tag>gender_women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6612151238789</id>
+      <title>3 oz.</title>
+      <s:price currency="USD">93.95</s:price>
+      <s:sku>111746167</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6592425558149</id>
+    <published>2021-08-06T11:32:06-04:00</published>
+    <updated>2021-08-06T11:32:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/black-opium-neon-by-yves-saint-laurent-for-women-eau-de-parfum-spray"/>
+    <title>Black Opium Neon by Yves Saint Laurent for Women - Eau de Parfum Spray</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Yves Saint Laurent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0101733larger.jpg?v=1628263927"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yves Saint Laurent<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            108.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Yves Saint Laurent. This floral fragrance has a blend of neon coffee, orange blossom, and dragon fruit. It is recommended for daily use.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>8.6</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Yves Saint Laurent</s:tag>
+    <s:tag>Gender_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6592425558149</id>
+      <title>2.5 oz.</title>
+      <s:price currency="USD">108.00</s:price>
+      <s:sku>1000012386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466959974533</id>
+    <published>2021-04-22T12:54:06-04:00</published>
+    <updated>2021-04-22T12:54:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/yves-saint-laurent-opium-perfume-womens-eau-de-toilette"/>
+    <title>Opium Eau de Toilette Spray for Women by Yves Saint Laurent</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Yves Saint Laurent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Yves-Saint-Laurent-Opium-Womens-Eau-de-Toilette-Spray-3-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1580148519"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yves Saint Laurent<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            80.95 - 115.95
+            <a href="https://perfumania.com/products/yves-saint-laurent-opium-perfume-womens-eau-de-toilette">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>YSL Opium perfume is an Eau de Toilette for women by Yves Saint Laurent. It is a very unique feminine fragrance with oriental accords. It has floral and citrusy notes with undertones of wood and spice. A subtle vanilla accord gives it a sensual and delicious aroma.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Yves Saint Laurent</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>oriental-notes</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:tag>ysl SearchTag</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466959974533</id>
+      <title>1.6 oz.</title>
+      <s:price currency="USD">80.95</s:price>
+      <s:sku>111722153</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466959974533</id>
+      <title>3.0 oz.</title>
+      <s:price currency="USD">115.95</s:price>
+      <s:sku>111722156</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466960334981</id>
+    <published>2021-04-22T12:54:05-04:00</published>
+    <updated>2021-04-22T12:54:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/yves-saint-laurent-ysl-l-homme-cologne-for-men-eau-de-toilette-spray"/>
+    <title>L&apos;Homme Eau de Toilette Spray for Men by Yves Saint Laurent</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Yves Saint Laurent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Yves-Saint-Laurent-L-Homme-Mens-Eau-de-Toilette-Spray-3.3-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1579124514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yves Saint Laurent<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            74.95 - 137.95
+            <a href="https://perfumania.com/products/yves-saint-laurent-ysl-l-homme-cologne-for-men-eau-de-toilette-spray">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>L'Homme cologne is an Eau de Toilette for men by Yves Saint Laurent. It is an intensely masculine fragrance that is a blend of spicy and woody notes. There is a hint of floral and leafy notes along with subtle and fresh citrus that make it an interesting blend of subtle and intense aromas.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>Best-Sellers</s:tag>
+    <s:tag>BRAND_Yves Saint Laurent</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:tag>woody-notes</s:tag>
+    <s:tag>ysl SearchTag</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466960334981</id>
+      <title>2.0 oz.</title>
+      <s:price currency="USD">74.95</s:price>
+      <s:sku>212907054</s:sku>
+      <s:grams>399</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466960334981</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">89.95</s:price>
+      <s:sku>212907057</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466960334981</id>
+      <title>6.7 oz.</title>
+      <s:price currency="USD">137.95</s:price>
+      <s:sku>1000004618</s:sku>
+      <s:grams>590</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466991235205</id>
+    <published>2021-04-22T12:51:55-04:00</published>
+    <updated>2021-04-22T12:51:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/yves-saint-laurent-ysl-black-opium-perfume-edp"/>
+    <title>Black Opium For Women By Yves Saint Laurent Eau De Parfum Spray</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Yves Saint Laurent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Yves-Saint-Laurent-Ysl-Black-Opium-Womens-Eau-de-Parfum-EDP-S-1.6-oz.-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1580919642"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yves Saint Laurent<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            79.95 - 162.95
+            <a href="https://perfumania.com/products/yves-saint-laurent-ysl-black-opium-perfume-edp">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Yves Saint Laurent Black Opium perfume takes a wander on to the dark side of the legendary fashion brand's cult classic Opium. An addictive fragrance for the modern woman, it has copious quantities of coffee in its scent. Orange blossom, pink pepper and jasmine introduce an undercurrent of edgy femininity. This intoxicating women's fragrance was developed by master perfumers Marie Salamagne and Nathalie Lorson, along with Honorine Blanc and Olivier Cresp.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>Best-Sellers</s:tag>
+    <s:tag>BRAND_Yves Saint Laurent</s:tag>
+    <s:tag>floral-notes</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>Over $150</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:tag>ysl SearchTag</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466991235205</id>
+      <title>1.0 oz.</title>
+      <s:price currency="USD">79.95</s:price>
+      <s:sku>1000001416</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466991235205</id>
+      <title>1.6 oz.</title>
+      <s:price currency="USD">108.95</s:price>
+      <s:sku>1000001417</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466991235205</id>
+      <title>3.0 oz.</title>
+      <s:price currency="USD">129.95</s:price>
+      <s:sku>1000001418</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466991235205</id>
+      <title>3.0 oz. Tester</title>
+      <s:price currency="USD">114.99</s:price>
+      <s:sku>1000002433</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466991235205</id>
+      <title>5.0 oz.</title>
+      <s:price currency="USD">162.95</s:price>
+      <s:sku>1000004616</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467005358213</id>
+    <published>2021-04-22T12:50:20-04:00</published>
+    <updated>2021-04-22T12:50:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/lhomme-lintense-eau-de-parfum-spray-for-men-by-yves-saint-laurent"/>
+    <title>L&apos;Homme L&apos;Intense For Men By Yves Saint Laurent Eau De Parfum Spray</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Yves Saint Laurent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Yves-Saint-Laurent-L_homme-L_intense-Mens-Eau-de-Parfum-Spray-EDP-Spray.jpg?v=1580843259"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yves Saint Laurent<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            59.95 - 91.95
+            <a href="https://perfumania.com/products/lhomme-lintense-eau-de-parfum-spray-for-men-by-yves-saint-laurent">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The composition of YSL's La Nuit de L'Homme L'Intense is made up of seductive, deep oriental chords. The scent reflects courage, charisma, seduction and strength of the modern man. This is the ideal evening wear fragrance for men and has a long-lasting character.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Yves Saint Laurent</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:tag>ysl SearchTag</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467005358213</id>
+      <title>2.0 oz.</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>1000004320</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467005358213</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">91.95</s:price>
+      <s:sku>1000001801</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467012665477</id>
+    <published>2021-04-22T12:49:36-04:00</published>
+    <updated>2021-04-22T12:49:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/lhomme-ultime-eau-de-parfum-spray-for-men-by-yves-saint-laurent"/>
+    <title>L&apos;Homme Ultime For Men By Yves Saint Laurent Eau De Parfum Spray</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Yves Saint Laurent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Yves-Saint-Laurent-L-Homme-Ultime-Men-Eau-de-Parfum-Spray-EDP-Spray-3.3-Best-Price-Fragrance-Parfume-FragranceOutlet.com-DETAILS.jpg?v=1580843134"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yves Saint Laurent<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            74.95 - 115.95
+            <a href="https://perfumania.com/products/lhomme-ultime-eau-de-parfum-spray-for-men-by-yves-saint-laurent">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>L'Homme 2016 is described as unique composition exuding power and wilderness on the one hand and delicacy on the other. It reflects the contrast between control and freedom and is created for the man who can charm women and serve as an inspiration for other men. L'Homme EDP is woody, intense and aromatic.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Yves Saint Laurent</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:tag>ysl SearchTag</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467012665477</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">87.95</s:price>
+      <s:sku>1000001934</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467012665477</id>
+      <title>6.7 oz.</title>
+      <s:price currency="USD">115.95</s:price>
+      <s:sku>206037</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467012665477</id>
+      <title>2.0 oz.</title>
+      <s:price currency="USD">74.95</s:price>
+      <s:sku>1000008597</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467065520261</id>
+    <published>2021-04-22T12:43:53-04:00</published>
+    <updated>2021-04-22T12:43:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/mon-paris-eau-de-toilette-spray-for-women-by-yves-saint-laurent"/>
+    <title>Mon Paris Eau de Toilette Spray for Women by Yves Saint Laurent</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Yves Saint Laurent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Yves-Saint-Laurent-Mon-Paris-Women-Eau-de-Toilette-3-Best-Price-Fragrance-Parfume-FragranceOutlet.com-DETAILS.jpg?v=1579127824"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yves Saint Laurent<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            82.95 - 103.95
+            <a href="https://perfumania.com/products/mon-paris-eau-de-toilette-spray-for-women-by-yves-saint-laurent">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Mon Paris Eau de Toilette Spray for Women by Yves Saint Laurent is a mesmerizing fragrance that captures the essence of passionate love and romance. With its delicate blend of fruity and floral notes, it exudes elegance and sensuality, leaving a trail of enchantment wherever you go.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Yves Saint Laurent</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:tag>ysl SearchTag</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467065520261</id>
+      <title>1.6 oz.</title>
+      <s:price currency="USD">82.95</s:price>
+      <s:sku>1000004569</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467065520261</id>
+      <title>3.0 oz.</title>
+      <s:price currency="USD">103.95</s:price>
+      <s:sku>1000004570</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467085738117</id>
+    <published>2021-04-22T12:42:08-04:00</published>
+    <updated>2021-04-22T12:42:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/cinema-by-yves-saint-laurent-for-women-eau-de-parfum-spray"/>
+    <title>Cinema by Yves Saint Laurent for Women -  Eau De Parfum Spray</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Yves Saint Laurent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/W-2135larger.jpg?v=1579128299"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yves Saint Laurent<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            74.95 - 89.95
+            <a href="https://perfumania.com/products/cinema-by-yves-saint-laurent-for-women-eau-de-parfum-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This was launched by the design house of Yves Saint Laurent in the year 2004. The nose behind this fragrance is Jacques Cavallier. This fragrance is classified as Feminine.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Yves Saint Laurent</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:tag>ysl SearchTag</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467085738117</id>
+      <title>1.6 oz.</title>
+      <s:price currency="USD">74.95</s:price>
+      <s:sku>111163053</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467085738117</id>
+      <title>3 oz.</title>
+      <s:price currency="USD">89.95</s:price>
+      <s:sku>111163056</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467148652677</id>
+    <published>2021-04-22T12:36:48-04:00</published>
+    <updated>2021-04-22T12:36:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/manifesto-by-yves-saint-laurent-for-women-eau-de-parfum-spray"/>
+    <title>MANIFESTO BY YVES SAINT LAURENT FOR WOMEN -  Eau De Parfum SPRAY</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Yves Saint Laurent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/W-7004larger.jpg?v=1579129532"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yves Saint Laurent<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            89.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Yves Saint Laurent in the year 2012. This woody fragrance possesses a blend of bergamot, black currant bud, sambac jasmine, lily of the valley, white flower, sandalwood, tonka bean, vanilla, and cedar wood.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Yves Saint Laurent</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:tag>ysl SearchTag</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467148652677</id>
+      <title>1.6 oz.</title>
+      <s:price currency="USD">89.95</s:price>
+      <s:sku>1000011420</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467152453765</id>
+    <published>2021-04-22T12:36:33-04:00</published>
+    <updated>2021-04-22T12:36:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/mon-paris-couture-by-yves-saint-laurent-for-women-eau-de-parfum-spray"/>
+    <title>MON PARIS COUTURE BY YVES SAINT LAURENT FOR WOMEN -  Eau De Parfum SPRAY</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Yves Saint Laurent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0088584larger.jpg?v=1579129592"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yves Saint Laurent<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            85.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Yves Saint Laurent. This chypre fruity fragrance has a blend of white peony, orange blossom, patchouli, and white musk notes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Yves Saint Laurent</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:tag>ysl SearchTag</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467152453765</id>
+      <title>1.6 oz.</title>
+      <s:price currency="USD">85.99</s:price>
+      <s:sku>1000006792</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467180634245</id>
+    <published>2021-04-22T09:37:53-04:00</published>
+    <updated>2021-04-22T09:37:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/y-by-yves-saint-laurent-for-women-eau-de-parfum-spray"/>
+    <title>Y BY YVES SAINT LAURENT FOR WOMEN -  Eau De Parfum SPRAY</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Yves Saint Laurent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0088583larger.jpg?v=1579130257"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yves Saint Laurent<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            85.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Yves Saint Laurent. This aromatic fougere fragranc has a blend of bergamot, ginger, apple heart sage, geranium, juniper berries, vetiver, cedar, tonka, amber woods, and olibanum notes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Yves Saint Laurent</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:tag>ysl SearchTag</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467180634245</id>
+      <title>2 oz.</title>
+      <s:price currency="USD">85.50</s:price>
+      <s:sku>1000006695</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466960367749</id>
+    <published>2021-04-08T19:20:30-04:00</published>
+    <updated>2021-04-08T19:20:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/yves-saint-laurent-ysl-l-homme-la-nuit-mens-eau-de-toilette"/>
+    <title>La Nuit De L&apos;Homme For Men By Yves Saint Laurent Eau De Toilette Spray</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Yves Saint Laurent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Yves-Saint-Laurent-L-Homme-La-Nuit-Mens-Eau-de-Toilette-Spray-3.4-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1579723008"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yves Saint Laurent<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            74.95 - 89.95
+            <a href="https://perfumania.com/products/yves-saint-laurent-ysl-l-homme-la-nuit-mens-eau-de-toilette">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>LHomme La Nuit is an Eau de Toilette for men by Yves Saint Laurent. It is a masculine fragrance full of interesting contradictions and contrasts. It has strong woody and spicy notes offset by subtle aroma of lavender and freshness of bergamot. It is a dark, mysterious and explosive fragrance that is bound to draw attention.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Yves Saint Laurent</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>oriental-notes</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:tag>ysl SearchTag</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466960367749</id>
+      <title>2.0 oz.</title>
+      <s:price currency="USD">74.95</s:price>
+      <s:sku>212907064</s:sku>
+      <s:grams>399</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466960367749</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">89.95</s:price>
+      <s:sku>212907067</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467141836933</id>
+    <published>2021-03-24T19:38:10-04:00</published>
+    <updated>2021-03-24T19:38:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/l-homme-cologne-bleue-by-yves-saint-laurent-for-men-eau-de-toilette-spray"/>
+    <title>L homme Cologne Bleue by Yves Saint Laurent for Men -  Eau de Toilette Spray</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Yves Saint Laurent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0084067larger.jpg?v=1579129358"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yves Saint Laurent<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            95.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Yves Saint Laurent in the year 2018. This aromatic aquatic fragrance has a blend of blood orange, grapefruit, mandarin orange, sea notes, black pepper, cardamom, lavender, cedar, thyme, and sandalwood.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Yves Saint Laurent</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:tag>ysl SearchTag</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467141836933</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">95.95</s:price>
+      <s:sku>1000006780</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5236839940229</id>
+    <published>2021-03-23T23:17:51-04:00</published>
+    <updated>2021-03-23T23:17:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/elle-by-yves-saint-laurent-for-women-eau-de-parfum-spray"/>
+    <title>Elle by Yves Saint Laurent for Women - Eau De Parfum Spray</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Yves Saint Laurent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/W-4194larger.jpg?v=1610729964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yves Saint Laurent<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            78.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This was launched by the design house of Yves Saint Laurent in the year 2007.The nose behind this fragrance is Jacques Cavallier and Olivier Cresp.Top notes are Peony, lemon;middle notes are Jasmine Sambac, rose and freesia, with youthful accords of pink berries.Base notes areVetiver, patchouli, and cedar.This fragrance is classified as Floral woody.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>1.15</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Yves Saint Laurent</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5236839940229</id>
+      <title>1.6  oz.</title>
+      <s:price currency="USD">78.95</s:price>
+      <s:sku>111906053</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467055788165</id>
+    <published>2021-03-11T23:40:23-05:00</published>
+    <updated>2021-03-11T23:40:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/mon-paris-eau-de-parfum-spray-for-women-by-yves-saint-laurent"/>
+    <title>Mon Paris For Women By Yves Saint Laurent Eau De Parfum Spray</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Yves Saint Laurent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Yves-Saint-Laurent-Mon-Paris-Women-Eau-de-Parfum-3-Best-Price-Fragrance-Parfume-FragranceOutlet_com-details_jpeg.jpg?v=1580851809"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yves Saint Laurent<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            97.95 - 113.95
+            <a href="https://perfumania.com/products/mon-paris-eau-de-parfum-spray-for-women-by-yves-saint-laurent">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Yves Saint Laurent’s stunning line of Paris-inspired fragrances has been setting the world on fire and the latest weapon of choice is Mon Paris. Mon Paris was launched in the middle of 2016 and over the years, has gained a lot of attention. This fragrance is the modern interpretation of a woman’s life – a life that seasoned with love, free will, intensity, and challenges.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Yves Saint Laurent</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:tag>ysl SearchTag</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467055788165</id>
+      <title>1.6 oz.</title>
+      <s:price currency="USD">97.95</s:price>
+      <s:sku>1000004149</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467055788165</id>
+      <title>3.0 oz.</title>
+      <s:price currency="USD">113.95</s:price>
+      <s:sku>1000002862</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumania.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumania.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumania.com/collections/viktor-and-rolf-perfumes-and-colognes.atom"/>
+  <title>Perfumania</title>
+  <updated>2024-03-18T14:32:30-04:00</updated>
+  <author>
+    <name>Perfumania</name>
+  </author>
+  <entry>
+    <id>https://perfumania.com/products/6934163816581</id>
+    <published>2024-03-18T14:32:30-04:00</published>
+    <updated>2024-03-18T14:32:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/good-fortune-eau-de-parfum-for-women-by-viktor-rolf"/>
+    <title>Good Fortune Eau de Parfum Spray for Women by Viktor &amp; Rolf</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Viktor and Rolf</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/goodfortune.jpg?v=1710786619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Viktor and Rolf<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            118.95 - 149.95
+            <a href="https://perfumania.com/products/good-fortune-eau-de-parfum-for-women-by-viktor-rolf">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BRAND_Viktor and Rolf</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6934163816581</id>
+      <title>1.6  oz.</title>
+      <s:price currency="USD">118.95</s:price>
+      <s:sku>1000013149</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/6934163816581</id>
+      <title>3 oz.</title>
+      <s:price currency="USD">149.95</s:price>
+      <s:sku>1000013171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5236839907461</id>
+    <published>2021-04-09T23:14:54-04:00</published>
+    <updated>2021-04-09T23:14:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/flowerbomb-dew-by-viktor-and-rolf-for-women-eau-de-parfum-spray"/>
+    <title>Flowerbomb Dew by Viktor and Rolf for Women - Eau De Parfum Spray</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Viktor and Rolf</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0113716larger.jpg?v=1610729963"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Viktor and Rolf<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            96.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Viktor &amp; Rolf in the year of 2020. This Floral fragrance has a blend of Pear, Ambrette (Musk Mallow), Dew Drop, Bergamot, iris, Rose, White Musk, Cashmeran and Heliotrope.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>1.15</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Viktor and Rolf</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5236839907461</id>
+      <title>1.7  oz.</title>
+      <s:price currency="USD">96.95</s:price>
+      <s:sku>1000011431</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467225624709</id>
+    <published>2021-03-16T19:01:23-04:00</published>
+    <updated>2021-03-16T19:01:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/flowerbomb-bloom-eau-de-toilette-spray-for-women-by-viktor-rolf"/>
+    <title>Flowerbomb Bloom Eau de Toilette Spray for Women by Viktor &amp; Rolf</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Viktor and Rolf</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Viktor-_-Rolf-Flowerbomb-Bloom-Women-Eau-de-Toilette-3.4-Best-Price-Fragrance-Parfume-FragranceOutlet.com.jpg?v=1579131335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Viktor and Rolf<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            100.95 - 109.95
+            <a href="https://perfumania.com/products/flowerbomb-bloom-eau-de-toilette-spray-for-women-by-viktor-rolf">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Flowerbomb Bloom Eau de Toilette Spray for Women by Viktor &amp; Rolf is a captivating floral explosion that embodies the essence of femininity.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BRAND_Viktor &amp; Rolf</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467225624709</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">100.95</s:price>
+      <s:sku>1000004731</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467225624709</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">109.95</s:price>
+      <s:sku>1000004732</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5236839874693</id>
+    <published>2021-03-08T16:16:26-05:00</published>
+    <updated>2021-03-08T16:16:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/flower-bomb-nectar-intense-by-viktor-and-rolf-for-women-eau-de-parfum-spray"/>
+    <title>Flower Bomb Nectar Intense by Viktor and Rolf for Women - Eau De Parfum Spray</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Viktor and Rolf</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0113718larger.jpg?v=1610729961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Viktor and Rolf<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            96.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Viktor and Rolf's design house launched it. This oriental floral fragrance blends bergamot, cassis, Sambac jasmine, vanilla, tonka bean, and patchouli.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>1.15</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Viktor and Rolf</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5236839874693</id>
+      <title>1.7  oz.</title>
+      <s:price currency="USD">96.95</s:price>
+      <s:sku>1000011432</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5172607844485</id>
+    <published>2020-12-14T19:03:43-05:00</published>
+    <updated>2020-12-14T19:03:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/flowerbomb-midnight-by-viktor-and-rolf-for-women-eau-de-parfum-spray"/>
+    <title>Flowerbomb Midnight by Viktor and Rolf for Women -  Eau de Parfum Spray</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Viktor and Rolf</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0094808larger.jpg?v=1600285717"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Viktor and Rolf<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            120.95 - 148.95
+            <a href="https://perfumania.com/products/flowerbomb-midnight-by-viktor-and-rolf-for-women-eau-de-parfum-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Viktor &amp; Rolf in the year 2019. This floral fragrance has a blend of black currant, pomegranate, night blooming jasmine, peony, vanilla and white musk.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>9.9</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Viktor and Rolf</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5172607844485</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">120.95</s:price>
+      <s:sku>1000011435</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/5172607844485</id>
+      <title>3.4  oz.</title>
+      <s:price currency="USD">148.95</s:price>
+      <s:sku>1000009839</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466960007301</id>
+    <published>2020-10-02T23:22:20-04:00</published>
+    <updated>2020-10-02T23:22:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/viktor-and-rolf-spicebomb-mens-eau-de-toilette-spray"/>
+    <title>Spicebomb Eau de Toilette Spray for Men by Viktor &amp; Rolf</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Viktor and Rolf</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Viktor-_-Rolf-Spicebomb-Mens-Eau-de-Toilette-Spray-3-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1579124505"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Viktor and Rolf<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            93.95 - 148.95
+            <a href="https://perfumania.com/products/viktor-and-rolf-spicebomb-mens-eau-de-toilette-spray">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Spicebomb was launched by the Viktor &amp; Rolf design label in 2012. The dynamite of a fragrance brings fiery scents like saffron and chilli with fresh energizing bergamot and grapefruit, alongside a more woody leather and tobacco scent. Suited for anytime of the day, whether you want to stay alert at work or bring your dynamic personality to the party!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Viktor &amp; Rolf</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:tag>woody-notes</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466960007301</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">93.95</s:price>
+      <s:sku>1000000392</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466960007301</id>
+      <title>3.0 oz.</title>
+      <s:price currency="USD">106.95</s:price>
+      <s:sku>1000000447</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466960007301</id>
+      <title>5.07 oz.</title>
+      <s:price currency="USD">148.95</s:price>
+      <s:sku>1000001799</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+  </entry>
+</feed>

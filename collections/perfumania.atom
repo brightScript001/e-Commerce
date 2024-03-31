@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumania.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumania.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumania.com/collections/perfumania.atom"/>
+  <title>Perfumania</title>
+  <updated>2024-02-08T09:41:30-05:00</updated>
+  <author>
+    <name>Perfumania</name>
+  </author>
+  <entry>
+    <id>https://perfumania.com/products/6909220356229</id>
+    <published>2024-02-08T09:41:30-05:00</published>
+    <updated>2024-02-08T09:41:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/imperial-destiny-labeille-eau-de-parfum-spray-for-men-and-women"/>
+    <title>Imperial Destiny L&apos;Abeille Eau De Parfum Spray for Men and Women</title>
+    <s:type></s:type>
+    <s:vendor>Perfumania</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/L_abielle.png?v=1707403270"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Perfumania<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            109.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Top notes: Bergamot, Lemon, Galbanum, Aldehydes; Middle notes: Coriander, Violet, Iris; Base notes: AMberwood, Ambrette, Sandalwood</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>100-150</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Exclusive Selection</s:tag>
+    <s:tag>gender_unisex</s:tag>
+    <s:tag>imperial-destiny</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>proprietary</s:tag>
+    <s:tag>the-exclusive-collection</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6909220356229</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">109.95</s:price>
+      <s:sku>1000013088</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6882349187205</id>
+    <published>2023-12-14T16:57:12-05:00</published>
+    <updated>2023-12-14T16:57:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/imperial-destiny-l-imperial-eau-de-parfum-spray-for-men-and-women"/>
+    <title>Imperial Destiny L &apos;Imperial Eau De Parfum Spray for Men and Women</title>
+    <s:type></s:type>
+    <s:vendor>Perfumania</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/imperialdestiny.png?v=1702590999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Perfumania<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            109.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Top notes: Pink pepper, grapefruit, ginger; Middle notes: Nutmeg, Davana, Cinnamon; Base notes: Benzoin, Musk, Incense</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>100-150</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Exclusive Selection</s:tag>
+    <s:tag>gender_unisex</s:tag>
+    <s:tag>imperial-destiny</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>proprietary</s:tag>
+    <s:tag>the-exclusive-collection</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6882349187205</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">109.95</s:price>
+      <s:sku>1000013089</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6882348400773</id>
+    <published>2023-12-14T16:55:59-05:00</published>
+    <updated>2023-12-14T16:55:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/imperial-destiny-laigle-eau-de-parfum-spray-for-men-and-women"/>
+    <title>Imperial Destiny L&apos;Aigle Eau De Parfum Spray for Men and Women</title>
+    <s:type></s:type>
+    <s:vendor>Perfumania</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/L_aigle.png?v=1702590313"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Perfumania<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            109.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Top notes: Citrus,Jasmine, Rose; Middle notes: Osmanthus, Orange blossom, Lily of the valley; Base notes: Cistus, Vetiver, Patchouli, Sandalwood, Musk</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>100-150</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Exclusive Selection</s:tag>
+    <s:tag>gender_unisex</s:tag>
+    <s:tag>imperial-destiny</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>proprietary</s:tag>
+    <s:tag>the-exclusive-collection</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6882348400773</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">109.95</s:price>
+      <s:sku>1000013090</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6882347548805</id>
+    <published>2023-12-14T16:27:23-05:00</published>
+    <updated>2023-12-14T16:27:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/imperial-destiny-couronne-eau-de-parfum-spray-for-men-and-women"/>
+    <title>Imperial Destiny Couronne Eau De Parfum Spray for Men and Women</title>
+    <s:type></s:type>
+    <s:vendor>Perfumania</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/Couronne.png?v=1702589246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Perfumania<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            109.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Top notes: Lemon, Apple, Cedar wood leaves, Fresh ginger, Cardamon; Middle notes: Sage, Kumquat, Hedione; Base notes: Leather, Musk, Amberwood, Patchouli, Fir balsam</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>100-150</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Exclusive Selection</s:tag>
+    <s:tag>gender_unisex</s:tag>
+    <s:tag>imperial-destiny</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>proprietary</s:tag>
+    <s:tag>the-exclusive-collection</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6882347548805</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">109.95</s:price>
+      <s:sku>1000013091</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6861361315973</id>
+    <published>2023-10-23T11:36:37-04:00</published>
+    <updated>2023-10-23T11:36:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/port-royal-eau-de-parfum-spray-for-men-by-boulevard-paris"/>
+    <title>Port Royal Eau de Parfum Spray for Men by Boulevard Paris</title>
+    <s:type></s:type>
+    <s:vendor>Perfumania</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/PR_Boulevard.jpg?v=1698075239"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Perfumania<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            79.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Top Notes: Bergamot, Lavender; Middle Notes: <span data-mce-fragment="1">Lily, Ambergris, Cacao, Ambrette</span>; Base Notes: Cedarwood, Patchouli, Vetiver, Leather.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Boulevard Paris</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>proprietary</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6861361315973</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">79.95</s:price>
+      <s:sku>1000011542</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6849159397509</id>
+    <published>2023-09-14T16:39:43-04:00</published>
+    <updated>2023-09-14T16:39:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/kraken-eau-de-toilette-spray-for-men-by-invicta"/>
+    <title>Kraken Eau De Toilette Spray for Men by Invicta</title>
+    <s:type></s:type>
+    <s:vendor>Perfumania</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/invicta_kraken.jpg?v=1695151927"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Perfumania<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            71.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>brand_Invicta</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6849159397509</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">71.95</s:price>
+      <s:sku>1000012857</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6833706172549</id>
+    <published>2023-07-12T10:10:55-04:00</published>
+    <updated>2023-07-12T10:10:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/signature-black-widow-eau-de-parfum-spray-for-men-and-women-by-daniel-josier"/>
+    <title>Signature Black Widow Eau De  Parfum Spray for Men and Women by Daniel Josier</title>
+    <s:type></s:type>
+    <s:vendor>Perfumania</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/dj_signature_cf5fc98a-6a85-4084-891a-9bb0f4b19674.jpg?v=1689344332"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Perfumania<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            179.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="ewa-rteLine">
+<div class="ewa-rteLine">
+<div class="ewa-rteLine">
+<em><strong>"Black Widow"</strong></em> is based on Daniel Josier's old perfume <em>"Oquidea."</em> This is a more modern and daring reinterpretation. Makes it greener with the Artemisa and long-lasting on the skin with the contribution of ISO E Super.</div>
+<div class="ewa-rteLine"></div>
+<div class="ewa-rteLine">It is a Floral perfume.</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRAND_Daniel Josier</s:tag>
+    <s:tag>gender_unisex</s:tag>
+    <s:tag>Over $150</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6833706172549</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">179.95</s:price>
+      <s:sku>1000012958</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6809274843269</id>
+    <published>2023-03-30T15:02:34-04:00</published>
+    <updated>2023-03-30T15:02:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/sweet-tooth-eau-de-parfum-spray-for-women-by-sabrina-carpenter"/>
+    <title>Sweet Tooth Eau de Parfum Spray for Women by Sabrina Carpenter</title>
+    <s:type></s:type>
+    <s:vendor>Perfumania</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/sabrina_carpenter_sweettooth.jpg?v=1681389105"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Perfumania<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            46.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Top Notes: Marshmallow, Candied Ginger, Chocolate, Bergamot; Middle Notes: Madagascar Vanilla, Coconut Milk, Jasmine; Base Notes: Whipped Cream, Sugar, Musk, Cashmere Wood</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>BRAND_Sabrina Carpenter</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6809274843269</id>
+      <title>2.5 oz.</title>
+      <s:price currency="USD">46.95</s:price>
+      <s:sku>1000013134</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6804348076165</id>
+    <published>2023-03-09T16:47:35-05:00</published>
+    <updated>2023-03-09T16:47:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/quelques-fleurs-by-houbigant-for-women-eau-de-parfum-spray"/>
+    <title>Quelques Fleurs by Houbigant for Women - Eau de Parfum Spray</title>
+    <s:type></s:type>
+    <s:vendor>Perfumania</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/W-1180larger.jpg?v=1678398457"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Perfumania<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            79.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Introduced by Houbigant in 1912, Quelques Fleurs is classified as a refined flowery fragrance. This perfume has a blend of many soft sensual florals. It is recommended for evening wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Houbigant</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6804348076165</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">79.95</s:price>
+      <s:sku>1000013263</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6797955956869</id>
+    <published>2023-02-17T15:50:51-05:00</published>
+    <updated>2023-02-17T15:50:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/whitney-gift-set-edp-spray-and-body-lotion-for-women-by-whitney-houston"/>
+    <title>Whitney Gift Set EDP Spray and Body Lotion for Women by Whitney Houston</title>
+    <s:type></s:type>
+    <s:vendor>Perfumania</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/whitney_houston_gift_set.jpg?v=1676667053"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Perfumania<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Celebrate all the moms… and why not daughters and sisters too with this special gift with purchase at Perfumania. Buy the Whitney Houston 3.4oz Eau de Parfum + 6oz Body Lotion bundle and get second 6oz Body Lotion free! At participating Perfumania stores.</p>
+<p>Top Notes: Pear leaves, pink pepper, fresh oranges | Middle Notes: Night blooming jasmine, gardenia, ylang ylang, amber | Base Notes: Cashmere woods, iris root, creamy musk, sensual vanilla</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>BRAND_Whitney Houston</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>proprietary</s:tag>
+    <s:tag>TYPE_Gift Set</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6797955956869</id>
+      <title>3.4 oz</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>1000013135</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6667360960645</id>
+    <published>2022-04-21T10:09:01-04:00</published>
+    <updated>2022-04-21T10:09:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/sterling-silver-round-cz-earrings"/>
+    <title>Sterling Silver Round CZ Earrings</title>
+    <s:type></s:type>
+    <s:vendor>Perfumania</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/earings1024x1024copy.jpg?v=1650546540"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Perfumania<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Sterling Silver Round CZ Earrings are elegant and timeless earrings crafted from high-quality sterling silver, featuring sparkling round cubic zirconia stones that add a touch of sophistication and glamour to any outfit.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>bndlvarid-40129647345797</s:tag>
+    <s:tag>bundle-2-for-75</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6667360960645</id>
+      <title>1 Pair</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>1000004337</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

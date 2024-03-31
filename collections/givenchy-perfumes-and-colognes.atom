@@ -1,0 +1,899 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumania.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumania.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumania.com/collections/givenchy-perfumes-and-colognes.atom"/>
+  <title>Perfumania</title>
+  <updated>2021-07-06T16:24:43-04:00</updated>
+  <author>
+    <name>Perfumania</name>
+  </author>
+  <entry>
+    <id>https://perfumania.com/products/6584029249669</id>
+    <published>2021-07-06T16:24:43-04:00</published>
+    <updated>2021-07-06T16:24:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/givenchy-gentleman-cologne-by-givenchy-for-men-edt-spray"/>
+    <title>Givenchy Gentleman Cologne by Givenchy for Men -  EDT Spray</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Givenchy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0115374larger.jpg?v=1625603085"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Givenchy<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            46.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Givenchy in the year 2019. This woody aromatic fragrance has a blend of bergamot, lemon, petitgrain, iris, vetiver, rosemary, ambroxan, and musk.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>7.1</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Givenchy</s:tag>
+    <s:tag>Gender_men</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6584029249669</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">46.95</s:price>
+      <s:sku>1000011922</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466945130629</id>
+    <published>2021-04-23T08:44:49-04:00</published>
+    <updated>2021-04-23T08:44:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/givenchy-very-irresistible-womens-eau-de-toilette-spray"/>
+    <title>Very Irresistible Eau de Toilette Spray for Women by Givenchy</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Givenchy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Givenchy-Very-Irresistible-Womens-Eau-de-Toilette-Spray-2.5-Best-329_Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1598992773"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Givenchy<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            64.95 - 91.95
+            <a href="https://perfumania.com/products/givenchy-very-irresistible-womens-eau-de-toilette-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A comparatively newer fragrance from the house of Givenchy, Very Irresistible was launched in 2012 and has a perky spring-summer scent to it. It gets its rich floral fragrance from rose, star anis, verbena, and patchouli. The perfume is packaged in an attractive pink bottle which hints at the perkiness of the fragrance as well.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Givenchy</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466945130629</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">64.95</s:price>
+      <s:sku>111861153</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466945130629</id>
+      <title>2.5 oz.</title>
+      <s:price currency="USD">91.95</s:price>
+      <s:sku>111861157</s:sku>
+      <s:grams>399</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466964856965</id>
+    <published>2021-04-22T12:53:42-04:00</published>
+    <updated>2021-04-22T12:53:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/givenchy-dahlia-divin-womens-eau-de-parfume"/>
+    <title>Dahlia Divin Eau de Parfume for Women by Givenchy</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Givenchy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Givenchy-Dahlia-Divin-Womens-Eau-de-Parfume-2.5-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1660247474"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Givenchy<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            85.95 - 89.95
+            <a href="https://perfumania.com/products/givenchy-dahlia-divin-womens-eau-de-parfume">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Dahlia Divin perfume was unveiled by the Givenchy design house in 2014. The fragrance was created by Francois Demachy. The succulent and sweet introductory notes from the Mirabelle plum and white flower duo are followed by an elegant jasmine heart. The perfume dries down to an earthy and sensual sandalwood base that lingers even once you have left the room.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Givenchy</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466964856965</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">85.95</s:price>
+      <s:sku>1000001354</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466964856965</id>
+      <title>2.5 oz.</title>
+      <s:price currency="USD">89.95</s:price>
+      <s:sku>1000001355</s:sku>
+      <s:grams>399</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5172598800517</id>
+    <published>2021-04-22T09:29:14-04:00</published>
+    <updated>2021-04-22T09:29:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/eaudemoiselle-de-givenchy-eau-florale-by-givenchy-for-women-eau-de-toilette-spray"/>
+    <title>Eaudemoiselle de Givenchy Eau Florale by Givenchy for Women -  Eau de Toilette Spray</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Givenchy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/W-8161larger.jpg?v=1600285364"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Givenchy<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            51.95 - 61.95
+            <a href="https://perfumania.com/products/eaudemoiselle-de-givenchy-eau-florale-by-givenchy-for-women-eau-de-toilette-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Givenchy in the year 2012. This floral fragrance blend of fresh juices of pear, pink grapefruit, wild rose, watery jasmine, blonde woods, and musk notes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>9.9</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Givenchy</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau De Toilette Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5172598800517</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">51.95</s:price>
+      <s:sku>1000009675</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/5172598800517</id>
+      <title>3.3  oz.</title>
+      <s:price currency="USD">61.95</s:price>
+      <s:sku>1000009676</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5172609908869</id>
+    <published>2021-04-22T09:28:40-04:00</published>
+    <updated>2021-04-22T09:28:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/very-irresistible-by-givenchy-for-women-eau-de-parfum-spray"/>
+    <title>Very Irresistible by Givenchy for Women -  Eau de Parfum Spray</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Givenchy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0095806larger.jpg?v=1600285809"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Givenchy<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            94.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Givenchy in the year 2005.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>9.9</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Givenchy</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5172609908869</id>
+      <title>2.5  oz.</title>
+      <s:price currency="USD">94.95</s:price>
+      <s:sku>1000009684</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466945228933</id>
+    <published>2021-03-23T23:17:36-04:00</published>
+    <updated>2021-03-23T23:17:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/givenchy-gentleman-mens-eau-de-toilette-spray"/>
+    <title>Givenchy Gentleman for Men by Givenchy Eau De Toilette Spray</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Givenchy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Givenchy-Gentleman-Mens-Eau-de-Toilette-Spray-3.4-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1580830768"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Givenchy<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            89.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Givenchy Gentleman by Givenchy was launched in 1974 and was created by Paul Leger. The entrancing woody fragrance of this perfume is achieved by the impeccable blend of vetiver, musk, oakmoss, and cedar. Strong hints of patchouli, leather, honey, and civet render it a high sillage and very long lasting fragrance.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Givenchy</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466945228933</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">89.95</s:price>
+      <s:sku>212340157</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467068141701</id>
+    <published>2021-03-21T23:01:35-04:00</published>
+    <updated>2021-03-21T23:01:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/insense-ultramarine-by-givenchy-for-men-eau-de-toilette-edt-s"/>
+    <title>Insense Ultramarine by Givenchy for Men - Eau de Toilette</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Givenchy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/M-1278larger.jpg?v=1579127892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Givenchy<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            54.73
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Introduced by Givenchy in 1994 INSENSE ULTRAMARINE is a refreshing spicy lavender amber fragrance. This Perfume has a blend of an outdoorsy watery scent. It is recommended for daytime wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>BRAND_Givenchy</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467068141701</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">54.73</s:price>
+      <s:sku>212434257</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5236838203525</id>
+    <published>2021-02-19T11:12:16-05:00</published>
+    <updated>2021-02-19T11:12:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/dahlia-divin-eau-initiale-by-givenchy-for-women-eau-de-toilette-spray"/>
+    <title>Dahlia Divin Eau Initiale by Givenchy for Women - Eau De Toilette Spray</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Givenchy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0112871larger.jpg?v=1610729882"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Givenchy<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            56.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Givenchy in the year 2018. This Floral Woody Musk fragrance has a blend of Bergamot, blood orange, magnolia, jasmine, rose, lotus, musk and sandalwood.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>1.15</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Givenchy</s:tag>
+    <s:tag>floral-notes</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau De Toilette Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5236838203525</id>
+      <title>2.5  oz.</title>
+      <s:price currency="USD">56.95</s:price>
+      <s:sku>1000011395</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466975735941</id>
+    <published>2021-02-19T11:11:40-05:00</published>
+    <updated>2021-02-19T11:11:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/givenchy-organza-womens-eau-de-parfum-spray"/>
+    <title>Organza Eau de Parfum Spray for Women by Givenchy</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Givenchy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Givenchy-Organza-Womens-Eau-de-Parfume-Spray-1.7-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1598975331"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Givenchy<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            89.95 - 115.95
+            <a href="https://perfumania.com/products/givenchy-organza-womens-eau-de-parfum-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched in 1996 by acclaimed house of Givenchy, Organza embodies oriental-floral scent with sweet and warm notes of wood and amber. Soft vanilla notes float through day mixing with intoxicating scents of tuberose, jasmine, and gardenia. This long-lasting perfume is ideal for daily wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Givenchy</s:tag>
+    <s:tag>floral-notes</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>oriental-notes</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:tag>woody-notes</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466975735941</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">89.95</s:price>
+      <s:sku>111706053</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466975735941</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">115.95</s:price>
+      <s:sku>111706057</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466945196165</id>
+    <published>2021-02-19T11:11:36-05:00</published>
+    <updated>2021-02-19T11:11:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/givenchy-ysatis-womens-eau-de-toilette-spray"/>
+    <title>Ysatis Eau de Toilette Spray for Women by Givenchy</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Givenchy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/ysatis-1.jpg?v=1699467359"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Givenchy<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>One of most loved perfumes of all times from house of Givenchy; Ysatis was concocted for smart, distinct, and emotional woman. opulent fragrance smells of luxury. Created in 1984 by Dominique Ropion, fragrance contains ylang-ylang and aldehydes, rose, tuberose, and carnation, and civet, honey, sandalwood and amber, among others. perfume exudes high sillage and has a very long lasting fragrance.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Givenchy</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466945196165</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>111905157</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466945523845</id>
+    <published>2021-01-13T22:40:45-05:00</published>
+    <updated>2021-01-13T22:40:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/givenchy-pour-homme-blue-label-mens-eau-de-toilette-spray"/>
+    <title>Pour Homme Blue Label Eau de Toilette Spray for Men by Givenchy</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Givenchy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Givenchy-Pour-Homme-Blue-Label-Mens-Eau-de-Toilette-Spray-3.4-Best-329_Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1598987879"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Givenchy<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            79.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>With fresh, citrus top notes the Givenchy Pour Homme Blue Label for men is a scent that has been designed for an active wearer. Light enough to wear during the day for casual activities, it transitions easily to a more formal setting with sophisticated, woodsy cedar and spicy middle notes from spices that lend it an exotic air.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Givenchy</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466945523845</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">79.95</s:price>
+      <s:sku>212370157</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5172614299781</id>
+    <published>2020-12-18T14:52:59-05:00</published>
+    <updated>2020-12-18T14:52:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/lange-noir-by-givenchy-for-women-eau-de-toilette-spray"/>
+    <title>LAnge Noir by Givenchy for Women -  Eau de Toilette Spray</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Givenchy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0102136larger.jpg?v=1600286031"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Givenchy<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            55.95 - 61.95
+            <a href="https://perfumania.com/products/lange-noir-by-givenchy-for-women-eau-de-toilette-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Givenchy. This oriental floral fragrance has a blend of bergamot, pear, iris, peony, cedarwood, tonka bean, amber, and musk.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>9.9</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Givenchy</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau De Toilette Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5172614299781</id>
+      <title>1.7  oz.</title>
+      <s:price currency="USD">55.95</s:price>
+      <s:sku>1000009679</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/5172614299781</id>
+      <title>2.5  oz.</title>
+      <s:price currency="USD">61.95</s:price>
+      <s:sku>1000009680</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466986582149</id>
+    <published>2020-12-18T14:51:00-05:00</published>
+    <updated>2020-12-18T14:51:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/ange-ou-demon-eau-de-parfum-spray-for-women-by-givenchy"/>
+    <title>Ange Ou Demon For Women By Givenchy Eau De Parfum Spray</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Givenchy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Givenchy-Ange-Ou-Demon-Eau-de-Parfume-Spray-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Main_432.jpg?v=1581002650"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Givenchy<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            85.95 - 108.95
+            <a href="https://perfumania.com/products/ange-ou-demon-eau-de-parfum-spray-for-women-by-givenchy">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Ange Ou Demon perfume has Olivier Cresp and Jean-Pierre Bethouart's nose behind its creation and was launched in the year 2006. This women's fragrance has a bold and charismatic oriental composition that exudes sensuality.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Givenchy</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466986582149</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">85.95</s:price>
+      <s:sku>111003053</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466986582149</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">108.95</s:price>
+      <s:sku>111003057</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466945032325</id>
+    <published>2020-11-23T19:03:48-05:00</published>
+    <updated>2020-11-23T19:03:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/givenchy-amarige-womens-eau-de-toilette-spray"/>
+    <title>Amarige Eau de Toilette Spray for Women by Givenchy</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Givenchy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Givenchy-Amarige-Womens-Eau-de-Toilette-Spray-3.4-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1598636411"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Givenchy<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            56.95 - 99.95
+            <a href="https://perfumania.com/products/givenchy-amarige-womens-eau-de-toilette-spray">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Amarige is an anagram for French word Mariage, which means marriage. nose behind this perfume is Dominique Ropion who created perfume in 1991. perfume was created keeping in mind strong feeling of happiness and unforgettable moments that a marriage brings about. Endowed with an enormous sillage, this perfume is long lasting, and perfect for fall and winter days and nights.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Givenchy</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466945032325</id>
+      <title>1.0 oz.</title>
+      <s:price currency="USD">56.95</s:price>
+      <s:sku>111026152</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466945032325</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">76.95</s:price>
+      <s:sku>111026153</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466945032325</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>111026157</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466945687685</id>
+    <published>2020-09-26T23:47:41-04:00</published>
+    <updated>2020-09-26T23:47:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/givenchy-pi-mens-eau-de-toilette-spray"/>
+    <title>Pi For Men By Givenchy Eau De Toilette Spray</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Givenchy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/pimen.jpg?v=1697481017"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Givenchy<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            69.95 - 89.95
+            <a href="https://perfumania.com/products/givenchy-pi-mens-eau-de-toilette-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A long lasting masculine and sweet scent, Pi by Givenchy for men is a necessary addition to any wardrobe. With strong woodsy base undertones that last for a long time overlaid with smooth vanilla that adds a necessary touch of sweetness, Pi by Givenchy has been a staple, and rightly so, for 17 years.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Givenchy</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466945687685</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>212749153</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466945687685</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">89.95</s:price>
+      <s:sku>212749157</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467069747333</id>
+    <published>2019-04-08T14:27:31-04:00</published>
+    <updated>2019-04-08T14:27:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/xeryus-rouge-by-givenchy-for-men-eau-de-toilette-edt-s"/>
+    <title>Xeryus Rouge For Men By Givenchy Eau De Toilette Spray</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Givenchy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/M-1194larger_59585f3e-638a-4d62-a512-4babbdd503ee.jpg?v=1673446985"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Givenchy<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GIVENCHY created XERYUS ROUGE in 1995. It is the result of the following top fragrance Notes: bergamot, fougere and lemon. The middle notes are: amber, melon and orange and the base of the fragrance is: kumquat, pimento and cedar. XERYUS ROUGE is recommended for casual use.</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>BRAND_Givenchy</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467069747333</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>212891257</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467069714565</id>
+    <published>2019-04-08T14:27:30-04:00</published>
+    <updated>2019-04-08T14:27:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/xeryus-by-givenchy-for-men-eau-de-toilette-edt-s"/>
+    <title>Xeryus by Givenchy for Men - Eau de Toilette</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Givenchy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/M-1192larger.jpg?v=1579127925"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Givenchy<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            44.52
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Givenchy in the year of 1986. This aromatic fragrance has a blend of citrus, spices, floral, cypress, sandalwood, juniper berries, leather, amber, musk, oakmoss, balsam fir, vetiver, incense, and cedar notes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>BRAND_Givenchy</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467069714565</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">44.52</s:price>
+      <s:sku>212891157</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466945491077</id>
+    <published>2017-03-15T08:37:18-04:00</published>
+    <updated>2017-03-15T08:37:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/givenchy-pour-homme-mens-eau-de-toilette-spray"/>
+    <title>Pour Homme Eau de Toilette Spray for Men by Givenchy</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Givenchy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Givenchy-Pour-Homme-Mens-Eau-de-Toilette-Spray-3.4-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Main.jpg?v=1579123936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Givenchy<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            55.99 - 79.95
+            <a href="https://perfumania.com/products/givenchy-pour-homme-mens-eau-de-toilette-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Givenchy introduced the world to Givenchy Pour Homme for men in 2002, a scent that expertly combined the exotic with the fresh to produce a unique, and masculine, scent. Essential for the toilette of any true gentleman, this scent is both warm and citrusy. The scent is packaged in a bottle designed by sculptor Pablo Reinoso, with clean lines and a strong silhouette.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Givenchy</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466945491077</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>212348153</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466945491077</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">79.95</s:price>
+      <s:sku>212348157</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466968625285</id>
+    <published>2017-03-15T08:34:08-04:00</published>
+    <updated>2017-03-15T08:34:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/givenchy-hot-couture-womens-eau-de-parfum-spray"/>
+    <title>Hot Couture For Women By Givenchy Eau De Parfum Spray</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Givenchy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Givenchy-Hot-Couture-Womens-Eau-de-Parfume-Spray-3.4-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1598975968"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Givenchy<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            72.95 - 108.95
+            <a href="https://perfumania.com/products/givenchy-hot-couture-womens-eau-de-parfum-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The nose behind Hot Couture Perfume was that of Jacques Cavallier and Alberto Morillas and it was launched in 2000. This fragrance is for the unusual woman who is confident and extremely charming. The bottle design credit goes to Serge Mansau.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>BRAND_Givenchy</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466968625285</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">72.95</s:price>
+      <s:sku>111406053</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466968625285</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">108.95</s:price>
+      <s:sku>111406057</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

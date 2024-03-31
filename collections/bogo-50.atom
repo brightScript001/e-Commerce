@@ -1,0 +1,1074 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumania.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumania.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumania.com/collections/bogo-50.atom"/>
+  <title>Perfumania</title>
+  <updated>2024-03-21T11:21:03-04:00</updated>
+  <author>
+    <name>Perfumania</name>
+  </author>
+  <entry>
+    <id>https://perfumania.com/products/6935287332997</id>
+    <published>2024-03-21T11:21:03-04:00</published>
+    <updated>2024-03-21T11:21:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/ur-the-queen-dynasty-eau-de-parfum-spray-for-women"/>
+    <title>Ur The Queen Dynasty Eau de Parfum Spray for Women</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Ur The Queen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/urthequeendynasty.png?v=1711034349"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ur The Queen<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Exclusive Selection</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6935287332997</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000013093</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6935282352261</id>
+    <published>2024-03-21T11:12:59-04:00</published>
+    <updated>2024-03-21T11:12:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/ur-the-king-dynasty-eau-de-parfum-spray-for-men"/>
+    <title>Ur The King Dynasty Eau De Parfum Spray for Men</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Ur The King</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/Urthekingdynasty.png?v=1711033981"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ur The King<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Exclusive Selection</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6935282352261</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000013094</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6931766411397</id>
+    <published>2024-03-13T15:25:59-04:00</published>
+    <updated>2024-03-13T15:25:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/wish-eau-de-parfum-spray-for-women-by-dylan-jeffries"/>
+    <title>Wish Eau De Parfum Spray for Women by Dylan Jeffries</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Dylan Jeffries</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/7CGROUP-DJFEMMEWISH-ETUIS_FLACONSET.jpg?v=1710357966"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dylan Jeffries<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>brand_Dylan Jeffries</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6931766411397</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000013567</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6931761135749</id>
+    <published>2024-03-13T15:00:16-04:00</published>
+    <updated>2024-03-13T15:00:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/temptation-eau-de-parfum-spray-for-women-by-dylan-jeffries"/>
+    <title>Temptation Eau De Parfum Spray for Women by Dylan Jeffries</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Dylan Jeffries</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/7CGROUP-DJHOMMETEMPTATION-FLACON_ETUISSET.jpg?v=1710356423"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dylan Jeffries<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>brand_Dylan Jeffries</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6931761135749</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000013569</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6931756449925</id>
+    <published>2024-03-13T14:40:49-04:00</published>
+    <updated>2024-03-13T14:40:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/flame-eau-de-parfum-spray-for-women-by-dylan-jeffries"/>
+    <title>Flame Eau De Parfum Spray for Women by Dylan Jeffries</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Dylan Jeffries</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/7CGROUP-DJHOMMEFLAME-ETUIS_FLACONHD.jpg?v=1710355265"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dylan Jeffries<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>brand_Dylan Jeffries</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6931756449925</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000013568</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6931754254469</id>
+    <published>2024-03-13T14:31:07-04:00</published>
+    <updated>2024-03-13T14:31:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/untamed-eau-de-parfum-spray-for-men-by-dylan-jeffries"/>
+    <title>Untamed Eau De Parfum Spray for Men by Dylan Jeffries</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Dylan Jeffries</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/7CGROUP-DJHOMMEUNTAMED-FLACON_ETUISHD.jpg?v=1710354705"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dylan Jeffries<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>brand_Dylan Jeffries</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6931754254469</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000013566</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6931750879365</id>
+    <published>2024-03-13T14:17:19-04:00</published>
+    <updated>2024-03-13T14:17:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/crave-eau-de-parfum-spray-for-men-by-dylan-jeffries"/>
+    <title>Crave Eau De Parfum Spray for Men by Dylan Jeffries</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Dylan Jeffries</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/7CGROUP-DJHOMMECRAVE-ETUIS_FLACONHD.jpg?v=1710353833"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dylan Jeffries<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>brand_Dylan Jeffries</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6931750879365</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000013565</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6931747405957</id>
+    <published>2024-03-13T13:58:42-04:00</published>
+    <updated>2024-03-13T13:58:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/dylan-jeffries-blaze-eau-de-parfum-spray-for-men"/>
+    <title>Dylan Jeffries Blaze Eau De Parfum Spray For Men</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Dylan Jeffries</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/7CGROUP-DJHOMMEBLAZE-FLACONSOLO_ETUISHD.jpg?v=1710352724"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dylan Jeffries<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>brand_Dylan Jeffries</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6931747405957</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000013564</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6931698417797</id>
+    <published>2024-03-13T11:28:57-04:00</published>
+    <updated>2024-03-13T11:28:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/camille-rochelle-privee-white-haze-eau-de-parfum-spray-for-men"/>
+    <title>Privee White Haze Eau De Parfum Spray for Women by Camille Rochelle</title>
+    <s:type>Eau de Parfum Spray</s:type>
+    <s:vendor>Camille Rochelle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/CR_White_Haze.jpg?v=1710858965"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Camille Rochelle<br>
+        <strong>Type: </strong>Eau de Parfum Spray<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Camille Rochelle</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>proprietary</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6931698417797</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000013242</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6909220356229</id>
+    <published>2024-02-08T09:41:30-05:00</published>
+    <updated>2024-02-08T09:41:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/imperial-destiny-labeille-eau-de-parfum-spray-for-men-and-women"/>
+    <title>Imperial Destiny L&apos;Abeille Eau De Parfum Spray for Men and Women</title>
+    <s:type></s:type>
+    <s:vendor>Perfumania</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/L_abielle.png?v=1707403270"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Perfumania<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            109.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Top notes: Bergamot, Lemon, Galbanum, Aldehydes; Middle notes: Coriander, Violet, Iris; Base notes: AMberwood, Ambrette, Sandalwood</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>100-150</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Exclusive Selection</s:tag>
+    <s:tag>gender_unisex</s:tag>
+    <s:tag>imperial-destiny</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>proprietary</s:tag>
+    <s:tag>the-exclusive-collection</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6909220356229</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">109.95</s:price>
+      <s:sku>1000013088</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6905236521093</id>
+    <published>2024-01-31T16:25:06-05:00</published>
+    <updated>2024-01-31T16:25:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/copy-of-imperial-intense-silver-extrait-de-parfum-for-men-1"/>
+    <title>Ombre Bleu Reserve Eau de Parfum Spray for Men by Caviar Elixir</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Caviar Elixir</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/CE_Ombre_bleu_Reserve.jpg?v=1708958896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caviar Elixir<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            119.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Top notes: Mandarin, Apple, Peach, Nutmeg, Cardamon; Middle notes: Floral notes, Patchouli, Violet; Base notes: Musk, Vanilla, Amber</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Caviar Elixir</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>proprietary</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6905236521093</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">119.95</s:price>
+      <s:sku>1000013719</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6905237274757</id>
+    <published>2024-01-31T16:20:52-05:00</published>
+    <updated>2024-01-31T16:20:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/copy-of-ombre-bleu-reserve-eau-de-parfum-spray-for-men-by-caviar-elixir"/>
+    <title>Ombre Vert Reserve Eau de Parfum Spray for Men by Caviar Elixir</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Caviar Elixir</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/CE_Ombre_vert_Reserve.jpg?v=1708958928"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caviar Elixir<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            119.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Top notes: Bergamot, Blackcurrant, Pineapple, Apple; Middle notes: Patchouli, Leather notes, Smoke, Vetiver; Base notes: Muses, Ambroxan</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Caviar Elixir</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>proprietary</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6905237274757</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">119.95</s:price>
+      <s:sku>1000013720</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6905237241989</id>
+    <published>2024-01-31T16:19:45-05:00</published>
+    <updated>2024-01-31T16:19:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/copy-of-ombre-blanc-reserve-eau-de-parfum-spray-for-women-by-caviar-elixir"/>
+    <title>Ombre Fleur Reserve Eau de Parfum Spray for Women by Caviar Elixir</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Caviar Elixir</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/CE_Ombre_Fleur_Reserve.jpg?v=1708958976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caviar Elixir<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            119.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Top notes: Bergamot, Mandarin, Ginger, Apple; Middle notes: Orange blossom, while wood, floral notes; Base notes: Tonka bean, Vanilla</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Caviar Elixir</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>proprietary</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6905237241989</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">119.95</s:price>
+      <s:sku>1000013718</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6905233997957</id>
+    <published>2024-01-31T16:09:33-05:00</published>
+    <updated>2024-01-31T16:09:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/copy-of-imperial-intense-gold-extrait-de-parfum-for-women"/>
+    <title>Ombre Blanc Reserve Eau de Parfum Spray for Women by Caviar Elixir</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Caviar Elixir</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/CE_Ombre_blanc_Reserve.jpg?v=1708958806"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caviar Elixir<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            119.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Top notes: Bergamot, Green notes, Davana; Middle notes: Floral notes (absolu jasmine), Violet, Sandalwood, Orchid notes; Base notes: Musk, Vanilla, Amber</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Caviar Elixir</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>proprietary</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6905233997957</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">119.95</s:price>
+      <s:sku>1000013717</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6896490872965</id>
+    <published>2024-01-24T15:55:04-05:00</published>
+    <updated>2024-01-24T15:55:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/copy-of-thauy-agape-eau-de-parfum-spray-for-men-and-women-by-daniel-josier"/>
+    <title>Thauy Agape Deluxe Eau de Parfum Spray for Men and Women by Daniel Josier</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Daniel Josier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/Thuay_Agape.jpg?v=1710513258"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Daniel Josier<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            139.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="ewa-rteLine" data-mce-fragment="1">Thauy's fragrance <em><strong>"Agape,"</strong></em> which in Greek Mythology means <em>"unconditional love,"</em> is a sweet, romantic, and gourmand Unisex perfume.</div>
+<div class="ewa-rteLine" data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<div class="ewa-rteLine" data-mce-fragment="1">
+<em><strong>"Agape"</strong></em> is the new addition to <em>"The Power Of Resilience Collection."</em> With this collection, Thauy wants to convey to the world that an inner spirit of prevailing strength and power will be born so we can overcome all adversities.</div>
+<div class="ewa-rteLine" data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<div class="ewa-rteLine" data-mce-fragment="1">The nose behind this fragrance is the Master Perfumer Daniel Josier.</div>
+<div class="ewa-rteLine" data-mce-fragment="1"></div>
+<div class="ewa-rteLine" data-mce-fragment="1"></div>
+<div class="ewa-rteLine" data-mce-fragment="1">It is a Fruity Gourmand perfume.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Daniel Josier</s:tag>
+    <s:tag>gender_unisex</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6896490872965</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">139.95</s:price>
+      <s:sku>1000013811</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6894724841605</id>
+    <published>2024-01-19T15:24:40-05:00</published>
+    <updated>2024-01-19T15:24:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/just-me-by-paris-hilton-for-women-edp-spray-1"/>
+    <title>Just Me by Paris Hilton for Women -  EDP Spray</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Paris Hilton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/phw.jpg?v=1705695120"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paris Hilton<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            59.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Introduced in the year 2005, by the design house of Parlux Fragrances, Just Me has a blend of raspberries, bergamont, iris, violet, bergamont, freesia, ylang ylang, egyptian sandalwood, white rose and skin musk. It is recommended for anytime wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Paris Hilton</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6894724841605</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>111486057</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6891663687813</id>
+    <published>2024-01-15T13:35:59-05:00</published>
+    <updated>2024-01-15T13:35:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/copy-of-imperial-intense-silver-extrait-de-parfum-for-men"/>
+    <title>Imperial Intense Gold Extrait De Parfum For Women</title>
+    <s:type>Extrait De Parfum Spray</s:type>
+    <s:vendor>Caviar Elixir</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/Intense_Gold.jpg?v=1705934863"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caviar Elixir<br>
+        <strong>Type: </strong>Extrait De Parfum Spray<br>
+        <strong>Price: </strong>
+            149.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Top notes: Bergamot, Mandarin, White peach; Middle notes: White wood, Orange blossom, Jasmin Sambac, Lily of the valley, Vetiver; Base notes: Modern muses, Ambroxan</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Caviar Elixir</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>proprietary</s:tag>
+    <s:tag>type_extrait de parfum spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6891663687813</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">149.95</s:price>
+      <s:sku>1000013722</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6891661295749</id>
+    <published>2024-01-15T13:34:40-05:00</published>
+    <updated>2024-01-15T13:34:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/copy-of-camille-rochelle-tierra-de-fuego-eau-de-parfum-spray-for-men"/>
+    <title>Imperial Intense Silver Extrait De Parfum For Men</title>
+    <s:type>Extrait De Parfum Spray</s:type>
+    <s:vendor>Caviar Elixir</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/Intense_Silver.jpg?v=1705934885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caviar Elixir<br>
+        <strong>Type: </strong>Extrait De Parfum Spray<br>
+        <strong>Price: </strong>
+            149.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Top notes: Patchouli, Vanilla, Benzoin; Middle notes: Saffron, Geraniium, Oud wood; Base notes: Raspberry, Rose</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Caviar Elixir</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>proprietary</s:tag>
+    <s:tag>TYPE_Extrait De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6891661295749</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">149.95</s:price>
+      <s:sku>1000013721</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6887851655301</id>
+    <published>2024-01-03T15:49:20-05:00</published>
+    <updated>2024-01-03T15:49:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/camille-rochelle-tierra-de-fuego-eau-de-parfum-spray-for-men"/>
+    <title>Camille Rochelle Tierra De Fuego Eau De Parfum Spray For Men</title>
+    <s:type>Eau de Parfum Spray</s:type>
+    <s:vendor>Camille Rochelle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/CR_terradefuegojpg.jpg?v=1704748268"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Camille Rochelle<br>
+        <strong>Type: </strong>Eau de Parfum Spray<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span><strong><em>"Tierra de Fuego"</em></strong> by Camille Rochelle is a fragrance that embodies the spirit of adventure and exhilaration. Its blend of grapefruit, lemon, icy mint, clementine, marine breeze, a whirlwind of spices, ginger, vetiver, and cedarwood is a journey through the excitement and mystique of uncharted lands. Whether worn for a daring outdoor escapade or to add a spark of enthusiasm to your everyday life, "<em><strong>Tierra de Fuego"</strong></em> is the epitome of invigoration and intrigue.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Camille Rochelle</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>proprietary</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6887851655301</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000013522</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6887851524229</id>
+    <published>2024-01-03T15:46:44-05:00</published>
+    <updated>2024-01-03T15:46:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/camille-rochelle-moon-eau-de-parfum-spray-for-women"/>
+    <title>Camille Rochelle Moon Eau De Parfum Spray For Women</title>
+    <s:type>Eau de Parfum Spray</s:type>
+    <s:vendor>Camille Rochelle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/CR_MOON_Pour_Femme.jpg?v=1704748237"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Camille Rochelle<br>
+        <strong>Type: </strong>Eau de Parfum Spray<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>It will capture your senses through these floriental fruity nuances. This seductively intoxicating fragrance opens with a hint of juicy pear, exalting the opulence of orange blossom, contrasting with the overdosed base notes. The touch of coffee fuses with a burst of vanilla, revealing a vibrant and daring sillage.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Camille Rochelle</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>proprietary</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6887851524229</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000013521</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6887851819141</id>
+    <published>2024-01-03T15:41:47-05:00</published>
+    <updated>2024-01-03T15:41:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/camille-rochelle-privee-twilight-eau-de-parfum-spray-for-women"/>
+    <title>Privee Twilight Eau De Parfum Spray For Women by Camille Rochelle</title>
+    <s:type>Eau de Parfum Spray</s:type>
+    <s:vendor>Camille Rochelle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/CR_Twilight.jpg?v=1704748285"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Camille Rochelle<br>
+        <strong>Type: </strong>Eau de Parfum Spray<br>
+        <strong>Price: </strong>
+            139.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span><em><strong>“Twilight”</strong></em> is a sophisticated combination of intensity and freshness. This fougere accord emerges with the delicacy of lavender, combined with the aromatic bouquet, energized by the fusion of citrus at the top. The woody-forward base sublimates the fragrance, leaving a blazing trail of timeless elegance.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Camille Rochelle</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>proprietary</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6887851819141</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">139.95</s:price>
+      <s:sku>1000013244</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6885411520645</id>
+    <published>2023-12-29T15:03:29-05:00</published>
+    <updated>2023-12-29T15:03:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/camille-rochelle-privee-pure-indigo-eau-de-parfum-spray-for-women"/>
+    <title>Privee Pure Indigo Eau De Parfum Spray For Men by Camille Rochelle</title>
+    <s:type>Eau de Parfum Spray</s:type>
+    <s:vendor>Camille Rochelle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/CR_Pure_Indigo.jpg?v=1704748254"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Camille Rochelle<br>
+        <strong>Type: </strong>Eau de Parfum Spray<br>
+        <strong>Price: </strong>
+            139.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="ewa-rteLine">
+<em><strong>“Pure Indigo”</strong></em> is a memorable fragrance that opens with the fusion of saffron and incense.</div>
+<div class="ewa-rteLine">Unexpectedly, patchouli, oak moss, and oud are exalted by the praline note, drawing you into the bold temptation of this signature scent.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Camille Rochelle</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>proprietary</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6885411520645</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">139.95</s:price>
+      <s:sku>1000013245</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6885409620101</id>
+    <published>2023-12-29T14:57:54-05:00</published>
+    <updated>2023-12-29T14:57:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/camille-rochelle-privee-amber-noir-eau-de-parfum-spray-for-women"/>
+    <title>Privee Amber Noir Eau De Parfum Spray For Men by Camille Rochelle</title>
+    <s:type>Eau de Parfum Spray</s:type>
+    <s:vendor>Camille Rochelle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/CR_Amber_Noir.jpg?v=1704748219"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Camille Rochelle<br>
+        <strong>Type: </strong>Eau de Parfum Spray<br>
+        <strong>Price: </strong>
+            139.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span><em><strong>“Amber Noir”</strong></em> is a captivating ode to the preciousness of amber. The invigorating blast of fruity and ozonic notes embraces the floral heart before falling into the deep scents of amber, musk, and vanilla, offering an incredibly hypnotic sillage.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Camille Rochelle</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>proprietary</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6885409620101</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">139.95</s:price>
+      <s:sku>1000013243</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6882349187205</id>
+    <published>2023-12-14T16:57:12-05:00</published>
+    <updated>2023-12-14T16:57:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/imperial-destiny-l-imperial-eau-de-parfum-spray-for-men-and-women"/>
+    <title>Imperial Destiny L &apos;Imperial Eau De Parfum Spray for Men and Women</title>
+    <s:type></s:type>
+    <s:vendor>Perfumania</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/imperialdestiny.png?v=1702590999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Perfumania<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            109.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Top notes: Pink pepper, grapefruit, ginger; Middle notes: Nutmeg, Davana, Cinnamon; Base notes: Benzoin, Musk, Incense</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>100-150</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Exclusive Selection</s:tag>
+    <s:tag>gender_unisex</s:tag>
+    <s:tag>imperial-destiny</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>proprietary</s:tag>
+    <s:tag>the-exclusive-collection</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6882349187205</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">109.95</s:price>
+      <s:sku>1000013089</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6882348400773</id>
+    <published>2023-12-14T16:55:59-05:00</published>
+    <updated>2023-12-14T16:55:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/imperial-destiny-laigle-eau-de-parfum-spray-for-men-and-women"/>
+    <title>Imperial Destiny L&apos;Aigle Eau De Parfum Spray for Men and Women</title>
+    <s:type></s:type>
+    <s:vendor>Perfumania</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/L_aigle.png?v=1702590313"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Perfumania<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            109.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Top notes: Citrus,Jasmine, Rose; Middle notes: Osmanthus, Orange blossom, Lily of the valley; Base notes: Cistus, Vetiver, Patchouli, Sandalwood, Musk</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>100-150</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Exclusive Selection</s:tag>
+    <s:tag>gender_unisex</s:tag>
+    <s:tag>imperial-destiny</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>proprietary</s:tag>
+    <s:tag>the-exclusive-collection</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6882348400773</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">109.95</s:price>
+      <s:sku>1000013090</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

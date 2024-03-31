@@ -1,0 +1,1090 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumania.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumania.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumania.com/collections/best-selling-perfumes-and-colognes.atom"/>
+  <title>Perfumania</title>
+  <updated>2024-03-27T09:18:29-04:00</updated>
+  <author>
+    <name>Perfumania</name>
+  </author>
+  <entry>
+    <id>https://perfumania.com/products/6911193153669</id>
+    <published>2024-03-27T09:18:29-04:00</published>
+    <updated>2024-03-27T09:18:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/copy-of-wanted-by-night-by-loris-azzaro-for-men-eau-de-parfum-spray-1"/>
+    <title>Chrome Eau De Parfum Spray for Men by Azzaro</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Loris Azzaro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/chromeedp.jpg?v=1711545496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Loris Azzaro<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            94.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Loris Azzaro.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Loris Azzaro</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6911193153669</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">94.95</s:price>
+      <s:sku>1000013824</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6926229110917</id>
+    <published>2024-03-26T15:19:59-04:00</published>
+    <updated>2024-03-26T15:19:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/copy-of-sauvage-for-men-by-christian-dior-parfum-spray"/>
+    <title>Sauvage Elixir Parfum Spray for Men by Christian Dior</title>
+    <s:type>Parfum Spray</s:type>
+    <s:vendor>Christian Dior</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/elixir.webp?v=1711480339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Christian Dior<br>
+        <strong>Type: </strong>Parfum Spray<br>
+        <strong>Price: </strong>
+            169.95 - 174.95
+            <a href="https://perfumania.com/products/copy-of-sauvage-for-men-by-christian-dior-parfum-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRAND_Christian Dior</s:tag>
+    <s:tag>BRAND_Dior</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>Over $150</s:tag>
+    <s:tag>savage SearchTag</s:tag>
+    <s:tag>TYPE_Parfum spray</s:tag>
+    <s:tag>woody-notes</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6926229110917</id>
+      <title>2.0 oz.</title>
+      <s:price currency="USD">174.95</s:price>
+      <s:sku>1000012805</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/6926229110917</id>
+      <title>2.0 oz. Tester</title>
+      <s:price currency="USD">169.95</s:price>
+      <s:sku>1000013284</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6940571140229</id>
+    <published>2024-03-26T12:27:07-04:00</published>
+    <updated>2024-03-26T12:27:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/le-male-le-parfum-eau-de-parfum-spray-for-men-by-jean-paul-gaultier"/>
+    <title>Le Male Le Parfum Eau de Parfum Spray for Men by Jean Paul Gaultier</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Jean Paul Gaultier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/lemale.webp?v=1711470429"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jean Paul Gaultier<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            87.95 - 139.95
+            <a href="https://perfumania.com/products/le-male-le-parfum-eau-de-parfum-spray-for-men-by-jean-paul-gaultier">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Jean Paul Gaultier</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6940571140229</id>
+      <title>2.5 oz.</title>
+      <s:price currency="USD">87.95</s:price>
+      <s:sku>1000013019</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/6940571140229</id>
+      <title>4.2 oz.</title>
+      <s:price currency="USD">112.95</s:price>
+      <s:sku>1000011588</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/6940571140229</id>
+      <title>6.7 oz.</title>
+      <s:price currency="USD">139.95</s:price>
+      <s:sku>1000013020</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6940356247685</id>
+    <published>2024-03-26T11:37:53-04:00</published>
+    <updated>2024-03-26T11:37:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/le-beau-eau-de-toilette-spray-for-men-by-jean-paul-gaultier"/>
+    <title>Le Beau Eau de Toilette Spray for Men by Jean Paul Gaultier</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Jean Paul Gaultier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/Jean-Paul-Gaultier-Le-Beau-Male-EDP.jpg?v=1711467464"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jean Paul Gaultier<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            79.95 - 99.95
+            <a href="https://perfumania.com/products/le-beau-eau-de-toilette-spray-for-men-by-jean-paul-gaultier">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Jean Paul Gaultier</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>Product_Bundle_Collection</s:tag>
+    <s:tag>TYPE_Eau De Toilette Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6940356247685</id>
+      <title>2.5 oz.</title>
+      <s:price currency="USD">79.95</s:price>
+      <s:sku>1000013373</s:sku>
+      <s:grams>726</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/6940356247685</id>
+      <title>4.2 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000013374</s:sku>
+      <s:grams>726</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5181523460229</id>
+    <published>2024-03-26T09:03:11-04:00</published>
+    <updated>2024-03-26T09:03:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/bad-boy-carolina-herrera-for-men-edt"/>
+    <title>Bad Boy Eau De Toilette Spray for Men by Carolina Herrera</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0097527larger.jpg?v=1602084656"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            75.95 - 124.95
+            <a href="https://perfumania.com/products/bad-boy-carolina-herrera-for-men-edt">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Carolina Herrera in the year 2019.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Carolina Herrera</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau De Toilette Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5181523460229</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">75.95</s:price>
+      <s:sku>1000009234</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/5181523460229</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">97.95</s:price>
+      <s:sku>1000008740</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/5181523460229</id>
+      <title>5.0 oz.</title>
+      <s:price currency="USD">124.95</s:price>
+      <s:sku>1000011595</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6939711504517</id>
+    <published>2024-03-26T08:36:55-04:00</published>
+    <updated>2024-03-26T08:36:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/voce-viva-eau-de-parfum-spray-for-women-by-valentino"/>
+    <title>Voce Viva Eau de Parfum Spray for Women by Valentino</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Valentino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/voceviva.jpg?v=1711456530"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Valentino<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            129.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BRAND_Valentino</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>type Eau de parfum spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6939711504517</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">129.95</s:price>
+      <s:sku>1000012618</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6938992509061</id>
+    <published>2024-03-25T16:19:49-04:00</published>
+    <updated>2024-03-25T16:19:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/paradoxe-eau-de-parfum-spray-for-women-by-prada"/>
+    <title>Paradoxe Eau de Parfum Spray for Women by Prada</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Prada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/paradoxe.jpg?v=1711397982"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Prada<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            126.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BRAND_Prada</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6938992509061</id>
+      <title>3 oz.</title>
+      <s:price currency="USD">126.95</s:price>
+      <s:sku>1000013671</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6938923925637</id>
+    <published>2024-03-25T10:50:13-04:00</published>
+    <updated>2024-03-25T10:50:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/nolita-eau-de-parfum-spray-for-women-by-bond-no-9"/>
+    <title>Nolita Eau de Parfum spray for Women by Bond No. 9</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Bond No.9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/bondno9.jpg?v=1711378120"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bond No.9<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            299.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRAND_Bond No.9</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>Over $150</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6938923925637</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">299.95</s:price>
+      <s:sku>1000013649</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467060277381</id>
+    <published>2024-03-25T09:23:25-04:00</published>
+    <updated>2024-03-25T09:23:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/madison-avenue-eau-de-parfum-spray-for-women-by-bond-no-9"/>
+    <title>Madison Avenue Eau de Parfum Spray for Women by Bond No.9</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Bond No.9</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Bond-No-9-Madison-Avenue-Women-Eau-de-Parfum-3.3-Best-Price-Fragrance-Parfume-FragranceOutlet.com-details.jpg?v=1579127679"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bond No.9<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            299.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Madison Avenue comes off as a fresh chypre. Many fashionistas around the world have long favored the combination of citrusy, woody as well as mossy fragrances. Bond No 9 has managed to cram all that into an elegant bottle. It's done so quite impressively without coming off as overpowering.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRAND_Bond No.9</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>Over $150</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467060277381</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">299.95</s:price>
+      <s:sku>1000002822</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6911179030661</id>
+    <published>2024-03-21T16:51:08-04:00</published>
+    <updated>2024-03-21T16:51:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/copy-of-acqua-di-gio-eau-de-parfum-spray-for-men-by-giorgio-armani"/>
+    <title>Acqua Di Gio Parfum Spray for Men by Giorgio Armani</title>
+    <s:type>Parfum Spray</s:type>
+    <s:vendor>Giorgio Armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/comingsooncopy_fc2727cf-7be0-49e4-9aad-bf7037e2fb5c.jpg?v=1711054250"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio Armani<br>
+        <strong>Type: </strong>Parfum Spray<br>
+        <strong>Price: </strong>
+            165.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRAND_Giorgio Armani</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>Over $150</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6911179030661</id>
+      <title>4.2 oz.</title>
+      <s:price currency="USD">165.95</s:price>
+      <s:sku>1000013634</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6935412867205</id>
+    <published>2024-03-21T16:30:35-04:00</published>
+    <updated>2024-03-21T16:30:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/lolita-lempicka-le-parfum-eau-de-parfum-spray-for-women-by-lolita-lempicka"/>
+    <title>Lolita Lempicka  Le Parfum Eau de Parfum spray for Women by Lolita Lempicka</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Lolita Lempicka</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/lolita.webp?v=1711052927"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lolita Lempicka<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            83.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Lolita Lempicka Perfume</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6935412867205</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">83.95</s:price>
+      <s:sku>1000013683</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6935383933061</id>
+    <published>2024-03-21T15:32:53-04:00</published>
+    <updated>2024-03-21T15:32:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/her-london-dream-eau-de-parfum-spray-for-women-by-burberry"/>
+    <title>Her London Dream Eau de Parfum Spray for Women by Burberry</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/london.jpg?v=1711477483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            102.95 - 129.95
+            <a href="https://perfumania.com/products/her-london-dream-eau-de-parfum-spray-for-women-by-burberry">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BRAND_Burberry</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6935383933061</id>
+      <title>1.6 oz.</title>
+      <s:price currency="USD">102.95</s:price>
+      <s:sku>1000011586</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/6935383933061</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">129.95</s:price>
+      <s:sku>1000011587</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6935323967621</id>
+    <published>2024-03-21T12:08:24-04:00</published>
+    <updated>2024-03-21T12:08:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/my-way-intense-eau-de-parfum-for-women-by-giorgio-armani"/>
+    <title>My Way Intense Eau de Parfum Spray for Women by Giorgio Armani</title>
+    <s:type>Eau De Parfum Intense Spray</s:type>
+    <s:vendor>Giorgio Armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/mywayintense.jpg?v=1711037164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio Armani<br>
+        <strong>Type: </strong>Eau De Parfum Intense Spray<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Giorgio Armani</s:tag>
+    <s:tag>Gender_women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau De Parfum Intense Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6935323967621</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000013251</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6935287332997</id>
+    <published>2024-03-21T11:21:03-04:00</published>
+    <updated>2024-03-21T11:21:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/ur-the-queen-dynasty-eau-de-parfum-spray-for-women"/>
+    <title>Ur The Queen Dynasty Eau de Parfum Spray for Women</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Ur The Queen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/urthequeendynasty.png?v=1711034349"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ur The Queen<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Exclusive Selection</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6935287332997</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000013093</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6935282352261</id>
+    <published>2024-03-21T11:12:59-04:00</published>
+    <updated>2024-03-21T11:12:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/ur-the-king-dynasty-eau-de-parfum-spray-for-men"/>
+    <title>Ur The King Dynasty Eau De Parfum Spray for Men</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Ur The King</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/Urthekingdynasty.png?v=1711033981"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ur The King<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Exclusive Selection</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6935282352261</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000013094</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6934374252677</id>
+    <published>2024-03-19T16:31:41-04:00</published>
+    <updated>2024-03-19T16:31:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/uomo-born-in-roma-eau-de-toilette-spray-for-men-by-valentino"/>
+    <title>Uomo Born In Roma Eau de Toilette spray for Men by Valentino</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Valentino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/borninroma.jpg?v=1710880209"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Valentino<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            95.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Valentino</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6934374252677</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">95.95</s:price>
+      <s:sku>1000012780</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6934361473157</id>
+    <published>2024-03-19T15:33:41-04:00</published>
+    <updated>2024-03-19T15:33:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/libre-intense-eau-de-parfum-spray-for-women-by-yves-saint-laurent"/>
+    <title>Libre Intense Eau de Parfum Spray for Women by Yves Saint Laurent</title>
+    <s:type>Eau De Parfum Intense Spray</s:type>
+    <s:vendor>Yves Saint Laurent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/libreintense.webp?v=1710876708"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yves Saint Laurent<br>
+        <strong>Type: </strong>Eau De Parfum Intense Spray<br>
+        <strong>Price: </strong>
+            129.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BRAND_Yves Saint Laurent</s:tag>
+    <s:tag>gender_women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:tag>TYPE_Eau De Parfum Intense Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6934361473157</id>
+      <title>3 oz.</title>
+      <s:price currency="USD">129.95</s:price>
+      <s:sku>1000011523</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6934346203269</id>
+    <published>2024-03-19T15:06:50-04:00</published>
+    <updated>2024-03-19T15:06:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/1-million-elixir-intense-parfum-spray-for-men-by-paco-rabanne"/>
+    <title>1 Million Elixir Intense Parfum Spray for Men by Paco Rabanne</title>
+    <s:type>Intense Parfum</s:type>
+    <s:vendor>Paco Rabanne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/1millionelixir.jpg?v=1710875030"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paco Rabanne<br>
+        <strong>Type: </strong>Intense Parfum<br>
+        <strong>Price: </strong>
+            119.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BRAND_Paco Rabanne</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Parfum Intense</s:tag>
+    <s:tag>TYPE_Parfum spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6934346203269</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">119.95</s:price>
+      <s:sku>1000013391</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6934307209349</id>
+    <published>2024-03-19T11:57:22-04:00</published>
+    <updated>2024-03-19T11:57:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/pegasus-eau-de-parfum-for-men-by-parfums-de-marly"/>
+    <title>Pegasus Eau de Parfum Spray for Men by Parfums de Marly</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Parfums de Marly</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/pegasus.webp?v=1710863638"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Parfums de Marly<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            229.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRAND_Parfums de Marly</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>Over $150</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6934307209349</id>
+      <title>4.17 oz.</title>
+      <s:price currency="USD">229.95</s:price>
+      <s:sku>1000013555</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6934296690821</id>
+    <published>2024-03-19T11:09:54-04:00</published>
+    <updated>2024-03-19T11:09:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/night-de-paris-motion-eau-de-parfum-spray-for-men-by-lorientale"/>
+    <title>Night De Paris Motion Eau de Parfum Spray for Men by L&apos;orientale</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>L&apos;orientale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/night_de_paris_Motion.jpg?v=1710861011"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>L&#39;orientale<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            145.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>brand_L&apos;orientale</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6934296690821</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">145.95</s:price>
+      <s:sku>1000012069</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6934294233221</id>
+    <published>2024-03-19T10:56:46-04:00</published>
+    <updated>2024-03-19T10:56:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/night-de-paris-diamond-eau-de-parfum-spray-for-men-by-lorientale"/>
+    <title>Night De Paris Diamond Eau de Parfum spray for Men by L&apos;orientale</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>L&apos;orientale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/Image.jpg?v=1710860222"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>L&#39;orientale<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            144.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>brand_L&apos;orientale</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6934294233221</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">144.95</s:price>
+      <s:sku>1000012566</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6934273589381</id>
+    <published>2024-03-19T10:06:06-04:00</published>
+    <updated>2024-03-19T10:06:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/212-heroes-forever-young-eau-de-toilette-for-men-by-carolina-herrera"/>
+    <title>212 Heroes Forever Young Eau de Toilette Spray for Men by Carolina Herrera</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/212heroes.jpg?v=1710857020"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            119.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BRAND_Carolina Herrera</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau De Toilette Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6934273589381</id>
+      <title>3 oz.</title>
+      <s:price currency="USD">119.95</s:price>
+      <s:sku>1000012771</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6934261956741</id>
+    <published>2024-03-19T09:29:37-04:00</published>
+    <updated>2024-03-19T09:29:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/q-eau-de-parfum-spray-for-women-by-dolce-gabbana"/>
+    <title>Q Eau de Parfum Spray for Women by Dolce &amp; Gabbana</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Dolce and Gabbana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/QD_G.jpg?v=1710854875"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dolce and Gabbana<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            104.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BRAND_Dolce and Gabbana</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6934261956741</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">104.95</s:price>
+      <s:sku>1000013381</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6934255927429</id>
+    <published>2024-03-19T08:58:27-04:00</published>
+    <updated>2024-03-19T08:58:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/love-eau-de-parfum-spray-for-women-by-coach"/>
+    <title>Love Eau de Parfum Spray for Women by Coach</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Coach</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/coachlove.webp?v=1710853004"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coach<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            81.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Coach</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>Product_Bundle_Collection</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6934255927429</id>
+      <title>3.0 oz.</title>
+      <s:price currency="USD">81.95</s:price>
+      <s:sku>1000013541</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5172606140549</id>
+    <published>2024-03-18T16:47:38-04:00</published>
+    <updated>2024-03-18T16:47:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/leau-by-jimmy-choo-for-women-eau-de-toilette-spray"/>
+    <title>L&apos;eau Eau de Toilette Spray for Women by Jimmy Choo</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Jimmy Choo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0093580larger.jpg?v=1600285632"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jimmy Choo<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            84.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Jimmy Choo</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau De Toilette Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5172606140549</id>
+      <title>3  oz.</title>
+      <s:price currency="USD">84.95</s:price>
+      <s:sku>1000012811</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

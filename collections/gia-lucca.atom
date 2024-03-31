@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumania.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumania.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumania.com/collections/gia-lucca.atom"/>
+  <title>Perfumania</title>
+  <updated>2023-03-30T14:06:27-04:00</updated>
+  <author>
+    <name>Perfumania</name>
+  </author>
+  <entry>
+    <id>https://perfumania.com/products/6809261506693</id>
+    <published>2023-03-30T14:06:27-04:00</published>
+    <updated>2023-03-30T14:06:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/gia-nightfall-eau-de-parfum-spray-for-men-by-gia-lucca"/>
+    <title>Gia Nightfall Eau de Parfum Spray for Men by Gia Lucca</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Gia Lucca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Gia_Night_fall_PP.jpg?v=1681388575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gia Lucca<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Step into nocturnal elegance with <em><strong>"Gia Nightfall by Gia Lucca for men."</strong></em> This captivating fragrance opens with the refreshing brightness of pineapple and apple, setting the stage for a sophisticated and alluring introduction. As it evolves, the harmonious blend of geranium and moss adds depth and intrigue, making <em><strong>"Gia Nightfall"</strong></em> the perfect choice for the modern man who seeks to leave a lasting impression under the cover of night.</span></p>
+<p><span>It is a Woody Musk perfume.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Gia Lucca</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>proprietary</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6809261506693</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000013077</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6809254002821</id>
+    <published>2023-03-30T13:53:42-04:00</published>
+    <updated>2023-03-30T13:53:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/gia-deep-blue-eau-de-parfum-spray-for-men-by-gia-lucca"/>
+    <title>Gia Deep Blue Eau de Parfum Spray for Men by Gia Lucca</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Gia Lucca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Gia_Deep_Blue_PP.jpg?v=1681388628"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gia Lucca<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Dive into the depths of sophistication with <em><strong>"Gia Deep Blue by Gia Lucca for men."</strong></em> This captivating fragrance opens with the invigorating coolness of mint, creating an aura of freshness and vitality. As it evolves, the rich blend of tonka beans, vetiver, and cedarwood adds depth and masculinity, making <em><strong>"Gia Deep Blue"</strong></em> the perfect choice for the modern man who seeks to make a bold and enduring statement.</span></p>
+<p><span>It is a Fresh Aromatic perfume.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Gia Lucca</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>proprietary</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6809254002821</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000013076</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6737549328517</id>
+    <published>2022-10-11T13:04:00-04:00</published>
+    <updated>2022-10-11T13:04:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/gia-mademoiselle-eau-de-parfum-for-women-by-gia-lucca"/>
+    <title>Gia Mademoiselle Eau De Parfum For Women By Gia Lucca</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Gia Lucca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/gia_luca_madamemoiselle.jpg?v=1668720148"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gia Lucca<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            101.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Elevate your senses with <em><strong>"Gia Mademoiselle by Gia Lucca,"</strong> </em>a fragrance embodying modern sophistication. This captivating scent begins with the luscious sweetness of mango and the delicate charm of lotus flower, creating an enticing and fresh introduction. As it unfolds, the playful notes of raspberry blend seamlessly with the timeless glamour of amber, leaving an unforgettable impression. Embrace the essence of a confident, contemporary woman with <em><strong>"Gia Mademoiselle,"</strong></em> a fragrance that defines effortless elegance.</span></p>
+<p><span>It is a Fruity perfume.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Gia Lucca</s:tag>
+    <s:tag>gender_women</s:tag>
+    <s:tag>proprietary</s:tag>
+    <s:tag>TYPE_Eau de Parfum spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6737549328517</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">101.95</s:price>
+      <s:sku>1000011915</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6627449176197</id>
+    <published>2021-11-19T13:29:57-05:00</published>
+    <updated>2021-11-19T13:29:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/gia-lucca-pour-homme-eau-de-parfum-spray-for-men"/>
+    <title>Gia Lucca Pour Homme Eau de Parfum Spray for Men</title>
+    <s:type></s:type>
+    <s:vendor>Gia Lucca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/GiaLuccaPourHommeEaudeParfumSprayforMen.jpg?v=1637346470"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gia Lucca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Experience the epitome of masculine allure with <em><strong>"Gia Lucca by Gia Lucca for men."</strong></em> This captivating fragrance opens with the refreshing zest of Mandarin, setting the stage for a vibrant and confident introduction. As it evolves, the rich blend of nutmeg and coriander blend with the sensual white musk and cedarwood notes, creating an irresistible and enduring aroma. Embrace the timeless charm and sophistication of <em><strong>"Gia Lucca by Gia Lucca,"</strong></em> a fragrance that defines the essence of modern masculinity.</span></p>
+<p><span>It is a Woody Spicy perfume.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Exclusive Selection</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>proprietary</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6627449176197</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000011917</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6627448815749</id>
+    <published>2021-11-19T13:24:31-05:00</published>
+    <updated>2021-11-19T13:24:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/gia-lucca-pour-femme-eau-de-parfum-spray-for-women"/>
+    <title>Gia Lucca Pour Femme Eau de Parfum Spray for Women</title>
+    <s:type></s:type>
+    <s:vendor>Gia Lucca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/gia_luca_gia_2f51bd2f-12d8-4553-b9c6-85d43d55a6c2.jpg?v=1668720637"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gia Lucca<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            101.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Indulge in the enchanting world of <em><strong>"Gia Lucca by Gia Lucca,"</strong></em> a fragrance crafted for the modern woman. The scent opens with the crisp and juicy apple notes, inviting you into freshness and vitality. As it evolves, the alluring essence of jasmine intertwines with the sandalwood's warmth and the musk's sensuality, creating an irresistible and unforgettable aroma. Embrace the elegance and allure of <em><strong>"Gia Lucca by Gia Lucca,"</strong></em> a fragrance that captures the essence of feminine sophistication.</span></p>
+<p><span>It is a Floral Fruity perfume.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Exclusive Selection</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>proprietary</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6627448815749</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">101.95</s:price>
+      <s:sku>1000011916</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

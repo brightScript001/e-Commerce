@@ -1,0 +1,1299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumania.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumania.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumania.com/collections/christian-dior-perfumes-and-colognes.atom"/>
+  <title>Perfumania</title>
+  <updated>2024-03-26T15:19:59-04:00</updated>
+  <author>
+    <name>Perfumania</name>
+  </author>
+  <entry>
+    <id>https://perfumania.com/products/6926229110917</id>
+    <published>2024-03-26T15:19:59-04:00</published>
+    <updated>2024-03-26T15:19:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/copy-of-sauvage-for-men-by-christian-dior-parfum-spray"/>
+    <title>Sauvage Elixir Parfum Spray for Men by Christian Dior</title>
+    <s:type>Parfum Spray</s:type>
+    <s:vendor>Christian Dior</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/elixir.webp?v=1711480339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Christian Dior<br>
+        <strong>Type: </strong>Parfum Spray<br>
+        <strong>Price: </strong>
+            169.95 - 174.95
+            <a href="https://perfumania.com/products/copy-of-sauvage-for-men-by-christian-dior-parfum-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRAND_Christian Dior</s:tag>
+    <s:tag>BRAND_Dior</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>Over $150</s:tag>
+    <s:tag>savage SearchTag</s:tag>
+    <s:tag>TYPE_Parfum spray</s:tag>
+    <s:tag>woody-notes</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6926229110917</id>
+      <title>2.0 oz.</title>
+      <s:price currency="USD">174.95</s:price>
+      <s:sku>1000012805</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/6926229110917</id>
+      <title>2.0 oz. Tester</title>
+      <s:price currency="USD">169.95</s:price>
+      <s:sku>1000013284</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6846972985477</id>
+    <published>2023-09-01T11:24:11-04:00</published>
+    <updated>2023-09-01T11:24:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/miss-dior-rose-n-roses-eau-de-toilette-spray-for-women-by-dior"/>
+    <title>Miss Dior Rose N&apos; Roses Eau De Toilette Spray for Women by Dior</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Christian Dior</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/rosenrosesdior.webp?v=1694100343"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Christian Dior<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            125.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BRAND_Christian Dior</s:tag>
+    <s:tag>BRAND_Dior</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6846972985477</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">125.95</s:price>
+      <s:sku>1000009287</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6797726154885</id>
+    <published>2023-02-16T16:36:39-05:00</published>
+    <updated>2023-02-16T16:36:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/sauvage-for-men-by-christian-dior-parfum-spray"/>
+    <title>Sauvage Parfum Spray for Men by Christian Dior</title>
+    <s:type>Parfum Spray</s:type>
+    <s:vendor>Christian Dior</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/sauvage.jpg?v=1676583145"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Christian Dior<br>
+        <strong>Type: </strong>Parfum Spray<br>
+        <strong>Price: </strong>
+            140.95 - 239.95
+            <a href="https://perfumania.com/products/sauvage-for-men-by-christian-dior-parfum-spray">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BRAND_Christian Dior</s:tag>
+    <s:tag>BRAND_Dior</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>Over $150</s:tag>
+    <s:tag>savage SearchTag</s:tag>
+    <s:tag>TYPE_Parfum spray</s:tag>
+    <s:tag>woody-notes</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6797726154885</id>
+      <title>2.0 oz.</title>
+      <s:price currency="USD">145.95</s:price>
+      <s:sku>1000009306</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/6797726154885</id>
+      <title>2.0 oz. Tester</title>
+      <s:price currency="USD">140.95</s:price>
+      <s:sku>1000011443</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/6797726154885</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">174.95</s:price>
+      <s:sku>1000009307</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/6797726154885</id>
+      <title>3.4 oz. Tester</title>
+      <s:price currency="USD">169.95</s:price>
+      <s:sku>1000011444</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/6797726154885</id>
+      <title>6.7 oz.</title>
+      <s:price currency="USD">239.95</s:price>
+      <s:sku>1000011622</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6592106758277</id>
+    <published>2021-08-05T11:41:54-04:00</published>
+    <updated>2021-08-05T11:41:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/capture-youth-glow-booster-illuminating-serum-by-christian-dior-for-women-1-oz-serum"/>
+    <title>Capture Youth Glow Booster Illuminating Serum by Christian Dior for Women - 1 oz Serum</title>
+    <s:type>Beauty</s:type>
+    <s:vendor>Christian Dior</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0088682larger.jpg?v=1628177758"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Christian Dior<br>
+        <strong>Type: </strong>Beauty<br>
+        <strong>Price: </strong>
+            92.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This illuminating serum is a glow booster to helps to restore radiance. Murunga Plum, known to be 100 times more concentrated in Vitamin C than oranges, combined with alpha hydroxy acid helps to brighten the complexion and smooth skin texture.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>8.5</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Christian Dior</s:tag>
+    <s:tag>GENDER_Unisex</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>skincare</s:tag>
+    <s:tag>TYPE_Beauty</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6592106758277</id>
+      <title>Default Title</title>
+      <s:price currency="USD">92.95</s:price>
+      <s:sku>1000012320</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466976096389</id>
+    <published>2021-04-22T12:53:08-04:00</published>
+    <updated>2021-04-22T12:53:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/dior-miss-dior-cherie-womens-eau-de-parfum-spray"/>
+    <title>Miss Dior for Women by Dior Eau De Parfum Spray</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Christian Dior</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/Dior-Miss-Dior-Cherie-Womens-Eau-de-Parfume-Spray-3.4-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1697118317"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Christian Dior<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            125.95 - 157.95
+            <a href="https://perfumania.com/products/dior-miss-dior-cherie-womens-eau-de-parfum-spray">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Miss Dior Cherie symbolizes modern youth and feminine charm at its best. The perfume features fruity top notes that exude freshness and vibrancy. Its heart is an interesting blend of caramel popcorn and sweet-smelling flowers for a unique scent. The base musky notes add warmth and lusciousness to an otherwise light and sparking perfume. Long-lasting and ideal for everyday wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BRAND_Christian Dior</s:tag>
+    <s:tag>BRAND_Dior</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>Over $150</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466976096389</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">125.95</s:price>
+      <s:sku>101571053</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466976096389</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">154.95</s:price>
+      <s:sku>101571057</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466976096389</id>
+      <title>5.0 oz.</title>
+      <s:price currency="USD">157.95</s:price>
+      <s:sku>1000008380</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466979897477</id>
+    <published>2021-04-22T12:53:01-04:00</published>
+    <updated>2021-04-22T12:53:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/dior-addict-eau-de-parfum-spray-for-women"/>
+    <title>Dior Addict For Women By Christian Dior Eau De Parfum Spray</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Christian Dior</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Dior-Addict-Eau-de-Parfum-Spray-for-Women-EDP-S-3.4-oz.-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1580141850"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Christian Dior<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            154.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Addict is a rich and sensual fragrance, formulated for the bold confident woman. It has a dynamic energy and gets you ready to party without any inhibitions. It is ideal for wearing in the evening or night out.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRAND_Christian Dior</s:tag>
+    <s:tag>BRAND_Dior</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>Over $150</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466979897477</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">154.95</s:price>
+      <s:sku>101040057</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466985402501</id>
+    <published>2021-04-22T12:52:34-04:00</published>
+    <updated>2021-04-22T12:52:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/dior-pure-poison-eau-de-parfum-spray-for-women-by-christian-dior"/>
+    <title>Pure Poison Eau de Parfum Spray for Women by Dior</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Christian Dior</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Dior-Pure-Poison-Womens-Eau-de-Parfum-EDP-S-3.4-oz.-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1579125368"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Christian Dior<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            80.95 - 154.95
+            <a href="https://perfumania.com/products/dior-pure-poison-eau-de-parfum-spray-for-women-by-christian-dior">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Pure Poison fragrance was released by the Dior fashion house in 2004. The fragrance was formulated by Olivier Polge, Dominique Ropion and Carlos Benaim.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Christian Dior</s:tag>
+    <s:tag>BRAND_Dior</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>Over $150</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466985402501</id>
+      <title>1 oz.</title>
+      <s:price currency="USD">80.95</s:price>
+      <s:sku>1000011089</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466985402501</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">154.95</s:price>
+      <s:sku>101733057</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466986188933</id>
+    <published>2021-04-22T12:52:29-04:00</published>
+    <updated>2021-04-22T12:52:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/dior-sauvage-cologne-for-men-eau-de-toilette"/>
+    <title>Sauvage for Men by Christian Dior Eau De Toilette Spray</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Christian Dior</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Dior-Sauvage-Men-Eau-de-Toilette-Spray-EDT-Spray-6.8-Best-Price-Fragrance-parfum-FragranceOutlet.com-DETAILS.jpg?v=1580834525"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Christian Dior<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            89.95 - 169.95
+            <a href="https://perfumania.com/products/dior-sauvage-cologne-for-men-eau-de-toilette">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sauvage Dior for men gets its name from Eau Sauvage (1966), even though these two fragrances are not part of a single collection. fragrance reminds you of men from wild desert region wearing khakis and hats, exuding pride and confidence.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Christian Dior</s:tag>
+    <s:tag>BRAND_Dior</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>Over $150</s:tag>
+    <s:tag>savage SearchTag</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:tag>woody-notes</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466986188933</id>
+      <title>2.0 oz.</title>
+      <s:price currency="USD">96.95</s:price>
+      <s:sku>1000001557</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466986188933</id>
+      <title>2.0 oz. Tester</title>
+      <s:price currency="USD">89.95</s:price>
+      <s:sku>1000002669</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466986188933</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">115.95</s:price>
+      <s:sku>1000001556</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466986188933</id>
+      <title>3.4 oz. Tester</title>
+      <s:price currency="USD">104.95</s:price>
+      <s:sku>1000002435</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466986188933</id>
+      <title>6.8 oz.</title>
+      <s:price currency="USD">169.95</s:price>
+      <s:sku>1000002135</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466986188933</id>
+      <title>6.8 oz. Tester</title>
+      <s:price currency="USD">155.95</s:price>
+      <s:sku>1000002670</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467037208709</id>
+    <published>2021-04-22T12:46:56-04:00</published>
+    <updated>2021-04-22T12:46:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/poison-girl-eau-de-parfum-spray-for-women-by-dior"/>
+    <title>Poison Girl Eau de Parfum Spray for Women by Dior</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Christian Dior</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Dior-Poison-Girl-Eau-de-Parfume-Spray-1.7oz-Best-Price-Fragrance-Parfume-FragranceOutlet.com-DETAILS.jpg?v=1654630372"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Christian Dior<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            68.95 - 154.95
+            <a href="https://perfumania.com/products/poison-girl-eau-de-parfum-spray-for-women-by-dior">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Dior Poison Collection has always been greatly loved by dedicated users through the years, and the new addition Posion Girl is no exception. It is described as a bitter-sweet floral, and its main accords are balsamic, bitter orange and vanilla. The perfect fragrance for the modern woman who dares to follow her dreams, Posion Girl is deliciously addictive. It is concocted by famous perfumer, Francois Demachy who says it is a ""recognizable fragrance"" and an ""uncompromising signature""</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Christian Dior</s:tag>
+    <s:tag>BRAND_Dior</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>Over $150</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467037208709</id>
+      <title>1.0 oz.</title>
+      <s:price currency="USD">68.95</s:price>
+      <s:sku>1000011406</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467037208709</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">96.95</s:price>
+      <s:sku>1000002504</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467037208709</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">154.95</s:price>
+      <s:sku>1000002513</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467043106949</id>
+    <published>2021-04-22T12:46:00-04:00</published>
+    <updated>2021-04-22T12:46:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/dior-homme-intense-eau-de-parfum-spray-for-men-by-dior"/>
+    <title>Dior Homme Intense Eau de Parfum Spray for Men by Dior</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Christian Dior</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Christian-Dior-Dior-Homme-Intense-Men-Eau-de-Parfum-Spray-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details1.jpg?v=1654629093"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Christian Dior<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            82.99 - 119.95
+            <a href="https://perfumania.com/products/dior-homme-intense-eau-de-parfum-spray-for-men-by-dior">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Stylish, urbane and intrepid, the Dior Homme Intense represents the spirit of the strong yet sensitive modern man. Launched by Dior back in 2011, the Dior Homme Intense features an exciting combination of airy floral and musky scents with warm woodsy notes at its heart. The luscious fragrance was created by Francois Demachy and is marketed in a luxurious gold tinted glass atomizer.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Christian Dior</s:tag>
+    <s:tag>BRAND_Dior</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467043106949</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">82.99</s:price>
+      <s:sku>1000004129</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467043106949</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">119.95</s:price>
+      <s:sku>1000002709</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467043205253</id>
+    <published>2021-04-22T12:45:59-04:00</published>
+    <updated>2021-04-22T12:45:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/dior-homme-eau-de-toilette-spray-for-men-by-dior"/>
+    <title>Dior Homme Eau de Toilette Spray for Men by Dior</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Christian Dior</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/M-2078larger_d21c76cf-64d0-4028-bdac-f6ce4e1f41ce.jpg?v=1627407961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Christian Dior<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            91.95 - 115.95
+            <a href="https://perfumania.com/products/dior-homme-eau-de-toilette-spray-for-men-by-dior">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Created by the world class perfumer Francois Demachy, the Dior Homme offers an extraordinary combination of airy florals and warm musky scents that render it a pure olefactory delight! The fragrance opens with brilliant sage and lavender that gradually give way to mouth watering cacao and amber and finally linger on as a leathery musky fragrance with vetiver at its heart.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Christian Dior</s:tag>
+    <s:tag>BRAND_Dior</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467043205253</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">91.95</s:price>
+      <s:sku>202196153</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467043205253</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">115.95</s:price>
+      <s:sku>202196157</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467117817989</id>
+    <published>2021-04-22T12:39:57-04:00</published>
+    <updated>2021-04-22T12:39:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/dior-homme-by-christian-dior-for-men-cologne-spray"/>
+    <title>DIOR HOMME BY CHRISTIAN DIOR FOR MEN -  COLOGNE SPRAY</title>
+    <s:type>Cologne</s:type>
+    <s:vendor>Christian Dior</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/M-2716larger.jpg?v=1579128856"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Christian Dior<br>
+        <strong>Type: </strong>Cologne<br>
+        <strong>Price: </strong>
+            105.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Christian Dior in the year 2007. This woody floral fragrance has a blend of lavender, neroli, sage, cardamom, bergamot, mandarin orange, cacao, amber, leather, patchouli, and vetiver notes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BRAND_Christian Dior</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Cologne</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467117817989</id>
+      <title>4.2 oz.</title>
+      <s:price currency="USD">105.95</s:price>
+      <s:sku>1000005343</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5172598571141</id>
+    <published>2021-04-01T18:47:51-04:00</published>
+    <updated>2021-04-01T18:47:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/dioressence-by-christian-dior-for-women-eau-de-toilette-spray"/>
+    <title>Dioressence by Christian Dior for Women -  Eau de Toilette Spray</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Christian Dior</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/W-1873larger.jpg?v=1600285257"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Christian Dior<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            134.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Christian Dior in the year 1979. This oriental spicy fragrance has a blend of patchouli, oak moss, vetiver, benzoin, vanilla, musk, styrax, jasmine, carnation, cinnamon, tuberose, and orris notes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>9.9</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Christian Dior</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau De Toilette Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5172598571141</id>
+      <title>3.4  oz.</title>
+      <s:price currency="USD">134.95</s:price>
+      <s:sku>1000009705</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467222052997</id>
+    <published>2021-03-31T22:44:23-04:00</published>
+    <updated>2021-03-31T22:44:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/one-essential-intense-skin-detoxifying-booster-serum-by-christian-dior-for-unisex-1-7-oz-serum"/>
+    <title>One Essential Intense Skin Detoxifying Booster Serum by Christian Dior for Unisex - 1.7 oz Serum</title>
+    <s:type>Beauty</s:type>
+    <s:vendor>Christian Dior</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/U-SC-2815larger.jpg?v=1579131240"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Christian Dior<br>
+        <strong>Type: </strong>Beauty<br>
+        <strong>Price: </strong>
+            112.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">One Essential Intense Skin Detoxifying Booster Serum by Christian Dior is a transformative skincare solution.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Christian Dior</s:tag>
+    <s:tag>GENDER_Unisex</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Beauty</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467222052997</id>
+      <title>Default Title</title>
+      <s:price currency="USD">112.00</s:price>
+      <s:sku>1000008488</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466942148741</id>
+    <published>2021-03-29T15:03:06-04:00</published>
+    <updated>2021-03-29T15:03:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/dior-miss-dior-blooming-bouquet-womens-eau-de-toilette-spray"/>
+    <title>Miss Dior Blooming Bouquet for Women by Christian Dior Eau De Toilette Spray</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Christian Dior</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Dior-Miss-Dior-Blooming-Bouquet-Womens-Eau-de-Toilette-Spray-3.4-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Detail.jpg?v=1580830213"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Christian Dior<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            100.95 - 144.95
+            <a href="https://perfumania.com/products/dior-miss-dior-blooming-bouquet-womens-eau-de-toilette-spray">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Christian DiorÃªs horticultural knowledge is the stuff of legends, and his sensitive understanding of floral blends contributed to many an outstanding feminine fragrance. Miss Dior is yet another elegant fresh fruity-floral fragrance from the iconic fashion house. The sweet and light bouquet of peony, Sicilian Mandarin, rose and musk greet you. The notes are clean, delicate and elegant, making Miss Dior Blooming Bouquet ideal for everyday wear. Good silage ensures that you keep smelling sweet like a bouquet of fresh flowers all day long!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BRAND_Christian Dior</s:tag>
+    <s:tag>BRAND_Dior</s:tag>
+    <s:tag>floral-notes</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466942148741</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">100.95</s:price>
+      <s:sku>1000002714</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466942148741</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">130.95</s:price>
+      <s:sku>1000001150</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466942148741</id>
+      <title>5.0 oz.</title>
+      <s:price currency="USD">144.95</s:price>
+      <s:sku>1000004128</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467204915333</id>
+    <published>2021-03-09T15:37:58-05:00</published>
+    <updated>2021-03-09T15:37:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/dior-one-essential-eye-serum-by-christian-dior-for-women-0-5-oz-eye-serum"/>
+    <title>Dior One Essential Eye Serum by Christian Dior for Women - 0.5 oz Eye Serum</title>
+    <s:type>Beauty</s:type>
+    <s:vendor>Christian Dior</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/W-SC-3047larger.jpg?v=1579130873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Christian Dior<br>
+        <strong>Type: </strong>Beauty<br>
+        <strong>Price: </strong>
+            68.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>It eliminates toxins identified at the heart of the skin and intensely revitalizes it. The eye contour is revitalized, smoothed, and re-energized. It is sulfates free.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Christian Dior</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Beauty</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467204915333</id>
+      <title>Default Title</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku>1000007563</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466961186949</id>
+    <published>2021-03-05T22:47:35-05:00</published>
+    <updated>2021-03-05T22:47:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/dior-eau-sauvage-mens-eau-de-toilette-spray"/>
+    <title>Eau Sauvage Eau de Toilette Spray for Men by Dior</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Christian Dior</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Christian-Dior-Eau-Sauvage-Mens-Eau-de-Toilette-Spray-6.7-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Main.jpg?v=1579124543"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Christian Dior<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            115.95 - 139.95
+            <a href="https://perfumania.com/products/dior-eau-sauvage-mens-eau-de-toilette-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This splendid citrus scented fragrance was introduced by the house of Dior in the year 1996. The nose behind the perfume is Edmond Roudnitska. The lemony freshness imparted by the perfume makes it a perfect spring-summer all day wear perfume. The citrus tone to the perfume is rendered by the lemon, bergamot, fruity notes, and the bitter undertones are given by caraway, rosemary, and basil. The aromatic and fresh spicy heart is composed of various flowers, coriander and orris root among others while the woody fragrance is imparted by musk, vetiver, oakmoss, and amber.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BRAND_Christian Dior</s:tag>
+    <s:tag>BRAND_Dior</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>oriental-notes</s:tag>
+    <s:tag>savage SearchTag</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466961186949</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">115.95</s:price>
+      <s:sku>202226156</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466961186949</id>
+      <title>6.7 oz.</title>
+      <s:price currency="USD">139.95</s:price>
+      <s:sku>1000000667</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467117949061</id>
+    <published>2021-03-04T23:27:31-05:00</published>
+    <updated>2021-03-04T23:27:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/diorissimo-by-christian-dior-for-women-eau-de-toilette-spray"/>
+    <title>DIORISSIMO BY CHRISTIAN DIOR FOR WOMEN -  Eau De Toilette SPRAY</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Christian Dior</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/W-1570larger.jpg?v=1579128857"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Christian Dior<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            85.00 - 108.95
+            <a href="https://perfumania.com/products/diorissimo-by-christian-dior-for-women-eau-de-toilette-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Christian Dior in the year 1956. This floral fragrance has a blend of jasmine, lily of the valley, ylang-ylang, amaryllis, and boronia notes. It is recommended for daytime wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Christian Dior</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467117949061</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>1000005348</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467117949061</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">108.95</s:price>
+      <s:sku>101217157</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467081838725</id>
+    <published>2021-03-04T23:27:30-05:00</published>
+    <updated>2021-03-04T23:27:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/diorella-by-christian-dior-for-women-eau-de-toilette-spray"/>
+    <title>Diorella by Christian Dior for Women -  Eau De Toilette Spray</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Christian Dior</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/W-1872larger.jpg?v=1579128201"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Christian Dior<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            130.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Christian Dior in the year 1970. This floral fragrance has a blend of lemon, peach, bergamot, melon, honeysuckle, jasmine, violet, rosebud, oak moss, vanilla, clove, sandalwood, vetiver, musk, and patchouli notes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BRAND_Christian Dior</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467081838725</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">130.95</s:price>
+      <s:sku>101216157</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466953388165</id>
+    <published>2021-03-04T23:27:30-05:00</published>
+    <updated>2021-03-04T23:27:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/dior-dune-womens-eau-de-toilette-spray"/>
+    <title>Dune For Women By Christian Dior Eau De Toilette Spray</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Christian Dior</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Dior-Dune-Womens-Eau-de-Toilette-Spray-3.3-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1580151782"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Christian Dior<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            81.95 - 125.95
+            <a href="https://perfumania.com/products/dior-dune-womens-eau-de-toilette-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dune from Christian Dior is a joyous ode to the past, reminiscent of the childhood memories from the designer's home in Granville. First created in 1991 by Jean-Louis Sieuzac and Nejla Barbir, Dune has won several accolades. Its woody herbiness combines with a deep floral heart to give a unique fragrance that is warm, familiar, elegant yet enigmatic.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Christian Dior</s:tag>
+    <s:tag>BRAND_Dior</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466953388165</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">81.95</s:price>
+      <s:sku>101220153</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466953388165</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">125.95</s:price>
+      <s:sku>101220157</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466942214277</id>
+    <published>2021-03-04T23:27:28-05:00</published>
+    <updated>2021-03-04T23:27:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/dior-hypnotic-poison-womens-eau-de-toilette-spray"/>
+    <title>Hypnotic Poison For Women By Christian Dior Eau De Toilette Spray</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Christian Dior</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/W-4358larger.jpg?v=1650308229"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Christian Dior<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            69.95 - 125.95
+            <a href="https://perfumania.com/products/dior-hypnotic-poison-womens-eau-de-toilette-spray">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CHRISTIAN DIOR created HYPNOTIC POISON in 1998. It is the result of the following top fragrance Notes: almond, caraway and jasmine. The middle notes are: moss, sandalwood and oakmoss and the base of the fragrance is: vanilla, musk and cedar. HYPNOTIC POISON is recommended for romantic use.</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Christian Dior</s:tag>
+    <s:tag>BRAND_Dior</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466942214277</id>
+      <title>1 oz.</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>1000008993</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466942214277</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">96.95</s:price>
+      <s:sku>101383153</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466942214277</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">125.95</s:price>
+      <s:sku>101383157</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467120341125</id>
+    <published>2021-01-25T19:07:49-05:00</published>
+    <updated>2021-01-25T19:07:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/eau-sauvage-by-christian-dior-for-men-eau-de-toilette-spray"/>
+    <title>EAU SAUVAGE BY CHRISTIAN DIOR FOR MEN -  Eau De Toilette SPRAY</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Christian Dior</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/M-1219larger.jpg?v=1579128917"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Christian Dior<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            91.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Christian Dior in the year 1966. This floral fragrance has a blend of lemon, basil, bergamot, cumin, lavender, jasmine, rose, carnation, iris root, coriander, patchouli, sandalwood, oak moss, musk, and amber notes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Christian Dior</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>savage SearchTag</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467120341125</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">91.95</s:price>
+      <s:sku>1000005399</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467137806469</id>
+    <published>2021-01-15T23:44:33-05:00</published>
+    <updated>2021-01-15T23:44:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/jadore-in-joy-by-christian-dior-for-women-eau-de-toilette-spray"/>
+    <title>JADORE IN JOY BY CHRISTIAN DIOR FOR WOMEN -  Eau De Toilette SPRAY</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Christian Dior</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/W-9284larger.jpg?v=1579129268"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Christian Dior<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            112.23 - 122.95
+            <a href="https://perfumania.com/products/jadore-in-joy-by-christian-dior-for-women-eau-de-toilette-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Christian Dior. This floral fruity fragrance has a blend of sea salt, neroli, tuberose, ylang ylang, jasmine, and peach.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BRAND_Christian Dior</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467137806469</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">112.23</s:price>
+      <s:sku>1000005738</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467137806469</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">122.95</s:price>
+      <s:sku>1000009708</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466953224325</id>
+    <published>2020-10-05T22:48:00-04:00</published>
+    <updated>2020-10-05T22:48:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/dior-dolce-vita-womens-eau-de-toilette-spray"/>
+    <title>Dolce Vita Eau de Toilette Spray for Women by Dior</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Christian Dior</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Christian-Dior-Dolce-Vita-Womens-Eau-De-Toilette-EDT-Spray-3.4-oz.-Best-Price-Fragrance-Parfume-FragranceOutlet.com-main.jpg?v=1579124236"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Christian Dior<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            81.95 - 125.95
+            <a href="https://perfumania.com/products/dior-dolce-vita-womens-eau-de-toilette-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Christian Dior Dolce Vita is a woman's fragrance, created by perfumer Pierre Bourdon for Dior. Embrace the sweet life with this oriental fragrance that has whispers of woody base notes. The warm spiciness from notes of cinnamon and vanilla add a hint of sensuality to this carefree fragrance.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Christian Dior</s:tag>
+    <s:tag>BRAND_Dior</s:tag>
+    <s:tag>dolce gabana SearchTag</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466953224325</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">81.95</s:price>
+      <s:sku>101192153</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466953224325</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">125.95</s:price>
+      <s:sku>101192157</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466942705797</id>
+    <published>2020-08-07T07:05:38-04:00</published>
+    <updated>2020-08-07T07:05:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/dior-miss-dior-cherie-womens-eau-de-toilette-spray"/>
+    <title>Miss Dior for Women by Dior Eau De Toilette Spray</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Christian Dior</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Dior-Miss-Dior-Cherie-Womens-Eau-de-Toilette-Spray-3.4-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1710770675"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Christian Dior<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            92.99 - 125.95
+            <a href="https://perfumania.com/products/dior-miss-dior-cherie-womens-eau-de-toilette-spray">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Miss Dior Cherie by Christian Dior is a sweet and fruity scent that is a contemporary spin on the classic. Wild strawberry leaves, violets, patchouli and a caramel popcorn heart make this a fragrance with a unique flair. Launched in 2005, this creation by Christine Nagel was quite distinct from the original Miss Dior from 1947. Francois Demachy then gave us a more modern, sophisticated update on the fragrance in 2011.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Christian Dior</s:tag>
+    <s:tag>BRAND_Dior</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466942705797</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">96.95</s:price>
+      <s:sku>101571153</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466942705797</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">125.95</s:price>
+      <s:sku>101571157</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466942705797</id>
+      <title>3.4 oz. Tester</title>
+      <s:price currency="USD">92.99</s:price>
+      <s:sku>404571156</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

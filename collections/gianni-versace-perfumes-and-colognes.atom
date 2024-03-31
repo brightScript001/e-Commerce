@@ -1,0 +1,1257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumania.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumania.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumania.com/collections/gianni-versace-perfumes-and-colognes.atom"/>
+  <title>Perfumania</title>
+  <updated>2023-09-06T16:27:15-04:00</updated>
+  <author>
+    <name>Perfumania</name>
+  </author>
+  <entry>
+    <id>https://perfumania.com/products/6847527813253</id>
+    <published>2023-09-06T16:27:15-04:00</published>
+    <updated>2023-09-06T16:27:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/dylan-purple-pour-femme-for-women-by-gianni-versace-eau-de-parfum-spray"/>
+    <title>Dylan Purple Pour Femme For Women By Gianni Versace Eau De Parfum Spray</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/dylanpurplewomen.webp?v=1694100191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Versace</s:tag>
+    <s:tag>floral-notes</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>Product_Bundle_Collection</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:tag>woody-notes</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6847527813253</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000013409</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6825842180229</id>
+    <published>2023-05-30T13:32:27-04:00</published>
+    <updated>2023-05-30T13:32:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/eros-parfum-spray-for-men-by-versace"/>
+    <title>Eros Parfum Spray for Men By Gianni Versace</title>
+    <s:type></s:type>
+    <s:vendor>Gianni Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/erosparfum.jpg?v=1685468147"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gianni Versace<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            106.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>Brand_Gianni Versace</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>TYPE_Parfum spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6825842180229</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">106.95</s:price>
+      <s:sku>1000013038</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6752546455685</id>
+    <published>2022-11-08T15:12:44-05:00</published>
+    <updated>2022-11-08T15:12:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/dylan-turquoise-by-versace-for-women-3-pc-gift-set"/>
+    <title>Dylan Turquoise by Versace for Women - 3 Pc Gift Set</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0122102larger.jpg?v=1667938365"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            79.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Versace. Sensual, young and fresh, the new Dylan Turquoise fragrance balances the effervescent exuberance of zesty mandarin and primofiore lemon with hints of wood and musk.Dylan Turquoise by Versace for Women - 3 Pc Gift Set 1.7oz EDT Spray, 1.7oz Perfumed Body Gel, 1.7oz Bath and Shower Gel</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_ Versace</s:tag>
+    <s:tag>gender_women</s:tag>
+    <s:tag>TYPE_ Eau De Toilette</s:tag>
+    <s:tag>TYPE_Gift Set</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6752546455685</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">79.95</s:price>
+      <s:sku>1000012948</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6752546422917</id>
+    <published>2022-11-08T15:12:42-05:00</published>
+    <updated>2022-11-08T15:12:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/versace-bright-crystal-by-versace-for-women-3-pc-gift-set"/>
+    <title>Versace Bright Crystal by Versace for Women - 3 Pc Gift Set</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/W-GS-3032larger.jpg?v=1667938363"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            76.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Versace Bright Crystal line was launched by the Versace design house in 2006. The gift set is the perfect present for the confident woman who likes to pamper herself in luxury. The delicate pomegranate is followed by a lovely floral heart accord of peony, magnolia and lotus flower, and a lingering note of sensual musk and amber. Recommended for daily wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_ Versace</s:tag>
+    <s:tag>gender_women</s:tag>
+    <s:tag>TYPE_ Eau De Toilette</s:tag>
+    <s:tag>TYPE_Gift Set</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6752546422917</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">76.95</s:price>
+      <s:sku>1000000106</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6706876317829</id>
+    <published>2022-08-10T09:48:13-04:00</published>
+    <updated>2022-08-10T09:48:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/versace-dylan-turquoise-eau-de-toilette-for-women"/>
+    <title>Dylan Turquoise Eau de Toilette Spray for Women by Versace</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0125761larger.jpg?v=1660139213"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            70.95 - 90.95
+            <a href="https://perfumania.com/products/versace-dylan-turquoise-eau-de-toilette-for-women">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Versace in the year 2020. Described as sensual, youthful and fresh, the new Dylan Turquoise is created by perfumer Sophie Labbe. Top notes- mandarin, primofiore lemon, pink pepper. Base cedar, musk, Clearwood.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Versace</s:tag>
+    <s:tag>fresh-notes</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>Product_Bundle_Collection</s:tag>
+    <s:tag>TYPE_Eau De Toilette Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6706876317829</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">70.95</s:price>
+      <s:sku>1000011611</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/6706876317829</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">90.95</s:price>
+      <s:sku>1000011612</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/6706876317829</id>
+      <title>3.4 oz. UBX</title>
+      <s:price currency="USD">73.95</s:price>
+      <s:sku>1000011615</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6683519778949</id>
+    <published>2022-05-18T14:41:55-04:00</published>
+    <updated>2022-05-18T14:41:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/eros-eau-de-parfum-spray-for-men-by-versace"/>
+    <title>Eros Eau De Parfum Spray For Men By Versace</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/ErosEaudeParfumSprayforMenbyVersace.jpg?v=1652899252"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            78.95 - 116.95
+            <a href="https://perfumania.com/products/eros-eau-de-parfum-spray-for-men-by-versace">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Experience the captivating allure of Eros Eau de Parfum Spray for Men by Versace. This fragrance encapsulates the essence of masculinity and seduction, leaving a lasting impression wherever you journey. Its invigorating composition unfolds with vibrant bursts of fresh mint, crisp apple, and zesty lemon, infusing a refreshing and energizing aura. The heart reveals a harmonious fusion of warm spices, including tonka bean and geranium, evoking depth and sensuality. As the fragrance lingers, it unveils rich and seductive notes of vanilla, cedarwood, and vetiver, creating a sophisticated and irresistible allure. Eros Eau de Parfum is a symbol of confidence and magnetism, making it an exquisite choice for the modern man.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Versace</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6683519778949</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">78.95</s:price>
+      <s:sku>1000011553</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/6683519778949</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">88.95</s:price>
+      <s:sku>1000011554</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/6683519778949</id>
+      <title>6.7 oz.</title>
+      <s:price currency="USD">116.95</s:price>
+      <s:sku>1000011608</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/6683519778949</id>
+      <title>3.4 oz. Tester</title>
+      <s:price currency="USD">92.95</s:price>
+      <s:sku>1000012502</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466959122565</id>
+    <published>2021-04-23T08:44:04-04:00</published>
+    <updated>2021-04-23T08:44:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/versace-versense-womens-eau-de-toilette-spray"/>
+    <title>Versense Eau de Toilette Spray for Women by Versace</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Versace-Versense-Womens-Eau-de-Toilette-Spray-3.4-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1579124449"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            49.95 - 65.95
+            <a href="https://perfumania.com/products/versace-versense-womens-eau-de-toilette-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched in 2009 by the Italian haute couture design house Versace, Versense for Women is a reflection of the modern, take-charge women who is confident in her skin and beautiful in her sexuality. It packs the fragrance of a rather rare floral bouquet that radiates energy and freshness. The natural tones create a green aura, which smells like freedom, dynamism and a balance of your inner self with the surrounding nature. In-line with the overall theme, the Flacon of Versense is colored light-green as well. Perfect for regular-use by the modern, free-spirited fashionable woman.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>BRAND_Versace</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466959122565</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>111859163</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466959122565</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">65.95</s:price>
+      <s:sku>111859167</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466963251333</id>
+    <published>2021-04-22T12:53:51-04:00</published>
+    <updated>2021-04-22T12:53:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/versace-bright-crystal-womens-gift-set-edt"/>
+    <title>Bright Crystal Gift Set Eau de Toilette Body Lotion and Shower Gel for Women by Versace</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Versace-Bright-Crystal-Set-Womens-Gift-Set-1.7-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Main.jpg?v=1579124623"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            76.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Versace Bright Crystal line was launched by the Versace design house in 2006. The gift set is the perfect present for the confident woman who likes to pamper herself in luxury. The delicate pomegranate is followed by a lovely floral heart accord of peony, magnolia and lotus flower, and a lingering note of sensual musk and amber. Recommended for daily wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Versace</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Gift Set</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466963251333</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">76.95</s:price>
+      <s:sku>1000000106</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466989957253</id>
+    <published>2021-04-22T12:52:02-04:00</published>
+    <updated>2021-04-22T12:52:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/versace-woman-eau-de-parfum-spray-for-women-by-versace"/>
+    <title>Versace Woman Eau de Parfum Spray for Women by Versace</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Versace-Versace-Woman-Womens-Eau-de-Parfum-EDP-S-3.4-oz.-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Main.jpg?v=1579125531"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            38.99 - 51.95
+            <a href="https://perfumania.com/products/versace-woman-eau-de-parfum-spray-for-women-by-versace">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The bold exuberance of the Versace woman is bottled in the Versace Woman Eau de Parfum from the international design house. The intense oriental scent of the padparadscha lotus; the bouquet of jasmine, wild rose, bergamot and frangipani leaves; and the robust fruitness of plum and raspberry make this a perfume that is for the confident woman who is comfortable in her own skin and isn't afraid of attention.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>bndlvarid-34666406477957</s:tag>
+    <s:tag>BRAND_Versace</s:tag>
+    <s:tag>bundle-2-for-75</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466989957253</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">38.99</s:price>
+      <s:sku>1000010016</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466989957253</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">51.95</s:price>
+      <s:sku>111859057</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467074629765</id>
+    <published>2021-04-22T12:43:24-04:00</published>
+    <updated>2021-04-22T12:43:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/versace-crystal-noir-by-versace-for-women-edp-spray"/>
+    <title>Versace Crystal Noir by Versace for Women -  EDP Spray</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/W-3163larger.jpg?v=1579128009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            71.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Versace in the year 2004. This floral fragrance has a blend of gardenia, orange blossom, amber and musk. It is recommended for casual wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>BRAND_Versace</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467074629765</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">71.95</s:price>
+      <s:sku>111859260</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467076399237</id>
+    <published>2021-04-22T12:43:09-04:00</published>
+    <updated>2021-04-22T12:43:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/versace-crystal-noir-by-versace-for-women-edt-splash-mini"/>
+    <title>Versace Crystal Noir by Versace for Women -  EDT Splash (Mini)</title>
+    <s:type>Beauty</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/W-M-1090larger.jpg?v=1579128045"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>Beauty<br>
+        <strong>Price: </strong>
+            9.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Versace in the year 2004. This oriental floral fragrance has a blend of ginger, cardamom, pepper, orange blossom, peony, gardenia, coconut, sandalwood, musk, and amber.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Versace</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Miniatures</s:tag>
+    <s:tag>UNDER $25</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467076399237</id>
+      <title>.17</title>
+      <s:price currency="USD">9.98</s:price>
+      <s:sku>313860040</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467077644421</id>
+    <published>2021-04-22T12:43:02-04:00</published>
+    <updated>2021-04-22T12:43:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/versace-crystal-noir-by-versace-for-women-edp-spray-1"/>
+    <title>Versace Crystal Noir by Versace for Women -  EDP Spray</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/W-3164larger.jpg?v=1579128072"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            91.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Versace in the year 2004. It is recommended for casual wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Versace</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467077644421</id>
+      <title>3 oz.</title>
+      <s:price currency="USD">91.95</s:price>
+      <s:sku>1000004714</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467052511365</id>
+    <published>2021-04-12T14:52:39-04:00</published>
+    <updated>2021-04-12T14:52:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/dylan-blue-eau-de-parfum-spray-for-women-by-versace"/>
+    <title>Dylan Blue Pour Femme For Women By Gianni Versace Eau De Parfum Spray</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Versace-Dylan-Blue-Women-Eau-de-Parfum-Spray-3.4-Best-Price-Fragrance-Parfume-FragranceOutlet.com-DETAILS.jpg?v=1580842757"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            81.95 - 103.95
+            <a href="https://perfumania.com/products/dylan-blue-eau-de-parfum-spray-for-women-by-versace">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dylan Blue for women from Versace boasts of floral, woody, and fruity notes that result in delivering one of the most balanced fragrances out there in the market today. Each note level signifies a particular attribute. The top represents strength, while the middle and the bases represent sensuality and elegance, respectively. The nose behind this stunning fragrance is Calice Becker, who claims that Dylan Blue is her attempt at celebrating the feminine. It is all about power, strength and refinement.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Versace</s:tag>
+    <s:tag>floral-notes</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>Product_Bundle_Collection</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:tag>woody-notes</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467052511365</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">81.95</s:price>
+      <s:sku>1000004296</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467052511365</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">103.95</s:price>
+      <s:sku>1000004081</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466959286405</id>
+    <published>2021-04-12T14:52:35-04:00</published>
+    <updated>2021-04-12T14:52:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/versace-crystal-noir-womens-eau-de-toilette"/>
+    <title>Crystal Noir For Women By Gianni Versace Eau De Toilette Spray</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Versace-Crystal-Noir-Womens-Eau-de-Toilette-Spray-3-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1579724091"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            53.95 - 86.95
+            <a href="https://perfumania.com/products/versace-crystal-noir-womens-eau-de-toilette">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Established design house Gianni Versace unveiled the Crystal Noir fragrance in 2004, with its favorite gardenia notes taking centerstage. Crystal Noir fuses fresh sweet gardenia and peonies with warm spices, and a settling note of sensuous musk to bring you elegance in a bottle. Best-suited for evening events and special occasions.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Versace</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>oriental-notes</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466959286405</id>
+      <title>1.0 oz.</title>
+      <s:price currency="USD">53.95</s:price>
+      <s:sku>111859252</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466959286405</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">70.95</s:price>
+      <s:sku>111859253</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466959286405</id>
+      <title>3.0 oz.</title>
+      <s:price currency="USD">86.95</s:price>
+      <s:sku>111859257</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466959286405</id>
+      <title>3.0 oz. Tester</title>
+      <s:price currency="USD">83.95</s:price>
+      <s:sku>414859257</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466959057029</id>
+    <published>2021-04-12T14:52:33-04:00</published>
+    <updated>2021-04-12T14:52:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/versace-yellow-diamond-perfume-womens-eau-de-toilette"/>
+    <title>Yellow Diamond For Women By Gianni Versace Eau De Toilette Spray</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Versace-Yellow-Diamond-Womens-Eau-de-Toilette-Spray-3-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1580938396"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            53.95 - 120.95
+            <a href="https://perfumania.com/products/versace-yellow-diamond-perfume-womens-eau-de-toilette">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched in 2011 by premium Italian haute couture label Versace, Yellow Diamond for women is pure perfection. It opens with sensuous, juicy notes that reveal a floral heart or orange flowers and mimosa. dry down is lush musk. Everything related to perfume, from its fragrance (pure, airy, floral, sparkling and feminine) to brand (Versace!), packaging (collector's edition yellow bottle inside a baroque ornament-decorated box) and face (supermodel Abbey Lee Kershaw) are just perfect!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Versace</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466959057029</id>
+      <title>1.0 oz.</title>
+      <s:price currency="USD">53.95</s:price>
+      <s:sku>111858352</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466959057029</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">70.95</s:price>
+      <s:sku>111858353</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466959057029</id>
+      <title>3.0 oz.</title>
+      <s:price currency="USD">86.95</s:price>
+      <s:sku>111858357</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466959057029</id>
+      <title>6.7 oz.</title>
+      <s:price currency="USD">120.95</s:price>
+      <s:sku>1000011578</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467045105797</id>
+    <published>2021-02-19T11:11:43-05:00</published>
+    <updated>2021-02-19T11:11:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/red-jeans-eau-de-toilette-spray-for-women-by-versace"/>
+    <title>Red Jeans Eau de Toilette Spray for Women by Versace</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Versace-Red-Jeans-Women-Eau-de-Toilette-Spray-Best-Price-Fragrance-Parfume-FragranceOutlet.com-DETAILS_7776.jpg?v=1619208779"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            42.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Designed for the young and carefree modern woman, the Red Jeans by Versace is infused with classic floral and fruity scents that lend it its rich and luxurious appeal. The fragrance features fruity peach and apricot, sweet flowery notes of rose and water lily at its heart and profound musk and vanilla.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>bndlvarid-31839385157765</s:tag>
+    <s:tag>BRAND_Versace</s:tag>
+    <s:tag>bundle-2-for-75</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467045105797</id>
+      <title>2.5 oz.</title>
+      <s:price currency="USD">42.95</s:price>
+      <s:sku>111456155</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466959614085</id>
+    <published>2021-02-15T15:36:26-05:00</published>
+    <updated>2021-02-15T15:36:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/versace-man-eau-fraiche-cologne-for-men-eau-de-toilette-spray"/>
+    <title>Man Eau Fraiche Eau de Toilette Spray for Men by Versace</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Versace-Man-Eau-Fraiche-Mens-Eau-de-Toilette-Spray-6.7-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1579124490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            49.95 - 107.95
+            <a href="https://perfumania.com/products/versace-man-eau-fraiche-cologne-for-men-eau-de-toilette-spray">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched in 2007 by design house of Gianni Versace, Man Eau Fraiche is a lighter re-creation of original Versace for Men. It tones down spicy Latino vibe of original with use of White Lemon, Amber and other fresh scents, to create a distinctively Mediterranean aura. dry down is woody, giving it that classic masculine fragrance which we have come to associate Versace for Men with. Perfect as regular-use cologne for calm and composed fashionable man.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Versace</s:tag>
+    <s:tag>fresh-notes</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>Product_Bundle_Collection</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466959614085</id>
+      <title>1.0 oz.</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>212860252</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466959614085</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">60.95</s:price>
+      <s:sku>212860253</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466959614085</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">76.95</s:price>
+      <s:sku>212860257</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466959614085</id>
+      <title>3.4 oz. Tester</title>
+      <s:price currency="USD">76.95</s:price>
+      <s:sku>414860258</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466959614085</id>
+      <title>6.7 oz.</title>
+      <s:price currency="USD">107.95</s:price>
+      <s:sku>1000000571</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466959679621</id>
+    <published>2021-01-06T23:28:03-05:00</published>
+    <updated>2021-01-06T23:28:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/versace-eros-cologne-for-men-eau-de-toilette"/>
+    <title>Eros For Men By Gianni Versace Eau De Toilette Spray</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Versace-Versace-Eros-Men-Eau-de-Toilette-Spray-EDT-Spray-6.7-Best-Price-Fragrance-Parfume-FragranceOutlet.com-DETAILS.jpg?v=1580926381"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            39.95 - 107.95
+            <a href="https://perfumania.com/products/versace-eros-cologne-for-men-eau-de-toilette">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Versace Eros cologne was launched in 2012. The fragrance starts with fresh citrus notes and then slips into subtle geranium, tank beans, and ambroxan notes, boosting the vanilla and woody notes of the scent as if a preview of what is to follow. It easily slips in with the lifestyle of the sophisticated man, making it wearable to work, play, or otherwise.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>Best-Sellers</s:tag>
+    <s:tag>BRAND_Versace</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>Product_Bundle_Collection</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:tag>woody-notes</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466959679621</id>
+      <title>1.0 oz.</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>1000000673</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466959679621</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">61.95</s:price>
+      <s:sku>1000000513</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466959679621</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">79.95</s:price>
+      <s:sku>1000000514</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466959679621</id>
+      <title>3.4 oz. Tester</title>
+      <s:price currency="USD">87.95</s:price>
+      <s:sku>1000000581</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466959679621</id>
+      <title>6.7 oz.</title>
+      <s:price currency="USD">107.95</s:price>
+      <s:sku>1000002015</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466959384709</id>
+    <published>2020-12-22T15:10:59-05:00</published>
+    <updated>2020-12-22T15:10:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/versace-jeans-blue-cologne-for-men-eau-de-toilette-spray"/>
+    <title>Blue Jeans For Men By Gianni Versace Eau De Toilette Spray</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Versace-Jeans-Blue-Mens-Eau-de-Toilette-Spray-2.5-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1580826682"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            42.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched in 1994 by the design house of Gianni Versace, Blue Jeans Cologne for Men has attained the status of a classic male scent, that never fails to impress. perfume opens with a tasteful scent that is part woody and part fruity. It then reveals a heart of spices and finally dries down to a warm, masculine tone. Besides, when you know that celebrity perfumer Jean-Pierre Bethouart is the nose behind Blue Jeans for Men, you already know it's going to be a classic! Perfect as regular wear for fashionable men of many moods.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>bndlvarid-31838883020933</s:tag>
+    <s:tag>BRAND_Versace</s:tag>
+    <s:tag>bundle-2-for-75</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466959384709</id>
+      <title>2.5 oz.</title>
+      <s:price currency="USD">42.95</s:price>
+      <s:sku>212456155</s:sku>
+      <s:grams>399</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5166125940869</id>
+    <published>2020-11-18T08:54:39-05:00</published>
+    <updated>2020-11-18T08:54:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/dylan-blue-miniature-set-for-men-by-versace"/>
+    <title>Dylan Blue Miniature Set for Women by Versace</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/gift_sets_v_dylan_blue_femme_3459528.jpg?v=1678219082"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Versaces Dylan Blue Pour Femme Eau De Parfum is an intense women's fragrance best suited for evening wear and special occasions. The deep blue perfume bottle, inspired by the mysterious and captivating Mediterranean Sea, features golden details and the iconic Medusa image to symbolize the connection between the past and the present. Dylan Blue is a must-have Eau De Parfum in your perfume collection.</p>
+<p>Mini Set includes: 0.17 oz. Eau de Toilette Spray, 0.8 oz. After Shave Balm and 0.8 Shower Gel<br></p>
+<h5>SCENT</h5>
+<ul>
+<li>Top Notes are Water Notes, Calabrian Bergamot, Grapefruit, Fig Leaf</li>
+<li>Middle Notes are Violet Leaf, Papyrus, Patchouli, Black Pepper, Ambroxan</li>
+<li>Base Notes are Musk, Incense, Tonka Bean, Saffron</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 - $100</s:tag>
+    <s:tag>BRAND_Versace</s:tag>
+    <s:tag>free-gifts</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>gift-set</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>Spring-Fling</s:tag>
+    <s:tag>TYPE_Gift Set</s:tag>
+    <s:tag>UNDER $25</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5166125940869</id>
+      <title>0.17 oz.</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>1000009329</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5208109613189</id>
+    <published>2020-11-18T08:13:49-05:00</published>
+    <updated>2020-11-18T08:13:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/dylan-blue-miniature-set-for-men-by-versace-1"/>
+    <title>Dylan Blue Miniature Set for Men by Versace</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/gift_sets_v_dylan_blue_3459544.jpg?v=1678219130"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mini Set includes: 0.17 oz. Eau de Toilette Spray, 0.8 oz. After Shave Balm and 0.8 Shower Gel<br></p>
+<h5><br></h5>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 - $100</s:tag>
+    <s:tag>BRAND_Versace</s:tag>
+    <s:tag>free-gifts</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>gift-set</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>Spring-Fling</s:tag>
+    <s:tag>TYPE_Gift Set</s:tag>
+    <s:tag>UNDER $25</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5208109613189</id>
+      <title>0.17 oz.</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>1000010111</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5208109908101</id>
+    <published>2020-11-18T08:13:35-05:00</published>
+    <updated>2020-11-18T08:13:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/eros-miniature-set-for-women-by-versace"/>
+    <title>Eros Miniature Set for Women by Versace</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/gift_sets_v_eros_3459561.jpg?v=1678219194"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mini Set includes: 0.17 oz. Eau de Toilette Spray, 0.8 oz. Luxury Body Lotion and 0.8 Luxury Shower Gel<br></p>
+<h5><br></h5>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 - $100</s:tag>
+    <s:tag>BRAND_Versace</s:tag>
+    <s:tag>free-gifts</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>gift-set</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>Spring-Fling</s:tag>
+    <s:tag>TYPE_Gift Set</s:tag>
+    <s:tag>UNDER $25</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5208109908101</id>
+      <title>0.17 oz.</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>1000010106</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467076268165</id>
+    <published>2020-11-17T07:01:33-05:00</published>
+    <updated>2020-11-17T07:01:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/versace-crystal-noir-by-versace-for-women-3-pc-mini-gift-set-5ml-edt-splash-0-8oz-bath-and-shower"/>
+    <title>Versace Crystal Noir by Versace for Women - 3 Pc Mini Gift Set 5ml EDT Splash, 0.8oz Bath and Shower</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/gift_sets_v_cystal_noir.jpg?v=1661461172"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by design house of Versace in year 2004.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRAND_Versace</s:tag>
+    <s:tag>free-gifts</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Gift Set</s:tag>
+    <s:tag>UNDER $25</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467076268165</id>
+      <title>5 ML</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>1000000991</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467076333701</id>
+    <published>2020-11-06T23:18:04-05:00</published>
+    <updated>2020-11-06T23:18:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/versace-bright-crystal-by-versace-for-women-edt-splash-mini"/>
+    <title>Versace Bright Crystal by Versace for Women -  EDT Splash (Mini)</title>
+    <s:type>Miniatures</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/W-M-1131larger.jpg?v=1579128045"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>Miniatures<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by design house of Versace in year 2006. This floral fruity fragrance has a blend of .</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRAND_Versace</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Miniatures</s:tag>
+    <s:tag>UNDER $25</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467076333701</id>
+      <title>.17 oz.</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>313860041</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467181027461</id>
+    <published>2020-10-03T16:02:19-04:00</published>
+    <updated>2020-10-03T16:02:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/bright-crystal-absolu-by-versace-for-women-eau-de-parfum-spray"/>
+    <title>Bright Crystal Absolu by Versace for Women -  Eau de Parfum Spray</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/W-7822larger.jpg?v=1579130272"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Versace in the year 2013. This floral fruity fragrance has a blend of yuzu, pomegranate, accords of ice, raspberry, lotus, peony, magnolia, acajou wood, amber, and musk notes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Versace</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467181027461</id>
+      <title>3 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000000800</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1097 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumania.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumania.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumania.com/collections/fragrance-clearance.atom"/>
+  <title>Perfumania</title>
+  <updated>2024-03-06T10:52:24-05:00</updated>
+  <author>
+    <name>Perfumania</name>
+  </author>
+  <entry>
+    <id>https://perfumania.com/products/6927860826245</id>
+    <published>2024-03-06T10:52:24-05:00</published>
+    <updated>2024-03-06T10:52:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/fila-fresh-eau-de-toilette-spray-for-men-by-fila"/>
+    <title>Fila Fresh Eau de Parfum Spray for Women by Fila</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Fila</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/filafreshwomen.webp?v=1709740448"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fila<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRAND_Fila</s:tag>
+    <s:tag>Gender_men</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:tag>UNDER $25</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6927860826245</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">15.95</s:price>
+      <s:sku>1000013394</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467125584005</id>
+    <published>2024-03-06T09:59:41-05:00</published>
+    <updated>2024-03-06T09:59:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/fila-by-fila-for-men-eau-de-toilette-spray"/>
+    <title>Fila Eau de Toilette Spray for Men by Fila</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Fila</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/M-4824larger.jpg?v=1579129028"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fila<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Fila. This masculine fragrance has a blend of fresh and aromatic notes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRAND_Fila</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:tag>UNDER $25</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467125584005</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">15.95</s:price>
+      <s:sku>1000013395</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6584030363781</id>
+    <published>2024-03-06T09:38:37-05:00</published>
+    <updated>2024-03-06T09:38:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/fila-fresh-by-fila-for-men-edt-spray"/>
+    <title>Fila Fresh Eau de Toilette Spray for Men by Fila</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Fila</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0102749larger.jpg?v=1625603148"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fila<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Fila in the year of 2016. This oriental fougere fragrance has a blend of bergamot, cardamom, pepper, geranium, lavender, sage, cedar, tonka bean and vetiver.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRAND_Fila</s:tag>
+    <s:tag>Gender_men</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:tag>UNDER $25</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6584030363781</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">15.95</s:price>
+      <s:sku>1000013396</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6664913617029</id>
+    <published>2023-06-16T12:56:52-04:00</published>
+    <updated>2023-06-16T12:56:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/flo-atomizer-prestige-spray"/>
+    <title>Flo Atomizer Prestige Spray</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Flo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/flo-atomizer-prestige-pink-1.jpg?v=1686935121"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flo<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Flo Atomizer Prestige Spray is a sophisticated and versatile fragrance accessory that adds a touch of luxury to your perfume application. Designed with elegance and functionality in mind, this atomizer allows you to conveniently carry and spritz your favorite fragrance on-the-go. Its compact and sleek design fits easily into purses or pockets, making it perfect for travel or quick touch-ups throughout the day. The Prestige Spray ensures a fine and even mist, enhancing the overall fragrance experience. With its high-quality construction and attention to detail, the Flo Atomizer Prestige Spray combines style and practicality for the discerning fragrance lover.</p>
+<p>How to use: Use the funnel provided to pour the fragrance into the atomizer.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRAND_Flo</s:tag>
+    <s:tag>gender_unisex</s:tag>
+    <s:tag>UNDER $25</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6664913617029</id>
+      <title>Black</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>1000008348</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/6664913617029</id>
+      <title>Gold</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>1000008349</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/6664913617029</id>
+      <title>Silver</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>1000008350</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/6664913617029</id>
+      <title>Pink</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>1000008351</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/6664913617029</id>
+      <title>Red</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>1000013122</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6824061960325</id>
+    <published>2023-05-24T10:14:01-04:00</published>
+    <updated>2023-05-24T10:14:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/cuba-prestige-legacy-gift-set-for-men"/>
+    <title>Cuba Prestige Legacy Gift Set for Men</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Cuba</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0125090larger.jpg?v=1684937642"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cuba<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Cuba. This oriental fragrance has a blend of vetiver, musk, carnation, labdanum, hyacinth, sandalwood, amber, tea, and lilac. 2 Pc Gift Set 3oz EDT , 1.17oz EDT</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>Brand_Cuba</s:tag>
+    <s:tag>gender_Men</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Gift Set</s:tag>
+    <s:tag>UNDER $25</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6824061960325</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>1000013451</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6824061763717</id>
+    <published>2023-05-24T10:13:54-04:00</published>
+    <updated>2023-05-24T10:13:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/cuba-latino-collection-gift-set-for-women"/>
+    <title>Cuba Latino Collection Gift Set for Women</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Cuba</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0120741larger.jpg?v=1684937635"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cuba<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This was launched by the design house of Cuba. The nose behind this fragrance is Cuba.Top notes are Fresh notes; middle notes are Clean notes.Base notes are Aromatic notes.This fragrance is classified as Masculine.4 Pc Gift Set 1.17oz CopaCab EDP, 1.17oz Maya EDP, 1.17oz Crnvl EDP, 1.17oz Cacts EDP</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>Brand_Cuba</s:tag>
+    <s:tag>gender_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Gift Set</s:tag>
+    <s:tag>UNDER $25</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6824061763717</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>1000013481</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6824061730949</id>
+    <published>2023-05-24T10:13:52-04:00</published>
+    <updated>2023-05-24T10:13:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/cuba-jungle-zebra-gift-set-for-women"/>
+    <title>Cuba Jungle Zebra  Gift Set for Women</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Cuba</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/W-GS-2971larger.jpg?v=1684937633"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cuba<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Cuba. This feminine fragrance posesses a blend of cardamom, nutmeg, accords, water lilly, and dazzling spices.It is recommended for daytime or casual use. 3 Pc Gift Set 3.3oz EDP , 6.7oz Deodorant Body , 4.3oz Body Lotion</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>Brand_Cuba</s:tag>
+    <s:tag>gender_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Gift Set</s:tag>
+    <s:tag>UNDER $25</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6824061730949</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>1000013453</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6824061698181</id>
+    <published>2023-05-24T10:13:49-04:00</published>
+    <updated>2023-05-24T10:13:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/cuba-jungle-tiger-gift-set-for-women"/>
+    <title>Cuba Jungle Tiger  Gift Set for Women</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Cuba</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/W-GS-2970larger.jpg?v=1684937631"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cuba<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Cuba. This feminine fragrance has a blend of citrus, sweet spices, and lavender. It is recommended for daytime wear. 3 Pc Gift Set 3.3oz EDP , 6.7oz Deodorant Body , 4.3oz Body Lotion</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>Brand_Cuba</s:tag>
+    <s:tag>gender_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Gift Set</s:tag>
+    <s:tag>UNDER $25</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6824061698181</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>1000013452</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6625402257541</id>
+    <published>2021-11-11T11:43:24-05:00</published>
+    <updated>2021-11-11T11:43:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/jaguar-classic-chromite-by-jaguar-for-men-edt-spray"/>
+    <title>Jaguar Classic Chromite by Jaguar for Men - EDT Spray</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Jaguar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0116360larger.jpg?v=1636649008"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jaguar<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            22.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Jaguar. This oriental woody fragrance has a blend of green apple, mandarian orange, patchouli, cedar, praline, tonka bean, and ambroxan.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>11.11</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Jaguar</s:tag>
+    <s:tag>GENDER_ men</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:tag>UNDER $25</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6625402257541</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">22.95</s:price>
+      <s:sku>1000012686</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6625402126469</id>
+    <published>2021-11-11T11:43:05-05:00</published>
+    <updated>2021-11-11T11:43:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/jaguar-excellence-by-jaguar-for-men-edt-spray"/>
+    <title>Jaguar Excellence by Jaguar for Men - EDT Spray</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Jaguar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/M-3926larger.jpg?v=1636648986"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jaguar<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            22.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Jaguar in the year 2012. This masculine fragrance fragrance a blend of grapefruit, mandarin, pink pepper, lily, iris, orange blossom, vanilla, amber, and tonka.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>11.11</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Jaguar</s:tag>
+    <s:tag>GENDER_ men</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:tag>UNDER $25</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6625402126469</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">22.95</s:price>
+      <s:sku>1000012684</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6621629153413</id>
+    <published>2021-10-28T15:29:45-04:00</published>
+    <updated>2021-10-28T15:29:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/cuba-black-by-cuba-for-men-2-pc-gift-set"/>
+    <title>Cuba Black by Cuba for Men - 2 Pc Gift Set</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Cuba</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0101715larger.jpg?v=1635449387"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cuba<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Cuba. This floral fragrance has a blend of woods, musk, jasmine, and bergamot notes. It is recommended for romantic wear. Cuba Black by Cuba for Men - 2 Pc Gift Set 3.3oz EDT Spray, 1.17oz EDT Spray</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>Brand_Cuba</s:tag>
+    <s:tag>gender_ men</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Gift Set</s:tag>
+    <s:tag>UNDER $25</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6621629153413</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>1000012625</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6612152287365</id>
+    <published>2021-10-06T09:22:56-04:00</published>
+    <updated>2021-10-06T09:22:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/cuba-prestige-classic-by-cuba-for-men-eau-de-toilette-spray"/>
+    <title>Cuba Prestige Classic by Cuba for Men - Eau de Toilette Spray</title>
+    <s:type>Eau de Toilette - EDT/S</s:type>
+    <s:vendor>Cuba</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0101700larger.jpg?v=1633526578"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cuba<br>
+        <strong>Type: </strong>Eau de Toilette - EDT/S<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Cuba. This floral fragrance has a blend of black currant, bergamot, lemon, grapefruit, lavender, jasmine, rosemary, cardamom, oakmoss, vetiver, cedar, amber, and labdanum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10.5</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Cuba</s:tag>
+    <s:tag>gender_men</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:tag>UNDER $25</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6612152287365</id>
+      <title>1.17 oz.</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku>1000011051</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6612152254597</id>
+    <published>2021-10-06T09:22:49-04:00</published>
+    <updated>2021-10-06T09:22:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/cuba-strass-tiger-by-cuba-for-women-eau-de-parfum-spray"/>
+    <title>Cuba Strass Tiger by Cuba for Women - Eau de Parfum Spray</title>
+    <s:type>Eau de Parfum - EDP/S</s:type>
+    <s:vendor>Cuba</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0101694larger.jpg?v=1633526575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cuba<br>
+        <strong>Type: </strong>Eau de Parfum - EDP/S<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Cuba. This woody chypre fragrance has a blend of neroli, galbanum, green mandarin, hyacinth, lily-of-the-valley, tuberose, and jasmine.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10.5</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Cuba</s:tag>
+    <s:tag>gender_women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:tag>UNDER $25</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6612152254597</id>
+      <title>1.17 oz.</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku>141127</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6612152221829</id>
+    <published>2021-10-06T09:22:45-04:00</published>
+    <updated>2021-10-06T09:22:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/cuba-strass-zebra-by-cuba-for-women-eau-de-parfum-spray"/>
+    <title>Cuba Strass Zebra by Cuba for Women - Eau de Parfum Spray</title>
+    <s:type>Eau de Parfum - EDP/S</s:type>
+    <s:vendor>Cuba</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0101690larger.jpg?v=1633526574"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cuba<br>
+        <strong>Type: </strong>Eau de Parfum - EDP/S<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Cuba. This oriental floral fragrance has a blend of amber, black pepper, peony, rose, patchouli, and cedar. It is recommended for casual wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10.5</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Cuba</s:tag>
+    <s:tag>gender_women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:tag>UNDER $25</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6612152221829</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">11.95</s:price>
+      <s:sku>1000011072</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6612152156293</id>
+    <published>2021-10-06T09:22:41-04:00</published>
+    <updated>2021-10-06T09:22:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/cuba-strass-snake-by-cuba-for-women-eau-de-parfum-spray"/>
+    <title>Cuba Strass Snake by Cuba for Women - Eau de Parfum Spray</title>
+    <s:type>Eau de Parfum - EDP/S</s:type>
+    <s:vendor>Cuba</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0101687larger.jpg?v=1633526569"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cuba<br>
+        <strong>Type: </strong>Eau de Parfum - EDP/S<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Cuba. This floral fragrance has a blend of mandarian orange, cranberry, violet, peony, orchid, freesia, vanilla, white amber, and white woods.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10.5</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Cuba</s:tag>
+    <s:tag>gender_women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:tag>UNDER $25</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6612152156293</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">11.95</s:price>
+      <s:sku>1000011070</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6612151566469</id>
+    <published>2021-10-06T09:21:57-04:00</published>
+    <updated>2021-10-06T09:21:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/colour-me-white-by-milton-lloyd-for-men-eau-de-toilette-spray"/>
+    <title>Colour Me White by Milton-Lloyd for Men - Eau de Toilette Spray</title>
+    <s:type>Eau de Toilette - EDT/S</s:type>
+    <s:vendor>Milton-Lloyd</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0088553larger.jpg?v=1633526519"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Milton-Lloyd<br>
+        <strong>Type: </strong>Eau de Toilette - EDT/S<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Milton-Lloyod. This aromatic fougere fragrance has a blend of basil, green tea, bergamot, lemon, cardamom, leather, woody, musk, vetiver, amber, and sea notes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10.5</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Milton-Lloyd</s:tag>
+    <s:tag>gender_men</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:tag>UNDER $25</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6612151566469</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>1000008922</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6612151533701</id>
+    <published>2021-10-06T09:21:53-04:00</published>
+    <updated>2021-10-06T09:21:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/colour-me-silver-sport-by-milton-lloyd-for-men-eau-de-parfum-spray"/>
+    <title>Colour Me Silver Sport by Milton-Lloyd for Men - Eau de Parfum Spray</title>
+    <s:type>Eau de Parfum - EDP/S</s:type>
+    <s:vendor>Milton-Lloyd</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0088544larger.jpg?v=1633526517"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Milton-Lloyd<br>
+        <strong>Type: </strong>Eau de Parfum - EDP/S<br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Milton-Lloyd. This woody aromatic fragrance has a blend of grapefruit, melon, mandarin orange, thyme, rosemary, lavender, patchouli, vetiver, musk, and tonka bean.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10.5</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Milton-Lloyd</s:tag>
+    <s:tag>gender_men</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:tag>UNDER $25</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6612151533701</id>
+      <title>3 oz.</title>
+      <s:price currency="USD">15.95</s:price>
+      <s:sku>1000011210</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6612151173253</id>
+    <published>2021-10-06T09:21:27-04:00</published>
+    <updated>2021-10-06T09:21:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/gardenia-by-demeter-for-women-cologne-spray"/>
+    <title>Gardenia by Demeter for Women - Cologne Spray</title>
+    <s:type>Eau de Cologne - EDC/S</s:type>
+    <s:vendor>Demeter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/W-6294larger.jpg?v=1633526491"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Demeter<br>
+        <strong>Type: </strong>Eau de Cologne - EDC/S<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This was launched by the design house of Demeter. The nose behind this fragrance is Demeter. This fragrance is classified as Feminine</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10.5</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Demeter</s:tag>
+    <s:tag>gender_women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Cologne</s:tag>
+    <s:tag>UNDER $25</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6612151173253</id>
+      <title>4 oz.</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>1000011079</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6603951734917</id>
+    <published>2021-09-08T12:18:09-04:00</published>
+    <updated>2021-09-08T12:18:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/ab-spirit-by-lomani-for-women-edp-spray"/>
+    <title>Ab Spirit by Lomani for Women - EDP Spray</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Lomani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/W-5430larger.jpg?v=1631117890"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lomani<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            18.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Introduced by the design house of Lomani. AB Spirit is classified as feminine fragrance. It is recommended for casual wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9.8</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Lomani</s:tag>
+    <s:tag>GENDER_ women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_ Eau de Parfum</s:tag>
+    <s:tag>UNDER $25</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6603951734917</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">18.95</s:price>
+      <s:sku>1000012456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6603951341701</id>
+    <published>2021-09-08T12:17:50-04:00</published>
+    <updated>2021-09-08T12:17:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/jaguar-vision-sport-by-jaguar-for-men-edt-spray"/>
+    <title>Jaguar Vision Sport by Jaguar for Men - EDT Spray</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Jaguar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/M-4599larger.jpg?v=1631117871"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jaguar<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Jaguar. This masculine scent has fresh and aromatic notes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9.8</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Jaguar</s:tag>
+    <s:tag>GENDER_ men</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_ Eau de Toilette</s:tag>
+    <s:tag>UNDER $25</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6603951341701</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>1000012435</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6592425853061</id>
+    <published>2021-08-06T11:32:19-04:00</published>
+    <updated>2021-08-06T11:32:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/green-tea-mimosa-by-elizabeth-arden-for-women-eau-de-toilette-spray"/>
+    <title>Green Tea Mimosa by Elizabeth Arden for Women - Eau de Toilette Spray</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Elizabeth Arden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0114093larger.jpg?v=1628263940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elizabeth Arden<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            16.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Elizabeth Arden. Inspired by the lusciously sweet fruit, Elizabeth Arden Green Tea Fig takes you to a rustic countryside full of sparkle, warmth and laughter.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>8.6</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Elizabeth Arden</s:tag>
+    <s:tag>Gender_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:tag>UNDER $25</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6592425853061</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">16.95</s:price>
+      <s:sku>1000012401</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6592425656453</id>
+    <published>2021-08-06T11:32:11-04:00</published>
+    <updated>2021-08-06T11:32:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/le-parfait-by-armaf-for-women-eau-de-parfum-spray"/>
+    <title>Le Parfait by Armaf for Women - Eau de Parfum Spray</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Armaf</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0113638larger.jpg?v=1628263932"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Armaf<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Armaf. This floral fragrance has a blend of jasmine mandarin orange and neroli, honeysuckle lily of the valley and tuberose, amber musk and patchouli.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>8.6</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Armaf</s:tag>
+    <s:tag>Gender_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:tag>UNDER $25</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6592425656453</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>1000012389</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6592425623685</id>
+    <published>2021-08-06T11:32:09-04:00</published>
+    <updated>2021-08-06T11:32:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/cuba-strass-heartbreaker-by-cuba-for-women-eau-de-parfum-spray"/>
+    <title>Cuba Strass HeartBreaker by Cuba for Women - Eau de Parfum Spray</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Cuba</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0113182larger.jpg?v=1628263930"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cuba<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Cuba. This floral fragrance has a blend of pink pepper, orange, red currant, jasmine, peony, violet, green tea, amber, cedar and musk.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>8.6</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Cuba</s:tag>
+    <s:tag>Gender_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:tag>UNDER $25</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6592425623685</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>1000012388</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6592425427077</id>
+    <published>2021-08-06T11:31:59-04:00</published>
+    <updated>2021-08-06T11:31:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/temptation-by-lomani-for-women-eau-de-parfum-spray"/>
+    <title>Temptation by Lomani for Women - Eau de Parfum Spray</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Lomani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/W-7242larger.jpg?v=1628263921"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lomani<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Lomani. This floral scent has a blend of wild berries, juicy mandarin, honeysuckle, gardenia, jasmine, amber, caramel, vanilla, sandalwood, and pralines. It is recommended for evening wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>8.6</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Lomani</s:tag>
+    <s:tag>Gender_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:tag>UNDER $25</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6592425427077</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">17.95</s:price>
+      <s:sku>1000012377</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6592425132165</id>
+    <published>2021-08-06T11:31:44-04:00</published>
+    <updated>2021-08-06T11:31:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/club-signature-by-johan-b-for-men-eau-de-toilette-spray"/>
+    <title>Club Signature by Johan B for Men - Eau de Toilette Spray</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Johan B</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0113119larger.jpg?v=1628263905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Johan B<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            20.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Johan B. This elegant fragrance features a blend of citrus, oriental spices, wood, sandalwood, lemon, vanilla, jasmine. It is recommended for casual wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>8.6</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Johan B</s:tag>
+    <s:tag>Gender_Men</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:tag>UNDER $25</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6592425132165</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">20.95</s:price>
+      <s:sku>1000012361</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

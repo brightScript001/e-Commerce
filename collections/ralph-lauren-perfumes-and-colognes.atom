@@ -1,0 +1,1282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumania.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumania.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumania.com/collections/ralph-lauren-perfumes-and-colognes.atom"/>
+  <title>Perfumania</title>
+  <updated>2023-05-04T16:08:20-04:00</updated>
+  <author>
+    <name>Perfumania</name>
+  </author>
+  <entry>
+    <id>https://perfumania.com/products/6819843571845</id>
+    <published>2023-05-04T16:08:20-04:00</published>
+    <updated>2023-05-04T16:08:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/polo-red-eau-de-parfum-spray-for-men-by-ralph-lauren"/>
+    <title>Polo Red Eau De Parfum Spray for Men by Ralph Lauren</title>
+    <s:type></s:type>
+    <s:vendor>Ralph Lauren</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/I0121297larger.jpg?v=1683230901"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ralph Lauren<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            74.95 - 106.95
+            <a href="https://perfumania.com/products/polo-red-eau-de-parfum-spray-for-men-by-ralph-lauren">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Ralph Lauren. A sensual mens cologne crafted with a modern mix of warm ginger deepened with aromatic sage and rounded out by rich, natural woods and musk accord for a lasting impression of warm sensuality</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>BRAND_Ralph Lauren</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>TYPE_ Eau de Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6819843571845</id>
+      <title>2.5 oz.</title>
+      <s:price currency="USD">74.95</s:price>
+      <s:sku>1000013307</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/6819843571845</id>
+      <title>4.2 oz.</title>
+      <s:price currency="USD">106.95</s:price>
+      <s:sku>1000013096</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6801344397445</id>
+    <published>2023-02-28T09:15:24-05:00</published>
+    <updated>2023-02-28T09:15:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/ralphs-club-eau-de-parfum-spray-for-men-by-ralph-lauren"/>
+    <title>Ralph&apos;s Club Eau de Parfum Spray for Men by Ralph Lauren</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Ralph Lauren</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Ralphs_Club_PP.jpg?v=1677593417"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ralph Lauren<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            107.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+Ralph's Club Eau de Parfum Spray for Men by Ralph Lauren is a sophisticated and intoxicating fragrance that captures the essence of a classic gentlemen's club, with its blend of aromatic and woody notes creating a captivating and refined scent that exudes confidence and style.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BRAND_Ralph Lauren</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6801344397445</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">107.95</s:price>
+      <s:sku>1000012788</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6621629350021</id>
+    <published>2021-10-28T15:29:56-04:00</published>
+    <updated>2021-10-28T15:29:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/polo-black-by-ralph-lauren-for-men-2-pc-gift-set"/>
+    <title>Polo Black by Ralph Lauren for Men - 2 Pc Gift Set</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Ralph Lauren</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0114276larger.jpg?v=1635449397"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ralph Lauren<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            82.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Ralph Lauren in the year 2005. This fruity fragrance has a blend of mango, silver armoise, and patchouli noir. It is recommended for special ocassions. Polo Black by Ralph Lauren for Men - 2 Pc Gift Set 4.2oz EDT Spray, 0.5oz EDT Spray</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>Brand_Ralph Lauren</s:tag>
+    <s:tag>gender_ men</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Gift Set</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6621629350021</id>
+      <title>Default Title</title>
+      <s:price currency="USD">82.95</s:price>
+      <s:sku>1000012633</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6612152680581</id>
+    <published>2021-10-06T09:23:24-04:00</published>
+    <updated>2021-10-06T09:23:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/romance-summer-blossom-by-ralph-lauren-for-women-eau-de-parfum-spray"/>
+    <title>Romance Summer Blossom by Ralph Lauren for Women - Eau de Parfum Spray</title>
+    <s:type>Eau de Parfum - EDP/S</s:type>
+    <s:vendor>Ralph Lauren</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0108332larger.jpg?v=1633526606"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ralph Lauren<br>
+        <strong>Type: </strong>Eau de Parfum - EDP/S<br>
+        <strong>Price: </strong>
+            66.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the designer house of Ralph Lauren in the year 2012. This floral fruity fragrance has a blend of guava, ylang-ylang and musk notes. It has a long lasting fragrance.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>10.5</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Ralph Lauren</s:tag>
+    <s:tag>gender_women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6612152680581</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">66.95</s:price>
+      <s:sku>1000011088</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6584031117445</id>
+    <published>2021-07-06T16:26:32-04:00</published>
+    <updated>2021-07-06T16:26:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/the-big-pony-collection-2-by-ralph-lauren-for-women-edt-spray"/>
+    <title>The Big Pony Collection - 2 by Ralph Lauren for Women -  EDT Spray</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Ralph Lauren</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/W-6773larger.jpg?v=1625603193"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ralph Lauren<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            59.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Ralph Lauren in the year 2012. This feminine fragrance features a blend of fresh and aromatic notes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>7.1</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Ralph Lauren</s:tag>
+    <s:tag>Gender_women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6584031117445</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>1000012002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6584029347973</id>
+    <published>2021-07-06T16:24:48-04:00</published>
+    <updated>2021-07-06T16:24:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/polo-deep-blue-by-ralph-lauren-for-men-parfum-spray"/>
+    <title>Polo Deep Blue by Ralph Lauren for Men -  Parfum Spray</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Ralph Lauren</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0113713larger.jpg?v=1625603090"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ralph Lauren<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            67.95 - 74.95
+            <a href="https://perfumania.com/products/polo-deep-blue-by-ralph-lauren-for-men-parfum-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Ralph Lauren in the year 2020. This aromatic fougere fragrance has a blend of melon, mandarin orange, cucumber, basil, sage, geranium, musk, woodsy notes, and suede.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>7.1</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Ralph Lauren</s:tag>
+    <s:tag>Gender_men</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6584029347973</id>
+      <title>2.5 oz.</title>
+      <s:price currency="USD">67.95</s:price>
+      <s:sku>1000012426</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/6584029347973</id>
+      <title>4.2 oz.</title>
+      <s:price currency="USD">74.95</s:price>
+      <s:sku>1000011929</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6579960971397</id>
+    <published>2021-06-17T08:54:40-04:00</published>
+    <updated>2021-06-17T08:54:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/woman-by-ralph-lauren-for-women-2-pc-gift-set"/>
+    <title>Woman by Ralph Lauren for Women - 2 Pc Gift Set</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Ralph Lauren</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0093188larger.jpg?v=1623934481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ralph Lauren<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            101.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Ralph Lauren in the year 2017. This floral fragrance features a blend of pear, rhubarb, black , tuberose, orange blossom, turkish rose, sandalwood, hazelnut and woody notes. Woman by Ralph Lauren for Women - 2 Pc Gift Set 3.4oz EDP Spray, 2.5oz Perfumed Body Lotion</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>Bogo-ignore</s:tag>
+    <s:tag>BRAND_Ralph Lauren</s:tag>
+    <s:tag>gender_women</s:tag>
+    <s:tag>gift-set</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Gift Set</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6579960971397</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">101.95</s:price>
+      <s:sku>1000011855</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466968002693</id>
+    <published>2021-04-22T12:53:28-04:00</published>
+    <updated>2021-04-22T12:53:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/ralph-lauren-romance-midnight-womens-eau-de-parfum-spray"/>
+    <title>Midnight Romance For Women By Ralph Lauren Eau De Parfum Spray</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Ralph Lauren</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Ralph-Lauren-Romance-Midnight-Womens-EDP-Spray-3.4-Best-Price-Fragrance-Parfum-FragranceOutlet.com-Main.jpg?v=1580926809"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ralph Lauren<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            56.95 - 87.99
+            <a href="https://perfumania.com/products/ralph-lauren-romance-midnight-womens-eau-de-parfum-spray">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Defining passion since 2014, Ralph Lauren Midnight Romance is a premium feminine aroma for the head-strong, determined woman of today who knows what she wants and how to get it. The elegant fragrance comes with a hint of midnight romance, which is the signature note of the refreshing perfume spray. The light scent is ideal for both day and evening time.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Ralph Lauren</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466968002693</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">56.95</s:price>
+      <s:sku>1000001087</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466968002693</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">78.95</s:price>
+      <s:sku>1000001088</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466968002693</id>
+      <title>3.4 oz. Tester</title>
+      <s:price currency="USD">87.99</s:price>
+      <s:sku>1000001366</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466986549381</id>
+    <published>2021-04-22T12:52:28-04:00</published>
+    <updated>2021-04-22T12:52:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/safari-eau-de-parfum-spray-for-women-by-ralph-lauren"/>
+    <title>Safari For Women By Ralph Lauren Eau De Parfum Spray</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Ralph Lauren</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Ralph-Lauren-Safari-Womens-Eau-De-Parfum-EDP-0.5-oz.-Best-Price-Fragrance-Perfume-FragranceOutlet.com-Details.jpg?v=1580149508"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ralph Lauren<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            75.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Safari by Ralph Lauren is a raw fragrance that reminds you of a woman wearing khakis and a safari hat, exuding confidence and pride. The fragrance also has subtle hints of romance in it.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Ralph Lauren</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466986549381</id>
+      <title>2.5 oz.</title>
+      <s:price currency="USD">75.95</s:price>
+      <s:sku>1000001562</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467008962693</id>
+    <published>2021-04-22T12:50:01-04:00</published>
+    <updated>2021-04-22T12:50:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/big-pony-1-eau-de-toilette-spray-for-women-by-ralph-lauren"/>
+    <title>Big Pony 1 Eau de Toilette Spray for Women by Ralph Lauren</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Ralph Lauren</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Ralph-Lauren-Big-Pony-1-Tester-Women-Eau-de-Toilette-Spray-EDT-Spray-3.4-Tester-Best-Price-Fragrance-Perfume-FragranceOutlet.com-DETAILS.jpg?v=1625168313"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ralph Lauren<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            64.99 - 74.95
+            <a href="https://perfumania.com/products/big-pony-1-eau-de-toilette-spray-for-women-by-ralph-lauren">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Big Pony 1 is a sporty fragrance especially designed for the self-confident and courageous woman. It's floral and citrusy notes lend it all that freshness and a unique energetic vibe. Big Pony 1 is the perfect fragrance to wear during the day as it keeps you smelling great even hours after wearing it.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>BRAND_Ralph Lauren</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467008962693</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">74.95</s:price>
+      <s:sku>1000012001</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467008962693</id>
+      <title>3.4 oz. Tester</title>
+      <s:price currency="USD">64.99</s:price>
+      <s:sku>1000001893</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467019219077</id>
+    <published>2021-04-22T12:48:55-04:00</published>
+    <updated>2021-04-22T12:48:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/ralph-love-eau-de-toilette-spray-for-women-by-ralph-lauren"/>
+    <title>Ralph Love Eau de Toilette Spray for Women by Ralph Lauren</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Ralph Lauren</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Ralph-Lauren-Ralph-Love-Women-Eau-de-Toilette-Spray-EDT-Spray-3.4-Best-Price-Fragrance-Parfume-FragranceOutlet.com-MAIN.jpg?v=1579126458"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ralph Lauren<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            59.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ralph Lauren Love was launched by the American fashion house Ralph Lauren in 2016. The magical fragrance starts with luscious notes of red apples which slowly blend in the sweet notes of cotton candy, leaving you feeling feminine and flirty all day long.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>BRAND_Ralph Lauren</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467019219077</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>1000001968</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467224150149</id>
+    <published>2021-04-22T09:33:31-04:00</published>
+    <updated>2021-04-22T09:33:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/blue-eau-de-toilette-spray-for-women-by-ralph-lauren"/>
+    <title>Blue Eau de Toilette Spray for Women by Ralph Lauren</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Ralph Lauren</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/rlblue.webp?v=1694808141"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ralph Lauren<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            57.95 - 79.95
+            <a href="https://perfumania.com/products/blue-eau-de-toilette-spray-for-women-by-ralph-lauren">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+Blue Eau de Toilette Spray for Women by Ralph Lauren is a fresh and invigorating fragrance that evokes a sense of freedom and natural beauty, with its blend of floral and fruity notes capturing the essence of a bright and sunny day.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Ralph Lauren</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467224150149</id>
+      <title>2.5 oz.</title>
+      <s:price currency="USD">57.95</s:price>
+      <s:sku>101771155</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467224150149</id>
+      <title>4.2 oz.</title>
+      <s:price currency="USD">79.95</s:price>
+      <s:sku>101771159</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467034390661</id>
+    <published>2021-04-07T19:39:25-04:00</published>
+    <updated>2021-04-07T19:39:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/polo-double-black-eau-de-toilette-spray-for-men-by-ralph-lauren"/>
+    <title>Polo Double Black Eau de Toilette Spray for Men by Ralph Lauren</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Ralph Lauren</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Ralph-Lauren-Polo-Double-Black-Men-Eau-de-Toilette-Spray-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Main_457.jpg?v=1579126902"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ralph Lauren<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            56.95 - 69.95
+            <a href="https://perfumania.com/products/polo-double-black-eau-de-toilette-spray-for-men-by-ralph-lauren">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>While its bottle says a different story, the Polo Double Black is a light and breezy Oriental fragrance that transcends conventions with its rich and full bodied blend of contrasting scents. Easily recognizable by its delicious frozen mango, the Polo Double Black gradually hazes out into the intense spiciness of pepper, fried coffee and Indonesian nutmeg, finally drying down with warm woody cardamom and juniper berries.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>BRAND_Ralph Lauren</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467034390661</id>
+      <title>2.5 oz.</title>
+      <s:price currency="USD">56.95</s:price>
+      <s:sku>202735054</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467034390661</id>
+      <title>4.2 oz.</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>202735056</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467057164421</id>
+    <published>2021-04-02T23:42:41-04:00</published>
+    <updated>2021-04-02T23:42:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/woman-eau-de-parfum-spray-for-women-by-ralph-lauren"/>
+    <title>Ralph Lauren Woman for Women by Ralph Lauren Eau de Parfum Spray</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Ralph Lauren</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Lauren-Woman-Women-Eau-de-Parfum-1.7-Best-Price-Fragrance-Parfume-FragranceOutlet.com-details.jpg?v=1580848900"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ralph Lauren<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            65.98 - 91.95
+            <a href="https://perfumania.com/products/woman-eau-de-parfum-spray-for-women-by-ralph-lauren">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Woman from Ralph Lauren is all that a woman could ask for in a fragrance. Launched in 2017, the relatively new fragrance is exquisite, to say the least. The perfumer behind this brilliant concoction is none other than Anne Flipo.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Ralph Lauren</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467057164421</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">65.98</s:price>
+      <s:sku>1000004338</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467057164421</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">91.95</s:price>
+      <s:sku>1000004323</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466970820741</id>
+    <published>2021-02-22T23:02:35-05:00</published>
+    <updated>2021-02-22T23:02:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/ralph-lauren-romance-perfume-for-women-eau-de-parfum"/>
+    <title>Romance Eau de Parfum Spray for Women by Ralph Lauren</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Ralph Lauren</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Ralph-Lauren-Romance-Womens-Eau-de-Parfume-Spray-3.4-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1579124877"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ralph Lauren<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            52.99 - 98.95
+            <a href="https://perfumania.com/products/ralph-lauren-romance-perfume-for-women-eau-de-parfum">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ralph Lauren Romance for Women is an Eau de Parfum. It is a feminine fragrance with intense floral notes and woody undertones with hints of citrus. It is a very romantic, intimate and happy fragrance that exudes positive energy. The combination of rose, citrus and violets makes this fragrance unique.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Ralph Lauren</s:tag>
+    <s:tag>floral-notes</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466970820741</id>
+      <title>1.0 oz.</title>
+      <s:price currency="USD">52.99</s:price>
+      <s:sku>101761052</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466970820741</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">84.95</s:price>
+      <s:sku>101761053</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466970820741</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">98.95</s:price>
+      <s:sku>101761057</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466970820741</id>
+      <title>3.4 oz. Tester</title>
+      <s:price currency="USD">87.99</s:price>
+      <s:sku>404761057</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467185385605</id>
+    <published>2021-01-18T19:31:13-05:00</published>
+    <updated>2021-01-18T19:31:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/polo-ultra-blue-eau-de-toilette-spray-for-men-by-ralph-lauren"/>
+    <title>Polo Ultra Blue for Men by Ralph Lauren Eau De Toilette Spray</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Ralph Lauren</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Ralph-Lauren-Polo-Ultra-Blue-Men-Eau-de-Toilette-1.36-Best-Price-Fragrance-Parfume-FragranceOutlet.com-details.jpg?v=1580831085"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ralph Lauren<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            49.95 - 73.95
+            <a href="https://perfumania.com/products/polo-ultra-blue-eau-de-toilette-spray-for-men-by-ralph-lauren">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Polo Ultra Blue is a cool, citrusy, and salty sensation that lasts. This crisp, refreshing burst of fragrance is for the man who balances success and leisure. Polo Ultra Blue evokes the cool and crisp feeling of the sea. The long-lasting scent embodies ultimate freshness for the sporting gentleman. With its notes of cedrat lemon, ambertonic, and salt minerals, Polo Ultra Blue is a burst of refreshing aquatic fragrance. Polo Ultra Blue evokes the cool, crisp feeling of the sea. This long-lasting scent embodies ultimate freshness for the sporting gentleman. With its notes of cedrat lemon, ambertonic and salt minerals, Polo Ultra Blue is a burst of refreshing aquatic fragrance.<br><br>Notes: Cedrat, Mineral accord, Artical, Ambertonic, Lemon, Basil, Verbena
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>BRAND_Ralph Lauren</s:tag>
+    <s:tag>fresh-notes</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467185385605</id>
+      <title>2.5 oz.</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>1000006713</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467185385605</id>
+      <title>4.2 oz.</title>
+      <s:price currency="USD">73.95</s:price>
+      <s:sku>1000004143</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466957942917</id>
+    <published>2021-01-04T23:01:37-05:00</published>
+    <updated>2021-01-04T23:01:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/ralph-lauren-polo-red-cologne-mens-eau-de-toilette"/>
+    <title>Polo Red For Men By Ralph Lauren Eau De Toilette Spray</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Ralph Lauren</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Ralph-Lauren-Polo-Red-Mens-Eau-de-Toilette-Spray-4.2-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1598971348"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ralph Lauren<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            60.95 - 111.95
+            <a href="https://perfumania.com/products/ralph-lauren-polo-red-cologne-mens-eau-de-toilette">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Polo Red is an Eau de Toilette for men by Ralph Lauren. It is an intensely subtle masculine fragrance with woody and fruity notes. It draws inspiration from fiery nature of color red and is energizing and fiercely passionate. It is a very warm fragrance with a hint of coffee that is perfect for cool evenings.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Ralph Lauren</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466957942917</id>
+      <title>2.5 oz.</title>
+      <s:price currency="USD">73.95</s:price>
+      <s:sku>1000000738</s:sku>
+      <s:grams>399</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466957942917</id>
+      <title>4.2 oz.</title>
+      <s:price currency="USD">82.95</s:price>
+      <s:sku>1000000734</s:sku>
+      <s:grams>726</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466957942917</id>
+      <title>4.2 oz. Tester</title>
+      <s:price currency="USD">60.95</s:price>
+      <s:sku>1000000904</s:sku>
+      <s:grams>726</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466957942917</id>
+      <title>6.7 oz.</title>
+      <s:price currency="USD">111.95</s:price>
+      <s:sku>1000001041</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5181523361925</id>
+    <published>2020-10-07T11:30:49-04:00</published>
+    <updated>2020-10-07T11:30:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/polo-red-rush-by-ralph-lauren-for-men-eau-de-toilette-spray"/>
+    <title>Polo Red Rush by Ralph Lauren for Men -  Eau De Toilette Spray</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Ralph Lauren</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0093187larger.jpg?v=1602084650"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ralph Lauren<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            59.95 - 74.95
+            <a href="https://perfumania.com/products/polo-red-rush-by-ralph-lauren-for-men-eau-de-toilette-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Ralph Lauren in the year 2018. This aromatic fruity fragrance features a blend of musk, cedar, mandarin orange, grapefruit, lavender, saffron, pineapple, lemon, red apple, mint and orange blossom.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>10.7</s:tag>
+    <s:tag>BRAND_Ralph Lauren</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau De Toilette Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5181523361925</id>
+      <title>2.5 oz.</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>1000006714</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/5181523361925</id>
+      <title>4.2 oz.</title>
+      <s:price currency="USD">74.95</s:price>
+      <s:sku>1000004810</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5172614529157</id>
+    <published>2020-09-16T15:54:03-04:00</published>
+    <updated>2020-09-16T15:54:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/woman-intense-by-ralph-lauren-for-women-eau-de-parfum-spray"/>
+    <title>Woman Intense by Ralph Lauren for Women -  Eau de Parfum Spray</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Ralph Lauren</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0104227larger.jpg?v=1600286044"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ralph Lauren<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            76.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Ralph Lauren. This feminine fragrance has blend of tuberose, orange blossom, sambac jasmine, black currant, pink pepper, neroli,black vanilla, sandalwood, and amber wood.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>9.9</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Ralph Lauren</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5172614529157</id>
+      <title>1.7  oz.</title>
+      <s:price currency="USD">76.95</s:price>
+      <s:sku>1000009801</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466986614917</id>
+    <published>2020-07-28T07:02:59-04:00</published>
+    <updated>2020-07-28T07:02:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/ralph-lauren-polo-sport-eau-de-toilette-for-men"/>
+    <title>Polo Sport Eau de Toilette Spray for Men by Ralph Lauren</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Ralph Lauren</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Ralph-Lauren-Polo-Sport-Mens-Eau-De-Toilette-Spray-EDT-S-2.5-oz.-Best-Price-Fragrance-Perfume-FragranceOutlet.com-Details.jpg?v=1606488952"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ralph Lauren<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            46.95 - 59.95
+            <a href="https://perfumania.com/products/ralph-lauren-polo-sport-eau-de-toilette-for-men">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The person who created the Ralph Lauren Polo Sport fragrance for men is called Harry Fremont. This is considered as among the classic men’s fragrances from the 90s. It has a fresh, aquatic character which made it very popular as a casual wear scent.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>BRAND_Ralph Lauren</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466986614917</id>
+      <title>2.5 oz.</title>
+      <s:price currency="USD">46.95</s:price>
+      <s:sku>1000000402</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466986614917</id>
+      <title>4.2 oz.</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>1000002761</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466957451397</id>
+    <published>2020-06-03T19:40:42-04:00</published>
+    <updated>2020-06-03T19:40:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/ralph-lauren-polo-blue-sport-mens-eau-de-toilette-spray"/>
+    <title>Polo Blue Sport For Men By Ralph Lauren Eau De Toilette Spray</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Ralph Lauren</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Ralph-Lauren-Polo-Blue-Sport-Mens-Eau-de-Toilette-Spray-2.5-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1598987567"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ralph Lauren<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            56.95 - 71.95
+            <a href="https://perfumania.com/products/ralph-lauren-polo-blue-sport-mens-eau-de-toilette-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Polo Blue Sport is an Eau de Toilette for men by Ralph Lauren. It is a fougere fragrance that has aromatic accords. It has green and citrusy notes with undertones of wood and herbs. The fragrance has a very fresh natural feel to it and works really well for warm sunny days.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>BRAND_Ralph Lauren</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466957451397</id>
+      <title>2.5 oz.</title>
+      <s:price currency="USD">56.95</s:price>
+      <s:sku>1000000440</s:sku>
+      <s:grams>399</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466957451397</id>
+      <title>4.2 oz.</title>
+      <s:price currency="USD">71.95</s:price>
+      <s:sku>1000006244</s:sku>
+      <s:grams>399</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467049037957</id>
+    <published>2018-07-12T13:17:08-04:00</published>
+    <updated>2018-07-12T13:17:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/polo-blue-eau-de-parfum-spray-for-men-by-ralph-lauren"/>
+    <title>Polo Blue Eau de Parfum Spray for Men by Ralph Lauren</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Ralph Lauren</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Ralph-Lauren-Polo-Blue-Men-Eau-De-Parfum-Spray-2.5-Best-Price-Fragrance-Parfume-FragranceOutlet.com-DETAILS.jpg?v=1579127362"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ralph Lauren<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            75.95 - 89.95
+            <a href="https://perfumania.com/products/polo-blue-eau-de-parfum-spray-for-men-by-ralph-lauren">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched in 2003, Ralph Lauren Polo Blue is an aromatic fougere aimed at the sporty and charming man. A man who dares to do so with a wit and devilish confidence. He remains unperturbed by the challenges life throws at him. A man who walks through the good and bad times with a smile on his face.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Ralph Lauren</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467049037957</id>
+      <title>2.5 oz.</title>
+      <s:price currency="USD">75.95</s:price>
+      <s:sku>1000002845</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467049037957</id>
+      <title>4.2 oz.</title>
+      <s:price currency="USD">89.95</s:price>
+      <s:sku>1000008643</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466957320325</id>
+    <published>2017-03-15T08:36:01-04:00</published>
+    <updated>2017-03-15T08:36:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/ralph-lauren-polo-blue-cologne-mens-eau-de-toilette"/>
+    <title>Polo Blue For Men By Ralph Lauren Eau De Toilette Spray</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Ralph Lauren</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Ralph-Lauren-Polo-Blue-Mens-Eau-de-Toilette-Spray-4.2-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1580141284"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ralph Lauren<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            39.95 - 122.95
+            <a href="https://perfumania.com/products/ralph-lauren-polo-blue-cologne-mens-eau-de-toilette">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Polo Blue is an Eau de Toilette for men by Ralph Lauren. It is a masculine fragrance that has fruity notes with woody and herby undertones. There is a hint of musk and basil in blend that makes it fresh and rich. It is a perfect day fragrance for men.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Ralph Lauren</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466957320325</id>
+      <title>1.4 oz.</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>202733153</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466957320325</id>
+      <title>2.5 oz.</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>202733155</s:sku>
+      <s:grams>399</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466957320325</id>
+      <title>4.2 oz.</title>
+      <s:price currency="USD">82.95</s:price>
+      <s:sku>202733159</s:sku>
+      <s:grams>726</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466957320325</id>
+      <title>4.2 oz. Tester</title>
+      <s:price currency="USD">59.94</s:price>
+      <s:sku>1000000205</s:sku>
+      <s:grams>726</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466957320325</id>
+      <title>6.7 oz.</title>
+      <s:price currency="USD">122.95</s:price>
+      <s:sku>1000001247</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466957287557</id>
+    <published>2017-03-15T08:36:01-04:00</published>
+    <updated>2017-03-15T08:36:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/ralph-by-lauren-ralph-perfume-for-women-eau-de-toilette-spray"/>
+    <title>Ralph Eau de Toilette Spray for Women by Ralph Lauren</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Ralph Lauren</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Ralph-Lauren-Ralph-Womens-Eau-de-Toilette-Spray-3.4-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1579124388"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ralph Lauren<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            45.95 - 74.95
+            <a href="https://perfumania.com/products/ralph-by-lauren-ralph-perfume-for-women-eau-de-toilette-spray">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ralph is an Eau de Toilette for women by Ralph Lauren. It is a feminine fragrance created especially for young women in 15 to 25 age bracket. It has floral notes with fruity and citrusy undertones and a hint of musk. It is fresh, youthful and a great daytime fragrance for warm summers.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>bndlvarid-31838866473093</s:tag>
+    <s:tag>BRAND_Ralph Lauren</s:tag>
+    <s:tag>bundle-2-for-75</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466957287557</id>
+      <title>1.0 oz.</title>
+      <s:price currency="USD">45.95</s:price>
+      <s:sku>101772152</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466957287557</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>101772153</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466957287557</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">74.95</s:price>
+      <s:sku>101772157</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466957746309</id>
+    <published>2017-03-15T08:35:58-04:00</published>
+    <updated>2017-03-15T08:35:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/ralph-lauren-polo-black-cologne-mens-eau-de-toilette"/>
+    <title>Polo Black Eau de Toilette Spray for Men by Ralph Lauren</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Ralph Lauren</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Ralph-Lauren-Polo-Black-Mens-Eau-de-Toilette-Spray-6.7-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1579124412"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ralph Lauren<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            61.65 - 111.95
+            <a href="https://perfumania.com/products/ralph-lauren-polo-black-cologne-mens-eau-de-toilette">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Polo Black cologne is an Eau de Toilette for men by Ralph Lauren. It is a warm woody fragrance with undertones of herbs and citrus. The blend of warm woods and fresh citruses creates an interesting mix to give you an aroma that is unique.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Ralph Lauren</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466957746309</id>
+      <title>2.5 oz.</title>
+      <s:price currency="USD">73.95</s:price>
+      <s:sku>202735055</s:sku>
+      <s:grams>399</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466957746309</id>
+      <title>4.2 oz.</title>
+      <s:price currency="USD">82.95</s:price>
+      <s:sku>202735058</s:sku>
+      <s:grams>726</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466957746309</id>
+      <title>4.2 oz. Tester</title>
+      <s:price currency="USD">61.65</s:price>
+      <s:sku>404735058</s:sku>
+      <s:grams>726</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466957746309</id>
+      <title>6.7 oz.</title>
+      <s:price currency="USD">111.95</s:price>
+      <s:sku>1000001040</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumania.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumania.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumania.com/collections/carolina-herrera-perfumes-and-colognes.atom"/>
+  <title>Perfumania</title>
+  <updated>2024-03-26T09:03:11-04:00</updated>
+  <author>
+    <name>Perfumania</name>
+  </author>
+  <entry>
+    <id>https://perfumania.com/products/5181523460229</id>
+    <published>2024-03-26T09:03:11-04:00</published>
+    <updated>2024-03-26T09:03:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/bad-boy-carolina-herrera-for-men-edt"/>
+    <title>Bad Boy Eau De Toilette Spray for Men by Carolina Herrera</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0097527larger.jpg?v=1602084656"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            75.95 - 124.95
+            <a href="https://perfumania.com/products/bad-boy-carolina-herrera-for-men-edt">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Carolina Herrera in the year 2019.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Carolina Herrera</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau De Toilette Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5181523460229</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">75.95</s:price>
+      <s:sku>1000009234</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/5181523460229</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">97.95</s:price>
+      <s:sku>1000008740</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/5181523460229</id>
+      <title>5.0 oz.</title>
+      <s:price currency="USD">124.95</s:price>
+      <s:sku>1000011595</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6934273589381</id>
+    <published>2024-03-19T10:06:06-04:00</published>
+    <updated>2024-03-19T10:06:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/212-heroes-forever-young-eau-de-toilette-for-men-by-carolina-herrera"/>
+    <title>212 Heroes Forever Young Eau de Toilette Spray for Men by Carolina Herrera</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/212heroes.jpg?v=1710857020"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            119.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BRAND_Carolina Herrera</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau De Toilette Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6934273589381</id>
+      <title>3 oz.</title>
+      <s:price currency="USD">119.95</s:price>
+      <s:sku>1000012771</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6934108602501</id>
+    <published>2024-03-18T09:03:02-04:00</published>
+    <updated>2024-03-18T09:03:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/good-girl-blush-eau-de-parfum-for-women-by-caroline-herrera-1"/>
+    <title>Good Girl Blush Eau de Parfum for Women by Caroline Herrera</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/blush2.7.jpg?v=1710766892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            106.95 - 131.95
+            <a href="https://perfumania.com/products/good-girl-blush-eau-de-parfum-for-women-by-caroline-herrera-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BRAND_Carolina Herrera</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6934108602501</id>
+      <title>2.7 oz.</title>
+      <s:price currency="USD">131.95</s:price>
+      <s:sku>1000013647</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/6934108602501</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">106.95</s:price>
+      <s:sku>1000013646</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6933082898565</id>
+    <published>2024-03-15T16:43:58-04:00</published>
+    <updated>2024-03-15T16:43:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/good-girl-supreme-eau-de-parfum-for-women-by-carolina-herrera"/>
+    <title>Good Girl Supreme Eau de Parfum for Women by Carolina Herrera</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/supreme1.0.webp?v=1710535283"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            74.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>BRAND_Carolina Herrera</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>type Eau de parfum spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6933082898565</id>
+      <title>1.0 oz.</title>
+      <s:price currency="USD">74.95</s:price>
+      <s:sku>1000012973</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6927868199045</id>
+    <published>2024-03-06T11:20:45-05:00</published>
+    <updated>2024-03-06T11:20:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/copy-of-bad-boy-le-parfum-for-men-eau-de-parfum-spray-by-carolina-herrera"/>
+    <title>Bad Boy Cobalt For Men Eau De Parfum Spray by Carolina Herrera</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/BAD-BOY-COBALTForMen_1200x1200_5e0157ed-941c-45af-b7e6-2b6f18207a9e.webp?v=1709742248"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            87.95 - 114.95
+            <a href="https://perfumania.com/products/copy-of-bad-boy-le-parfum-for-men-eau-de-parfum-spray-by-carolina-herrera">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Carolina Herrera</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6927868199045</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">87.95</s:price>
+      <s:sku>1000013283</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/6927868199045</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">114.95</s:price>
+      <s:sku>1000013195</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6840029184133</id>
+    <published>2023-08-15T14:47:13-04:00</published>
+    <updated>2023-08-15T14:47:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/bad-boy-for-men-eau-de-parfum-spray-by-carolina-herrera"/>
+    <title>Bad Boy Le Parfum For Men Eau De Parfum Spray by Carolina Herrera</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/leparfumbadboy.webp?v=1692125727"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            87.95 - 114.95
+            <a href="https://perfumania.com/products/bad-boy-for-men-eau-de-parfum-spray-by-carolina-herrera">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Top notes: cannabis, grapefruit: Middle notes: Black pepper, geranium; Base notes: Leather, Vetiver</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>10.7</s:tag>
+    <s:tag>BRAND_Carolina Herrera</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6840029184133</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">87.95</s:price>
+      <s:sku>1000012735</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/6840029184133</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">114.95</s:price>
+      <s:sku>1000012736</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6827438342277</id>
+    <published>2023-06-07T09:50:01-04:00</published>
+    <updated>2023-06-07T09:50:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/carolina-herrera-very-good-girl-perfume-eau-de-parfum-for-women"/>
+    <title>Very Good Girl Eau De Parfum for Women by Carolina Herrera</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/ch_very_good_girl.jpg?v=1686603929"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            74.95 - 131.95
+            <a href="https://perfumania.com/products/carolina-herrera-very-good-girl-perfume-eau-de-parfum-for-women">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="font-weight: 400;" data-mce-style="font-weight: 400;" data-mce-fragment="1">Embrace the captivating allure of Carolina Herrera's Very Good Girl perfume. This enchanting fragrance embodies the modern woman's duality, seamlessly blending sweetness and seduction. The scent unfolds with vibrant bursts of luscious red currant and Litchi, transitioning into a floral heart of the captivating rose. A base of earthy Vetiver and creamy vanilla imparts a sensual touch, leaving a trail of irresistible charm. Housed in a stunning stiletto-shaped bottle, Very Good Girl perfume is a declaration of sophistication and femininity.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>BRAND_Carolina Herrera</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6827438342277</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">106.95</s:price>
+      <s:sku>1000013282</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/6827438342277</id>
+      <title>2.7 oz.</title>
+      <s:price currency="USD">131.95</s:price>
+      <s:sku>1000013223</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/6827438342277</id>
+      <title>1.0 oz.</title>
+      <s:price currency="USD">74.95</s:price>
+      <s:sku>1000012969</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6595455778949</id>
+    <published>2021-08-17T15:03:55-04:00</published>
+    <updated>2021-08-17T15:03:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/good-girl-supreme-by-carolina-herrera-for-women-edp-spray"/>
+    <title>Good Girl Supreme by Carolina Herrera for Women - EDP Spray</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/I0121147largercopy.jpg?v=1707248873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            106.95 - 131.95
+            <a href="https://perfumania.com/products/good-girl-supreme-by-carolina-herrera-for-women-edp-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by design house of Carolina Herrera. Good Girl Eau de Parfum Suprme breaks all perfume rules, reinventing its olfactory family. Juicy gourmand Berries give way to aphrodisiac personality of intense Egyptian Jasmine, while creamy Tonka Beans and sparkling Vetiver give a modern twist to final formula.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BRAND_Carolina Herrera</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6595455778949</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">106.95</s:price>
+      <s:sku>1000011607</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/6595455778949</id>
+      <title>2.7 oz.</title>
+      <s:price currency="USD">131.95</s:price>
+      <s:sku>1000012473</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466947555461</id>
+    <published>2021-04-23T08:44:42-04:00</published>
+    <updated>2021-04-23T08:44:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/carolina-herrera-212-sexy-men-mens-eau-de-toilette-spray-1001231-1"/>
+    <title>212 Sexy Men Eau de Toilette Spray for Men by Carolina Herrera</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Carolina-Herrera-212-Sexy-Men-Mens-Eau-de-Toilette-Spray-3.4-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1643739269"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            72.95 - 91.95
+            <a href="https://perfumania.com/products/carolina-herrera-212-sexy-men-mens-eau-de-toilette-spray-1001231-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>With warm spices like cardamom and vanilla, Carolina Herrera 212 Sexy for men combines husky oriental notes with fresh citrus notes like mandarin and bergamot. Designed specifically to suit the seductive, sensual, tempting man, Carolina Hererra 212 Sexy does exactly as its name suggestsÃ£it makes its wearer indescribably sexy.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Carolina Herrera</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>Product_Bundle_Collection</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466947555461</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">72.95</s:price>
+      <s:sku>202925253</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466947555461</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">91.95</s:price>
+      <s:sku>202925257</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466968330373</id>
+    <published>2021-04-22T12:53:26-04:00</published>
+    <updated>2021-04-22T12:53:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/carolina-herrera-212-vip-rose-womens-eau-de-parfum-spray"/>
+    <title>212 VIP Rose For Women By Carolina Herrera Eau De Parfum Spray</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Carolina-Herrera-212-Vip-Rose-Womens-Eau-de-Parfume-Spray-2.7-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1580919965"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            85.95 - 136.95
+            <a href="https://perfumania.com/products/carolina-herrera-212-vip-rose-womens-eau-de-parfum-spray">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The composition of this fragrance is described as fresh, feminine and sensual. The nose behind the perfume is that of Lucas Sieuzac and Gisele BÃŒ_ndchen is the supermodel who features as the face of this campaign.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Carolina Herrera</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466968330373</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">85.95</s:price>
+      <s:sku>1000001006</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466968330373</id>
+      <title>2.7 oz.</title>
+      <s:price currency="USD">107.95</s:price>
+      <s:sku>1000001007</s:sku>
+      <s:grams>399</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466968330373</id>
+      <title>4.2 oz.</title>
+      <s:price currency="USD">136.95</s:price>
+      <s:sku>1000009283</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467047694469</id>
+    <published>2021-04-22T12:45:28-04:00</published>
+    <updated>2021-04-22T12:45:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/212-vip-black-eau-de-parfum-spray-for-men-by-carolina-herrera"/>
+    <title>212 Vip Black Eau de Parfum Spray for Men by Carolina Herrera</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Carolina-Herrera-212-VIP-Black-Men-Eau-de-Parfum-Spray-3.4-Best-Price-Fragrance-Parfume-FragranceOutlet.com-DETAILS.jpg?v=1579127324"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            64.95 - 118.95
+            <a href="https://perfumania.com/products/212-vip-black-eau-de-parfum-spray-for-men-by-carolina-herrera">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>212 VIP Black is the result of careful concoction by renowned perfumers Anne Filpo and Carlos Benaim. It opens with a soft spicy tone with absinthe, fennel. and anise as top notes. This is followed by a soft lavender tone, and finally, black vanilla husk and musk finish it off as base notes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Carolina Herrera</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467047694469</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">64.95</s:price>
+      <s:sku>1000004708</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467047694469</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">94.95</s:price>
+      <s:sku>1000004021</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467047694469</id>
+      <title>6.7 oz.</title>
+      <s:price currency="USD">118.95</s:price>
+      <s:sku>1000009217</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467075383429</id>
+    <published>2021-04-22T12:43:18-04:00</published>
+    <updated>2021-04-22T12:43:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/chic-by-carolina-herrera-for-women-edp-spray-tester"/>
+    <title>Chic by Carolina Herrera for Women -  EDP Spray</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/W-T-1078larger.jpg?v=1579128027"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            51.02
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Carolina Herrera in the year 1988. This floral fragrance has a blend of tuberose, bulgarian rose, red freesia, orange blossom, freesia, lily-of-the-valley, mandarin blossom, sandalwood, vanilla, and musk.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>BRAND_Carolina Herrera</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467075383429</id>
+      <title>Default Title</title>
+      <s:price currency="USD">51.02</s:price>
+      <s:sku>414179056</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467052544133</id>
+    <published>2021-04-14T08:37:35-04:00</published>
+    <updated>2021-04-14T08:37:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/good-girl-its-so-good-to-be-bad-eau-de-parfum-spray-for-women-by-carolina-herrera"/>
+    <title>Good Girl Eau de Parfum Legere for Women by Caroline Herrera</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Carolina-Herrera-It_s-So-Good-to-be-Bad-Women-Eau-de-Parfum-2_7-Best-Price-Fragrance-Parfume-FragranceOutlet_com-main_jpeg.jpg?v=1580834864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            68.95 - 119.95
+            <a href="https://perfumania.com/products/good-girl-its-so-good-to-be-bad-eau-de-parfum-spray-for-women-by-carolina-herrera">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Good Girl Eau De Parfum EDP Legere is a fresher, bold evolution of the iconic GOOD GIRL fragrance. A glamorous symbol of empowerment, GOOD GIRL Eau De Parfum Legere embraces your good side and bad “ in a luminous, sophisticated fragrance. An innovative fragrance, signed by women, that invites to have fun and be naughty, because its good to be bad!<br><br>Top Notes: Bergamot, Lemon, Mandarin<br>Heart Notes: Jasmine sambac imperial, Bulgarian rose, Ylang ylang, Caramel, Orange blossom, Cinnamon<br>Base Notes: Tonka bean, Sandalwood, Cedarwood, Cashmeran, Patchouli, Amber, Musk<br><br><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Carolina Herrera</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467052544133</id>
+      <title>1.0 oz.</title>
+      <s:price currency="USD">68.95</s:price>
+      <s:sku>1000013280</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467052544133</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">97.95</s:price>
+      <s:sku>1000004154</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467052544133</id>
+      <title>2.7 oz.</title>
+      <s:price currency="USD">119.95</s:price>
+      <s:sku>1000004288</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467037241477</id>
+    <published>2021-04-14T08:36:43-04:00</published>
+    <updated>2021-04-14T08:36:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/carolina-herrera-good-girl-perfume-womens-edp"/>
+    <title>Good Girl For Women By Carolina Herrera Eau De Parfum Spray</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Carolina-Herrera-Good-Girl-Women-Eau-de-Parfume-Spray-Best-Price-Fragrance-Parfume-FragranceOutlet.com-DETAILS.jpg?v=1580843429"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            68.95 - 149.95
+            <a href="https://perfumania.com/products/carolina-herrera-good-girl-perfume-womens-edp">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Good Girl perfume was launched by Carolina Herrera in September 2016 and has a huge following of dedicated users worldwide. Its fresh, yet dark fragrance represents the two sides of every woman - the good and the bad. With jasmine and tuberose making up the fresh, feminine side; cocoa and tonka bean are used for the intoxicatingly dark side. It's delicate yet empowering - the perfect femme fatale fragrance. After all, it's good to be bad.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>Best-Sellers</s:tag>
+    <s:tag>BRAND_Carolina Herrera</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467037241477</id>
+      <title>1.0 oz.</title>
+      <s:price currency="USD">68.95</s:price>
+      <s:sku>1000002636</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467037241477</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">97.95</s:price>
+      <s:sku>1000002505</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467037241477</id>
+      <title>2.7 oz.</title>
+      <s:price currency="USD">119.95</s:price>
+      <s:sku>1000002506</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467037241477</id>
+      <title>5.0 oz.</title>
+      <s:price currency="USD">149.95</s:price>
+      <s:sku>1000009302</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466947457157</id>
+    <published>2021-04-08T19:20:29-04:00</published>
+    <updated>2021-04-08T19:20:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/carolina-herrera-ch-womens-eau-de-toilette-spray"/>
+    <title>CH For Women By Carolina Herrera Eau De Toilette Spray</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Carolina-Herrera-Ch-Womens-Eau-de-Toilette-Spray-3.4-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1579722072"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            85.95 - 108.95
+            <a href="https://perfumania.com/products/carolina-herrera-ch-womens-eau-de-toilette-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>An emulsion of floral and fresh notes, the new Carolina Herrera for women scent is exquisitely crafted for modern women. While spices lend the scent a hint of the exotic, woody base notes lend it strength. A scent for the bold and fierce woman, Carolina Herrera for women celebrates the contemporary woman.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Carolina Herrera</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466947457157</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">85.95</s:price>
+      <s:sku>101120053</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466947457157</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">108.95</s:price>
+      <s:sku>101120057</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467067256965</id>
+    <published>2021-02-15T15:36:38-05:00</published>
+    <updated>2021-02-15T15:36:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/chic-by-carolina-herrera-for-men-eau-de-toilette-edt-s"/>
+    <title>Chic by Carolina Herrera for Men - Eau de Toilette</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/M-1725larger.jpg?v=1579127871"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            57.99 - 59.95
+            <a href="https://perfumania.com/products/chic-by-carolina-herrera-for-men-eau-de-toilette-edt-s">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Carolina Herrera in the year 2004. This masculine fragrance has a blend of italian bergamont, watermelon, black pepper oil, sandalwood, and musky notes. It is recommended for casual wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>BRAND_Carolina Herrera</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467067256965</id>
+      <title>2 oz.</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>212179154</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467067256965</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>212179157</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466947260549</id>
+    <published>2021-01-27T19:42:58-05:00</published>
+    <updated>2021-01-27T19:42:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/carolina-herrera-ch-mens-eau-de-toilette-spray"/>
+    <title>CH For Men By Carolina Herrera Eau De Toilette Spray</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/M-3143larger.jpg?v=1620074202"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            61.95 - 92.95
+            <a href="https://perfumania.com/products/carolina-herrera-ch-mens-eau-de-toilette-spray">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Developed for the modern man, Carolina Herrera for men combines dignity and creativity seamlessly. The Carolina Herrera for men man is professional, energetic, active, slightly eccentric, and ever the consummate gentleman. Hints of spice tones like nutmeg add a sense of unpredictability to the scent, evoking characteristics like spontaneity.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Carolina Herrera</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466947260549</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">61.95</s:price>
+      <s:sku>202120153</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466947260549</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">92.95</s:price>
+      <s:sku>202120157</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466947260549</id>
+      <title>6.8 oz.</title>
+      <s:price currency="USD">89.95</s:price>
+      <s:sku>1000001911</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467070566533</id>
+    <published>2019-04-08T14:24:26-04:00</published>
+    <updated>2019-04-08T14:24:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/chic-by-carolina-herrera-for-women-edp-spray"/>
+    <title>Chic by Carolina Herrera for Women -  EDP Spray</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/W-1512larger.jpg?v=1579127943"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            62.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Carolina Herrera in the year 2002. This floral fragrance has a blend of madarin orange, vanilla, white mushred fressia, and bulgarian petal. It is recommended for daytime waer.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>BRAND_Carolina Herrera</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467070566533</id>
+      <title>2.7 oz.</title>
+      <s:price currency="USD">62.15</s:price>
+      <s:sku>111179056</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466947489925</id>
+    <published>2017-05-03T16:25:55-04:00</published>
+    <updated>2017-05-03T16:25:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/carolina-herrera-212-men-mens-eau-de-toilette-spray"/>
+    <title>212 For Men By Carolina Herrera Eau De Toilette Spray</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Caroline-Herrera-212-Men-Men-Eau-de-Toilette-Spray-6.7-Best-Price-Fragrance-Parfume-FragranceOutlet.com-DETAILS.jpg?v=1580827420"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            45.95 - 116.95
+            <a href="https://perfumania.com/products/carolina-herrera-212-men-mens-eau-de-toilette-spray">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Redolent with fresh notes including verdants and citrus, Carolina Herrera 212 Men is perfect for man on move. Floral notes soften scent a small amount while a strong woodsy base makes it unmistakably masculine. A hint of incense and sandalwood provide an exciting touch of exoticism.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>Best-Sellers</s:tag>
+    <s:tag>BRAND_Carolina Herrera</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>Product_Bundle_Collection</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466947489925</id>
+      <title>1.0 oz.</title>
+      <s:price currency="USD">45.95</s:price>
+      <s:sku>202925152</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466947489925</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">72.95</s:price>
+      <s:sku>202925153</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466947489925</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">91.95</s:price>
+      <s:sku>202925157</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466947489925</id>
+      <title>6.7 oz.</title>
+      <s:price currency="USD">116.95</s:price>
+      <s:sku>1000002367</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466947752069</id>
+    <published>2017-03-15T08:37:02-04:00</published>
+    <updated>2017-03-15T08:37:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/carolina-herrera-carolina-herrera-mens-eau-de-toilette-spray"/>
+    <title>Herrera For Men By Carolina Herrera Eau De Toilette Spray</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Carolina-Herrera-Carolina-Herrera-Mens-Eau-de-Toilette-Spray-3.4-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1598974967"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            49.95 - 95.95
+            <a href="https://perfumania.com/products/carolina-herrera-carolina-herrera-mens-eau-de-toilette-spray">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Developed for the modern man, Carolina Herrera for men combines dignity and creativity seamlessly. The Carolina Herrera for men man is professional, energetic, active, slightly eccentric, and ever the consummate gentleman. Hints of spice tones like nutmeg add a sense of unpredictability to the scent, evoking characteristics like spontaneity.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Carolina Herrera</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466947752069</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>212123153</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466947752069</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">82.95</s:price>
+      <s:sku>212123157</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466947752069</id>
+      <title>6.75 oz.</title>
+      <s:price currency="USD">95.95</s:price>
+      <s:sku>212123167</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466975309957</id>
+    <published>2017-03-15T08:32:50-04:00</published>
+    <updated>2017-03-15T08:32:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/carolina-herrera-carolina-herrera-womens-eau-de-parfum-spray"/>
+    <title>Carolina Herrera Eau de Parfum Spray for Women by Carolina Herrera</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Carolina-Herrera-Carolina-Herrera-Womens-Eau-de-Parfume-Spray-3.4-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1598975449"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            71.95 - 108.95
+            <a href="https://perfumania.com/products/carolina-herrera-carolina-herrera-womens-eau-de-parfum-spray">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>An emulsion of floral and fresh notes, the new Carolina Herrera for women perfume is exquisitely crafted for modern women. While spices lend the scent a hint of the exotic, woody base notes lend it strength. A scent for the bold and fierce woman, Carolina Herrera for women celebrates the contemporary woman.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>BRAND_Carolina Herrera</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466975309957</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">71.95</s:price>
+      <s:sku>111123053</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466975309957</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">108.95</s:price>
+      <s:sku>111123057</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466975309957</id>
+      <title>3.4 oz. (Tester)</title>
+      <s:price currency="USD">72.99</s:price>
+      <s:sku>414123057</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466975408261</id>
+    <published>2017-03-15T08:26:28-04:00</published>
+    <updated>2017-03-15T08:26:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/carolina-herrera-212-sexy-womens-eau-de-parfum-spray"/>
+    <title>212 Sexy Eau de Parfum Spray for Women by Carolina Herrera</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Carolina-Herrera-212-Sexy-Womens-Eau-de-Parfume-Spray-3.4-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1598975760"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            85.95 - 105.95
+            <a href="https://perfumania.com/products/carolina-herrera-212-sexy-womens-eau-de-parfum-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Just like its name, Carolina Herrera 212 Sexy is seductive, alluring and tempting. Fresh and spicy tones gently give way to a lush heart made of floral notes. Perfect for women of all ages, Carolina HerreraÌ»s 212 Sexy makes the wearer feel, and more importantly be, beautiful.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Carolina Herrera</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>Product_Bundle_Collection</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466975408261</id>
+      <title>2.0 oz.</title>
+      <s:price currency="USD">85.95</s:price>
+      <s:sku>101925254</s:sku>
+      <s:grams>399</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466975408261</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">105.95</s:price>
+      <s:sku>101925257</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466975342725</id>
+    <published>2017-03-15T08:26:28-04:00</published>
+    <updated>2017-03-15T08:26:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/carolina-herrera-212-vip-womens-eau-de-parfum-spray"/>
+    <title>212 VIP For Women By Carolina Herrera Eau De Parfum Spray</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Carolina-Herrera-212-Vip-Womens-Eau-de-Parfume-Spray-2.7-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1580925093"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            39.95 - 110.99
+            <a href="https://perfumania.com/products/carolina-herrera-212-vip-womens-eau-de-parfum-spray">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Are you on the list? Have you been invited? Carolina HerreraÌ»s 212 V.I.P. is an exclusive scent that celebrates women who lead an active social and professional life. For the woman who never sleeps in a city thatÌ»s every-awake, Carolina HerreraÌ»s 212 V.I.P. is the perfect scent.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Carolina Herrera</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466975342725</id>
+      <title>1.0 oz.</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>101925352</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466975342725</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">85.95</s:price>
+      <s:sku>101925353</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466975342725</id>
+      <title>2.7 oz.</title>
+      <s:price currency="USD">107.95</s:price>
+      <s:sku>101925356</s:sku>
+      <s:grams>399</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466975342725</id>
+      <title>4.2 oz.</title>
+      <s:price currency="USD">110.99</s:price>
+      <s:sku>1000011137</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466947588229</id>
+    <published>2017-03-15T08:26:20-04:00</published>
+    <updated>2017-03-15T08:26:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/carolina-herrera-212-vip-men-mens-eau-de-toilette-spray-200023-1"/>
+    <title>212 VIP For Men By Carolina Herrera Eau De Toilette Spray</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Carolina-Herrera-212-Vip-Men-Mens-Eau-de-Toilette-Spray-3.4-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1580925165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            72.95 - 116.95
+            <a href="https://perfumania.com/products/carolina-herrera-212-vip-men-mens-eau-de-toilette-spray-200023-1">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Are you on the list? Because you should be. 212 V.I.P. by Carolina Herrera is an exclusive scent for men who are plugged into the heartbeat of powerful cities. Consummate professionals by day and irresistible by night, these men are the cream of the crop, the elite. The scent combines hints of spices and exotic fruits like passionfruit to suit the unforgettable, and suave, city man.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Carolina Herrera</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466947588229</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">72.95</s:price>
+      <s:sku>202925353</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466947588229</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">91.95</s:price>
+      <s:sku>202925357</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466947588229</id>
+      <title>6.8 oz.</title>
+      <s:price currency="USD">116.95</s:price>
+      <s:sku>1000002105</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466947195013</id>
+    <published>2017-03-15T08:26:18-04:00</published>
+    <updated>2017-03-15T08:26:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/carolina-herrera-212-womens-eau-de-toilette-spray"/>
+    <title>212 Eau de Toilette Spray for Women by Carolina Herrera</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Carolina-Herrera-212-Womens-Eau-de-Toilette-Spray-3.4-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1579124020"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            85.95 - 105.95
+            <a href="https://perfumania.com/products/carolina-herrera-212-womens-eau-de-toilette-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Evoking the soaring heights of the skyscrapers that make the skyline of any major city in the world, the light, airy and edgy scent of Carolina Herrera 212 is developed for the young, working woman. The floral tones give way to a solid sandalwood and musk base, strength beneath grace. The scent is long-lasting, perfect for all day wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Carolina Herrera</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>Product_Bundle_Collection</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466947195013</id>
+      <title>2.0 oz.</title>
+      <s:price currency="USD">85.95</s:price>
+      <s:sku>101925154</s:sku>
+      <s:grams>399</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466947195013</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">105.95</s:price>
+      <s:sku>101925157</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

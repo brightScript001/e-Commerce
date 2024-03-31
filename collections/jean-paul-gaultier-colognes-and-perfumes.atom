@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumania.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumania.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumania.com/collections/jean-paul-gaultier-colognes-and-perfumes.atom"/>
+  <title>Perfumania</title>
+  <updated>2024-03-26T12:27:07-04:00</updated>
+  <author>
+    <name>Perfumania</name>
+  </author>
+  <entry>
+    <id>https://perfumania.com/products/6940571140229</id>
+    <published>2024-03-26T12:27:07-04:00</published>
+    <updated>2024-03-26T12:27:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/le-male-le-parfum-eau-de-parfum-spray-for-men-by-jean-paul-gaultier"/>
+    <title>Le Male Le Parfum Eau de Parfum Spray for Men by Jean Paul Gaultier</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Jean Paul Gaultier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/lemale.webp?v=1711470429"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jean Paul Gaultier<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            87.95 - 139.95
+            <a href="https://perfumania.com/products/le-male-le-parfum-eau-de-parfum-spray-for-men-by-jean-paul-gaultier">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Jean Paul Gaultier</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6940571140229</id>
+      <title>2.5 oz.</title>
+      <s:price currency="USD">87.95</s:price>
+      <s:sku>1000013019</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/6940571140229</id>
+      <title>4.2 oz.</title>
+      <s:price currency="USD">112.95</s:price>
+      <s:sku>1000011588</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/6940571140229</id>
+      <title>6.7 oz.</title>
+      <s:price currency="USD">139.95</s:price>
+      <s:sku>1000013020</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6940356247685</id>
+    <published>2024-03-26T11:37:53-04:00</published>
+    <updated>2024-03-26T11:37:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/le-beau-eau-de-toilette-spray-for-men-by-jean-paul-gaultier"/>
+    <title>Le Beau Eau de Toilette Spray for Men by Jean Paul Gaultier</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Jean Paul Gaultier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/Jean-Paul-Gaultier-Le-Beau-Male-EDP.jpg?v=1711467464"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jean Paul Gaultier<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            79.95 - 99.95
+            <a href="https://perfumania.com/products/le-beau-eau-de-toilette-spray-for-men-by-jean-paul-gaultier">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Jean Paul Gaultier</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>Product_Bundle_Collection</s:tag>
+    <s:tag>TYPE_Eau De Toilette Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6940356247685</id>
+      <title>2.5 oz.</title>
+      <s:price currency="USD">79.95</s:price>
+      <s:sku>1000013373</s:sku>
+      <s:grams>726</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/6940356247685</id>
+      <title>4.2 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000013374</s:sku>
+      <s:grams>726</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6824062615685</id>
+    <published>2023-05-24T10:14:41-04:00</published>
+    <updated>2023-05-24T10:14:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/le-male-gift-set-for-men"/>
+    <title>Le Male Gift Set for Men</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Jean Paul Gaultier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/M-GS-3214larger.jpg?v=1684937682"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jean Paul Gaultier<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            110.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Jean Paul Gaultier in the year 2000. This flowery fragrance has a blend of tube rose and floral notes. It is recommended for romantic wear.3 Pc Gift Set 4.2oz EDT, 1.6oz After Shave Balm, 2.6oz Alco-Free Deo Stick</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>Brand_Jean Paul Gaultier</s:tag>
+    <s:tag>gender_Men</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Gift Set</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6824062615685</id>
+      <title>Default Title</title>
+      <s:price currency="USD">110.95</s:price>
+      <s:sku>1000013485</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6824061665413</id>
+    <published>2023-05-24T10:13:47-04:00</published>
+    <updated>2023-05-24T10:13:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/classique-gift-set-for-women"/>
+    <title>Classique Gift Set for Women</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Jean Paul Gaultier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/W-GS-3319larger.jpg?v=1684937628"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jean Paul Gaultier<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            92.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Jean Paul Gaultier in the year 1993. This oriental floral fragrance has a blend of orange blossom, vanilla, star anise, amber, orchid, ginger, musk, rose, mandarin orange, tuberose, cinnamon, pear, and bergamot.2 Pc Gift Set 1.7oz EDT , 2.5oz Perfumed Body Lotion</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>Brand_Jean Paul Gaultier</s:tag>
+    <s:tag>gender_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Gift Set</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6824061665413</id>
+      <title>Default Title</title>
+      <s:price currency="USD">92.95</s:price>
+      <s:sku>1000013445</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6820731322501</id>
+    <published>2023-05-09T09:36:15-04:00</published>
+    <updated>2023-05-09T09:36:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/la-belle-eau-de-parfum-spray-for-women-by-jean-paul-gaultier"/>
+    <title>La Belle Eau De Parfum Spray for Women by Jean Paul Gaultier</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Jean Paul Gaultier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/I0128559larger.jpg?v=1683639377"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jean Paul Gaultier<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            89.95 - 112.95
+            <a href="https://perfumania.com/products/la-belle-eau-de-parfum-spray-for-women-by-jean-paul-gaultier">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Launched by the design house of Jean Paul Gaultier. This oriental vanilla fragrance has a blend of green pear, bergamot, and vanilla bean. It is recommended for casual wear and it has a long-lasting fragrance.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Jean Paul Gaultier</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6820731322501</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">89.95</s:price>
+      <s:sku>1000013342</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/6820731322501</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">112.95</s:price>
+      <s:sku>1000013343</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6752546652293</id>
+    <published>2022-11-08T15:12:57-05:00</published>
+    <updated>2022-11-08T15:12:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/le-male-by-jean-paul-gaultier-for-men-2-pc-gift-set"/>
+    <title>Le Male by Jean Paul Gaultier for Men - 2 Pc Gift Set</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Jean Paul Gaultier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/M-GS-2550larger.jpg?v=1667938378"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jean Paul Gaultier<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            80.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Created in 1995 by Francis Kurkdjian, this magnetic fragrance is housed in a male torso shaped attractive blue bottle. With the fresh mint and base notes warm vanilla, this perfume is your perfect winter night fragrance. The perfume comes in a gift set that also contains a Le Male shower gel by Jean Paul Gaultier, for free.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_ Jean Paul Gaultier</s:tag>
+    <s:tag>gender_men</s:tag>
+    <s:tag>TYPE_ Eau De Toilette</s:tag>
+    <s:tag>TYPE_Gift Set</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6752546652293</id>
+      <title>2.5 oz.</title>
+      <s:price currency="USD">80.95</s:price>
+      <s:sku>818454924</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466944639109</id>
+    <published>2021-04-23T08:44:51-04:00</published>
+    <updated>2021-04-23T08:44:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/jean-paul-gaultier-jean-paul-gaultier-mens-gift-set"/>
+    <title>Jean Paul Gaultier Gift Set for Men by Jean Paul Gaultier</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Jean Paul Gaultier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Jean-Paul-Gaultier-Jean-Paul-Gaultier-Mens-Gift-Set-2.5-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Main.jpg?v=1579123910"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jean Paul Gaultier<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            80.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Created in 1995 by Francis Kurkdjian, this magnetic fragrance is housed in a male torso shaped attractive blue bottle. With the fresh mint and base notes warm vanilla, this perfume is your perfect winter night fragrance. The perfume comes in a gift set that also contains a Le Male shower gel by Jean Paul Gaultier, for free.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Jean Paul Gaultier</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Gift Set</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466944639109</id>
+      <title>2.5 oz.</title>
+      <s:price currency="USD">80.95</s:price>
+      <s:sku>818454924</s:sku>
+      <s:grams>399</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466944311429</id>
+    <published>2021-04-23T08:44:51-04:00</published>
+    <updated>2021-04-23T08:44:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/jean-paul-gaultier-jean-paul-gaultier-womens-eau-de-toilette-spray"/>
+    <title>Classique For Women By Jean Paul Gaultier Eau De Toilette Spray</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Jean Paul Gaultier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Jean-Paul-Gaultier-Jean-Paul-Gaultier-Womens-Eau-de-Toilette-Spray-3.4-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1580150295"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jean Paul Gaultier<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            83.95 - 103.95
+            <a href="https://perfumania.com/products/jean-paul-gaultier-jean-paul-gaultier-womens-eau-de-toilette-spray">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Created originally in 1993 by Jacques Cavallier, the bold sweetness of this perfume enchants you with its warm, floral scents. This perfume has something very few perfumes can boast of: a long lasting fragrance and a heavy to enormous sillage, leaving you wrapped up in its sweet and delicate scent for hours. This delightful perfume is perfect for cold winter nights, although you can pamper yourself with it any time of the year and any time of the day.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Jean Paul Gaultier</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>Product_Bundle_Collection</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466944311429</id>
+      <title>1.6 oz.</title>
+      <s:price currency="USD">83.95</s:price>
+      <s:sku>101454153</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466944311429</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">103.95</s:price>
+      <s:sku>101454157</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466944311429</id>
+      <title>3.4 oz. Tester</title>
+      <s:price currency="USD">90.95</s:price>
+      <s:sku>404454157</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467037012101</id>
+    <published>2021-04-22T12:46:57-04:00</published>
+    <updated>2021-04-22T12:46:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/ultra-male-eau-de-toilette-spray-for-men-by-jean-paul-gaultier"/>
+    <title>Ultra Male Eau de Toilette Spray for Men by Jean Paul Gaultier</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Jean Paul Gaultier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Jean-Paul-Gaultier-Jpg-Ultra-Life-Men-Eau-de-Toilette-Spray-Best-Price-Fragrance-Parfume-FragranceOutlet.com-DETAILS.jpg?v=1579126972"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jean Paul Gaultier<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            84.95 - 99.95
+            <a href="https://perfumania.com/products/ultra-male-eau-de-toilette-spray-for-men-by-jean-paul-gaultier">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Marketed as an intensely masculine and provocatively seductive, the Ultra Male By Jean Paul Gaultier is built on an exquisite combination of rich spices and delicate florals. The nose behind the famous fragrance, Francis Kurkdjian deftly worked with contrasting notes to create a modern fragrance that is infused with fresh citruses, aromatic spices and warm woody scents.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Jean Paul Gaultier</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467037012101</id>
+      <title>2.5 oz.</title>
+      <s:price currency="USD">84.95</s:price>
+      <s:sku>1000002530</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467037012101</id>
+      <title>4.2 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000002531</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466944409733</id>
+    <published>2021-04-02T23:42:36-04:00</published>
+    <updated>2021-04-02T23:42:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/jean-paul-gaultier-jean-paul-gaultier-mens-eau-de-toilette-spray"/>
+    <title>Jean Paul Gaultier Le Male Eau de Toilette Spray for Men by Jean Paul Gaultier</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Jean Paul Gaultier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Jean-Paul-Gaultier-Jean-Paul-Gaultier-Mens-Eau-de-Toilette-Spray-6.7-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1580825689"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jean Paul Gaultier<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            74.95 - 119.95
+            <a href="https://perfumania.com/products/jean-paul-gaultier-jean-paul-gaultier-mens-eau-de-toilette-spray">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Created in 1995 by Francis Kurkdjian, this magnetic fragrance is housed in a male torso shaped attractive blue bottle. With the fresh mint and base notes warm vanilla, this perfume is your perfect winter night fragrance. The perfume comes in a gift set that also contains a Le Male shower gel by Jean Paul Gaultier, for free.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Jean Paul Gaultier</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>Product_Bundle_Collection</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466944409733</id>
+      <title>2.5 oz.</title>
+      <s:price currency="USD">74.95</s:price>
+      <s:sku>202454155</s:sku>
+      <s:grams>399</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466944409733</id>
+      <title>4.2 oz.</title>
+      <s:price currency="USD">95.95</s:price>
+      <s:sku>202454158</s:sku>
+      <s:grams>726</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466944409733</id>
+      <title>6.7 oz.</title>
+      <s:price currency="USD">119.95</s:price>
+      <s:sku>1000001137</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467050184837</id>
+    <published>2021-04-01T15:55:43-04:00</published>
+    <updated>2021-04-01T15:55:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/jean-paul-gaultier-scandal-perfume-for-women-edp"/>
+    <title>Scandal Eau de Parfum Spray for Women by Jean Paul Gaultier</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Jean Paul Gaultier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Jean_Paul_Gaultier-Scandal-Women-Eau_de_Parfum_Spray-1.7-Best-Price-Fragrance-Parfume-FragranceOutlet.com-DETAILS.jpg?v=1579127408"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jean Paul Gaultier<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            79.95 - 89.95
+            <a href="https://perfumania.com/products/jean-paul-gaultier-scandal-perfume-for-women-edp">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Scandal is one of those fragrances that marks a change from the usual and presents us with something entirely new. While the design of the decanter certainly grips the attention, the soft fruity notes which are supported by fruitchouli and musk honey is something of a surprise compared to the typical gardenia of tuberose and rose.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Jean Paul Gaultier</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467050184837</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">79.95</s:price>
+      <s:sku>1000004070</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467050184837</id>
+      <title>2.7 oz.</title>
+      <s:price currency="USD">89.95</s:price>
+      <s:sku>1000004252</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4563659554949</id>
+    <published>2020-08-27T00:03:33-04:00</published>
+    <updated>2020-08-27T00:03:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/classique-by-jean-paul-gaultier-for-women-edp-spray"/>
+    <title>Classique by Jean Paul Gaultier for Women - EDP Spray</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Jean Paul Gaultier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/W-3839larger.jpg?v=1581453688"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jean Paul Gaultier<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            74.20 - 111.95
+            <a href="https://perfumania.com/products/classique-by-jean-paul-gaultier-for-women-edp-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Jean Paul Gaultier in the year 1990. This oriental floral fragrance has a blend of sandalwood, tonka bean, amber, vanille, vanilla orchid, narcissus, rum, and rose.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Jean Paul Gaultier</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>PWW Items</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4563659554949</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">74.20</s:price>
+      <s:sku>1000008971</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4563659554949</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">111.95</s:price>
+      <s:sku>201506</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

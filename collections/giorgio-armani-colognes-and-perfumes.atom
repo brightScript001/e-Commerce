@@ -1,0 +1,1176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumania.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumania.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumania.com/collections/giorgio-armani-colognes-and-perfumes.atom"/>
+  <title>Perfumania</title>
+  <updated>2024-03-21T16:51:08-04:00</updated>
+  <author>
+    <name>Perfumania</name>
+  </author>
+  <entry>
+    <id>https://perfumania.com/products/6911179030661</id>
+    <published>2024-03-21T16:51:08-04:00</published>
+    <updated>2024-03-21T16:51:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/copy-of-acqua-di-gio-eau-de-parfum-spray-for-men-by-giorgio-armani"/>
+    <title>Acqua Di Gio Parfum Spray for Men by Giorgio Armani</title>
+    <s:type>Parfum Spray</s:type>
+    <s:vendor>Giorgio Armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/comingsooncopy_fc2727cf-7be0-49e4-9aad-bf7037e2fb5c.jpg?v=1711054250"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio Armani<br>
+        <strong>Type: </strong>Parfum Spray<br>
+        <strong>Price: </strong>
+            165.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRAND_Giorgio Armani</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>Over $150</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6911179030661</id>
+      <title>4.2 oz.</title>
+      <s:price currency="USD">165.95</s:price>
+      <s:sku>1000013634</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6935323967621</id>
+    <published>2024-03-21T12:08:24-04:00</published>
+    <updated>2024-03-21T12:08:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/my-way-intense-eau-de-parfum-for-women-by-giorgio-armani"/>
+    <title>My Way Intense Eau de Parfum Spray for Women by Giorgio Armani</title>
+    <s:type>Eau De Parfum Intense Spray</s:type>
+    <s:vendor>Giorgio Armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/mywayintense.jpg?v=1711037164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio Armani<br>
+        <strong>Type: </strong>Eau De Parfum Intense Spray<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Giorgio Armani</s:tag>
+    <s:tag>Gender_women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau De Parfum Intense Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6935323967621</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000013251</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6911147081861</id>
+    <published>2024-02-14T08:41:26-05:00</published>
+    <updated>2024-02-14T08:41:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/copy-of-acqua-di-gio-absolu-for-men-by-giorgio-armani-eau-de-parfum-spray"/>
+    <title>Acqua Di Gio Eau De Parfum Spray for Men by Giorgio Armani</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Giorgio Armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/acquadigioedpmen.webp?v=1707918082"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio Armani<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            104.95 - 133.95
+            <a href="https://perfumania.com/products/copy-of-acqua-di-gio-absolu-for-men-by-giorgio-armani-eau-de-parfum-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>aqua di gio SearchTag</s:tag>
+    <s:tag>BRAND_Giorgio Armani</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6911147081861</id>
+      <title>2.5 oz.</title>
+      <s:price currency="USD">104.95</s:price>
+      <s:sku>1000013708</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/6911147081861</id>
+      <title>4.2 oz.</title>
+      <s:price currency="USD">133.95</s:price>
+      <s:sku>1000013709</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6885372690565</id>
+    <published>2023-12-29T14:51:06-05:00</published>
+    <updated>2023-12-29T14:51:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/armani-code-parfum-spray-for-men-by-giorgio-armani"/>
+    <title>Armani Code Parfum Spray for Men by Giorgio Armani</title>
+    <s:type>Parfum Spray</s:type>
+    <s:vendor>Giorgio Armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/armanicodeparfum.jpg?v=1703878887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio Armani<br>
+        <strong>Type: </strong>Parfum Spray<br>
+        <strong>Price: </strong>
+            119.95 - 151.95
+            <a href="https://perfumania.com/products/armani-code-parfum-spray-for-men-by-giorgio-armani">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Launched by the design house of Giorgio Armani in the year of 2020. This woody aromatic fragrance has a blend of bergamot, bergamot leaf, iris, clary sage, aldehydes, orris, tonka bean and cedar.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BRAND_Giorgio Armani</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>Over $150</s:tag>
+    <s:tag>TYPE_Parfum spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6885372690565</id>
+      <title>2.5 oz.</title>
+      <s:price currency="USD">119.95</s:price>
+      <s:sku>1000013797</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/6885372690565</id>
+      <title>4.2 oz.</title>
+      <s:price currency="USD">151.95</s:price>
+      <s:sku>1000013798</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6815229476997</id>
+    <published>2023-04-20T15:50:33-04:00</published>
+    <updated>2023-04-20T15:50:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/si-passione-intense-eau-de-parfum-spray-for-women-by-giorgio-armani"/>
+    <title>Si Passione Intense Eau De Parfum Spray for Women by Giorgio Armani</title>
+    <s:type></s:type>
+    <s:vendor>Giorgio Armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0122792larger.jpg?v=1682020234"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio Armani<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            103.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A floral woody fragrance for modern women. Deep, sweet, intense, elegant, sensual &amp; alluring. Recommended for evening, special occasions or colder seasons wear. Launch year: 2020.
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BRAND_Giorgio Armani</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6815229476997</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">103.95</s:price>
+      <s:sku>1000013265</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6603951767685</id>
+    <published>2021-09-08T12:18:10-04:00</published>
+    <updated>2021-09-08T12:18:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/emporio-armani-diamonds-violet-by-giorgio-armani-for-women-edp-spray"/>
+    <title>Emporio Armani Diamonds Violet by Giorgio Armani for Women - EDP Spray</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Giorgio Armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0121081larger.jpg?v=1631117892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio Armani<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            56.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Giorgio Armani. This woody fragrance has a blend of vetiver, guaiac woody, cedar, cacao, bergamot, and amber notes. It is recommended for casual wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>9.8</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Giorgio Armani</s:tag>
+    <s:tag>GENDER_ women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_ Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6603951767685</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">56.95</s:price>
+      <s:sku>1000012458</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6595455746181</id>
+    <published>2021-08-17T15:03:53-04:00</published>
+    <updated>2021-08-17T15:03:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/acqua-di-gio-profondo-by-giorgio-armani-for-men-edp-spray"/>
+    <title>Acqua Di Gio Profondo by Giorgio Armani for Men - EDP Spray</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Giorgio Armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0116422larger.jpg?v=1629227035"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio Armani<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            104.95 - 133.95
+            <a href="https://perfumania.com/products/acqua-di-gio-profondo-by-giorgio-armani-for-men-edp-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Giorgio Armani. Acqua di Gio Profondo is the intense marine interpretation of Acqua di Gio. More than a fragrance, Aqua di Gio Profondo is a captivating deep-dive into the profoundness of the soul.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BRAND_Giorgio Armani</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6595455746181</id>
+      <title>2.5 oz.</title>
+      <s:price currency="USD">104.95</s:price>
+      <s:sku>1000009319</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/6595455746181</id>
+      <title>4.2 oz.</title>
+      <s:price currency="USD">133.95</s:price>
+      <s:sku>1000009321</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6592425787525</id>
+    <published>2021-08-06T11:32:15-04:00</published>
+    <updated>2021-08-06T11:32:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/si-fiori-by-giorgio-armani-for-women-eau-de-parfum-spray"/>
+    <title>Si Fiori by Giorgio Armani for Women - Eau de Parfum Spray</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Giorgio Armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0115625larger.jpg?v=1628263937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio Armani<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            85.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Giorgio Armani. This chypre fruity fragrance has a black currant, green mandarin, neroli, patchouli, oak moss, rose, vanilla, white musk.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>8.6</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Giorgio Armani</s:tag>
+    <s:tag>Gender_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6592425787525</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">85.95</s:price>
+      <s:sku>1000012392</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6584032264325</id>
+    <published>2021-07-06T16:27:30-04:00</published>
+    <updated>2021-07-06T16:27:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/armani-code-absolu-by-giorgio-armani-for-women-edp-spray"/>
+    <title>Armani Code Absolu by Giorgio Armani for Women -  EDP Spray</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Giorgio Armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0114185larger.jpg?v=1625603253"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio Armani<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            62.95 - 80.95
+            <a href="https://perfumania.com/products/armani-code-absolu-by-giorgio-armani-for-women-edp-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Giorgio Armani in the year of 2019. This oriental floral fragrance has a blend of ginger, neroli and mandarin orange, jasmine, orange blossom and tuberose, tonka bean, vanilla and sandalwood.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>7.1</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Giorgio Armani</s:tag>
+    <s:tag>Gender_women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6584032264325</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">62.95</s:price>
+      <s:sku>1000011471</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/6584032264325</id>
+      <title>2.5 oz.</title>
+      <s:price currency="USD">80.95</s:price>
+      <s:sku>1000011472</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6584031248517</id>
+    <published>2021-07-06T16:26:39-04:00</published>
+    <updated>2021-07-06T16:26:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/my-way-by-giorgio-armani-for-women-edp-spray"/>
+    <title>My Way by Giorgio Armani for Women -  EDP Spray</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Giorgio Armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0115884larger.jpg?v=1625603200"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio Armani<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            99.95 - 129.95
+            <a href="https://perfumania.com/products/my-way-by-giorgio-armani-for-women-edp-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Armani. My Way Eau de Parfum is the scent of discoveries and connections for an openminded, curious and authentic woman who is ready to broaden her horizons and live meaningful encounters around the world.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>7.1</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Giorgio Armani</s:tag>
+    <s:tag>floral-notes</s:tag>
+    <s:tag>Gender_women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6584031248517</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000012460</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/6584031248517</id>
+      <title>3 oz.</title>
+      <s:price currency="USD">129.95</s:price>
+      <s:sku>1000012007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6579961430149</id>
+    <published>2021-06-17T08:54:58-04:00</published>
+    <updated>2021-06-17T08:54:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/acqua-di-gio-by-giorgio-armani-for-men-3-pc-gift-set"/>
+    <title>Acqua Di Gio by Giorgio Armani for Men - 3 Pc Gift Set</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Giorgio Armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/M-GS-2448larger.jpg?v=1623934500"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio Armani<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            72.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Giorgio Armani in 1997. This is classified as a flowery fragrance. This masculine scent possesses a blend of citrus notes, rosemary spiciness, jasmine, and wood. It is recommended for casual wear. Acqua Di Gio by Giorgio Armani for Men - 3 Pc Gift Set 1.7oz EDT Spray, 2.5oz All Over Body Shampoo, 2.5oz After Shave Balm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>Bogo-ignore</s:tag>
+    <s:tag>BRAND_Giorgio Armani</s:tag>
+    <s:tag>gender_men</s:tag>
+    <s:tag>gift-set</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Gift Set</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6579961430149</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">72.95</s:price>
+      <s:sku>1000011883</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6579959758981</id>
+    <published>2021-06-17T08:53:49-04:00</published>
+    <updated>2021-06-17T08:53:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/acqua-di-gioia-by-giorgio-armani-for-women-3-pc-gift-set"/>
+    <title>Acqua Di Gioia by Giorgio Armani for Women - 3 Pc Gift Set</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Giorgio Armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0096920larger.jpg?v=1623934431"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio Armani<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            105.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Giorgio Armani in the year 2010. This floral fragrance has a blend of jasmine sambac, cedar, labdanum, aquatic green accord, peony, brown sugar accord, mint leaves, pink pepper, and limone primo fiore. Acqua Di Gioia by Giorgio Armani for Women - 3 Pc Gift Set 3.4oz EDP Spray, 0.5oz EDP Spray, 2.5oz Body Lotion</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>Bogo-ignore</s:tag>
+    <s:tag>BRAND_Giorgio Armani</s:tag>
+    <s:tag>gender_women</s:tag>
+    <s:tag>gift-set</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Gift Set</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6579959758981</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">105.95</s:price>
+      <s:sku>1000011828</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6579959693445</id>
+    <published>2021-06-17T08:53:47-04:00</published>
+    <updated>2021-06-17T08:53:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/because-it-is-you-by-emporio-armani-for-women-2-pc-gift-set"/>
+    <title>Because It Is You by Emporio Armani for Women - 2 Pc Gift Set</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Giorgio Armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0093264larger.jpg?v=1623934429"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio Armani<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            68.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Emporio Armani. This floral fruity fragrance has a blend of raspberry, neroli, rose absolute, vanilla, and musk notes. Emporio Armani Because It Is You by Giorgio Armani for Women - 2 Pc Gift Set 1.7 oz EDP Spray, 0.5oz EDP Spray</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>Bogo-ignore</s:tag>
+    <s:tag>BRAND_Giorgio Armani</s:tag>
+    <s:tag>gender_women</s:tag>
+    <s:tag>gift-set</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Gift Set</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6579959693445</id>
+      <title>1.7  oz.</title>
+      <s:price currency="USD">68.95</s:price>
+      <s:sku>1000011827</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466927501445</id>
+    <published>2021-04-23T08:45:21-04:00</published>
+    <updated>2021-04-23T08:45:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/giorgio-armani-acqua-di-gio-mens-deodorant"/>
+    <title>Acqua Di Gio For Men By Giorgio Armani Deodorant Stick</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>Giorgio Armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Giorgio-Armani-Acqua-Di-Gio-Deodorant-Best-Price-Fragrance-Perfume-FragranceOutlet.jpg?v=1580826561"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio Armani<br>
+        <strong>Type: </strong>Deodorant<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A deodorant spray called Acqua di Gio by Giorgio Armani is known for its fresh, sporty and revitalizing fragrance. This fragrance is for the active man who needs a boost of freshness and energy after a workout at the gym, or to start a long day at work. It is a perfect fragrance for everyday casual usage to stay fresh and full of energy all day.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aqua di gio SearchTag</s:tag>
+    <s:tag>BRAND_Giorgio Armani</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Deodorant</s:tag>
+    <s:tag>UNDER $25</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466927501445</id>
+      <title>2.6 oz.</title>
+      <s:price currency="USD">17.95</s:price>
+      <s:sku>202034777</s:sku>
+      <s:grams>399</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466927632517</id>
+    <published>2021-04-23T08:45:20-04:00</published>
+    <updated>2021-04-23T08:45:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/giorgio-armani-acqua-di-gio-mens-gift-set"/>
+    <title>Acqua Di Gio Gift Set for Men by Giorgio Armani</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Giorgio Armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Giorgio-Armani-Acqua-Di-Gio-Mens-Gift-Set--1.7-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Main.jpg?v=1579123479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio Armani<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            66.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Giorgio Armani is a brand known for its premium products for men. This gift set contains an Eau de Toilette, an aftershave balm from the Acqua di Gio collection by Armani, which is one of their most popular and known collections for men as yet. It is the ultimate gift for your man.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>aqua di gio SearchTag</s:tag>
+    <s:tag>BRAND_Giorgio Armani</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Gift Set</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466927632517</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">66.95</s:price>
+      <s:sku>1000001042</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466927960197</id>
+    <published>2021-04-23T08:45:19-04:00</published>
+    <updated>2021-04-23T08:45:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/giorgio-armani-armani-code-mens-deodorant"/>
+    <title>Armani Code For Men By Giorgio Armani Deodorant Stick</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>Giorgio Armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Giorgio-Armani-Armani-Code-Mens-Deodorant-2.6-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Main_db3a7e40-3a91-4c06-ac43-e39f6343943e.jpg?v=1579881482"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio Armani<br>
+        <strong>Type: </strong>Deodorant<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A modern masculine fragrance with a spicy oriental scent, Armani Code by Giorgio Armani has won accolades since it hit shelves in 2004. Expertly created through the joint efforts of Antoine Lie, Clement Gavarry and Antoine Maisondieu, Armani Code comes in a distinctive bottle that is a nod to the legendary craftsmanship of an Armani tuxedo.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRAND_Giorgio Armani</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Deodorant</s:tag>
+    <s:tag>UNDER $25</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466927960197</id>
+      <title>2.6 oz.</title>
+      <s:price currency="USD">17.95</s:price>
+      <s:sku>202087776</s:sku>
+      <s:grams>399</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466979405957</id>
+    <published>2021-04-22T12:53:02-04:00</published>
+    <updated>2021-04-22T12:53:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/giorgio-armani-armani-code-women-eau-de-parfum-spray"/>
+    <title>Armani Code Eau de Parfum Spray for Women by Giorgio Armani</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Giorgio Armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/PRFM-145908.jpg?v=1581429288"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio Armani<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            85.95 - 92.95
+            <a href="https://perfumania.com/products/giorgio-armani-armani-code-women-eau-de-parfum-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Amani Code Eau de Parfume for women by Giorgio Armani is the perfect fragrance for a red-carpet event. It is a sensual, unique and captivating fragrance that leaves you spellbound. It is a signature fragrance by the brand for women, and is inspired by the orange blossom. Citrusy and woody undertones with a hint of vanilla make this fragrance delicious for the senses.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Giorgio Armani</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>Product_Bundle_Collection</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466979405957</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">85.95</s:price>
+      <s:sku>101087053</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466979405957</id>
+      <title>2.5 oz.</title>
+      <s:price currency="USD">92.95</s:price>
+      <s:sku>101087055</s:sku>
+      <s:grams>399</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466979438725</id>
+    <published>2021-04-22T12:53:01-04:00</published>
+    <updated>2021-04-22T12:53:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/giorgio-armani-acqua-di-gioia-women-eau-de-parfum-spray"/>
+    <title>Acqua Di Gioia For Women By Giorgio Armani Eau De Parfum Spray</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Giorgio Armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/s1284249-main-zoom.webp?v=1668452628"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio Armani<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            64.99 - 99.95
+            <a href="https://perfumania.com/products/giorgio-armani-acqua-di-gioia-women-eau-de-parfum-spray">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A unique floral fragrance for women by Giorgio Armani, Acqua di Gioia Eau de Parfume is fresh, natural and has aquatic tones. Crushed mint, cedar wood and spring blossom fragrances add sensuality and a delicious headiness perfect for a warm summer evening. It is rooted in earth, yet lets your senses soar with freshness.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>aqua di gio SearchTag</s:tag>
+    <s:tag>BRAND_Giorgio Armani</s:tag>
+    <s:tag>fresh-notes</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466979438725</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">81.95</s:price>
+      <s:sku>101034253</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466979438725</id>
+      <title>1.7 oz. Tester</title>
+      <s:price currency="USD">64.99</s:price>
+      <s:sku>1000000693</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466979438725</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>101034257</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466986713221</id>
+    <published>2021-04-22T12:52:27-04:00</published>
+    <updated>2021-04-22T12:52:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/acqua-di-gio-gift-set-for-men-by-giorgio-armani"/>
+    <title>Acqua Di Gio Gift Set for Men by Giorgio Armani</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Giorgio Armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Giorgio-Armani-Acqua-Di-Gio-Mens-Gift-Set-3.4-oz.-Best-Price-Fragrance-Perfume-FragranceOutlet.com-Main.jpg?v=1579125418"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio Armani<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The fragrance was composed by Alberto Morillas, an award winning perfumer. It introduced the concept of fresh, citrusy and aquatic scents that could be used by men.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>aqua di gio SearchTag</s:tag>
+    <s:tag>BRAND_Giorgio Armani</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Gift Set</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466986713221</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>818034933</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467129417861</id>
+    <published>2021-04-22T12:38:49-04:00</published>
+    <updated>2021-04-22T12:38:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/giorgio-armani-si-by-giorgio-armani-for-women-eau-de-parfum-spray"/>
+    <title>Si For Women By Giorgio Armani Eau De Parfum Spray</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Giorgio Armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/W-8367larger.jpg?v=1580921755"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio Armani<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            76.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Giorgio Armani in the year 2013. This chypre fruity fragrance has a blend of cassis, freesia, vanilla, may rose, patchouli, ambroxan, and woody notes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Giorgio Armani</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467129417861</id>
+      <title>1 oz.</title>
+      <s:price currency="USD">76.95</s:price>
+      <s:sku>1000005572</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467225657477</id>
+    <published>2021-04-22T09:33:18-04:00</published>
+    <updated>2021-04-22T09:33:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/armani-si-passione-eau-de-parfum-spray-for-women-by-giorgio-armani"/>
+    <title>Si Passione for Women by Giorgio Armani Eau De Parfum Spray</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Giorgio Armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Giorgio-Armani-Si-Passione-Women-Eau-de-Parfum-3.4-Best-Price-Fragrance-Parfume-FragranceOutlet.com.jpg?v=1580835567"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio Armani<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            101.95 - 141.95
+            <a href="https://perfumania.com/products/armani-si-passione-eau-de-parfum-spray-for-women-by-giorgio-armani">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Si Passione by Giorgio Armani add a new dimension to feminine fragrance. It is an irresistible combination of grace, strength and independence of spirit. This sparkling, fruity floral scent with notes of rose and woody vanilla was created for the woman who is passionate, feminine, and free. <br><br>Top Notes: Pink pepper, Pear, Blackcurrant<br>Heart Notes: Rose, Jasmine, Heliotrope<br>Base Notes: Vanilla, Cedarwood<br><br><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BRAND_Giorgio Armani</s:tag>
+    <s:tag>floral-notes</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467225657477</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">101.95</s:price>
+      <s:sku>1000008642</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467225657477</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">131.95</s:price>
+      <s:sku>1000006712</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467225657477</id>
+      <title>5 oz.</title>
+      <s:price currency="USD">141.95</s:price>
+      <s:sku>1000009842</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5172598964357</id>
+    <published>2021-04-22T09:29:14-04:00</published>
+    <updated>2021-04-22T09:29:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/giorgio-armani-si-by-giorgio-armani-for-women-eau-de-parfum-intense-spray"/>
+    <title>Giorgio Armani Si by Giorgio Armani for Women -  Eau de Parfum Intense Spray</title>
+    <s:type>Eau De Parfum Intense Spray</s:type>
+    <s:vendor>Giorgio Armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/si-intense_58ad27fe-f3cb-4748-8aac-54bdff540772.jpg?v=1666186106"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio Armani<br>
+        <strong>Type: </strong>Eau De Parfum Intense Spray<br>
+        <strong>Price: </strong>
+            131.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Giorgio Armani in the year 2014. This chypre fruity fragrance has a blend of cassis, black currant, mandarin orange, bergamot, rose, neroli, vanilla, and woody notes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>9.9</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Giorgio Armani</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau De Parfum Intense Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5172598964357</id>
+      <title>3.4  oz.</title>
+      <s:price currency="USD">131.95</s:price>
+      <s:sku>1000009798</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4563660865669</id>
+    <published>2021-04-09T15:40:43-04:00</published>
+    <updated>2021-04-09T15:40:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/giorgio-armani-si-by-giorgio-armani-for-women-intense-spray"/>
+    <title>Giorgio Armani Si by Giorgio Armani for Women - Intense Spray</title>
+    <s:type>EDP Intense Spray</s:type>
+    <s:vendor>Giorgio Armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/si-intense.jpg?v=1666185963"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio Armani<br>
+        <strong>Type: </strong>EDP Intense Spray<br>
+        <strong>Price: </strong>
+            94.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Giorgio Armani in the year 2013. This chypre fruity fragrance has a blend of cassis, freesia, vanilla, may rose, patchouli, ambroxan, and woody notes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Giorgio Armani</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>PWW Items</s:tag>
+    <s:tag>TYPE_EDP</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4563660865669</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">94.51</s:price>
+      <s:sku>1000008988</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466979274885</id>
+    <published>2021-04-08T19:20:32-04:00</published>
+    <updated>2021-04-08T19:20:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/giorgio-armani-emporio-armani-perfume-for-women-eau-de-parfum"/>
+    <title>Emporio Armani Eau de Parfum Spray for Women by Giorgio Armani</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Giorgio Armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Giorgio-Armani-Emporio-Women-Eau-de-Parfume-Spray-3.4-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Main.jpg?v=1632937924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio Armani<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            83.95 - 99.94
+            <a href="https://perfumania.com/products/giorgio-armani-emporio-armani-perfume-for-women-eau-de-parfum">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Created for the modern individual woman, Emporio Armani perfume by Giorgio Armani is a unique and feminine blend of floral and citrusy tones with undertones of wood and spice, with a hint of vanilla. It is subtle, sensual and caresses the senses in soft pure femininity.</p>
+<h5><strong>SCENT</strong></h5>
+<ul>
+<li>Top Notes: Lime, Mandarin Orange, Pineapple, Bergamot, Pear, Tuberose.</li>
+<li>Middle Notes: Heliotrope, Jasmine, Lily Of The Valley, Orris Root.</li>
+<li>Base Notes: Amber, Tonka Bean, Musk, Sandalwood, Cedar, Vanilla, Almond.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Giorgio Armani</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466979274885</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">83.95</s:price>
+      <s:sku>101245053</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466979274885</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">99.94</s:price>
+      <s:sku>1000001018</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467003785349</id>
+    <published>2021-03-31T22:43:46-04:00</published>
+    <updated>2021-03-31T22:43:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/giorgio-armani-acqua-di-gio-profumo-eau-de-parfum-spray-for-men"/>
+    <title>Acqua Di Gio Profumo For Men By Giorgio Armani Parfum Spray</title>
+    <s:type>Parfum Spray</s:type>
+    <s:vendor>Giorgio Armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Giorgio-Armani-Acqua-Di-Gio-Profumo-Mens-Eau-De-Parfum-EDP-Spray-2.5-oz.-Best-Price-Fragrance-Parfume-FragranceOutlet.com-DETAILS.jpg?v=1672849944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio Armani<br>
+        <strong>Type: </strong>Parfum Spray<br>
+        <strong>Price: </strong>
+            114.95 - 145.95
+            <a href="https://perfumania.com/products/giorgio-armani-acqua-di-gio-profumo-eau-de-parfum-spray-for-men">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Acqua di Gio Profumo is a new perfume for men, launched by the fashion house of Armani in 2015. Acqua di Gio Profumo is the successor to Armani's wildly popular, Acqua di Gio launched in 1996. 'Acqua di Gio means 'water of joy' in Italian. Armani claims this perfume is inspired by the Mediterranean sea. Consequently, the perfume opens with notes of mineral marine leading to frankincense and patchouli.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>aqua di gio SearchTag</s:tag>
+    <s:tag>BRAND_Giorgio Armani</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467003785349</id>
+      <title>2.5 oz.</title>
+      <s:price currency="USD">114.95</s:price>
+      <s:sku>1000001741</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467003785349</id>
+      <title>4.2 oz.</title>
+      <s:price currency="USD">145.95</s:price>
+      <s:sku>1000004127</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467003785349</id>
+      <title>6.08 oz.</title>
+      <s:price currency="USD">124.95</s:price>
+      <s:sku>1000004321</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

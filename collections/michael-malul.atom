@@ -1,0 +1,881 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumania.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumania.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumania.com/collections/michael-malul.atom"/>
+  <title>Perfumania</title>
+  <updated>2023-10-23T11:42:35-04:00</updated>
+  <author>
+    <name>Perfumania</name>
+  </author>
+  <entry>
+    <id>https://perfumania.com/products/6861373997189</id>
+    <published>2023-10-23T11:42:35-04:00</published>
+    <updated>2023-10-23T11:42:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/ktoret-santorini-138-eau-de-parfum-spray-for-men-by-michael-malul"/>
+    <title>Ktoret Santorini 138 Eau de Parfum Spray for Men by Michael Malul</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Michael Malul</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/mmsantorini.jpg?v=1697642157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michael Malul<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Top notes: Grapefruit, Apple and Mandarin Orange; Middle Notes: Lavender, Jasmine and Nutmeg; Base Notes: Sandalwood, Amber and Patchouli.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Michael Malul</s:tag>
+    <s:tag>gender_men</s:tag>
+    <s:tag>TYPE_Eau de Parfum spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6861373997189</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000012798</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6861370392709</id>
+    <published>2023-10-23T11:40:20-04:00</published>
+    <updated>2023-10-23T11:40:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/ktoret-san-lucas-eau-de-parfum-spray-for-men-by-michael-malul"/>
+    <title>Ktoret San Lucas 831 Eau de Parfum Spray for Men by Michael Malul</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Michael Malul</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/mmsanlucas.jpg?v=1697640614"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michael Malul<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Top notes: Apple Leaf, Bergamot and Cardamom; Middle Notes: Iris, Lavender and Geranium; Base Notes: Cedar, Sandalwood and Tonka Bean.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Michael Malul</s:tag>
+    <s:tag>gender_men</s:tag>
+    <s:tag>TYPE_Eau de Parfum spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6861370392709</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000012797</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6861362888837</id>
+    <published>2023-10-19T08:43:05-04:00</published>
+    <updated>2023-10-19T08:43:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/ktoret-sparkle-eau-de-parfum-spray-for-women-by-michael-malul"/>
+    <title>Ktoret Sparkle Eau de Parfum Spray for Women by Michael Malul</title>
+    <s:type></s:type>
+    <s:vendor>Michael Malul</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/mmsparkle.jpg?v=1697641450"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michael Malul<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Top notes: Water Lily, Mandarin Orange and Pink Pepper; Middle notes: Orange Blossom, Jasmine and Rose; Base notes: Cedar, Musk and Patchouli.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Michael Malul</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6861362888837</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000012794</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6855471431813</id>
+    <published>2023-10-03T11:54:39-04:00</published>
+    <updated>2023-10-03T11:54:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/140-blue-eau-de-parfum-spray-for-men-by-michael-malul"/>
+    <title>Ktoret 140 Blue Eau de Parfum Spray For Men by Michael Malul</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Michael Malul</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/MM_Ktoret.jpg?v=1696366414"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michael Malul<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Top Notes: Apple, Blood Orange, Plum, Melon, Pomelo; Middle Notes: Black Pepper, Neroli, Lavender, Geranium; Base Notes: Amber, Cedar, Musk, Sandalwood, Patchouli</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Michael Malul</s:tag>
+    <s:tag>gender_men</s:tag>
+    <s:tag>TYPE_Eau de Parfum spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6855471431813</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000012796</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6839946739845</id>
+    <published>2023-08-14T16:36:34-04:00</published>
+    <updated>2023-08-14T16:36:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/ktoret-black-tie-511-eau-de-parfum-spray-for-men-by-michael-malul"/>
+    <title>Ktoret Black Tie 511 Eau De Parfum Spray for Men by Michael Malul</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Michael Malul</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/malulktoret.jpg?v=1694100872"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michael Malul<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            104.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Top notes: Juniper berries, dried fruits; Middle notes: Lily, Ginger, Heliotrope and Sage; Base notes: Amber, Musk, Tonka Bean and Vanilla</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>BRAND_Michael Malul</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6839946739845</id>
+      <title>Default Title</title>
+      <s:price currency="USD">104.95</s:price>
+      <s:sku>1000012795</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6813429923973</id>
+    <published>2023-04-13T11:20:07-04:00</published>
+    <updated>2023-04-13T11:20:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/amber-smoke-eau-de-parfum-spray-for-men-by-michael-malul"/>
+    <title>Amber + Smoke Eau de Parfum Spray for Men by Michael Malul</title>
+    <s:type></s:type>
+    <s:vendor>Michael Malul</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/MM_amber_smoke.jpg?v=1681399219"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michael Malul<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            109.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Michael Malul</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6813429923973</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">109.95</s:price>
+      <s:sku>1000013353</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6813423796357</id>
+    <published>2023-04-13T11:07:04-04:00</published>
+    <updated>2023-04-13T11:07:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/agar-myrrh-eau-de-parfum-spray-for-men-by-michael-malul"/>
+    <title>Agar + Myrrh Eau de Parfum Spray for Men by Michael Malul</title>
+    <s:type></s:type>
+    <s:vendor>Michael Malul</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/MM_agar_myth.jpg?v=1681398436"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michael Malul<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            109.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Michael Malul</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6813423796357</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">109.95</s:price>
+      <s:sku>1000013352</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6813421764741</id>
+    <published>2023-04-13T10:38:00-04:00</published>
+    <updated>2023-04-13T10:38:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/rose-honey-eau-de-parfum-spray-for-women-by-michael-malul"/>
+    <title>Rose + Honey  Eau de Parfum Spray for Women by Michael Malul</title>
+    <s:type></s:type>
+    <s:vendor>Michael Malul</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/MM_rose_honey.jpg?v=1681396695"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michael Malul<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            109.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Michael Malul</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6813421764741</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">109.95</s:price>
+      <s:sku>1000013350</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6797724811397</id>
+    <published>2023-02-16T16:23:01-05:00</published>
+    <updated>2023-02-16T16:23:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/jet-black-enigma-eau-de-parfum-spray-for-men-by-michael-malul"/>
+    <title>Jet Black Enigma Eau De Parfum Spray For Men By Michael Malul</title>
+    <s:type></s:type>
+    <s:vendor>Michael Malul</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/jet_black_micheal_mulual.jpg?v=1676582422"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michael Malul<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            134.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Jet Black Enigma Eau De Parfum Spray for Men by Michael Malul is a captivating fragrance that exudes mystery and confidence. Its alluring blend of notes creates a bold and masculine scent, making it a perfect choice for men seeking a captivating fragrance experience</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Michael Malul</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:tag>woody-notes</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6797724811397</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">134.95</s:price>
+      <s:sku>1000013220</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6797720125573</id>
+    <published>2023-02-16T15:58:41-05:00</published>
+    <updated>2023-02-16T15:58:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/terra-nova-eau-de-parfum-spray-for-men-by-michael-malul"/>
+    <title>Terra Nova Eau De Parfum Spray For Men By Michael Malul</title>
+    <s:type></s:type>
+    <s:vendor>Michael Malul</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/terra_nova_micheal_mulual.jpg?v=1676579198"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michael Malul<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            134.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Immerse yourself in the captivating scent of Terra Nova Eau de Parfum Spray for Men by Michael Malul. This fragrance embodies the spirit of masculinity with its intriguing blend of notes, creating a unique and unforgettable olfactory experience.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 to $150</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Michael Malul</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:tag>woody-notes</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6797720125573</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">134.95</s:price>
+      <s:sku>1000013222</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6750758371461</id>
+    <published>2022-11-03T08:57:34-04:00</published>
+    <updated>2022-11-03T08:57:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/ocean-noir-eau-de-parfum-spray-for-men-by-michael-malul"/>
+    <title>Ocean Noir Eau De Parfum Spray For Men By Michael Malul</title>
+    <s:type>Eau de Parfum Spray</s:type>
+    <s:vendor>Michael Malul</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/OceanNoir_745178710411_MML_SET.jpg?v=1673555882"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michael Malul<br>
+        <strong>Type: </strong>Eau de Parfum Spray<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Top Notes: Marine Mist, Tangelo, Black Coconut; Middle Notes: Sea Kelp, Yarrow, Geranium; Base Notes: Amberwood, Tonka Bean, Musk</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Michael Malul</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>TYPE_ Eau de Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6750758371461</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000012519</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6749873176709</id>
+    <published>2022-11-01T16:37:09-04:00</published>
+    <updated>2022-11-01T16:37:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/citizen-jill-eau-de-parfum-spray-for-women-by-michael-malul"/>
+    <title>Citizen Jill Eau De Parfum Spray For Women By Michael Malul</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Michael Malul</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/CitizenJill_745178710404_MML_SET.jpg?v=1673555764"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michael Malul<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Top Notes: Bergamot, Citron, D'Anjou pear; Middle Notes: Poppy, Night Blooming Jasmine; Base Notes: Velvet Musk, Amber, Vanilla, Sandalwood
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_ Michael Malul</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>TYPE_ Eau de Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6749873176709</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000012518</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6742078587013</id>
+    <published>2022-10-18T13:04:11-04:00</published>
+    <updated>2022-10-18T13:04:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/petit-bouquet-eau-de-parfum-for-women-by-michael-malul"/>
+    <title>Petit Bouquet Eau De Parfum For Women By Michael Malul</title>
+    <s:type></s:type>
+    <s:vendor>Michael Malul</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/PetitBouquet_MichaelMalul_SET.jpg?v=1666111758"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michael Malul<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Top Notes: Sparkling Mandarin, Pink Pepper, Waterlily; Middle Notes: Moroccan Orange Flower, Jasmine Grandiflorum, Rose Damascena; Base Notes: Cedarwood, Patchouli, Sensual Musks</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Michael Malul</s:tag>
+    <s:tag>floral-notes</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>proprietary</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6742078587013</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000012883</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6742076883077</id>
+    <published>2022-10-18T13:00:25-04:00</published>
+    <updated>2022-10-18T13:00:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/ocean-noir-dive-eau-de-parfum-for-women-by-michael-malul"/>
+    <title>Ocean Noir Dive Eau De Parfum For Men By Michael Malul</title>
+    <s:type></s:type>
+    <s:vendor>Michael Malul</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/OceanNoirDive_MichaelMalul_SET.jpg?v=1666111633"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michael Malul<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Top Notes: Clary Sage Oil, Black Pepper, Sparkling Mandarin; Middle Notes: Lavandin Grosso France, Elemi, Cistus Absolute; Base Notes: Patchouli Indonesia, Moss Wood, Sandalwood Accord</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Michael Malul</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>proprietary</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6742076883077</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000012881</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6742074458245</id>
+    <published>2022-10-18T12:58:37-04:00</published>
+    <updated>2022-10-18T12:58:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/no-angel-eau-de-parfum-for-women-by-michael-malul"/>
+    <title>No Angel Eau De Parfum For Women By Michael Malul</title>
+    <s:type></s:type>
+    <s:vendor>Michael Malul</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/NoAngel_PetitBouquet_0725765656872_MichaelMalul_SET.jpg?v=1666112220"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michael Malul<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Top Notes: Clove, French Lavender, Orange Zest; Middle Notes: Night Blooming Jasmine, Tiger Orchid, Ylang Ylang; Base Notes: Patchouli, Sensual Musk, Amber Woods</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Michael Malul</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>proprietary</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6742074458245</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000012884</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6742071345285</id>
+    <published>2022-10-18T12:58:14-04:00</published>
+    <updated>2022-10-18T12:58:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/greystone-eau-de-parfum-for-men-by-michael-malul"/>
+    <title>Greystone Eau De Parfum For Men By Michael Malul</title>
+    <s:type></s:type>
+    <s:vendor>Michael Malul</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Greystone_PetitBouquet_0725765656827_MichaelMalul_SET.jpg?v=1666112274"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michael Malul<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Top Notes: Cinnamon sticks, Black Pepper, Lemon Italy Sfuma; Middle Notes: Elemi, Nutmeg, English Lavendar; Base Notes: Pine Wood, Sandalwood, Vetiver Haiti</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Michael Malul</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>proprietary</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:tag>woody-notes</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6742071345285</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000012882</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6737549262981</id>
+    <published>2022-10-11T13:03:55-04:00</published>
+    <updated>2022-10-11T13:03:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/jet-black-intense-eau-de-parfum-spray-for-men-by-michael-malul"/>
+    <title>Jet Black Intense Eau De Parfum Spray For Men By Michael Malul</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Michael Malul</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/JetBlackIntense_745125693200_MML_SET.jpg?v=1673555802"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michael Malul<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Michael Malul</s:tag>
+    <s:tag>gender_men</s:tag>
+    <s:tag>TYPE_Eau de Parfum spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6737549262981</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000012071</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6737549230213</id>
+    <published>2022-10-11T13:03:53-04:00</published>
+    <updated>2022-10-11T13:03:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/visionair-midnight-blue-eau-de-parfum-spray-for-men-by-michale-malul"/>
+    <title>Visionair Midnight Blue Eau De Parfum Spray For Men By Michael Malul</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Michael Malul</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Visionair_midnight_blue.jpg?v=1665669706"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michael Malul<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Michael Malul</s:tag>
+    <s:tag>gender_men</s:tag>
+    <s:tag>TYPE_Eau de Parfum spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6737549230213</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000009273</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6737549197445</id>
+    <published>2022-10-11T13:03:52-04:00</published>
+    <updated>2022-10-11T13:03:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/jet-black-reserve-eau-de-parfum-spray-for-men-by-michael-malul"/>
+    <title>Jet Black Reserve Eau de Parfum Spray For Men by Michael Malul</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Michael Malul</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/JetBlackReserve_745178710381_MML_SET.jpg?v=1673555847"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michael Malul<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Michael Malul</s:tag>
+    <s:tag>gender_men</s:tag>
+    <s:tag>TYPE_Eau de Parfum spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6737549197445</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000009271</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6737549164677</id>
+    <published>2022-10-11T13:03:51-04:00</published>
+    <updated>2022-10-11T13:03:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/citizen-jack-open-road-eau-de-parfum-spray-for-men-by-michael-malul"/>
+    <title>Citizen Jack Open Road Eau De Parfum Spray For Men By Michael Malul</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Michael Malul</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/CitizenJackOpenRoad_745240332275_MML_SET.jpg?v=1673555737"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michael Malul<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Michael Malul</s:tag>
+    <s:tag>gender_men</s:tag>
+    <s:tag>TYPE_Eau de Parfum spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6737549164677</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>1000011592</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6737549099141</id>
+    <published>2022-10-11T13:03:47-04:00</published>
+    <updated>2022-10-11T13:03:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/citizen-jack-absolute-eau-de-parfum-spray-for-men-by-michael-malul"/>
+    <title>Citizen Jack Absolute Eau De Parfum Spray For Men By Michael Malul</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Michael Malul</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/CitizenJackAbsolute_745178710374_MML_SET.jpg?v=1673555715"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michael Malul<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+Citizen Jack Absolute Eau de Parfum Spray for Men by Michael Malul is a captivating fragrance that exudes sophistication and masculinity, with its rich and bold notes creating an irresistible and confident scent that leaves a lasting impression.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>BRAND_Michael Malul</s:tag>
+    <s:tag>gender_men</s:tag>
+    <s:tag>TYPE_Eau de Parfum spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6737549099141</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000009270</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

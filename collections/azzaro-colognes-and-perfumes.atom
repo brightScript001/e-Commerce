@@ -1,0 +1,1064 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumania.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumania.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumania.com/collections/azzaro-colognes-and-perfumes.atom"/>
+  <title>Perfumania</title>
+  <updated>2024-03-27T09:18:29-04:00</updated>
+  <author>
+    <name>Perfumania</name>
+  </author>
+  <entry>
+    <id>https://perfumania.com/products/6911193153669</id>
+    <published>2024-03-27T09:18:29-04:00</published>
+    <updated>2024-03-27T09:18:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/copy-of-wanted-by-night-by-loris-azzaro-for-men-eau-de-parfum-spray-1"/>
+    <title>Chrome Eau De Parfum Spray for Men by Azzaro</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Loris Azzaro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/chromeedp.jpg?v=1711545496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Loris Azzaro<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            94.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Loris Azzaro.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Loris Azzaro</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6911193153669</id>
+      <title>3.3 oz.</title>
+      <s:price currency="USD">94.95</s:price>
+      <s:sku>1000013824</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6911198593157</id>
+    <published>2024-03-15T13:25:41-04:00</published>
+    <updated>2024-03-15T13:25:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/copy-of-wanted-by-night-by-loris-azzaro-for-men-eau-de-parfum-spray-2"/>
+    <title>Wanted Eau De Parfum Spray for Men by Azzaro</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Loris Azzaro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/Azzaro_Wanted.jpg?v=1710523540"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Loris Azzaro<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            91.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Loris Azzaro.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Loris Azzaro</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6911198593157</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">91.95</s:price>
+      <s:sku>1000013774</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6911184470149</id>
+    <published>2024-03-15T13:22:18-04:00</published>
+    <updated>2024-03-15T13:22:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/copy-of-wanted-by-night-by-loris-azzaro-for-men-eau-de-parfum-spray"/>
+    <title>The Most Wanted Eau De Parfum Intense Spray for Men by Azzaro</title>
+    <s:type>Eau De Parfum Intense Spray</s:type>
+    <s:vendor>Loris Azzaro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/Azzaro_Most_Wanted.jpg?v=1710523462"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Loris Azzaro<br>
+        <strong>Type: </strong>Eau De Parfum Intense Spray<br>
+        <strong>Price: </strong>
+            94.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Loris Azzaro.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Loris Azzaro</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>TYPE_Eau De Parfum Intense Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6911184470149</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">94.95</s:price>
+      <s:sku>1000013763</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6927834939525</id>
+    <published>2024-03-06T09:01:26-05:00</published>
+    <updated>2024-03-06T09:01:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/copy-of-azzaro-the-most-wanted-eau-de-parfum-intense-spray-for-men-by-azzaro"/>
+    <title>The Most Wanted Parfum Spray for Men by Azzaro</title>
+    <s:type>Parfum Spray</s:type>
+    <s:vendor>Azzaro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/azzparfum.webp?v=1710163657"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azzaro<br>
+        <strong>Type: </strong>Parfum Spray<br>
+        <strong>Price: </strong>
+            97.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Loris Azzaro.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Loris Azzaro</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>TYPE_Parfum spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6927834939525</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">97.95</s:price>
+      <s:sku>1000013762</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6817843970181</id>
+    <published>2023-04-27T09:20:09-04:00</published>
+    <updated>2023-04-27T09:20:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/wanted-tonic-eau-de-toilette-spray-for-men-by-azzaro"/>
+    <title>Wanted Tonic  Eau De Toilette Spray for Men by Azzaro</title>
+    <s:type></s:type>
+    <s:vendor>Azzaro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/I0115306larger.jpg?v=1682601611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azzaro<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            48.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Launched by the design house of Azzaro. This woody spicy fragrance has a blend of lime, ginger, patchouli, bergamot, amber and vanilla. It is recommended for casual wear and it has long lasting fragrance.
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>bndlvarid-40197553455237</s:tag>
+    <s:tag>BRAND_Azzaro</s:tag>
+    <s:tag>bundle-2-for-75</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>TYPE_Eau De Toilette Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6817843970181</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">48.95</s:price>
+      <s:sku>1000013269</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6603951636613</id>
+    <published>2021-09-08T12:18:04-04:00</published>
+    <updated>2021-09-08T12:18:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/mademoiselle-leau-tres-charmante-by-azzaro-for-women-edt-spray"/>
+    <title>Mademoiselle Leau Tres Charmante by Azzaro for Women - EDT Spray</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Azzaro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0117235larger.jpg?v=1631117885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azzaro<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            33.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the designer house of Azzaro in the year 2019. This fragrance has blend of Grapes and Black Currant, Peony and Pear, Musk and Sandalwood.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>9.8</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Azzaro</s:tag>
+    <s:tag>GENDER_ women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_ Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6603951636613</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>1000012451</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6584030888069</id>
+    <published>2021-07-06T16:26:16-04:00</published>
+    <updated>2021-07-06T16:26:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/mademoiselle-leau-tres-belle-by-azzaro-for-women-edt-spray"/>
+    <title>Mademoiselle Leau Tres Belle by Azzaro for Women -  EDT Spray</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Azzaro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0115307larger.jpg?v=1625603177"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azzaro<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            33.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Azzaro. This fragrance has a blend of blueberry, rose, macaroon, bergamot, amber, vanilla and sandalwood. It is recommended for casual wear and it has long lasting fragrance.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>7.1</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Azzaro</s:tag>
+    <s:tag>Gender_women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6584030888069</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>1000011987</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6579957825669</id>
+    <published>2021-06-17T08:52:18-04:00</published>
+    <updated>2021-06-17T08:52:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/azzaro-wanted-by-azzaro-for-men-2-pc-gift-set"/>
+    <title>Azzaro Wanted by Azzaro for Men - 2 Pc Gift Set</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Azzaro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0114100larger.jpg?v=1623934339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azzaro<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            51.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Azzaro Wanted is a fragrance of pure seduction. This creation plays with both warm, woody notes and fresh, spicy aromas. Head notes of lemon, ginger, lavender, mint Heart notes of Guatemalan cardamom, juniper, apple, geranium. Azzaro Wanted by Azzaro for Men - 2 Pc Gift Set 3.4oz EDT Spray, 3.4oz Hair and Body Shampoo</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>Bogo-ignore</s:tag>
+    <s:tag>BRAND_Azzaro</s:tag>
+    <s:tag>gender_men</s:tag>
+    <s:tag>gift-set</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Gift Set</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6579957825669</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">51.95</s:price>
+      <s:sku>1000011777</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6579957170309</id>
+    <published>2021-06-17T08:51:49-04:00</published>
+    <updated>2021-06-17T08:51:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/wanted-by-night-by-azzaro-for-men-2-pc-gift-set"/>
+    <title>Wanted By Night by Azzaro for Men - 2 Pc Gift Set</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Azzaro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0113438larger.jpg?v=1623934311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azzaro<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            51.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Loris Azzaro in the year 2016. This woody spicy fragrance has a blend of lemon, ginger, lavender, mint, guatemalan cardamom, juniper, apple, geranium, haitian vetiver, tonka bean, and amberwood. Wanted By Night by Azzaro for Men - 2 Pc Gift Set 3.4oz EDP Spray, 0.5oz EDP Spray</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>Bogo-ignore</s:tag>
+    <s:tag>BRAND_Azzaro</s:tag>
+    <s:tag>gender_men</s:tag>
+    <s:tag>gift-set</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Gift Set</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6579957170309</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">51.95</s:price>
+      <s:sku>1000011755</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6579956056197</id>
+    <published>2021-06-17T08:51:02-04:00</published>
+    <updated>2021-06-17T08:51:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/azzaro-pour-homme-by-azzaro-for-men-2-pc-gift-set"/>
+    <title>Azzaro Pour Homme by Azzaro for Men - 2 Pc Gift Set</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Azzaro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/M-GS-3197larger.jpg?v=1623934264"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azzaro<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            43.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Loris Azzaro. This aromatic fougere fragrance has a blend of iris, basil, lemon, vetiver, ceder, amber, anise, caraway, tonka bean, and sandalwood. Azzaro Pour Homme by Azzaro for Men - 2 Pc Gift Set 3.4oz EDT Spray 2.2oz Deodorant Stick</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>Bogo-ignore</s:tag>
+    <s:tag>BRAND_Azzaro</s:tag>
+    <s:tag>gender_men</s:tag>
+    <s:tag>gift-set</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Gift Set</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6579956056197</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">43.95</s:price>
+      <s:sku>1000011706</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467080462469</id>
+    <published>2021-04-22T12:42:41-04:00</published>
+    <updated>2021-04-22T12:42:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/chrome-pure-eau-de-toilette-spray-for-men-by-azzaro"/>
+    <title>Chrome Pure Eau de Toilette Spray for Men by Azzaro</title>
+    <s:type>Eau de Parfum</s:type>
+    <s:vendor>Azzaro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Azzaro-Chrome-Pure-Men-Eau-de-Toilette-1.7-Best-Price-Fragrance-Parfume-FragranceOutlet.com-details.jpg?v=1579128167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azzaro<br>
+        <strong>Type: </strong>Eau de Parfum<br>
+        <strong>Price: </strong>
+            49.95 - 64.95
+            <a href="https://perfumania.com/products/chrome-pure-eau-de-toilette-spray-for-men-by-azzaro">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Chrome Pure Eau de Toilette Spray for Men by Azzaro is a refreshing and invigorating fragrance designed to embody the spirit of modern masculinity. This captivating scent opens with a burst of citrusy notes, including bergamot and mandarin, which provide a vibrant and energetic start. The heart of the fragrance reveals aromatic and woody accords, such as akigalawood and mate, adding depth and complexity. The base notes of tonka bean and musk provide a warm and sensual foundation. Chrome Pure is a sophisticated and timeless fragrance that exudes confidence and charm, making it the perfect choice for the modern man.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>BRAND_Azzaro</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Parfum</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467080462469</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>1000004612</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467080462469</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">64.95</s:price>
+      <s:sku>1000004613</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467076530309</id>
+    <published>2021-04-08T19:20:39-04:00</published>
+    <updated>2021-04-08T19:20:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/azzaro-pour-homme-night-time-by-loris-azzaro-for-men-eau-de-toilette-edt-s"/>
+    <title>Azzaro Pour Homme Night Time by Loris Azzaro for Men - Eau de Toilette</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Azzaro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/M-4128larger.jpg?v=1579128050"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azzaro<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            33.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by Loris Azzaro in the year 1978. This refreshing spicy fragrance features a blend of wood, musk, lavender, basil, and sandalwood. It is recommended for office wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>BRAND_Azzaro</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467076530309</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>1000000557</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467081314437</id>
+    <published>2021-03-21T23:01:40-04:00</published>
+    <updated>2021-03-21T23:01:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/silver-black-by-loris-azzaro-for-men-eau-de-toilette-spray"/>
+    <title>Silver Black by Loris Azzaro for Men -  Eau De Toilette Spray</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Azzaro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/M-2228larger.jpg?v=1579128183"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azzaro<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Loris Azzaro in the year 2005. This woody aromatic fragrance has a blend of lime, apple, anise, bergamot, coriander, juniper, cardamom, sandalwood, patchouli, vetiver, and white musk.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>bndlvarid-31839515869317</s:tag>
+    <s:tag>BRAND_Azzaro</s:tag>
+    <s:tag>bundle-2-for-75</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467081314437</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>212041267</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5236836991109</id>
+    <published>2021-01-15T11:56:57-05:00</published>
+    <updated>2021-01-15T11:56:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/wanted-girl-by-azzaro-for-women-eau-de-parfum-spray"/>
+    <title>Wanted Girl by Azzaro for Women - Eau De Parfum Spray</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Azzaro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0113722larger.jpg?v=1610729818"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azzaro<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            45.95 - 75.95
+            <a href="https://perfumania.com/products/wanted-girl-by-azzaro-for-women-eau-de-parfum-spray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Azzaro in the year of 2019. This Oriental Floral fragrance has a blend of Orange Blossom, Ginger flower, Pomegranate, Pink Pepper, Tonka Bean, Patchouli and Haitian Vetiver.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>1.15</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Azzaro</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5236836991109</id>
+      <title>1  oz.</title>
+      <s:price currency="USD">45.95</s:price>
+      <s:sku>1000011320</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/5236836991109</id>
+      <title>2.7 oz.</title>
+      <s:price currency="USD">75.95</s:price>
+      <s:sku>1000012385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5181525065861</id>
+    <published>2021-01-07T23:49:42-05:00</published>
+    <updated>2021-01-07T23:49:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/wanted-by-night-by-loris-azzaro-for-men-eau-de-parfum-spray"/>
+    <title>Wanted by Night by Loris Azzaro for Men -  Eau De Parfum Spray</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Loris Azzaro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0092692larger.jpg?v=1602084727"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Loris Azzaro<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            36.95 - 73.95
+            <a href="https://perfumania.com/products/wanted-by-night-by-loris-azzaro-for-men-eau-de-parfum-spray">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Loris Azzaro.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>10.7</s:tag>
+    <s:tag>BRAND_Loris Azzaro</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5181525065861</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">36.95</s:price>
+      <s:sku>1000011351</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/5181525065861</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">73.95</s:price>
+      <s:sku>205935</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/5181525065861</id>
+      <title>5.1 oz.</title>
+      <s:price currency="USD">60.95</s:price>
+      <s:sku>1000012596</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5181523525765</id>
+    <published>2020-10-07T11:30:58-04:00</published>
+    <updated>2020-10-07T11:30:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/chrome-sport-by-azzaro-for-men-eau-de-toilette-spray"/>
+    <title>Chrome Sport by Azzaro for Men -  Eau De Toilette Spray</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Azzaro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/M-3720larger.jpg?v=1602084659"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azzaro<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            28.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Loris Azzaro in the year 2010. This woody aquatic fragrance has a blend of citron, bergamot, grapefruit, bitter orange, aquatic notes, ginger, cedar, amber, and white musk.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>10.7</s:tag>
+    <s:tag>BRAND_Azzaro</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau De Toilette Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5181523525765</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">28.95</s:price>
+      <s:sku>212184357</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/5172613841029</id>
+    <published>2020-09-16T15:53:22-04:00</published>
+    <updated>2020-09-16T15:53:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/naughty-leather-by-azzaro-for-men-eau-de-toilette-spray"/>
+    <title>Naughty Leather by Azzaro for Men -  Eau de Toilette Spray</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Azzaro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0100689larger.jpg?v=1600286003"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azzaro<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            32.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Launched by the design house of Azzaro in the year 2018. This leather fragrance has a blend of artemisia, leather, vetiver and vanilla. It is recommended for casual wear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>9.9</s:tag>
+    <s:tag>bogo-ignore</s:tag>
+    <s:tag>BRAND_Azzaro</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>online-only-item</s:tag>
+    <s:tag>TYPE_Eau De Toilette Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/5172613841029</id>
+      <title>3.4  oz.</title>
+      <s:price currency="USD">32.95</s:price>
+      <s:sku>1000009717</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467035177093</id>
+    <published>2020-07-28T07:03:08-04:00</published>
+    <updated>2020-07-28T07:03:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/azzaro-wanted-cologne-eau-de-toilette-for-men"/>
+    <title>Wanted For Men By Azzaro Eau De Toilette Spray</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Azzaro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Azzaro-Azzaro-Wanted-Men-Eau-de-Toilette-Spray-Best-Price-Fragrance-Parfume-FragranceOutlet.com-DETAILS.jpg?v=1580845156"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azzaro<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            55.95 - 97.95
+            <a href="https://perfumania.com/products/azzaro-wanted-cologne-eau-de-toilette-for-men">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Azzaro Wanted cologne screams rebel in every aspect, whether scent or presentation. The bottle resembles a shiny gun cylinder, designed for the man who is "wanted". He is a free spirit who does as he pleases, and lets no one dictate his life. The eau de toilette has woody, spicy and citrus notes, with a fresh yet sensual fragrance. The nose behind this scent is Fabrice Pellegrin.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Azzaro</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau De Toilette Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467035177093</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">55.95</s:price>
+      <s:sku>1000002633</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467035177093</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">73.95</s:price>
+      <s:sku>1000002392</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467035177093</id>
+      <title>5.1 oz.</title>
+      <s:price currency="USD">97.95</s:price>
+      <s:sku>1000004582</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4467065454725</id>
+    <published>2020-07-06T23:01:20-04:00</published>
+    <updated>2020-07-06T23:01:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/chrome-intense-eau-de-toilette-spray-for-men-by-azzaro"/>
+    <title>Chrome Intense Eau de Toilette Spray for Men by Azzaro</title>
+    <s:type>Eau de Toilette</s:type>
+    <s:vendor>Azzaro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Azzaro-Chrome-Intense-Men-Eau-de-Toilette-3.4-Best-Price-Fragrance-Parfume-FragranceOutlet.com-DETAILS.jpg?v=1579127827"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azzaro<br>
+        <strong>Type: </strong>Eau de Toilette<br>
+        <strong>Price: </strong>
+            49.95 - 64.95
+            <a href="https://perfumania.com/products/chrome-intense-eau-de-toilette-spray-for-men-by-azzaro">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Launched by the design house of Azzaro in the year 2015. This masculine fragrance has a blend of bergamot, grapefruit, jasmine water, lichen, mate, amber and musk notes.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>bndlvarid-31839477956741</s:tag>
+    <s:tag>BRAND_Azzaro</s:tag>
+    <s:tag>bundle-2-for-75</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4467065454725</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>1000004580</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4467065454725</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">64.95</s:price>
+      <s:sku>1000004581</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466928910469</id>
+    <published>2020-05-19T19:47:57-04:00</published>
+    <updated>2020-05-19T19:47:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/azzaro-chrome-legend-mens-eau-de-toilette-spray"/>
+    <title>Chrome Legend Eau De Toilette Spray for Men by Azzaro</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Azzaro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/chrome_legend.jpg?v=1579723837"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azzaro<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            18.99 - 53.95
+            <a href="https://perfumania.com/products/azzaro-chrome-legend-mens-eau-de-toilette-spray">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Chrome Legend is a clean, fresh and soapy fragrance for men, which lasts throughout the day with just a few pumps of spray. It is a great daytime or work fragrance and is especially preferred as a summer scent.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>BRAND_Azzaro</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau De Toilette Spray</s:tag>
+    <s:tag>UNDER $25</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466928910469</id>
+      <title>1.4 oz.</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>212184253</s:sku>
+      <s:grams>399</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466928910469</id>
+      <title>2.6 oz.</title>
+      <s:price currency="USD">43.95</s:price>
+      <s:sku>212184255</s:sku>
+      <s:grams>399</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466928910469</id>
+      <title>4.2 oz.</title>
+      <s:price currency="USD">53.95</s:price>
+      <s:sku>212184259</s:sku>
+      <s:grams>726</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466928648325</id>
+    <published>2017-03-15T08:38:21-04:00</published>
+    <updated>2017-03-15T08:38:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/azzaro-azzaro-mens-eau-de-toilette-spray"/>
+    <title>Azzaro For Men By Azzaro Eau De Toilette Spray</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Azzaro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Azzaro-Azzaro-Mens-Eau-de-Toilette-EDT-S-1.0-oz.-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1580828249"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azzaro<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            34.99 - 72.95
+            <a href="https://perfumania.com/products/azzaro-azzaro-mens-eau-de-toilette-spray">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Azzaro Pour Homme Night Time for men was created by Michel Girard and Christophe Raynaud belonging to the house of Givaudan. The fragrance is ideal for night time and formal wear and comes in a small bottle designed in colors of gray and black.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>bndlvarid-31838648205445</s:tag>
+    <s:tag>BRAND_Azzaro</s:tag>
+    <s:tag>bundle-2-for-75</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau de Toilette</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466928648325</id>
+      <title>1.0 oz.</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>212041152</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466928648325</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">38.95</s:price>
+      <s:sku>212041153</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466928648325</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">57.95</s:price>
+      <s:sku>212041157</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466928648325</id>
+      <title>6.8 oz.</title>
+      <s:price currency="USD">72.95</s:price>
+      <s:sku>1000000548</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/4466929270917</id>
+    <published>2017-03-15T08:38:19-04:00</published>
+    <updated>2017-03-15T08:38:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/azzaro-chrome-cologne-for-men-eau-de-toilette"/>
+    <title>Chrome Eau de Toilette Spray for Men by Azzaro</title>
+    <s:type>Eau De Toilette Spray</s:type>
+    <s:vendor>Azzaro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Azzaro-Chrome-Mens-Eau-de-Toilette-Spray-6.8-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Details.jpg?v=1580828154"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azzaro<br>
+        <strong>Type: </strong>Eau De Toilette Spray<br>
+        <strong>Price: </strong>
+            36.95 - 94.95
+            <a href="https://perfumania.com/products/azzaro-chrome-cologne-for-men-eau-de-toilette">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Louis Azzaro created chrome cologne for men and the scent is suggestive of fruit trees and moist grassy fields. Azzaro Chrome cologne has been deemed ideal for daytime and casual wear as it keeps you smelling fresh and clean throughout the day.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$25 to $50</s:tag>
+    <s:tag>$50 to $75</s:tag>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>BRAND_Azzaro</s:tag>
+    <s:tag>fresh-notes</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>instore-item</s:tag>
+    <s:tag>TYPE_Eau De Toilette Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/4466929270917</id>
+      <title>1.0 oz.</title>
+      <s:price currency="USD">36.95</s:price>
+      <s:sku>212184152</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466929270917</id>
+      <title>1.7 oz.</title>
+      <s:price currency="USD">63.95</s:price>
+      <s:sku>212184153</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466929270917</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">76.95</s:price>
+      <s:sku>212184157</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466929270917</id>
+      <title>3.3 oz. Tester</title>
+      <s:price currency="USD">71.95</s:price>
+      <s:sku>414184157</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://perfumania.com/products/4466929270917</id>
+      <title>6.8 oz.</title>
+      <s:price currency="USD">94.95</s:price>
+      <s:sku>212184160</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+</feed>

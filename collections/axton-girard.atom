@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://perfumania.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://perfumania.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://perfumania.com/collections/axton-girard.atom"/>
+  <title>Perfumania</title>
+  <updated>2023-08-28T09:51:01-04:00</updated>
+  <author>
+    <name>Perfumania</name>
+  </author>
+  <entry>
+    <id>https://perfumania.com/products/6845817127045</id>
+    <published>2023-08-28T09:51:01-04:00</published>
+    <updated>2023-08-28T09:51:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/axton-girard-deep-brown-eau-de-parfum-spray-for-men"/>
+    <title>Axton Girard Deep Brown Eau De Parfum Spray for Men</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Axton Girard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/axtondeepbrown.png?v=1693230575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Axton Girard<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-size: 0.875rem;"><span data-mce-fragment="1"><b><i>"Deep Brown" </i></b>evokes the mystical brown tones of the masculinity aura. Divine incense emerges with dried apricots fluttering alongside ambery rum and cinnamon, taking us back to a singular magnetism exalted by blond tobacco and leather. All these scents reflect the different overtones of the richness of the brown color through this singular and long-lasting fragrance.</span></span></p>
+<p><span style="font-size: 0.875rem;">It is a Woody Fruity perfume.</span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>brand_housebrand</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>proprietary</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6845817127045</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000013238</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6845816406149</id>
+    <published>2023-08-28T09:47:33-04:00</published>
+    <updated>2023-08-28T09:47:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/axton-girard-brilliant-blue-eau-de-parfum-spray-for-men"/>
+    <title>Axton Girard Brilliant Blue Eau De Parfum Spray for Men</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Axton Girard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/brilliantaxton.png?v=1693230446"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Axton Girard<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="ewa-rteLine">Fall under the charm of <em><strong>"Brillant Blue,"</strong></em> the perfect fougere that makes you see life in blue. This vivifying fragrance is an encounter of sparkling citrus and aromatic bouquet where distinguished lavender is magnified by majestic iris venturing together into a sensual woody base of vetiver patchouli and moss, revealing a deeply masculine and timeless trail.</div>
+<div class="ewa-rteLine"></div>
+<p><span style="font-size: 0.875rem;">It is a Citrus Woody perfume.</span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>brand_housebrand</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>proprietary</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6845816406149</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000013236</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6845818634373</id>
+    <published>2023-08-28T09:46:08-04:00</published>
+    <updated>2023-08-28T09:46:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/axton-girard-elegant-leather-eau-de-parfum-spray-for-men"/>
+    <title>Axton Girard Elegant Leather Eau de Parfum Spray for Men</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Axton Girard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/elegantleather.png?v=1693229485"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Axton Girard<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><em><strong>"Elegant Leather"</strong></em> is an intensely captivating fragrance where leather and woods intertwine uncompromisingly. Opening with a fresh touch of bergamot and juicy fruit, it reveals the sophisticated softness of lavender before falling into the deep notes of sandalwood, cedarwood, and vetiver that enhance the sensuality and elegance of the leather.</span></p>
+<p><span>It is a Woody Aromatic perfume.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>brand_housebrand</s:tag>
+    <s:tag>GENDER_Men</s:tag>
+    <s:tag>proprietary</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6845818634373</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000013237</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6836349304965</id>
+    <published>2023-07-26T08:47:25-04:00</published>
+    <updated>2023-07-26T08:47:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/axton-girard-seduction-eau-de-parfum-spray-for-women"/>
+    <title>Axton Girard Seduction Eau De Parfum Spray for Women</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Axton Girard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/axton_girard_seduction.jpg?v=1691180760"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Axton Girard<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Introducing <em><strong>"Seduction,"</strong></em> a captivating fragrance of love and sensuality. At heart, rose and jasmine transport you to a blossoming garden embraced by the juicy exquisite red berries, adding a touch of passion to the floral symphony. As the flowers bloom, a warm and sensual base emerges, composed of velvety sandalwood, precious amber, and subtle vanilla caressed by the softness of musks, revealing the essence of sweet temptation.</span></p>
+<p><span>It is a Floral, Woody perfume.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>brand_housebrand</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>proprietary</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6836349304965</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000013240</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6836350025861</id>
+    <published>2023-07-26T08:47:14-04:00</published>
+    <updated>2023-07-26T08:47:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/axton-girard-midnight-eau-de-parfum-spray-for-women"/>
+    <title>Axton Girard Midnight Eau De Parfum Spray for Women</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Axton Girard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/axton_girard_midnight.jpg?v=1691180468"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Axton Girard<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="ewa-rteLine">
+<em><strong>"Midnight"</strong></em> transports you to the enchanting world of a moonlit garden. This</div>
+<div class="ewa-rteLine">exquisite scent opens with ozonic and citrus notes, releasing the freshness of the night. Night-blooming jasmine intertwines with the sensuality of rose, revealing the captivating scent of flowers. As the midnight hour deepens, a hint of patchouli and musk envelops the fragrance, leaving a lingering, mystical trail of midnight blooms.</div>
+<div class="ewa-rteLine"></div>
+<p><span>It is a Floral Musk perfume.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>brand_housebrand</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6836350025861</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000013241</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://perfumania.com/products/6836360544389</id>
+    <published>2023-07-26T08:47:04-04:00</published>
+    <updated>2023-07-26T08:47:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://perfumania.com/products/axton-girard-rendez-vous-eau-de-parfum-spray-for-women"/>
+    <title>Axton Girard Rendez-Vous Eau De Parfum Spray for Women</title>
+    <s:type>Eau De Parfum Spray</s:type>
+    <s:vendor>Axton Girard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0269/7763/2389/files/axton_girard_rendez-vous.jpg?v=1691180496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Axton Girard<br>
+        <strong>Type: </strong>Eau De Parfum Spray<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><em><strong>"Rendez Vous"</strong></em> is a fragrance that captures the purity and grace of white flowers, enveloping you in a radiant aura of femininity. The top notes open with a burst of fruity freshness, where blackcurrant, pear, and citrus enliven the enchanting blooms at the heart. The captivating scent of orange blossom intertwines with bold jasmine, enhanced by emerging hints of vanilla and raspberry, combined with woods, creating a harmonious blend that is both delicate and alluring.</span></p>
+<p><span>It is a Floral Fruity perfume.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$75 to $100</s:tag>
+    <s:tag>bogo-discount</s:tag>
+    <s:tag>brand_housebrand</s:tag>
+    <s:tag>GENDER_Women</s:tag>
+    <s:tag>proprietary</s:tag>
+    <s:tag>TYPE_Eau De Parfum Spray</s:tag>
+    <s:variant>
+      <id>https://perfumania.com/products/6836360544389</id>
+      <title>3.4 oz.</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>1000013239</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
